@@ -6,7 +6,7 @@ pages:
 
 - Index: index.md
 
-- Course: course.md
+# - Course: course.md
 
 - Assignment: 
     - 2018_0604-0609 6月第一周: assignment/2018-0604-0609.md  
@@ -49,17 +49,17 @@ pages:
 - Listen:
     - 老托: listen/old.md
 
-- Word:
-    - 短语: word/phrase.md
-    - Geology: word/geology.md 
-    - Chemistry: word/chemistry.md 
-    - Biology: word/biology.md 
-    - Phychology: word/phychology.md 
-    - Ecology: word/ecology.md 
-    - History: word/history.md 
-    - Art: word/art.md
-    
-- Search: search.md
+# - Word:
+#     - 短语: word/phrase.md
+#     - Geology: word/geology.md 
+#     - Chemistry: word/chemistry.md 
+#     - Biology: word/biology.md 
+#     - Phychology: word/phychology.md 
+#     - Ecology: word/ecology.md 
+#     - History: word/history.md 
+#     - Art: word/art.md
+
+# - Search: search.md
 
 
 markdown_extensions:
