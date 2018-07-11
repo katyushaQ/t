@@ -1,0 +1,90 @@
+theme: material
+
+site_name: T
+
+pages:
+
+- Index: index.md
+
+- Course: course.md
+
+- Assignment: 
+    - 2018_0604-0609 6月第一周: assignment/2018-0604-0609.md  
+    - 2018_0611-0615 6月第二周: assignment/2018-0611-0615.md  
+    - 2018_0618-0624 6月第三周: assignment/2018-0618-0624.md  
+    - 2018_0625-0630 6月第四周: assignment/2018-0625-0630.md  
+    - 2018_0702-0708 7月第一周: assignment/2018-0702-0708.md
+    - 2018_0709-0715 7月第二周: assignment/2018-0709-0715.md
+    
+- Read: 
+    - Policy: read/policy.md
+    - Sentence: read/sentence.md
+    - Question: question.md
+    - Detail: read/detail.md
+    - Negation: read/negation.md
+    - Inference: read/inference.md
+    - 2-3 Early Cinema: read/2-3.md
+    - 3-1 Architecture: read/3-1.md
+    - 3-2 Depletion of the Ogallala Aquifer: read/3-2.md
+    - 3-3 The Long-Term Stability of Ecosystems: read/3-3.md
+    - 4-1 The Cave Art in Europe: read/4-2.md
+    - 4-2 Deer Populations of the Puget Sound: read/4-1.md
+    - 4-3 Petroleum Resources: read/4-3.md
+    
+- Write: 
+    - Policy: write/policy.md
+    - Sentence: write/sentence.md
+    - Education: write/education.md
+    - Technology: write/technology.md
+    - Family: write/family.md
+    - Work: write/work.md
+    - Environment: write/environment.md
+    - 32-Integrated: write/32-Integrated.md
+    
+- Speak:
+    - Task 3: speak/task3.md
+    - Task 4: speak/task4.md
+    - Task 5: speak/task5.md        
+    
+- Listen:
+    - 老托: listen/old.md
+
+- Word:
+    - 短语: word/phrase.md
+    - Geology: word/geology.md 
+    - Chemistry: word/chemistry.md 
+    - Biology: word/biology.md 
+    - Phychology: word/phychology.md 
+    - Ecology: word/ecology.md 
+    - History: word/history.md 
+    - Art: word/art.md
+    
+- Search: search.md
+
+
+markdown_extensions:
+    - admonition
+    - codehilite(guess_lang=false,linenums=false)
+    - toc(permalink=true)
+    - footnotes
+    - meta
+    - def_list
+    - pymdownx.arithmatex
+    - pymdownx.betterem(smart_enable=all)
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:pymdownx.emoji.to_png
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist
+    - pymdownx.tilde
+
+extra:
+    palette:
+    primary: Grey
+    accent: Purple
