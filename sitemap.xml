@@ -10,14 +10,6 @@
     
 
     
-    <url>
-     <loc>/course/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
         
     <url>
      <loc>/assignment/2018-0604-0609/</loc>
@@ -221,66 +213,6 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-        
-    <url>
-     <loc>/word/phrase/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/geology/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/chemistry/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/biology/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/phychology/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/ecology/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/history/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/word/art/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>/search/</loc>
-     <lastmod>2018-07-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
     
 
 </urlset>
