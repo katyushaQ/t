@@ -1,0 +1,1800 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.3">
+    
+    
+      
+        <title>Inference - T</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.8d40d89b.css">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#2018-07-09" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="T" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                T
+              </span>
+              <span class="md-header-nav__topic">
+                Inference
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    T
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../course/" title="Course" class="md-nav__link">
+      Course
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Assignment
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Assignment
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0604-0609/" title="2018_0604-0609 6月第一周" class="md-nav__link">
+      2018_0604-0609 6月第一周
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0611-0615/" title="2018_0611-0615 6月第二周" class="md-nav__link">
+      2018_0611-0615 6月第二周
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0618-0624/" title="2018_0618-0624 6月第三周" class="md-nav__link">
+      2018_0618-0624 6月第三周
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0625-0630/" title="2018_0625-0630 6月第四周" class="md-nav__link">
+      2018_0625-0630 6月第四周
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0702-0708/" title="2018_0702-0708 7月第一周" class="md-nav__link">
+      2018_0702-0708 7月第一周
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../assignment/2018-0709-0715/" title="2018_0709-0715 7月第二周" class="md-nav__link">
+      2018_0709-0715 7月第二周
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    
+    <label class="md-nav__link" for="nav-4">
+      Read
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Read
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../policy/" title="Policy" class="md-nav__link">
+      Policy
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sentence/" title="Sentence" class="md-nav__link">
+      Sentence
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../question/" title="Question" class="md-nav__link">
+      Question
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../detail/" title="Detail" class="md-nav__link">
+      Detail
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../negation/" title="Negation" class="md-nav__link">
+      Negation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Inference
+      </label>
+    
+    <a href="./" title="Inference" class="md-nav__link md-nav__link--active">
+      Inference
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-09" title="2018-07-09" class="md-nav__link">
+    2018-07-09
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1" title="1." class="md-nav__link">
+    1.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2" title="2." class="md-nav__link">
+    2.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-10" title="2018-07-10" class="md-nav__link">
+    2018-07-10
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#3" title="3." class="md-nav__link">
+    3.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4" title="4." class="md-nav__link">
+    4.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-11" title="2018-07-11" class="md-nav__link">
+    2018-07-11
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#5" title="5." class="md-nav__link">
+    5.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6" title="6." class="md-nav__link">
+    6.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-12" title="2018-07-12" class="md-nav__link">
+    2018-07-12
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#7" title="7." class="md-nav__link">
+    7.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8" title="8." class="md-nav__link">
+    8.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-13" title="2018-07-13" class="md-nav__link">
+    2018-07-13
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#9" title="9." class="md-nav__link">
+    9.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10" title="10." class="md-nav__link">
+    10.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-15" title="2018-07-15" class="md-nav__link">
+    2018-07-15
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11" title="11." class="md-nav__link">
+    11.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12" title="12." class="md-nav__link">
+    12.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-16" title="2018-07-16" class="md-nav__link">
+    2018-07-16
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#13" title="13." class="md-nav__link">
+    13.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14" title="14." class="md-nav__link">
+    14.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-17" title="2018-07-17" class="md-nav__link">
+    2018-07-17
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#15" title="15." class="md-nav__link">
+    15.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../2-3/" title="2-3 Early Cinema" class="md-nav__link">
+      2-3 Early Cinema
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../3-1/" title="3-1 Architecture" class="md-nav__link">
+      3-1 Architecture
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../3-2/" title="3-2 Depletion of the Ogallala Aquifer" class="md-nav__link">
+      3-2 Depletion of the Ogallala Aquifer
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../3-3/" title="3-3 The Long-Term Stability of Ecosystems" class="md-nav__link">
+      3-3 The Long-Term Stability of Ecosystems
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../4-2/" title="4-1 The Cave Art in Europe" class="md-nav__link">
+      4-1 The Cave Art in Europe
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../4-1/" title="4-2 Deer Populations of the Puget Sound" class="md-nav__link">
+      4-2 Deer Populations of the Puget Sound
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../4-3/" title="4-3 Petroleum Resources" class="md-nav__link">
+      4-3 Petroleum Resources
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Write
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Write
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/policy/" title="Policy" class="md-nav__link">
+      Policy
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/sentence/" title="Sentence" class="md-nav__link">
+      Sentence
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/education/" title="Education" class="md-nav__link">
+      Education
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/technology/" title="Technology" class="md-nav__link">
+      Technology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/family/" title="Family" class="md-nav__link">
+      Family
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/environment/" title="Environment" class="md-nav__link">
+      Environment
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../write/32-Integrated/" title="32-Integrated" class="md-nav__link">
+      32-Integrated
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Speak
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Speak
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../speak/task3/" title="Task 3" class="md-nav__link">
+      Task 3
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../speak/task4/" title="Task 4" class="md-nav__link">
+      Task 4
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../speak/task5/" title="Task 5" class="md-nav__link">
+      Task 5
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Listen
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Listen
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../listen/old/" title="老托" class="md-nav__link">
+      老托
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Word
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Word
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/phrase/" title="短语" class="md-nav__link">
+      短语
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/geology/" title="Geology" class="md-nav__link">
+      Geology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/chemistry/" title="Chemistry" class="md-nav__link">
+      Chemistry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/biology/" title="Biology" class="md-nav__link">
+      Biology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/phychology/" title="Phychology" class="md-nav__link">
+      Phychology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/ecology/" title="Ecology" class="md-nav__link">
+      Ecology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/history/" title="History" class="md-nav__link">
+      History
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../word/art/" title="Art" class="md-nav__link">
+      Art
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../search/" title="Search" class="md-nav__link">
+      Search
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-09" title="2018-07-09" class="md-nav__link">
+    2018-07-09
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1" title="1." class="md-nav__link">
+    1.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2" title="2." class="md-nav__link">
+    2.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-10" title="2018-07-10" class="md-nav__link">
+    2018-07-10
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#3" title="3." class="md-nav__link">
+    3.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4" title="4." class="md-nav__link">
+    4.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-11" title="2018-07-11" class="md-nav__link">
+    2018-07-11
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#5" title="5." class="md-nav__link">
+    5.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6" title="6." class="md-nav__link">
+    6.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-12" title="2018-07-12" class="md-nav__link">
+    2018-07-12
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#7" title="7." class="md-nav__link">
+    7.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8" title="8." class="md-nav__link">
+    8.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-13" title="2018-07-13" class="md-nav__link">
+    2018-07-13
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#9" title="9." class="md-nav__link">
+    9.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10" title="10." class="md-nav__link">
+    10.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-15" title="2018-07-15" class="md-nav__link">
+    2018-07-15
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11" title="11." class="md-nav__link">
+    11.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12" title="12." class="md-nav__link">
+    12.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-16" title="2018-07-16" class="md-nav__link">
+    2018-07-16
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#13" title="13." class="md-nav__link">
+    13.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14" title="14." class="md-nav__link">
+    14.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2018-07-17" title="2018-07-17" class="md-nav__link">
+    2018-07-17
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#15" title="15." class="md-nav__link">
+    15.
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  <h1>Inference</h1>
+                
+                <h3 id="2018-07-09">2018-07-09<a class="headerlink" href="#2018-07-09" title="Permanent link">&para;</a></h3>
+<h4 id="1">1.<a class="headerlink" href="#1" title="Permanent link">&para;</a></h4>
+<p><strong><em>It</em></strong> <mark>should be</mark> <ins>obvious</ins> <strong>that cetaceans-whales, porpoises, and dolphins-are mammals</strong>.</p>
+<blockquote>
+<p>鲸鱼， 鼠海豚和海豚显然是哺乳动物</p>
+</blockquote>
+<p><strong>They</strong> <mark>breathe</mark> { through lungs, not through gills <code>方式</code>}, and <mark>give birth to</mark> <ins>live young</ins>.</p>
+<blockquote>
+<p>他们通过肺，不是通过腮呼吸，并且他们生下活的幼崽</p>
+</blockquote>
+<p><strong>Their streamlined bodies</strong>, （ the absence of hind legs ）, and <strong>the presence of a fluke and blowhole</strong> <mark>cannot disguise</mark> <ins>their affinities with land-dwelling mammals</ins>. </p>
+<blockquote>
+<p>他们流线型的身体，没有后退，并且一个偶然和呼吸孔的出现无法伪装他们与陆地居住的哺乳动物的亲密关系。</p>
+</blockquote>
+<p><em>However</em>, { unlike the cases of sea otters and pinnipeds <code>让步</code>}(seals, sea lions, and walruses, <ins class="critic">whose limbs are functional both on land and at sea</ins>), <strong><em>it</em></strong> <mark>is not</mark> <ins>easy to envision</ins> <strong>what the first whales looked like</strong>.</p>
+<blockquote>
+<p>然而，不像海洋水獭和鳍足类生物的个例一样（海豹，海狮，和海象，他们的肢在陆地和海洋都是有功用的），第一个鲸看起来像什么是不容易想象的。</p>
+</blockquote>
+<p>Extinct <em>but</em>, <strong>already fully marine cetaceans</strong> <mark>are known from</mark> <ins>the fossil record</ins>.</p>
+<blockquote>
+<p>但是绝种的，已经完全地海洋鲸鱼从化石记录中了解。</p>
+</blockquote>
+<p><strong>How</strong> <mark>was</mark> <ins>the gap</ins> <ins class="critic">between a walking mammal and a swimming whale</ins> <mark>bridged</mark>?</p>
+<blockquote>
+<p>步行哺乳动物和游鲸之间大的差别是如何弥合的？</p>
+</blockquote>
+<p><strong>Missing until recently</strong> <mark>were</mark> <ins>fossils clearly intermediate, or transitional</ins>, <ins class="critic">between land mammals and cetaceans</ins>.</p>
+<blockquote>
+<p>缺失的直到最近，化石显然是中间的或者在陆地哺乳动物和鲸之间的过度。</p>
+</blockquote>
+<hr />
+<blockquote>
+<p>It should be obvious that cetaceans-whales, porpoises, and dolphins-are mammals. <font color='LightSeaGreen'><em>（下定义，下文详细介绍）</em></font>They breathe through lungs, not through gills, and give birth to live young. Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land-dwelling mammals. <font color='LightSeaGreen'><em>（引出与陆地哺乳的关系，下文可能说区别）</em></font><font color='red'><strong>|| 转折</strong></font> <font color='Blue'><em>However</em></font>, unlike the cases of sea otters and pinnipeds (seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct <font color='Blue'><em>but</em></font>, already fully marine cetaceans are known from the fossil record. <font color='LightSeaGreen'><em>（参考传统两栖动物，对鲸形体的猜测和出处）</em></font>How was the gap between a walking mammal and a swimming whale bridged? Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. <font color='LightSeaGreen'><em>（提出与陆地哺乳差别问题，回答问题）</em></font></p>
+</blockquote>
+<div class="admonition faq">
+<p><strong>Which of the following</strong> <mark>can be inferred from</mark> <ins>paragraph 1 about early sea otters</ins>?</p>
+<blockquote>
+<p>从第一段关于早期海洋水獭推断出以下哪项？</p>
+</blockquote>
+<p><mark>A</mark>. <strong>It</strong> <mark>is not difficult to imagine</mark> <ins>what they looked like</ins></p>
+<blockquote>
+<p>很难想象他们看起来像什么</p>
+</blockquote>
+<p>B. <ins>There</ins> <mark>were</mark> <strong>great numbers of them</strong>. </p>
+<blockquote>
+<p>他们的数量很庞大</p>
+</blockquote>
+<p>C. <strong>They</strong> <mark>lived in</mark> <ins>the sea only</ins>.</p>
+<blockquote>
+<p>他们只生活在海洋中</p>
+</blockquote>
+<p>D. <strong>They</strong> <mark>did not leave</mark> <ins>many fossil remains</ins>.</p>
+<blockquote>
+<p>他们没留下许多化石残余物 </p>
+</blockquote>
+<div class="admonition failure"></div>
+</div>
+<table>
+<thead>
+<tr>
+<th>NEW WORDS</th>
+<th>NEW WORDS</th>
+<th>NEW WORDS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>otters 水獭</td>
+<td>obvious 显然的</td>
+<td>cetaceans-whales 鲸目动物-鲸</td>
+</tr>
+<tr>
+<td>dolphins-are 海豚</td>
+<td>birth 出生 n.</td>
+<td>hind 【四腿动物】后面的</td>
+</tr>
+<tr>
+<td>fluke 【非正式】侥幸，偶然，意外</td>
+<td>blowhole 【鲸、海豚等头顶的】呼吸孔</td>
+<td>disguise 装扮，假扮 v. 伪装物 n.</td>
+</tr>
+<tr>
+<td>transitional 【正式】过度，转变 n./v.</td>
+<td>affinities 喜好，共同，亲密关系</td>
+<td>dwelling 【正式】住宅</td>
+</tr>
+<tr>
+<td>pinnipeds 鳍足类的 adj. 鳍足亚目s n.</td>
+<td>seals 海豹s</td>
+<td>walruses 海象es</td>
+</tr>
+<tr>
+<td>limbs 肢，手臂，腿 s</td>
+<td>envision 想象，展望【美好的事】</td>
+<td>Extinct 灭绝的，绝种的</td>
+</tr>
+<tr>
+<td>bridged 弥合【差距】，【书面】在……上架桥，横跨</td>
+<td>Missing 缺少的</td>
+<td>intermediate 【时期】中间的，居中的</td>
+</tr>
+<tr>
+<td>clearly 毫无疑问，显然</td>
+<td>porpoises 鼠海豚</td>
+<td>give birth (to sb.) 生孩子</td>
+</tr>
+<tr>
+<td>gap 【大的】差距，差额，差别</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 id="2">2.<a class="headerlink" href="#2" title="Permanent link">&para;</a></h4>
+<p>{ Before 1815 <code>时间</code>} <strong>manufacturing</strong>  { in the United States <code>地点</code>} <mark>had been done</mark> { in homes or shops <code>地点</code>}  { by skilled artisans <code>方式</code>}.</p>
+<blockquote>
+<p>早于1815年，美国制造业在家里或者店里由熟练工匠生产。</p>
+</blockquote>
+<p>{ As master craft workers ``}, <strong>they</strong> <mark>imparted</mark> <ins>the knowledge of their trades to apprentices and journeymen</ins>.</p>
+<blockquote>
+<p>作为熟练工艺工作者，他们将他们的手艺知识传授给徒弟和熟练工。</p>
+</blockquote>
+<p>In addition, <strong>women</strong> <mark>often worked</mark> { in their homes part-time <code>抽象地点</code>}, { making finished articles from raw material supplied <code>结果</code>} { by merchant capitalists <code>方式</code>}. </p>
+<blockquote>
+<p>此外，女人们常常在家做兼职，从资本家提供的原始材料完成物品生产。</p>
+</blockquote>
+<p>【 { After 1815 <code>时间</code>} <strong>this older form of manufacturing</strong> <mark>began to give way to</mark> <ins>factories with machinery tended</ins> { by unskilled or semiskilled laborers <code>方式</code>}. 】</p>
+<blockquote>
+<p>1815年以后，制造业的这个老旧形式开始让路给由非熟练或半熟练工人的机械工厂生产。</p>
+</blockquote>
+<p><strong>Cheap transportation networks</strong>, ( the rise of cities ), and <strong>the availability of capital and credit all</strong> <mark>stimulated</mark> <ins>the shift to factory production</ins>.</p>
+<blockquote>
+<p>廉价的运输网络，城市的增加， 资本和信贷的的可获得促进转换为工厂生产。</p>
+</blockquote>
+<hr />
+<blockquote>
+<p><font color='Blue'><em>Before 1815</em></font> manufacturing in the United States had been done in homes or shops by skilled artisans. <font color='LightSeaGreen'><em>（老旧生产方式）</em></font>As master craft workers, they imparted the knowledge of their trades to apprentices and journeymen. <font color='LightSeaGreen'><em>（介绍生产者）</em></font><font color='Blue'><em>In addition</em></font>, women often worked in their homes part-time, making finished articles from raw material supplied by merchant capitalists. <font color='LightSeaGreen'><em>（通过细节更加详细介绍老旧形式）</em></font><font color='red'><strong>|| 对比</strong></font> <font color='Blue'><em>After 1815</em></font> this older form of manufacturing began to give way to factories with machinery tended by unskilled or semiskilled laborers. <font color='LightSeaGreen'><em>（引出新的生产方式）</em></font>Cheap transportation networks, the rise of cities, and the availability of capital and credit all stimulated the shift to factory production. <font color='LightSeaGreen'><em>（支持新生产方式的背景）</em></font></p>
+</blockquote>
+<div class="admonition faq">
+<p><strong>Which of the following</strong> <mark>can be inferred from</mark> <ins>the passage about articles manufactured</ins> { before 1815 <code>时间</code>}?</p>
+<blockquote>
+<p>从这段关于早于1815年物品制造能推断出以下哪个选项？</p>
+</blockquote>
+<p>A. <strong>They</strong> <mark>were primarily produced</mark> { by women <code>方式</code>}. </p>
+<blockquote>
+<p>他们主要由女人生产。</p>
+</blockquote>
+<p><del class="critic">B</del> <strong>They</strong> <mark>were generally produced</mark> <ins>in shops { rather than in homes <code>比较</code>}</ins>. </p>
+<blockquote>
+<p>他们通常在店里生产而不是在家里。</p>
+</blockquote>
+<div class="admonition failure">
+<p>看草率了，女人们在家里兼职生产</p>
+</div>
+<p><ins class="critic">C</ins>. <strong>They</strong> <mark>were produced</mark> <ins>with more concern for quality { than for speed of production <code>比较</code>}</ins>. </p>
+<blockquote>
+<p>他们生产更关心质量而不是生产速度。</p>
+</blockquote>
+<div class="admonition failure">
+<p>虽然看的出来机器生产快，但是这道题感觉真的很需要胆量</p>
+<p>是说， 让路+非熟练工种推出来的么，give way to factories with machinery tended  by unskilled or semiskilled laborers</p>
+<p>虽然逻辑说的通，感觉还挺牵强的，只能说排除法的话，这个可以有</p>
+</div>
+<p>D. <strong>They</strong> <mark>were produced</mark> <ins>mostly in large cities with extensive transportation networks</ins>.</p>
+<blockquote>
+<p>他们主要在大城市生产，结合大规模的运输网络。</p>
+</blockquote>
+</div>
+<table>
+<thead>
+<tr>
+<th>NEW WORDS</th>
+<th>NEW WORDS</th>
+<th>NEW WORDS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>concern 担忧，关心 n.</td>
+<td>extensive 广阔的，大量的，大规模的，全面的</td>
+<td>imparted 赋予，【向某人】传授【知识、智慧】</td>
+</tr>
+<tr>
+<td>trades 【尤指需要特殊手工技巧的】行当，手艺</td>
+<td>apprentices 学徒</td>
+<td>journeymen 【技术合格但并不出色的】熟手，熟练工</td>
+</tr>
+<tr>
+<td>capitalists 资本家</td>
+<td>articles 【正式】物品，物件</td>
+<td>give way to 让路，让行</td>
+</tr>
+<tr>
+<td>stimulated 促使，促进</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="2018-07-10">2018-07-10<a class="headerlink" href="#2018-07-10" title="Permanent link">&para;</a></h3>
+<h4 id="3">3.<a class="headerlink" href="#3" title="Permanent link">&para;</a></h4>
+<p>Paragraph 2: Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, but in fact they tend to be relatively short-lived in geological terms. </p>
+<p>As a general rule, the higher a mountain is, the more recently it was formed; for example, the high mountains of the Himalayas are only about 50 million years old. </p>
+<p>Lower mountains tend to be older, and are often the eroded relics of much higher mountain chains. About 400 million years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. </p>
+<p>Today, however, the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.</p>
+<blockquote>
+<p>Paragraph 2: Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, but in fact they tend to be relatively short-lived in geological terms. As a general rule, the higher a mountain is, the more recently it was formed; for example, the high mountains of the Himalayas are only about 50 million years old. Lower mountains tend to be older, and are often the eroded relics of much higher mountain chains. About 400 million years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. Today, however, the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following can be inferred from paragraph 2 about the mountains of the Himalayas?</p>
+<p>○Their current height is not an indication of their age.</p>
+<p>○At present, they are much higher than the mountains of the Caledonian range.</p>
+<p>○They were a uniform height about 400 million years ago.</p>
+<p>○They are not as high as the Caledonian mountains were 400 million years ago.</p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="4">4.<a class="headerlink" href="#4" title="Permanent link">&para;</a></h4>
+<p>Paragraph 10: The extreme seriousness of desertification results from the vast areas of land and the tremendous numbers of people affected, as well as from the great difficulty of reversing or even slowing the process. </p>
+<p>Once the soil has been removed by erosion, only the passage of centuries or millennia will enable new soil to form. </p>
+<p>In areas where considerable soil still remains, though, a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.</p>
+<blockquote>
+<p>Paragraph 10: The extreme seriousness of desertification results from the vast areas of land and the tremendous numbers of people affected, as well as from the great difficulty of reversing or even slowing the process. Once the soil has been removed by erosion, only the passage of centuries or millennia will enable new soil to form. In areas where considerable soil still remains, though, a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.</p>
+</blockquote>
+<div class="admonition faq">
+<p>It can be inferred from the passage that the author most likely believes which of the following about the future of desertification? </p>
+<p>○Governments will act quickly to control further desertification. </p>
+<p>○The factors influencing desertification occur in cycles and will change in the future. </p>
+<p>○Desertification will continue to increase. </p>
+<p>○Desertification will soon occur in all areas of the world. </p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-11">2018-07-11<a class="headerlink" href="#2018-07-11" title="Permanent link">&para;</a></h3>
+<h4 id="5">5.<a class="headerlink" href="#5" title="Permanent link">&para;</a></h4>
+<p>Paragraph 1: Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. </p>
+<p>By far the most abundant type of groundwater is meteoric water; this is the groundwater that circulates as part of the water cycle. </p>
+<p>Ordinary meteoric water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. </p>
+<p>There it remains, sometimes for long periods, before emerging at the surface again. </p>
+<p>At first thought it seems incredible that there can be enough space in the “solid” ground underfoot to hold all this water.         </p>
+<blockquote>
+<p>Paragraph 1: Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. By far the most abundant type of groundwater is meteoric water; this is the groundwater that circulates as part of the water cycle. Ordinary meteoric water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. There it remains, sometimes for long periods, before emerging at the surface again. At first thought it seems incredible that there can be enough space in the “solid” ground underfoot to hold all this water.    </p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following can be inferred from paragraph 1 about the ground that we walk on?</p>
+<p>○It cannot hold rainwater for long periods of time.</p>
+<p>○It prevents most groundwater from circulating.</p>
+<p>○It has the capacity to store large amounts of water.</p>
+<p>○It absorbs most of the water it contains from rivers.</p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="6">6.<a class="headerlink" href="#6" title="Permanent link">&para;</a></h4>
+<p>Paragraph 1: The transition from forest to treeless tundra on a mountain slope is often a dramatic one. </p>
+<p>Within a vertical distance of just a few tens of meters, trees disappear as a life-form and are replaced by low shrubs, herbs, and grasses. </p>
+<p>This rapid zone of transition is called the upper timberline or tree line. </p>
+<p>In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.</p>
+<blockquote>
+<p>Paragraph 1: The transition from forest to treeless tundra on a mountain slope is often a dramatic one. Within a vertical distance of just a few tens of meters, trees disappear as a life-form and are replaced by low shrubs, herbs, and grasses. This rapid zone of transition is called the upper timberline or tree line. In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following can be inferred from paragraph 1 about both the upper and lower timberlines?</p>
+<p>○Both are treeless zones.</p>
+<p>○Both mark forest boundaries.</p>
+<p>○Both are surrounded by desert areas.</p>
+<p>○Both suffer from a lack of moisture.</p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-12">2018-07-12<a class="headerlink" href="#2018-07-12" title="Permanent link">&para;</a></h3>
+<h4 id="7">7.<a class="headerlink" href="#7" title="Permanent link">&para;</a></h4>
+<p>Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. </p>
+<p>But this is fair-weather feeding. </p>
+<p>What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? </p>
+<p>One compensation for not hibernating is the built-in urge to migrate. </p>
+<p>Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. </p>
+<p>Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. </p>
+<blockquote>
+<p>Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One compensation for not hibernating is the built-in urge to migrate. Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. </p>
+</blockquote>
+<div class="admonition faq">
+<p>It can be inferred from the discussion in paragraph 2 that winter conditions </p>
+<p>○ cause some deer to hibernate </p>
+<p>○ make food unavailable in the highlands for deer </p>
+<p>○ make it easier for deer to locate understory plants </p>
+<p>○ prevent deer from migrating during the winter </p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="8">8.<a class="headerlink" href="#8" title="Permanent link">&para;</a></h4>
+<p>Paragraph 2： One of the most puzzling aspects of the paintings is their location. </p>
+<p>Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. </p>
+<p>Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. </p>
+<p>This means that artists were forced to work in cramped spaces and without sources of natural light. </p>
+<p>It also implies that whoever made them did not want them to be easily found. </p>
+<p>Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.</p>
+<blockquote>
+<p>Paragraph 2： One of the most puzzling aspects of the paintings is their location. Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. This means that artists were forced to work in cramped spaces and without sources of natural light. It also implies that whoever made them did not want them to be easily found. Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.</p>
+</blockquote>
+<div class="admonition faq">
+<p>What can be inferred from paragraph 2 about cave painters in France and Spain?</p>
+<p>○They also painted rocks outside caves. </p>
+<p>○They did not live close to the cave entrances. </p>
+<p>○They developed their own sources of light to use while painting. </p>
+<p>○Their painting practices did not last for many years. </p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-13">2018-07-13<a class="headerlink" href="#2018-07-13" title="Permanent link">&para;</a></h3>
+<h4 id="9">9.<a class="headerlink" href="#9" title="Permanent link">&para;</a></h4>
+<p>Paragraph 4: Wind power is most economical in areas with steady winds. </p>
+<p>In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. </p>
+<p>Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. </p>
+<p>Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.</p>
+<blockquote>
+<p>Paragraph 4: Wind power is most economical in areas with steady winds. In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.</p>
+</blockquote>
+<div class="admonition faq">
+<p>According to paragraph 4, what can be inferred about the problems of visual pollution and noise associated with wind farms?</p>
+<p>○Both problems affect the efficiency of wind farms. </p>
+<p>○Possible solutions are known for both problems. </p>
+<p>○Wind power creates more noise than visual pollution. </p>
+<p>○People are more concerned about visual pollution than noise. </p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="10">10.<a class="headerlink" href="#10" title="Permanent link">&para;</a></h4>
+<p>Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. </p>
+<p>Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. </p>
+<p>This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. </p>
+<p>Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. </p>
+<p>By 1990 geologists had located the impact site itself in the Yucat region of Mexico. </p>
+<p>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. </p>
+<blockquote>
+<p>Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. By 1990 geologists had located the impact site itself in the Yucat region of Mexico. The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. </p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following can be inferred from paragraph 3 about the location of the meteorite impact in Mexico? </p>
+<p>○ The location of the impact site in Mexico was kept secret by geologists from 1980 to 1990.</p>
+<p>○It was a well-known fact that the impact had occurred in the Yucat region.</p>
+<p>○Geologists knew that there had been an impact before they knew where it had occurred.</p>
+<p>○The Yucat region was chosen by geologists as the most probable impact site because of its climate.</p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-15">2018-07-15<a class="headerlink" href="#2018-07-15" title="Permanent link">&para;</a></h3>
+<h4 id="11">11.<a class="headerlink" href="#11" title="Permanent link">&para;</a></h4>
+<p>Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. </p>
+<p>Roman priorities lay in the organization, exploitation, and defense of their territory. </p>
+<p>In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. </p>
+<p>From this arose the Roman genius for military organization and orderly government. </p>
+<p>In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.</p>
+<blockquote>
+<p>Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. Roman priorities lay in the organization, exploitation, and defense of their territory. In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. From this arose the Roman genius for military organization and orderly government. In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Paragraph 3 suggests which of the following about the people of Latium?</p>
+<p>○Their economy was based on trade relations with other settlements.</p>
+<p>○They held different values than the people of Rome.</p>
+<p>○Agriculture played a significant role in the society.</p>
+<p>○They possessed unusual knowledge of animal instincts.</p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="12">12.<a class="headerlink" href="#12" title="Permanent link">&para;</a></h4>
+<p>Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. </p>
+<p>Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. </p>
+<p>In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary?</p>
+<p>Why do the artists seem to get left and right confused? </p>
+<p>And why did they not discover the geometric perspective as European artists did in the Renaissance? </p>
+<p>The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.</p>
+<blockquote>
+<p>Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary? Why do the artists seem to get left and right confused? And why did they not discover the geometric perspective as European artists did in the Renaissance? The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Paragraph 1 suggests that one reason Egyptian art is viewed less favorably than other art is that Egyptian art lacks</p>
+<p>○ a realistic sense of human body proportion</p>
+<p>○ a focus on distinctive forms of varying sizes</p>
+<p>○ the originality of European art</p>
+<p>○ the capacity to show the human body in motion</p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-16">2018-07-16<a class="headerlink" href="#2018-07-16" title="Permanent link">&para;</a></h3>
+<h4 id="13">13.<a class="headerlink" href="#13" title="Permanent link">&para;</a></h4>
+<p>Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. </p>
+<p>The boxes were stationary, and the one containing food was always at the same point of the compass. However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. </p>
+<p>As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. </p>
+<p>Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. </p>
+<p>On overcast days, however, the birds were disoriented and had trouble locating their food box. </p>
+<blockquote>
+<p>Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. The boxes were stationary, and the one containing food was always at the same point of the compass. However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. On overcast days, however, the birds were disoriented and had trouble locating their food box. </p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following can be inferred from paragraph 4 about Kramer s reason for filling one food box and leaving the rest empty?</p>
+<p>○ He believed the birds would eat food from only one box.</p>
+<p>○ He wanted to see whether the Sun alone controlled the birds' ability to navigate toward the box with food.</p>
+<p>○ He thought that if all the boxes contained food, this would distract the birds from following their migratory route.</p>
+<p>○ He needed to test whether the birds preferred having the food at any particular point of the compass.</p>
+<div class="admonition failure"></div>
+</div>
+<h4 id="14">14.<a class="headerlink" href="#14" title="Permanent link">&para;</a></h4>
+<p>Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. </p>
+<p>The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. </p>
+<p>These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. </p>
+<p>David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. </p>
+<p>The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.</p>
+<blockquote>
+<p>Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Paragraph 2 indicates that the begging calls of tree nesting warblers</p>
+<p>○ put them at more risk than ground-nesting warblers experience</p>
+<p>○ can be heard from a greater distance than those of ground-nesting warblers</p>
+<p>○ are more likely to conceal the signaler than those of ground-nesting warblers</p>
+<p>○ have higher frequencies than those of ground nesting warblers</p>
+<div class="admonition failure"></div>
+</div>
+<h3 id="2018-07-17">2018-07-17<a class="headerlink" href="#2018-07-17" title="Permanent link">&para;</a></h3>
+<h4 id="15">15.<a class="headerlink" href="#15" title="Permanent link">&para;</a></h4>
+<p>Paragraph 4: Fractures and other cut marks are another source of evidence. </p>
+<p>Right-handed soldiers tend to be wounded on the left. </p>
+<p>The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.</p>
+<blockquote>
+<p>Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.</p>
+</blockquote>
+<div class="admonition faq">
+<p>Which of the following statements about fractures and cut marks can be inferred from paragraph 4?</p>
+<p>○ Fractures and cut marks caused by right-handed soldiers tend to occur on the right side of the injured party's body.</p>
+<p>○ The right arm sustains more injuries because, as the dominant arm, it is used more actively.</p>
+<p>○ In most people, the left side of the body is more vulnerable to injury since it is not defended effectively by the dominant arm.</p>
+<p>○ Fractures and cut marks on fossil humans probably occurred after death.</p>
+<div class="admonition failure"></div>
+</div>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../negation/" title="Negation" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Negation
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../2-3/" title="2-3 Early Cinema" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                2-3 Early Cinema
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.b438e6c5.js"></script>
+      
+      <script>app.initialize({version:"0.17.3",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
