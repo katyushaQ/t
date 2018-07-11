@@ -199,11 +199,13 @@ Thus, **city surfaces**, （ as well as the air above them ）, ==tend to be== ^
 **This friction** ==tends to== ^^slow the speed of winds^^, { making them far less efficient { at {++dispersing++} pollutants `条件`} `结果`}. 
 > 这个摩擦力使风的速度变慢，使他们在消散的污染物里变得很低效。
 
->> at {++dispersing++} pollutants **老师解答：dispersing动词，不是定语，doing sth. 做这件事， 把污染物分散开；使风在做这件事的时候变慢**
-
 !!! error ""
 
     这句翻译对么？
+    
+    ----
+    
+    at {++dispersing++} pollutants **老师解答：dispersing动词，不是定语，doing sth. 做这件事， 把污染物分散开；使风在做这件事的时候变慢**
 
 On the other hand, **air turbulence** ==increases== { because of the effect of skyscrapers on airflow `原因`}. 
 > 换句话说，空气紊流增加，因为在气流上的摩天大楼的影响。
