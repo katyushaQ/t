@@ -122,31 +122,52 @@ stimulated 促使，促进
 
 #### 3.
 
-Paragraph 2: Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, but in fact they tend to be relatively short-lived in geological terms. 
+**Hills and mountains** ==are often regarded as== ^^the epitome of permanence^^, ( successfully resisting the destructive forces of nature ), *but* in fact **they** ==tend to be relatively short-lived== ^^in geological terms^. 
+> 小山和高山常常被当作永恒的典范，成功地对抗自然的毁灭力量，但实际上，他们在地质学术语中倾向相对短暂的。
 
-As a general rule, the higher a mountain is, the more recently it was formed; for example, the high mountains of the Himalayas are only about 50 million years old. 
+{ As a general rule `方式`}, **the higher a mountain** ==is==, {++the more recently it was formed++}; for example, **the high mountains of the Himalayas** ==are== ^^only about 50 million years old^^. 
+> 作为一个普通的规则，更高的山更是近期形成的；例如，喜马拉雅高山只有大约5千万年。
 
-Lower mountains tend to be older, and are often the eroded relics of much higher mountain chains. About 400 million years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. 
+**Lower mountains** ==tend to be== ^^older^^, *and* ==are== ^^often the eroded relics of much higher mountain chains^^. 
+> 更低的山倾向年头更长，并且常常是许多高山脉风化的遗迹。
 
-Today, however, the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.
+{ About 400 million years ago `时间`}, {++when the present-day continents of North America and Europe were joined++}, **the Caledonian mountain chain** ==was== ^^the same size as the modern Himalayas^^. 
+> 大约在4亿年前，那时现在的北美大陆和欧洲大陆是连接起来的，苏格兰山脉如现代的喜马拉雅山脉一样。
 
-> Paragraph 2: Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, but in fact they tend to be relatively short-lived in geological terms. As a general rule, the higher a mountain is, the more recently it was formed; for example, the high mountains of the Himalayas are only about 50 million years old. Lower mountains tend to be older, and are often the eroded relics of much higher mountain chains. About 400 million years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. Today, however, the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.
+{ Today `时间`}, *however*, **the relics of the Caledonian orogeny** (mountain-building period) ==exist== { as the comparatively low mountains of Greenland , the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau `方式`}.
+> 然而今天，苏格兰山脉的遗迹（造山运动周期）如类似的格陵兰岛，美国北阿帕拉契山脉，苏格兰高地，和挪威沿海高原的低山那样的存在。
+
+> Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, <font color='Blue'>*but in fact*</font> they tend to be relatively <font color='Salmon'>short-lived</font> in geological terms. As a general rule, <font color='Salmon'>the higher a mountain</font> is, the more recently it was formed; for example, the high mountains of the Himalayas are <font color='hotpink'>**only**</font> <font color='Salmon'>about 50 million</font> years old. <font color='Salmon'>Lower mountains</font> tend to be <font color='Salmon'>older</font>, and are often the eroded relics of much higher mountain chains. <font color='Salmon'>About 400 million</font> years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. <font color='red'>**|| 对比**</font> <font color='Blue'>*Today, however,*</font> the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.
 
 !!! faq ""
 
-    Which of the following can be inferred from paragraph 2 about the mountains of the Himalayas?
+    **Which of the following** ==can be inferred from== ^^paragraph 2 about the mountains of the Himalayas^^?
+    > 第二段关于喜马拉雅山脉推断出以下哪项？
     
-    ○Their current height is not an indication of their age.
+    A. **Their current height** ==is not== ^^an indication of their age^^.
+    > 他们的当前的高度不是由他们的年龄指定。
     
-    ○At present, they are much higher than the mountains of the Caledonian range.
+    ==B==. { At present `时间`}, **they** ==are== ^^much higher { than the mountains of the Caledonian range `比较`}^^.
+    > 目前，他们比苏格兰范围的山高很多。
     
-    ○They were a uniform height about 400 million years ago.
+    C. **They** ==were== ^^a uniform height about 400 million years ago^^.
+    > 他们在大约4亿年前有同样的高度。
     
-    ○They are not as high as the Caledonian mountains were 400 million years ago.
-    
-
+    D. **They** ==are not== ^^as high { as the Caledonian mountains were 400 million years ago `方式`}^^.
+    > 他们不像4亿年前的苏格兰山一样高。
 
     !!! failure ""
+    
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+Hills 小山 | the epitome of sth 某事物的典型【典范】，缩影 | permanence 长久的，永恒的
+geological 地质学的 | Himalayas 喜马拉雅山脉 | erode 【气候】侵蚀，腐蚀，【岩石，土壤】风化 v.
+relic 遗物，遗迹  | mountain chain 山脉 | continents 大陆
+Caledonian 苏格兰的，苏格兰人 | orogeny [地质] 造山运动，山岳的形成| comparatively 类似地，相似地，同等地，可比较地
+Appalachians 阿帕拉契山脉 | the  Scottish Highlands 苏格兰高地 | the Norwegian 挪威的，挪威人的，挪威人
+coastal 沿海的 | plateau 高原 | At present 现在，目前
+present-day 现代的，当今的 | short-lived 短暂的 | join 连接，接合
+Greenland 格陵兰岛 | mountain-building [地质] 造山运动，等于orogeny | uniform 一致的
 
 #### 4.
 
