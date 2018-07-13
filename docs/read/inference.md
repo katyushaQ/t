@@ -1,4 +1,4 @@
-### 2018-07-09 
+### 2018-07-10 
 
 #### 1.
 
@@ -27,7 +27,6 @@
 
 > It should be obvious that cetaceans-whales, porpoises, and dolphins-are mammals. <font color='LightSeaGreen'>*（下定义，下文详细介绍）*</font>They breathe through lungs, not through gills, and give birth to live young. Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land-dwelling mammals. <font color='LightSeaGreen'>*（引出与陆地哺乳的关系，下文可能说区别）*</font><font color='red'>**|| 转折**</font> <font color='Blue'>*However*</font>, unlike the cases of sea otters and pinnipeds (seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct <font color='Blue'>*but*</font>, already fully marine cetaceans are known from the fossil record. <font color='LightSeaGreen'>*（参考传统两栖动物，对鲸形体的猜测和出处）*</font>How was the gap between a walking mammal and a swimming whale bridged? Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. <font color='LightSeaGreen'>*（提出与陆地哺乳差别问题，回答问题）*</font>
 
-
 !!! faq ""
 
     **Which of the following** ==can be inferred from== ^^paragraph 1 about early sea otters^^?
@@ -47,7 +46,6 @@
 
     !!! failure ""
     
-    
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 otters 水獭 | obvious 显然的 | cetaceans-whales 鲸目动物-鲸
@@ -62,7 +60,7 @@ gap 【大的】差距，差额，差别
 
 #### 2.
 
-{ Before 1815 `时间`} **manufacturing**  { in the United States `地点`} ==had been done== { in homes or shops `地点`}  { by skilled artisans `方式`}.
+Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `地点`} ==had been done== { in homes or shops `地点`}  { by skilled artisans `方式`}.
 > 早于1815年，美国制造业在家里或者店里由熟练工匠生产。
 
 { As master craft workers ``}, **they** ==imparted== ^^the knowledge of their trades to apprentices and journeymen^^.
@@ -79,8 +77,7 @@ gap 【大的】差距，差额，差别
 
 ----
 
-> <font color='Blue'>*Before 1815*</font> manufacturing in the United States had been done in homes or shops by skilled artisans. <font color='LightSeaGreen'>*（老旧生产方式）*</font>As master craft workers, they imparted the knowledge of their trades to apprentices and journeymen. <font color='LightSeaGreen'>*（介绍生产者）*</font><font color='Blue'>*In addition*</font>, women often worked in their homes part-time, making finished articles from raw material supplied by merchant capitalists. <font color='LightSeaGreen'>*（通过细节更加详细介绍老旧形式）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*After 1815*</font> this older form of manufacturing began to give way to factories with machinery tended by unskilled or semiskilled laborers. <font color='LightSeaGreen'>*（引出新的生产方式）*</font>Cheap transportation networks, the rise of cities, and the availability of capital and credit all stimulated the shift to factory production. <font color='LightSeaGreen'>*（支持新生产方式的背景）*</font>
-
+> Paragraph 1: <font color='Blue'>*Before 1815*</font> manufacturing in the United States had been done in homes or shops by skilled artisans. <font color='LightSeaGreen'>*（老旧生产方式）*</font>As master craft workers, they imparted the knowledge of their trades to apprentices and journeymen. <font color='LightSeaGreen'>*（介绍生产者）*</font><font color='Blue'>*In addition*</font>, women often worked in their homes part-time, making finished articles from raw material supplied by merchant capitalists. <font color='LightSeaGreen'>*（通过细节更加详细介绍老旧形式）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*After 1815*</font> this older form of manufacturing began to give way to factories with machinery tended by unskilled or semiskilled laborers. <font color='LightSeaGreen'>*（引出新的生产方式）*</font>Cheap transportation networks, the rise of cities, and the availability of capital and credit all stimulated the shift to factory production. <font color='LightSeaGreen'>*（支持新生产方式的背景）*</font>
 
 !!! faq ""
 
@@ -118,11 +115,11 @@ trades 【尤指需要特殊手工技巧的】行当，手艺 | apprentices 学�
 capitalists 资本家 | articles 【正式】物品，物件 | give way to 让路，让行 | capital 首都，资本，资金
 stimulated 促使，促进
 
-### 2018-07-10
+### 2018-07-11
 
 #### 3.
 
-**Hills and mountains** ==are often regarded as== ^^the epitome of permanence^^, ( successfully resisting the destructive forces of nature ), *but* in fact **they** ==tend to be relatively short-lived== ^^in geological terms^. 
+Paragraph 2: **Hills and mountains** ==are often regarded as== ^^the epitome of permanence^^, ( successfully resisting the destructive forces of nature ), *but* in fact **they** ==tend to be relatively short-lived== ^^in geological terms^^. 
 > 小山和高山常常被当作永恒的典范，成功地对抗自然的毁灭力量，但实际上，他们在地质学术语中倾向相对短暂的。
 
 { As a general rule `方式`}, **the higher a mountain** ==is==, {++the more recently it was formed++}; for example, **the high mountains of the Himalayas** ==are== ^^only about 50 million years old^^. 
@@ -137,7 +134,9 @@ stimulated 促使，促进
 { Today `时间`}, *however*, **the relics of the Caledonian orogeny** (mountain-building period) ==exist== { as the comparatively low mountains of Greenland , the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau `方式`}.
 > 然而今天，苏格兰山脉的遗迹（造山运动周期）如类似的格陵兰岛，美国北阿帕拉契山脉，苏格兰高地，和挪威沿海高原的低山那样的存在。
 
-> Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, <font color='Blue'>*but in fact*</font> they tend to be relatively <font color='Salmon'>short-lived</font> in geological terms. As a general rule, <font color='Salmon'>the higher a mountain</font> is, the more recently it was formed; for example, the high mountains of the Himalayas are <font color='hotpink'>**only**</font> <font color='Salmon'>about 50 million</font> years old. <font color='Salmon'>Lower mountains</font> tend to be <font color='Salmon'>older</font>, and are often the eroded relics of much higher mountain chains. <font color='Salmon'>About 400 million</font> years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. <font color='red'>**|| 对比**</font> <font color='Blue'>*Today, however,*</font> the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.
+----
+
+> Paragraph 2: <font color='LightSeaGreen'>*（与 Paragraph 1没有紧耦合关系，独立阐述）*</font>Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, <font color='Blue'>*but in fact*</font> they tend to be relatively <font color='Salmon'>short-lived</font> in geological terms. <font color='LightSeaGreen'>*（下定义，短暂的术语，预判下文解释为何称之为短暂的）*</font><font color='red'>**||**</font> As a general rule, <font color='Blue'>*the higher a mountain*</font> is, the more recently it was formed; for example, the high mountains of the Himalayas are <font color='hotpink'>**only**</font> <font color='Salmon'>about 50 million</font> years old. <font color='LightSeaGreen'>*（高山情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Lower mountains*</font> tend to be <font color='Salmon'>older</font>, and are often the eroded relics of much higher mountain chains. <font color='LightSeaGreen'>*（矮山情况）*</font><font color='red'>**||**</font> <font color='Blue'>*About 400 million*</font> years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. <font color='LightSeaGreen'>*（4亿年前的情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Today, however,*</font> the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.<font color='LightSeaGreen'>*（当今的情况）*</font>
 
 !!! faq ""
 
@@ -171,360 +170,549 @@ Greenland 格陵兰岛 | mountain-building [地质] 造山运动，等于orogeny
 
 #### 4.
 
-Paragraph 10: The extreme seriousness of desertification results from the vast areas of land and the tremendous numbers of people affected, as well as from the great difficulty of reversing or even slowing the process. 
+Paragraph 10: 【 **The extreme seriousness of desertification** ==results from== ^^the vast areas of land and the tremendous numbers of people affected^^, { as well as from the great difficulty of reversing `方式`} or { even slowing the process `方式`}.  】
+> 荒漠化的极端严重受大量的陆地地区和巨大数量受影响的人群所产生，以及来自大量的彻底改变的困难，或者甚至缓慢的过程的所产生。
 
-Once the soil has been removed by erosion, only the passage of centuries or millennia will enable new soil to form. 
+{ Once the soil has been removed by erosion `条件`}, **only the passage of centuries or millennia** ==will enable== ^^new soil^^ ==to form==. 
+> 一旦土壤由腐蚀而消除，只有世纪和千年的一段可以形成新土壤。
 
-In areas where considerable soil still remains, though, a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.
+{ In areas {++where considerable soil still remains++} `地点`}, *though*, **a rigorously {++enforced++} program of land protection and cover-crop planting** ==may make it possible to reverse== ^^the present deterioration of the surface^^.
+> 而在仍然保留相当大的土壤的地区，严格的强制的陆地保护程序和覆盖作物的计划能够彻底改变农民地表的荒漠化。
 
-> Paragraph 10: The extreme seriousness of desertification results from the vast areas of land and the tremendous numbers of people affected, as well as from the great difficulty of reversing or even slowing the process. Once the soil has been removed by erosion, only the passage of centuries or millennia will enable new soil to form. In areas where considerable soil still remains, though, a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.
+----
+
+> Paragraph 10: <font color='LightSeaGreen'>*（文章前文提出的荒漠化问题，这里做详细解释）*</font>The extreme seriousness of desertification <font color='Salmon'>results from</font> the <font color='Salmon'> vast </font> areas of <font color='Salmon'>land</font> and the tremendous <font color='Salmon'>numbers of people</font> affected, <font color='Salmon'>as well as</font> from the <font color='Salmon'>great difficulty of reversing</font> or <font color='Salmon'>even slowing the process</font>. <font color='LightSeaGreen'>*（荒漠化影响来源，预判地区和人们是如何影响的）*</font><font color='red'>**||**</font> <font color='Blue'>*Once*</font> the soil has been <font color='Salmon'>removed</font> by erosion, <font color='hotpink'>**only**</font> the passage of <font color='Salmon'>centuries or millennia</font> will enable <font color='Salmon'>new soil</font> to form. <font color='LightSeaGreen'>*（阐述地区自然现象）*</font><font color='red'>**|| 对比**</font> In areas where considerable soil <font color='Salmon'>still remains</font>, <font color='Blue'>*though,*</font> a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.<font color='LightSeaGreen'>*（阐述人为现象）*</font>
 
 !!! faq ""
 
-    It can be inferred from the passage that the author most likely believes which of the following about the future of desertification? 
+    *It* ==can be inferred from== ^^the passage^^ **that the author most likely believes** {++which of the following about the future of desertification++}? 
+    > 从这段能推断出，作者最可能认为以下哪个选项是关于荒漠化的未来？
     
-    ○Governments will act quickly to control further desertification. 
+    {--A--}. **Governments** ==will act quickly to control== ^^further desertification^^. 
+    > 政府会很快行动进一步控制荒漠化
     
-    ○The factors influencing desertification occur in cycles and will change in the future. 
+    !!! failure ""
+        
+        1.没有提到Governments控制
+            
+        2.被文章最后一句关于人类的措施所影响
+            
+        3.不明白最后一句话在这里的意义，看似是正面的内容啊
     
-    ○Desertification will continue to increase. 
+    B. **The factors influencing desertification** ==occur== ^^in cycles^^ and ==will change== ^^in the future^^. 
+    > 这些因素影响荒漠化发生在循环中并在将来改变。
     
-    ○Desertification will soon occur in all areas of the world. 
-
+    {++C++}. **Desertification** ==will continue to increase==. 
+    > 荒漠化将会继续增加。
+    
     !!! failure ""
     
+        应该是文章第一句话所指明
     
-### 2018-07-11
+    D. **Desertification** ==will soon occur== ^^in all areas of the world^^. 
+    > 荒漠化很快会在全世界发生。
+    
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+seriousness 认真，严肃，严重 | desertification 【土地，尤指农田的】荒漠化，沙漠化 | vast 巨大的，广阔的，大量的
+tremendous 巨大的，极快的 | reverse 推翻，彻底改变【决定，判决，过程的】 | erosion 【风、雨或海水的】侵蚀，腐蚀
+passage 走廊，过道，一段 | millennia 千年期 | considerable 相当大的
+rigorously 严格地，缜密地，精确地 | enforced 强制的，强迫的 | cover-crop 覆盖作物的
+further 进一步，在很大程度上
+
+
+### 2018-07-12
 
 #### 5.
 
-Paragraph 1: Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. 
+Paragraph 1: **Groundwater** ==is== ^^the word used to describe water^^ {++that saturates the ground++}, { filling all the available spaces `结果`}. 
+> 地下水是用来描述浸透地面的水的词，填充所有可用的空间。
 
-By far the most abundant type of groundwater is meteoric water; this is the groundwater that circulates as part of the water cycle. 
+**By far the most abundant type of groundwater** ==is== ^^meteoric water^^; **this** ==is== ^^the groundwater^^ {++that circulates as part of the water cycle++}. 
+> 非常大量丰富的地下水类型是大气水；这个水是作为水循环的一部分循环地下水。
 
-Ordinary meteoric water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. 
+**Ordinary meteoric water** ==is== ^^water^^ {++that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams++}. 
+> 普通的大气水是从表面，从降水量（下雨和下雪），和从湖泊和溪流中渗透到地里。
 
-There it remains, sometimes for long periods, before emerging at the surface again. 
+^^There^^ **it** ==remains==, ( sometimes for long periods ), { before emerging at the surface again `时间`}. 
+> 存留这些，有时很长时间，在表面再次出现之前。
 
-At first thought it seems incredible that there can be enough space in the “solid” ground underfoot to hold all this water.         
+【 { At first thought `？`} *it* ==seems== ^^incredible^^ **that there can be enough space in the “solid” ground underfoot to hold all this water**.  】
+> 最开始以为，能够充分占据“固态”地面下面来保持这些水看起来难以置信。
 
-> Paragraph 1: Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. By far the most abundant type of groundwater is meteoric water; this is the groundwater that circulates as part of the water cycle. Ordinary meteoric water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. There it remains, sometimes for long periods, before emerging at the surface again. At first thought it seems incredible that there can be enough space in the “solid” ground underfoot to hold all this water.    
+!!! failure ""
+
+     At first thought 不知道应该定义成什么状语
+     
+> Paragraph 1: Groundwater is the word used to describe water that saturates the ground, <font color='Salmon'>filling all</font> the available spaces. <font color='LightSeaGreen'>*（下定义，预判下文阐述某种地下水解释）*</font><font color='red'>**||**</font> By far the most abundant type of groundwater is meteoric water; this is the groundwater that <font color='Salmon'>circulates as part of the water cycle</font>. <font color='LightSeaGreen'>*（提出子类大气水并解释）*</font>Ordinary meteoric water is water that has <font color='Salmon'>soaked into</font> the ground <font color='Salmon'>from the surface</font>, <font color='Salmon'>from precipitation (rain and snow)</font> and <font color='Salmon'>from lakes and streams</font>. <font color='LightSeaGreen'>*（形成方式）*</font>There it remains, sometimes <font color='Salmon'>for long periods,</font> before emerging at the surface again. <font color='LightSeaGreen'>*（存活方式）*</font> At first thought it seems incredible that there can be <font color='Salmon'>enough space</font> in the “solid” ground underfoot to <font color='Salmon'>hold all</font> this water.<font color='LightSeaGreen'>*（阐述一个观点）*</font><font color='LightSeaGreen'>*（全文顺承递进）*</font>
 
 !!! faq ""
 
-    Which of the following can be inferred from paragraph 1 about the ground that we walk on?
+    **Which of the following** ==can be inferred from== ^^paragraph 1 about the ground {++that we walk on++}^^?
+    > 以下哪个选项能被推断出第一段关于我们行走的地面？
     
-	○It cannot hold rainwater for long periods of time.
+	A. **It** ==cannot hold== ^^rainwater for long periods of time^^.
+	> 它无法保持住很长时间周期的雨水
 	
-	○It prevents most groundwater from circulating.
+	B. **It** ==prevents== ^^most groundwater from circulating^^.
+	> 它阻挡大量来自循环的地下水。
 	
-	○It has the capacity to store large amounts of water.
+	==C==. **It** ==has== ^^the capacity to store large amounts of water^^.
+	> 它有存储大量水的容量。
 	
-	○It absorbs most of the water it contains from rivers.
-
-    
     !!! failure ""
+	
+        capacity to store 对应 enough space …… hold all
+	
+	D. **It** ==absorbs== ^^most of the water^^ {++it contains from rivers++}.
+	> 它吸收大量包含来自河流的水。
+     
+    !!! failure ""
+        
+        D 我不知道，absorbs和soaked into the ground from，是否在含义上可以划等号，感觉这里有争议
+        
+        严格的讲，soaked into the ground from 不一定吸收，也可能是路过，然后流失掉；吸收有储存属性，可是文章也提到 There it remains, sometimes for long periods，所以往上推，有争议，不明确
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+saturate 使湿透，浸透 | meteoric 大气的 | circulate 使循环
+Ordinary 普通的，平常的 | soak into 使某物湿透 | precipitation 【术语】降水，降水量，【术语】沉淀
+emerging 出现 | At first thought 乍一想，起初以为 | underfoot | 在脚下
+By far 到目前为止，非常
 
 #### 6.
 
-Paragraph 1: The transition from forest to treeless tundra on a mountain slope is often a dramatic one. 
+Paragraph 1: **The transition from forest to treeless tundra on a mountain slope** ==is== ^^often a dramatic one^^. 
+> 在山的斜坡上，从森林到无数木苔原的转变常常是戏剧性一点。
 
-Within a vertical distance of just a few tens of meters, trees disappear as a life-form and are replaced by low shrubs, herbs, and grasses. 
+{ Within a vertical distance of just a few tens of meters  `抽象地点`}, **trees** ==disappear== { as a life-form `方式`} and ==are replaced== { by low shrubs, herbs, and grasses `方式`}. 
+> 在仅仅10米的垂直空间里，树木作为一种生命形式消失，并且由低矮灌木，草本植物和草取代。
 
-This rapid zone of transition is called the upper timberline or tree line. 
+**This rapid zone of transition** ==is called== ^^the upper timberline or tree line^^. 
+> 这个转变速度区域称之为较高的树木线或者树木线。
 
-In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.
+{ In many semiarid areas `地点`} ^^there^^ ==is also== **a lower timberline** {++where the forest passes into steppe or desert { at its lower edge `地点`}++}, { usually because of a lack of moisture `原因`}.
+> 在许多半干旱地区，也有一种由于水分的缺乏，森林在他们低的边缘转换为大草原或者沙漠更矮的树木线。
 
-> Paragraph 1: The transition from forest to treeless tundra on a mountain slope is often a dramatic one. Within a vertical distance of just a few tens of meters, trees disappear as a life-form and are replaced by low shrubs, herbs, and grasses. This rapid zone of transition is called the upper timberline or tree line. In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.
+> Paragraph 1: The transition from forest to treeless tundra <font color='Salmon'>on a mountain slope</font> is often a dramatic one. <font color='LightSeaGreen'>*（下定义，预判下文举例说明）*</font><font color='red'>**||**</font> Within a <font color='Salmon'>vertical distance</font> of just a few tens of meters, trees <font color='Salmon'>disappear</font> as a life-form and are <font color='Salmon'>replaced</font> by low shrubs, herbs, and grasses. <font color='LightSeaGreen'>*（列举一种环境自然现象）*</font>This rapid zone of transition is called <font color='Salmon'>the upper timberline or tree line</font>. <font color='LightSeaGreen'>*（扣题，转变行程）*</font><font color='red'>**|| 对比**</font> In many <font color='Salmon'>semiarid areas</font> there is <font color='Blue'>*also*</font> <font color='Salmon'>a lower timberline</font> where the forest passes into steppe or desert at its <font color='Salmon'>lower edge</font>, usually because of a lack of moisture.<font color='LightSeaGreen'>*（列举另一种环境自然现象和转变行程）*</font>
 
 !!! faq ""
 
-    Which of the following can be inferred from paragraph 1 about both the upper and lower timberlines?
+    **Which of the following** ==can be inferred from== ^^paragraph 1 about both the upper and lower timberlines^^?
+    > 以下哪个选择项能被推断出第一段关于较高的和较矮的树木线二者？
     
-    ○Both are treeless zones.
+    A. **Both** ==are== ^^treeless zones^^.
+    > 二者都是无数木地区。
     
-    ○Both mark forest boundaries.
-    
-    ○Both are surrounded by desert areas.
-    
-    ○Both suffer from a lack of moisture.
+    ==B==. **Both** ==mark== ^^forest boundaries^^.
+    > 二者标志森林边界。
 
-
-    !!! failure ""
+    !!! failure ""    
     
-### 2018-07-12
+        boundaries 对应 vertical distance 和 lower edge
+    
+    C. **Both** ==are surrounded== { by desert areas `方式`}.
+    > 二者由沙漠地区所围绕。
+    
+    D. **Both** ==suffer from== ^^a lack of moisture^^.
+    > 二者遭受水分的缺乏。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+treeless 无数木的 | tundra 苔原 n. | slope 斜坡
+dramatic 戏剧性的 | vertical 垂直的 | meter 米
+life-form 生物 n. | shrub 灌木 | herb 草本植物，草药
+timberline 树木线 | semiarid 半干旱的 | steppe 大草原
+moisture 水分，湿气 | suffer from 遭受（痛苦） | Within 在，在……内
+boundaries 边界
+    
+### 2018-07-14
 
 #### 7.
 
-Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. 
+Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. 
+>
+
+Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. 
+>
 
 But this is fair-weather feeding. 
 
 What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? 
+>
 
 One compensation for not hibernating is the built-in urge to migrate. 
+>
 
 Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. 
+>
 
 Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. 
+>
 
 > Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One compensation for not hibernating is the built-in urge to migrate. Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. 
 
-
 !!! faq ""
 
-    It can be inferred from the discussion in paragraph 2 that winter conditions 
+    It can be inferred from the discussion in paragraph 2 that winter conditions
+    > 
     
-    ○ cause some deer to hibernate 
+    A. cause some deer to hibernate 
+    >
     
-    ○ make food unavailable in the highlands for deer 
+    B. make food unavailable in the highlands for deer 
+    >
     
-    ○ make it easier for deer to locate understory plants 
+    C. make it easier for deer to locate understory plants 
+    >
     
-    ○ prevent deer from migrating during the winter 
-
+    D. prevent deer from migrating during the winter 
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
 
 #### 8.
 
 Paragraph 2： One of the most puzzling aspects of the paintings is their location. 
+>
 
 Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. 
+>
 
 Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. 
+>
 
 This means that artists were forced to work in cramped spaces and without sources of natural light. 
+>
 
 It also implies that whoever made them did not want them to be easily found. 
+>
 
 Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.
+>
 
 > Paragraph 2： One of the most puzzling aspects of the paintings is their location. Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. This means that artists were forced to work in cramped spaces and without sources of natural light. It also implies that whoever made them did not want them to be easily found. Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.
 
 !!! faq ""
 
     What can be inferred from paragraph 2 about cave painters in France and Spain?
+    >
     
-    ○They also painted rocks outside caves. 
+    A. They also painted rocks outside caves. 
+    >
     
-    ○They did not live close to the cave entrances. 
+    B. They did not live close to the cave entrances. 
+    >
     
-    ○They developed their own sources of light to use while painting. 
+    C. They developed their own sources of light to use while painting. 
+    >
     
-    ○Their painting practices did not last for many years. 
-
+    D. Their painting practices did not last for many years. 
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
     
-### 2018-07-13
+### 2018-07-15
 
 #### 9.
 
 Paragraph 4: Wind power is most economical in areas with steady winds. 
+>
 
 In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. 
+>
 
 Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. 
+>
 
 Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.
+>
 
 > Paragraph 4: Wind power is most economical in areas with steady winds. In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.
 
 !!! faq ""
 
     According to paragraph 4, what can be inferred about the problems of visual pollution and noise associated with wind farms?
+    >
     
-    ○Both problems affect the efficiency of wind farms. 
+    A. Both problems affect the efficiency of wind farms. 
+    >
     
-    ○Possible solutions are known for both problems. 
+    B. Possible solutions are known for both problems. 
+    >
     
-    ○Wind power creates more noise than visual pollution. 
+    C. Wind power creates more noise than visual pollution. 
+    >
     
-    ○People are more concerned about visual pollution than noise. 
-
+    D. People are more concerned about visual pollution than noise.
+    > 
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
 
 #### 10.
 
 Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. 
+>
 
 Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. 
+>
 
 This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. 
+>
 
 Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. 
+>
 
 By 1990 geologists had located the impact site itself in the Yucat region of Mexico. 
+>
 
 The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. 
+>
 
 > Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. By 1990 geologists had located the impact site itself in the Yucat region of Mexico. The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. 
 
 !!! faq ""
 
     Which of the following can be inferred from paragraph 3 about the location of the meteorite impact in Mexico? 
+    >
     
-    ○ The location of the impact site in Mexico was kept secret by geologists from 1980 to 1990.
+    A. The location of the impact site in Mexico was kept secret by geologists from 1980 to 1990.
+    >
     
-    ○It was a well-known fact that the impact had occurred in the Yucat region.
+    B. It was a well-known fact that the impact had occurred in the Yucat region.
+    >
     
-    ○Geologists knew that there had been an impact before they knew where it had occurred.
+    C. Geologists knew that there had been an impact before they knew where it had occurred.
+    >
     
-    ○The Yucat region was chosen by geologists as the most probable impact site because of its climate.
-
+    D. The Yucat region was chosen by geologists as the most probable impact site because of its climate.
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
     
-### 2018-07-15
+### 2018-07-16
 
 #### 11.
 
 Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. 
+>
 
 Roman priorities lay in the organization, exploitation, and defense of their territory. 
+>
 
 In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. 
+>
 
 From this arose the Roman genius for military organization and orderly government. 
+>
 
 In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
+>
 
 > Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. Roman priorities lay in the organization, exploitation, and defense of their territory. In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. From this arose the Roman genius for military organization and orderly government. In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
-
 
 !!! faq ""
 
     Paragraph 3 suggests which of the following about the people of Latium?
+    >
     
-    ○Their economy was based on trade relations with other settlements.
+    A. Their economy was based on trade relations with other settlements.
+    >
     
-    ○They held different values than the people of Rome.
+    B. They held different values than the people of Rome.
+    >
     
-    ○Agriculture played a significant role in the society.
+    C. Agriculture played a significant role in the society.
+    >
     
-    ○They possessed unusual knowledge of animal instincts.
-
+    D. They possessed unusual knowledge of animal instincts.
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
 
 #### 12.
 
 Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. 
+>
 
 Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. 
+>
 
 In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary?
+>
 
 Why do the artists seem to get left and right confused? 
+>
 
 And why did they not discover the geometric perspective as European artists did in the Renaissance? 
+>
 
 The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.
+>
 
 > Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary? Why do the artists seem to get left and right confused? And why did they not discover the geometric perspective as European artists did in the Renaissance? The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.
 
 !!! faq ""
 
     Paragraph 1 suggests that one reason Egyptian art is viewed less favorably than other art is that Egyptian art lacks
+    >
     
-    ○ a realistic sense of human body proportion
+    A. a realistic sense of human body proportion
+    >
     
-    ○ a focus on distinctive forms of varying sizes
+    B. a focus on distinctive forms of varying sizes
+    >
     
-    ○ the originality of European art
+    C. the originality of European art
+    >
     
-    ○ the capacity to show the human body in motion
-
+    D. the capacity to show the human body in motion
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
     
-### 2018-07-16
+### 2018-07-17
 
 #### 13.
 
 Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. 
+>
 
-The boxes were stationary, and the one containing food was always at the same point of the compass. However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. 
+The boxes were stationary, and the one containing food was always at the same point of the compass. 
+>
+
+However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. 
+>
 
 As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. 
+>
 
 Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. 
+>
 
 On overcast days, however, the birds were disoriented and had trouble locating their food box. 
+>
 
 > Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. The boxes were stationary, and the one containing food was always at the same point of the compass. However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. On overcast days, however, the birds were disoriented and had trouble locating their food box. 
 
 !!! faq ""
 
     Which of the following can be inferred from paragraph 4 about Kramer s reason for filling one food box and leaving the rest empty?
+    >
     
-    ○ He believed the birds would eat food from only one box.
+    A. He believed the birds would eat food from only one box.
+    >
     
-    ○ He wanted to see whether the Sun alone controlled the birds' ability to navigate toward the box with food.
+    B. He wanted to see whether the Sun alone controlled the birds' ability to navigate toward the box with food.
+    >
     
-    ○ He thought that if all the boxes contained food, this would distract the birds from following their migratory route.
+    C. He thought that if all the boxes contained food, this would distract the birds from following their migratory route.
+    >
     
-    ○ He needed to test whether the birds preferred having the food at any particular point of the compass.
-
+    D. He needed to test whether the birds preferred having the food at any particular point of the compass.
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
 
 #### 14.
 
 Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. 
+>
 
 The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. 
+>
 
 These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. 
+>
 
 David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. 
+>
 
 The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
+>
 
 > Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
-
 
 !!! faq ""
 
     Paragraph 2 indicates that the begging calls of tree nesting warblers
+    >
     
-    ○ put them at more risk than ground-nesting warblers experience
+    A. put them at more risk than ground-nesting warblers experience
+    >
     
-    ○ can be heard from a greater distance than those of ground-nesting warblers
+    B. can be heard from a greater distance than those of ground-nesting warblers
+    >
     
-    ○ are more likely to conceal the signaler than those of ground-nesting warblers
+    C. are more likely to conceal the signaler than those of ground-nesting warblers
+    >
     
-    ○ have higher frequencies than those of ground nesting warblers
-
+    D. have higher frequencies than those of ground nesting warblers
+    >
 
     !!! failure ""
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
     
-### 2018-07-17
+### 2018-07-18
 
 #### 15.
 
 Paragraph 4: Fractures and other cut marks are another source of evidence. 
+>
 
 Right-handed soldiers tend to be wounded on the left. 
+>
 
 The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+>
 
-> Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+> Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. 
+>
+
+The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+>
 
 !!! faq ""
 
     Which of the following statements about fractures and cut marks can be inferred from paragraph 4?
+    >
     
-    ○ Fractures and cut marks caused by right-handed soldiers tend to occur on the right side of the injured party's body.
+    A. Fractures and cut marks caused by right-handed soldiers tend to occur on the right side of the injured party's body.
+    >
     
-    ○ The right arm sustains more injuries because, as the dominant arm, it is used more actively.
+    B. The right arm sustains more injuries because, as the dominant arm, it is used more actively.
+    >
     
-    ○ In most people, the left side of the body is more vulnerable to injury since it is not defended effectively by the dominant arm.
+    C. In most people, the left side of the body is more vulnerable to injury since it is not defended effectively by the dominant arm.
+    >
     
-    ○ Fractures and cut marks on fossil humans probably occurred after death.
-
+    D. Fractures and cut marks on fossil humans probably occurred after death.
+    >
 
     !!! failure ""
 
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
