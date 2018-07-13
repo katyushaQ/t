@@ -73,7 +73,7 @@
         
 ### 2018-06-23
 
-!!! info "**Fossil Fuels**"
+??? info "**Fossil Fuels**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -81,3 +81,9 @@
     
     !!! note   
     
+    
+### 2018-07-13
+
+!!! info "**Frank Lloyd Wright**"
+
+    Because of his belief in unity of design and elimination of unneccessary detail, he resisted his client's wishes to introduce what he called foreign objects to his carefully designed interiors.
