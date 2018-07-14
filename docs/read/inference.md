@@ -330,49 +330,78 @@ boundaries 边界
 
 #### 7.
 
-Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. 
->
+Paragraph 2: **Nearly any kind of plant of the forest understory** ==can be== ^^part of a deer's diet^^. 
+>在任何种类森林林下叶层的植物能够是鹿的日常饮食的一部分。
 
-Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. 
->
+{ Where the forest inhibits the growth of grass and other meadow plants `地点`}, **the black-tailed deer** ==browses== ^^on huckleberry, salal, dogwood, and almost any other shrub or herb^^. 
+> 森林阻碍草和其他草地植物的生长的地方，黑尾鹿吃黑果，salal，山茱萸，和几乎其他任何灌木和草本植物。
 
-But this is fair-weather feeding. 
+*But* **this** ==is== ^^fair-weather^^ ==feeding==. 
+> 但是，这是公平的食物。
 
-What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? 
->
+**What** ==keeps== {++the black-tailed deer alive { in the harsher seasons of plant decay `时间`} and dormancy++}? 
+> 什么保持黑尾鹿在更恶劣的植物腐烂的季节活着和冬眠？
 
-One compensation for not hibernating is the built-in urge to migrate. 
->
+**One compensation for not hibernating** ==is== ^^the built-in urge to migrate^^. 
+> 一个对于没有冬眠的补偿是固定的催促迁徙。
 
-Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. 
->
+【 **Deer** ==may move from== ^^high-elevation browse areas^^ { in summer `时间`} ==down to== ^^the lowland areas { in late fall `时间`}^^.  】
+> 鹿在夏天可以从高海拔吃草地区移动，在深秋向下移动到矮地地区。
 
-Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. 
->
+【 { Even with snow on the ground `抽象地点`}, **the high bushy understory** ==is exposed==; *also* **snow and wind** ==bring down== ^^leafy branches of cedar, hemlock, red alder, and other arboreal fodder^^. 】
+> 甚至在有雪的地面，高的浓密的树下叶层被暴露出来；也即使雪和风把雪松，铁杉，红桤木和其他树木饲料拉下来（也吃不到）。
 
-> Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One compensation for not hibernating is the built-in urge to migrate. Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. 
+----
+
+> Paragraph 2: <font color='LightSeaGreen'>*（文章前文提到鹿的生活，这里做详细说明）*</font>Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest <font color='Salmon'>inhibits</font> the growth of <font color='Salmon'>grass and other meadow plants</font>, the black-tailed deer <font color='Salmon'>browses</font> on huckleberry, salal, dogwood, and almost any other shrub or herb. <font color='LightSeaGreen'>*（鹿吃什么，吃低矮的，不吃高的）*</font> <font color='red'>**|| 转折**</font> <font color='Blue'>*But*</font> this is fair-weather feeding. <font color='LightSeaGreen'>*（引出问题，食物的不稳定性，预判鹿该如何生存）*</font> What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? <font color='LightSeaGreen'>*（顺承提出鹿生存问题）*</font>One compensation for <font color='Salmon'>not hibernating</font> is the built-in urge to <font color='Salmon'>migrate</font>. Deer may move from <font color='Salmon'>high-elevation</font> browse areas <font color='Salmon'>in summer</font> down to the <font color='Salmon'>lowland</font> areas <font color='Salmon'>in late fall</font>. <font color='LightSeaGreen'>*（用春秋两季回答问题）*</font><font color='Blue'>*Even with*</font> <font color='Salmon'>snow on the ground</font>, the <font color='Salmon'>high bushy understory</font> is exposed; <font color='Blue'>*also*</font> <font color='Salmon'>snow and wind bring down</font> leafy branches of cedar, hemlock, red alder, and other arboreal fodder. <font color='LightSeaGreen'>*（进一步用冬季补充迁徙的意义，即使高的变为低的也不吃，与开头吃的内容呼应，这本来就不是鹿吃的东西！）*</font>
 
 !!! faq ""
 
-    It can be inferred from the discussion in paragraph 2 that winter conditions
-    > 
+    **It** ==can be inferred from== ^^the discussion in paragraph 2 that winter conditions^^
+    > 从在第二关讨论冬天条件推断出？
     
-    A. cause some deer to hibernate 
-    >
+    A. ==cause== ^^some deer to hibernate^^ 
+    > 导致一些鹿去冬眠
     
-    B. make food unavailable in the highlands for deer 
-    >
+    {++B++}. ==make== ^^food unavailable { in the highlands `地点`} for deer^^ 
+    > 使鹿无法获得高地的食物
     
-    C. make it easier for deer to locate understory plants 
-    >
-    
-    D. prevent deer from migrating during the winter 
-    >
-
     !!! failure ""
+     
+        文章提到 {++down to lowland in late fall++} 深秋已到低地，按逻辑推冬天更不可能再回到高地
+        
+        主要还是前后句衔接理解脱节，冬季为进一步解释：甚至在冬季这样的情况下，树叶已被风雪压下来的情况下，鹿也依然是吃不到的才对，这样才能够与上一句逻辑对上
+        
+        {++Even with ..., also...++} 甚至，即使 => 内含转折意思，即使 with 和 also 的内容都满足了，也 ==无法/不能== 怎么着
+        
+        所以，==**应该反复读，体会句间关系和意义**==
+    
+    {--C--}. ==make== ^^it easier for deer to locate understory plants^^ 
+    > 使鹿吃到本地林下叶层植物更容易
+    
+    !!! failure ""
+    
+        这个选项很坑，对 Even 理解不到位导致
+        
+        其次，对文章细节理解不到位
+        
+    D. ==prevent== ^^deer from migrating during the winter^^ 
+    > 阻止鹿在冬季期间迁徙
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+understory 林下叶层；下层植被 | diet 日常饮食 | inhibit 阻止，阻碍，抑制
+meadow 草地 | huckleberry 黑果 | salal
+dogwood 山茱萸 | shrub 灌木 | herb 草本植物
+fair-weather 同甘不共苦的 | harsh 恶劣的 | decay 腐烂 n.
+dormancy 休眠，冬眠；蛰伏 n. | compensation 补偿 | hibernate 【动物】冬眠
+built-in 固定的; 嵌入的；内置 n. | urge 敦促，鼓励 | high-elevation 高海拔的
+exposed 暴露的 | leafy 多叶的，叶茂盛的 | cedar 雪松
+hemlock 铁杉 | alder 桤木 | arboreal 【术语或文】树木的
+fodder 饲料 | browse 吃草 |  in late fall 在深秋
+bushy 【毛发】浓密的，多毛的
+
+### 2018-07-15
 
 #### 8.
 
