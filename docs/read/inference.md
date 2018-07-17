@@ -81,7 +81,7 @@ Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `
 
 !!! faq ""
 
-    **Which of the following** ==can be inferred from== ^^the passage about articles manufactured^^ { before 1815 `时间`}?
+    **Which of the following** ==can be inferred from== ^^the passage about *articles manufactured { before 1815 `时间`}*^^?
     > 从这段关于早于1815年物品制造能推断出以下哪个选项？
     
     A. **They** ==were primarily produced== { by women `方式`}. 
@@ -140,7 +140,7 @@ Paragraph 2: **Hills and mountains** ==are often regarded as== ^^the epitome of 
 
 !!! faq ""
 
-    **Which of the following** ==can be inferred from== ^^paragraph 2 about the mountains of the Himalayas^^?
+    **Which of the following** ==can be inferred from== ^^paragraph 2 about *the mountains of the Himalayas*^^?
     > 第二段关于喜马拉雅山脉推断出以下哪项？
     
     A. **Their current height** ==is not== ^^an indication of their age^^.
@@ -185,7 +185,7 @@ Paragraph 10: 【 **The extreme seriousness of desertification** ==results from=
 
 !!! faq ""
 
-    *It* ==can be inferred from== ^^the passage^^ **that the author most likely believes** {++which of the following about the future of desertification++}? 
+    *It* ==can be inferred from== ^^the passage^^ **that the author most likely believes** {++which of the following about *the future of desertification*++}? 
     > 从这段能推断出，作者最可能认为以下哪个选项是关于荒漠化的未来？
     
     {--A--}. **Governments** ==will act quickly to control== ^^further desertification^^. 
@@ -248,7 +248,7 @@ Paragraph 1: **Groundwater** ==is== ^^the word used to describe water^^ {++that 
 
 !!! faq ""
 
-    **Which of the following** ==can be inferred from== ^^paragraph 1 about the ground {++that we walk on++}^^?
+    **Which of the following** ==can be inferred from== ^^paragraph 1 about *the ground {++that we walk on++}*^^?
     > 以下哪个选项能被推断出第一段关于我们行走的地面？
     
 	A. **It** ==cannot hold== ^^rainwater for long periods of time^^.
@@ -298,7 +298,7 @@ Paragraph 1: **The transition from forest to treeless tundra on a mountain slop
 
 !!! faq ""
 
-    **Which of the following** ==can be inferred from== ^^paragraph 1 about both the upper and lower timberlines^^?
+    **Which of the following** ==can be inferred from== ^^paragraph 1 about *both the upper and lower timberlines*^^?
     > 以下哪个选择项能被推断出第一段关于较高的和较矮的树木线二者？
     
     A. **Both** ==are== ^^treeless zones^^.
@@ -357,7 +357,7 @@ Paragraph 2: **Nearly any kind of plant of the forest understory** ==can be== ^^
 
 !!! faq ""
 
-    **It** ==can be inferred from== ^^the discussion in paragraph 2 that winter conditions^^
+    **It** ==can be inferred from== ^^the discussion in paragraph 2 that *winter conditions*^^
     > 从在第二关讨论冬天条件推断出？
     
     A. ==cause== ^^some deer to hibernate^^ 
@@ -405,133 +405,182 @@ bushy 【毛发】浓密的，多毛的
 
 #### 8.
 
-Paragraph 2： One of the most puzzling aspects of the paintings is their location. 
->
+Paragraph 2： **One of the most puzzling aspects of the paintings** ==is== ^^their location^^. 
+> 绘画的大多数困惑的方面的一点是他们的位置。
 
-Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. 
->
+**Other rock paintings** —( for example, those of Bushmen in South Africa )— ==are== ^^either located near cave entrances or completely { in the open `抽象地点`}^^. 
+> 其他岩石绘画——例如，在南非布希曼人的岩石画——要么当地附近的洞穴入口要么在完全开放的地方。
 
-Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. 
->
+【 **Cave paintings** { in France and Spain `地点`}, *however*, ==are== { in recesses and caverns `地点`} ==far removed from== ^^original cave entrances^^.  】
+>然而，在法国和西班牙的洞穴绘画在凹处和洞穴与原始洞穴入口迥然不同。
 
-This means that artists were forced to work in cramped spaces and without sources of natural light. 
->
+**This** ==means== {++that artists were forced to work in cramped spaces and without sources of natural light++}. 
+> 这就是说艺术家被迫在狭窄的空间里工作，并且没有自然光的来源。
 
-It also implies that whoever made them did not want them to be easily found. 
->
+*It* ==also implies== **that whoever made them did not want them to be easily found**. 
+> 也暗示谁使他们不想被容易的发现。
 
-Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.
->
+{ Since cave dwellers normally lived close to entrances `原因`}, ^^there^^ ==must have been== ^^some reason^^ {++why so many generations of Lascaux cave dwellers hid their art++}.
+> 因为洞穴居民通常居住在洞口附近，必定有一些为什么L洞穴居民的后代隐藏他们的艺术的原因。
 
-> Paragraph 2： One of the most puzzling aspects of the paintings is their location. Other rock paintings—for example, those of Bushmen in South Africa—are either located near cave entrances or completely in the open. Cave paintings in France and Spain, however, are in recesses and caverns far removed from original cave entrances. This means that artists were forced to work in cramped spaces and without sources of natural light. It also implies that whoever made them did not want them to be easily found. Since cave dwellers normally lived close to entrances, there must have been some reason why so many generations of Lascaux cave dwellers hid their art.
+!!! failure ""
+    
+    这句逻辑有点绕，不知道是不是为下段文字做铺垫，所以看着有些超脱，与上句关系不是很清晰
+    
+----
+
+> Paragraph 2： <font color='LightSeaGreen'>*（文章前文在说绘画，这里继续说绘画的某一个细节）*</font>One of <font color='Salmon'>the most puzzling</font> aspects of the paintings is their <font color='Salmon'>location</font>. <font color='LightSeaGreen'>*（提出：位置问题，预判下文详细阐述位置细节）*</font> <font color='red'>**||**</font> <font color='Salmon'>Other rock</font> paintings—for example, those of Bushmen <font color='Salmon'>in South Africa</font>—are <font color='Blue'>either</font> located <font color='Salmon'>near cave entrances</font> <font color='Blue'>or</font> completely <font color='Salmon'>in the open</font>. <font color='LightSeaGreen'>*（举例1：岩石画位置）*</font> <font color='red'>**|| 对比**</font> <font color='Salmon'>Cave</font> paintings <font color='Salmon'>in France and Spain</font>, <font color='Blue'>*however*</font>, are <font color='Salmon'>in recesses and caverns</font> <font color='Blue'>far removed from</font> <font color='Salmon'>original cave entrances</font>. <font color='LightSeaGreen'>*（举例2：洞穴画位置）*</font>This means that artists were <font color='Salmon'>forced</font> to work <font color='Salmon'>in cramped spaces</font> and <font color='Salmon'>without sources of natural light</font>. <font color='LightSeaGreen'>*（顺承：引出艺术家工作与位置的关系）*</font>It <font color='Blue'>*also*</font> implies that whoever made them did not want them to be easily found. <font color='LightSeaGreen'>*（顺承：进一步提出隐蔽问题，引发思考，为什么提及这块）*</font> <font color='Blue'>*Since*</font> cave dwellers normally lived <font color='Salmon'>close to entrances</font>, there must have been some <font color='Salmon'>reason</font> why so many generations of Lascaux cave dwellers hid their art.<font color='LightSeaGreen'>*（含对比，作者也在阐述隐藏是有原因的，预判下段可能会详细阐述隐藏原因）*</font>
 
 !!! faq ""
 
-    What can be inferred from paragraph 2 about cave painters in France and Spain?
-    >
+    **What** ==can be inferred from== ^^paragraph 2 about *cave painters { in France and Spain `地点`}*^^?
+    > 从第二段关于在法国和西班牙洞穴画内容推断出什么？
     
-    A. They also painted rocks outside caves. 
-    >
+    A. **They** ==also painted== ^^rocks outside caves^^. 
+    > 他们也被画在洞穴外面的岩石上。
     
-    B. They did not live close to the cave entrances. 
-    >
+    {--B--}. **They** ==did not live== ^^close to the cave entrances^^. 
+    > 他们不会生活在接近洞穴口的位置。
     
-    C. They developed their own sources of light to use while painting. 
-    >
-    
-    D. Their painting practices did not last for many years. 
-    >
-
     !!! failure ""
+    
+        真坑！
+        
+        最后一句：{++Since cave dwellers normally lived close to entrances++} 是在说他们会住在接近门口的位置    
+    
+    {++C++}. **They** ==developed== ^^their own sources of light {++to use++} { while painting `时间`}^^. 
+    > 他们开发他们自己的在绘画时要用到的光资源。
+    
+    !!! failure ""
+    
+        因果
+        
+        {++artists were forced to work in cramped spaces and without sources of natural light++} 没有自然光，还要工作，所以需要自己开发光资源…… ==否则黑着怎么干活！！！==
+    
+    D. **Their painting practices** ==did not last== ^^for many years^^. 
+    > 他们的绘画习俗不会持续很多年。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-    
-### 2018-07-15
+aspects 方面 | Bushmen 布希曼人 | recesse 【墙壁，架子，柜子等的】凹进处
+cavern 大洞穴  | forced sb to do sth 迫使某人做某事 | cramped 狭窄的，狭小的
+ whoever 谁，无论谁，任何人 | dweller 居民，居住者 | generation 一代人
+Lascaux 地名 | cave 洞穴，山洞 | be far removed from sth 预谋是迥然不同
+practice 经常做的事，习俗
+     
+### 2018-07-16
 
 #### 9.
 
-Paragraph 4: Wind power is most economical in areas with steady winds. 
->
+Paragraph 4: **Wind power** ==is== ^^most economical { in areas with steady winds `地点`}^^. 
+>在有稳定风的地区，风力发电是最经济的。
 
-In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. 
->
+{ In areas {++where the wind dies down++} `地点`}, **backup electricity from a utility company or from an energy storage system** ==becomes== ^^necessary^^. 
+> 在风平息的地区，从一个实用性公司或者从一个能源储备系统做备份电是有必要的。
 
-Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. 
->
+**Backup power** ==could also be provided== { by linking wind farms *with* a solar cell , *with* conventional or pumped-storage hydropower, *or with* efficient natural-gas-burning turbines `方式`}. 
+> 备份电源也能够供电，通过连接有太阳能电池的风电场，有传统的或者抽水蓄能的水力发电，或者有高效的燃烧天然气的涡轮机。
 
-Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.
->
+【 **Some drawbacks to wind farms include visual pollution and noise**, *although* *these* ==can be overcome== { by improving their design `方式`} and ==locating== ^^them^^ { in isolated areas `地点`} `方式`}. 】
+> 尽管风电场的一些收回包括视觉污染和噪音，但是他们能够通过改善他们的设计和在把他们设置在隔离区。
 
-> Paragraph 4: Wind power is most economical in areas with steady winds. In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas.
+> Paragraph 4: <font color='LightSeaGreen'>*（文章前文可能在讲发电的东西，也可能提到很多种发电类型，这里顺承前文，阐述具体风力发电类型）*</font>Wind power is most economical in areas with steady winds. <font color='LightSeaGreen'>*（提出风力发电）*</font><font color='red'>**||**</font> In areas where the wind <font color='Salmon'>dies down</font>, <font color='Salmon'>backup electricity</font> from a utility company or from an energy storage system <font color='Salmon'>becomes necessary</font>. <font color='LightSeaGreen'>*（这里引出风少时的说明，因为风力发电需要风，容易使人思考没风怎么办，学习者疑虑。这里提出2个备用）*</font>Backup power could <font color='Blue'>*also*</font> be provided by linking wind farms with <font color='Salmon'>a solar cell</font>, with <font color='Salmon'>conventional</font> or <font color='Salmon'>pumped-storage hydropower</font>, or with <font color='Salmon'>efficient natural-gas-burning turbines</font>. <font color='LightSeaGreen'>*（顺承，详细阐述备用如何工作，用来支持上一句）*</font>Some <font color='Salmon'>drawbacks</font> to wind farms include <font color='Salmon'>visual pollution</font> and <font color='Salmon'>noise</font>, <font color='Blue'>*although*</font> these can be <font color='Salmon'>overcome</font> by improving their design and locating them in isolated areas.<font color='LightSeaGreen'>*（上面的各种with方式会引发人们的思考，这些方式的副作用，那么这里抛出副作用，通过让步方式回答如何处理副作用，进一步支持风电场的可用性）*</font>
 
 !!! faq ""
 
-    According to paragraph 4, what can be inferred about the problems of visual pollution and noise associated with wind farms?
-    >
+    { According to paragraph 4 `抽象地点`}, **what** ==can be inferred== ^^about *the problems of visual pollution and noise associated with wind farms*^^?
+    > 根据第四段，关于可视化污染和噪音与风电场的联系能推断出什么？
     
-    A. Both problems affect the efficiency of wind farms. 
-    >
+    A. **Both problems** ==affect== ^^the efficiency of wind farms^^. 
+    > 这俩问题影响风电场的效率。
     
-    B. Possible solutions are known for both problems. 
-    >
+    ==B==. **Possible solutions** ==are== ^^known for both problems^^. 
+    > 可能的解决方法是对两个问题都了解。
     
-    C. Wind power creates more noise than visual pollution. 
-    >
-    
-    D. People are more concerned about visual pollution than noise.
-    > 
-
     !!! failure ""
+    
+        原文提到 {++improving their design and locating them in isolated areas++} 如果不了解设计怎么改善，如果不了解怎么会选择用隔离的方式
+        
+        其次就是排除法，其他选项文章都没提
+    
+    C. **Wind power** ==creates== ^^more noise { than visual pollution `比较`}^^. 
+    > 风力发电创造的噪音比视觉污染更多。
+    
+    !!! failure ""
+        
+        没有提出谁多谁少，受昨天对答案选项影响
+    
+    D. **People** ==are== ^^more concerned about visual pollution { than noise `比较`}^^.
+    > 人们更关心比关心噪音更关心视觉污染。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+dies down 减弱，平息 | electricity 电 n. | utility 【正式】实用（性），效用 n.
+solar （利用）太阳（能）的 | conventional 传统的，常规的 | pumped-storage 【电工学】抽水蓄能的
+hydropower 水力发电 n. | turbines 涡轮机 | drawback 后退，放弃，撤回 v. 不利条件 n.
+be located in sth 位于某处或附近 | isolated 孤立的，隔离的 | associate with 联系，关联
+visual 可视化的 | backup 支持的，候补的；做备份 v. | energy 能源
+cell 电池 | wind farms 风电场
+
+### 2018-07-17
 
 #### 10.
 
-Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. 
->
+Paragraph 3: **The body** {++that impacted Earth++} { at the end of the Cretaceous period `时间`} ==was== ^^a meteorite^^ {++with a mass of more than a trillion tons and a diameter of at least 10 kilometers++}. 
+> 在白垩纪时期的尾端撞击地球的主体是含有大量的比一兆顿还重的体积，并且至少10公里直径的陨石。
 
-Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. 
->
+**Scientists** first ==identified== ^^this impact^^ { in 1980 `时间`} ==from== ^^the worldwide layer of sediment {++deposited from the dust cloud++}^^ {++that enveloped the planet after the impact++}. 
+> 科学家第一次认识到这个撞击在1980年，来自全世界沉淀物的表层，这些表层在影响后覆盖地球。
 
-This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. 
->
+**This sediment layer** ==is enriched in== ^^the rare metal iridium and other elements^^ {++that are relatively abundant in a meteorite *but* very rare in the crust of Earth++}. 
+> 这个沉积层富含稀少的金属铱和在陨石中相对丰富，但是在地球地壳中非常稀有的其他元素。
 
-Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. 
->
+{ Even diluted by the terrestrial material {++excavated from the crater++} `让步`}, **this component of meteorites** ==is easily identified==. 
+> 甚至从陨石坑中发掘的地球地壳的物质被稀释，这些陨石成分很容易识别出。
 
-By 1990 geologists had located the impact site itself in the Yucat region of Mexico. 
->
+{ By 1990 `时间`} **geologists** ==had located== ^^the impact site itself  { in the Yucat region of Mexico `地点`}^^. 
+> 到1990年，地质学家在位于墨西哥的Y地区找出撞击地点本身。
 
-The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. 
->
+**The crater**, ( now deeply buried in sediment ), ==was== ^^originally about 200 kilometers { in diameter `地点`}^^. 
+> 陨石坑，现在深埋在沉淀物中，起初大约200公里直径。
 
-> Paragraph 3: The body that impacted Earth at the end of the Cretaceous period was a meteorite with a mass of more than a trillion tons and a diameter of at least 10 kilometers. Scientists first identified this impact in 1980 from the worldwide layer of sediment deposited from the dust cloud that enveloped the planet after the impact. This sediment layer is enriched in the rare metal iridium and other elements that are relatively abundant in a meteorite but very rare in the crust of Earth. Even diluted by the terrestrial material excavated from the crater, this component of meteorites is easily identified. By 1990 geologists had located the impact site itself in the Yucat region of Mexico. The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. 
+> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能是说白垩纪前期中期对地球的影响物质，这里提出陨石，预判下文详细阐述陨石对地球的影响）*</font><font color='red'>**||**</font> The body that impacted Earth at <font color='Salmon'>the end of the Cretaceous period</font> was a meteorite with <font color='Salmon'>a mass of more than a trillion tons</font> and <font color='Salmon'>a diameter of at least 10 kilometers</font>. <font color='LightSeaGreen'>*（陨石属性：超级大超级重）*</font>Scientists first identified this impact <font color='Salmon'>in 1980</font> from the worldwide layer of sediment deposited from the <font color='Salmon'>dust cloud</font> that enveloped the planet <font color='Salmon'>after</font> the impact. <font color='LightSeaGreen'>*（陨石撞击现象：提出沉积层）*</font>This sediment layer is enriched in the <font color='Salmon'>rare metal iridium and other elements</font> that are relatively abundant in a meteorite <font color='Blue'>*but*</font> <font color='Salmon'>very rare in the crust of Earth</font>. <font color='LightSeaGreen'>*（顺承，沉积层细节，提出内含稀少物质）*</font> <font color='Blue'>*Even*</font> <font color='Salmon'>diluted</font> by the terrestrial material excavated from the crater, this component of meteorites is <font color='Salmon'>easily identified</font>. <font color='LightSeaGreen'>*（让步：进一步强调沉积层内部物质属性：稀少）*</font><font color='red'>**||**</font> <font color='Salmon'>By 1990</font> geologists had located the impact site itself in the Yucat region of Mexico. <font color='LightSeaGreen'>*（陨石撞击另一现象：撞击坑，提出撞击地点）*</font>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. <font color='LightSeaGreen'>*（撞击坑属性：超级大）*</font>
 
 !!! faq ""
 
-    Which of the following can be inferred from paragraph 3 about the location of the meteorite impact in Mexico? 
-    >
+    **Which of the following** ==can be inferred from== ^^paragraph 3 about *the location of the meteorite impact* { in Mexico `地点`}^^? 
+    > 从第三段关于墨西哥陨石影响的位置，能推断出以下哪项？
     
-    A. The location of the impact site in Mexico was kept secret by geologists from 1980 to 1990.
-    >
+    A. **The location of the impact site { in Mexico `地点`}** ==was kept== ^^secret^^ { by geologists `方式`} { from 1980 to 1990 `时间`}.
+    > 墨西哥影响地点的位置从1980年到1990年，科学家们是保密的。
     
-    B. It was a well-known fact that the impact had occurred in the Yucat region.
-    >
+    B. *It* ==was== ^^a well-known fact^^ **that the impact had occurred { in the Yucat region `地点`}**.
+    > 这个影响发生在Y地区是众所周知的事实。
     
-    C. Geologists knew that there had been an impact before they knew where it had occurred.
-    >
+    ==C==. **Geologists** ==knew== {++that there had been an impact++} { before they knew `时间`} {++where it had occurred++} .
+    > 地质学家知道在他们知道哪儿的影响已发生之前有一个影响。
     
-    D. The Yucat region was chosen by geologists as the most probable impact site because of its climate.
-    >
-
     !!! failure ""
+    
+        这道题 C 的内容有点绕，定语从句嵌套
+        
+        其次，采用排除法后更确定这个选项    
+    
+    D. **The Yucat region** ==was chosen== { by geologists `方式`} { as the most probable impact site `方式`} { because of its climate `原因`}.
+    > Y地区由地质学家选定，作为最可能影响地点，因为他们的气候。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-    
-### 2018-07-16
+impacte 对……产生【重要或明显的】影响，撞击；影响 n. | Cretaceous 白垩纪 | meteorite 陨石
+trillion 万亿，兆 | diameter 直径 | identify 识别 v.
+worldwide 全世界（的），在全世界 adv. | sediment 沉淀物 | dust 尘，灰尘
+envelope 【正式】包住；覆盖 | enriched 使丰富，使充实 | iridium 铱
+crust 壳，地壳 | dilute 稀释【液体】，使【液体】变淡 v. | terrestrial 陆地的，地球的
+excavate 【考古】发掘，挖掘 v. | crater 【物体坠落在地上造成的】坑 | component 组成部分，成分
+layer 层，阶层 | planet 行星，地球，星球 | well-known 众所周知的
+bury  埋 v.
+
+### 2018-07-18
 
 #### 11.
 
@@ -573,6 +622,8 @@ In turn, a deep attachment to the land, and to the stability which rural life en
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+
+### 2018-07-19
 
 #### 12.
 
@@ -618,7 +669,7 @@ The answer to such questions has nothing to do with a lack of skill or imaginati
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
     
-### 2018-07-17
+### 2018-07-20
 
 #### 13.
 
@@ -664,6 +715,8 @@ On overcast days, however, the birds were disoriented and had trouble locating t
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 
+### 2018-07-21
+
 #### 14.
 
 Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. 
@@ -705,7 +758,7 @@ The eggs “advertised” by the tree-nesters' begging calls were found bitten s
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
     
-### 2018-07-18
+### 2018-07-22
 
 #### 15.
 

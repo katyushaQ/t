@@ -1,4 +1,4 @@
-#### 范文
+#### 范文 1
 
 Do agree or disagree with the following satement: It is easier nowadays to get educated than before.
 
@@ -12,7 +12,35 @@ Finally, in most counties today, governments have a greater involvement in promo
 
 In conclustion, education is becoming more and more accessiable due to a number of factors: Computerization has given us new and interesting ways to learn, schooling is no longer restricted to elite, and government has become more involved in educating ther citizens. Overall, getting education has become easier for everyone in modern times.
 
+----
 
+### 2018-07-18
+
+#### 范文 2
+
+A./D. Do you agree or disagree with the following statement: Teachers had a greater influence on young people in the past than they do today. Use specific reasons and examples to support your answer.
+
+Teachers have always been an important part of human society. Some believe that the golden age of teachers has already passed--that teachers no longer have influence over our youth like the teachers of the past did. I disagree.
+
+For one thing, more people are attending school than before, so teachers are able to influence to young people on a lager scale than before. On reason more people are going to school is because primary and secondary education are now compulsory in most countries, with some countries like Chile even implementing free schooling up to the age of 21. Another reason is that higher education is receiving more attention, with scholarship allowing exceptional students to study for free or cheaply, study loans giving all students alternative way to pay for university, and goverment-sponsored exchange programs enabling students to study in foreign countries. Even people in rural and remote areas are going a chance to go to school thanks to governmental involvement. Because of these factors, teachers today are able to affect the lives of more people.
+
+
+##### New words
+
+PHRASE |  PHRASE
+------------ | -------------
+the golden age of sb has already past 黄金年龄已不再 | primary and secondary education 中小学教育
+attend school 上学 | receiving attention 受到关注
+exchange programs 交换生项目 | the lives of more people 更多人的生活
+be an important part of sth 某事很重要 | have influence over sb/influence sb 影响某人
+on a lager acale 在很大程度上 | revieve more attention 获得更多关注
+give sb alternative way to do sth 给某人另一种方法做某事 | 
+
+
+
+----
+
+#### 范文 3
 
 
 #### 自己写
