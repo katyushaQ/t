@@ -33,7 +33,7 @@ the golden age of sb has already past 黄金年龄已不再 | primary and second
 attend school 上学 | receiving attention 受到关注
 exchange programs 交换生项目 | the lives of more people 更多人的生活
 be an important part of sth 某事很重要 | have influence over sb/influence sb 影响某人
-on a lager acale 在很大程度上 | revieve more attention 获得更多关注
+on a lager scale 在很大程度上 | revieve more attention 获得更多关注
 give sb alternative way to do sth 给某人另一种方法做某事 | 
 
 

@@ -544,7 +544,7 @@ Paragraph 3: **The body** {++that impacted Earth++} { at the end of the Cretaceo
 **The crater**, ( now deeply buried in sediment ), ==was== ^^originally about 200 kilometers { in diameter `地点`}^^. 
 > 陨石坑，现在深埋在沉淀物中，起初大约200公里直径。
 
-> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能是说白垩纪前期中期对地球的影响物质，这里提出陨石，预判下文详细阐述陨石对地球的影响）*</font><font color='red'>**||**</font> The body that impacted Earth at <font color='Salmon'>the end of the Cretaceous period</font> was a meteorite with <font color='Salmon'>a mass of more than a trillion tons</font> and <font color='Salmon'>a diameter of at least 10 kilometers</font>. <font color='LightSeaGreen'>*（陨石属性：超级大超级重）*</font>Scientists first identified this impact <font color='Salmon'>in 1980</font> from the worldwide layer of sediment deposited from the <font color='Salmon'>dust cloud</font> that enveloped the planet <font color='Salmon'>after</font> the impact. <font color='LightSeaGreen'>*（陨石撞击现象：提出沉积层）*</font>This sediment layer is enriched in the <font color='Salmon'>rare metal iridium and other elements</font> that are relatively abundant in a meteorite <font color='Blue'>*but*</font> <font color='Salmon'>very rare in the crust of Earth</font>. <font color='LightSeaGreen'>*（顺承，沉积层细节，提出内含稀少物质）*</font> <font color='Blue'>*Even*</font> <font color='Salmon'>diluted</font> by the terrestrial material excavated from the crater, this component of meteorites is <font color='Salmon'>easily identified</font>. <font color='LightSeaGreen'>*（让步：进一步强调沉积层内部物质属性：稀少）*</font><font color='red'>**||**</font> <font color='Salmon'>By 1990</font> geologists had located the impact site itself in the Yucat region of Mexico. <font color='LightSeaGreen'>*（陨石撞击另一现象：撞击坑，提出撞击地点）*</font>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. <font color='LightSeaGreen'>*（撞击坑属性：超级大）*</font>
+> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能是说白垩纪前期中期对地球的影响物质，这里提出陨石，预判下文详细阐述陨石对地球的影响）*</font>The body that impacted Earth at <font color='Salmon'>the end of the Cretaceous period</font> was a meteorite with <font color='Salmon'>a mass of more than a trillion tons</font> and <font color='Salmon'>a diameter of at least 10 kilometers</font>. <font color='LightSeaGreen'>*（陨石属性：超级大超级重）*</font>Scientists first identified this impact <font color='Salmon'>in 1980</font> from the worldwide layer of sediment deposited from the <font color='Salmon'>dust cloud</font> that enveloped the planet <font color='Salmon'>after</font> the impact. <font color='LightSeaGreen'>*（陨石撞击现象：提出沉积层）*</font>This sediment layer is enriched in the <font color='Salmon'>rare metal iridium and other elements</font> that are relatively abundant in a meteorite <font color='Blue'>*but*</font> <font color='Salmon'>very rare in the crust of Earth</font>. <font color='LightSeaGreen'>*（顺承，沉积层细节，提出内含稀少物质）*</font> <font color='Blue'>*Even*</font> <font color='Salmon'>diluted</font> by the terrestrial material excavated from the crater, this component of meteorites is <font color='Salmon'>easily identified</font>. <font color='LightSeaGreen'>*（让步：进一步强调沉积层内部物质属性：稀少）*</font><font color='red'>**||**</font> <font color='Salmon'>By 1990</font> geologists had located the impact site itself in the Yucat region of Mexico. <font color='LightSeaGreen'>*（陨石撞击另一现象：撞击坑，提出撞击地点）*</font>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. <font color='LightSeaGreen'>*（撞击坑属性：超级大）*</font>
 
 !!! faq ""
 
@@ -584,44 +584,67 @@ bury  埋 v.
 
 #### 11.
 
-Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. 
->
+Paragraph 3: Certainly, { in trying to explain the Roman phenomenon `地点`}, **one** == would have to place== ^^great emphasis^^ ==on== ^^this almost instinct for the territorial imperative^^. 
+> 当然，在尝试解释罗马的现象中，一点要必须关注有大量的重点在这些几乎领土的命令的本能上。
 
-Roman priorities lay in the organization, exploitation, and defense of their territory. 
->
+**Roman priorities** ==lay in== ^^the organization, exploitation, and defense of their territory^^. 
+> 罗马的当务之急放置在他们领土的组织，利用和防御上。
 
-In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. 
->
+【 { In all probability `地点`} **it** ==was== ^^the fertile plain of Latium^^, {++where the Latins++} {++who founded Rome originated++}, **that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society**.  】
+>在所有的可能性中， 创造陆地上的居住习惯和技能，陆地上的财产，陆地上的经济，陆地上的管理和基于陆地的社会是找到起源的罗马的拉丁人所在的拉丁姆的肥沃的平原 。
 
-From this arose the Roman genius for military organization and orderly government. 
->
+【 **From this** ==arose== ^^the Roman genius for military organization and orderly government^^. 】
+> 从这个计划产生军事组织和有秩序的管理的罗马天赋。
 
-In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
->
+In turn, **a deep attachment to the land, and to the stability** {++which rural life engenders++}, ==fostered== ^^the Roman virtues^^: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
+> 相应地，一个深度忠诚于陆地和忠诚于引起乡村生活的稳定性，促进罗马美德：庄严，责任感，圣母怜子雕像，对家庭和国家的忠诚感和主持正义，自然秩序感。
 
-> Paragraph 3: Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost instinct for the territorial imperative. Roman priorities lay in the organization, exploitation, and defense of their territory. In all probability it was the fertile plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. From this arose the Roman genius for military organization and orderly government. In turn, a deep attachment to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
+> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能在说罗马起源，这里为第三段，预判下文详细阐述罗马的某一具象）*</font>Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost <font color='Salmon'>instinct for the territorial imperative</font>. <font color='LightSeaGreen'>*（引出具象：关于对领土的本能，预判下文详细阐述罗马人怎么着领土了）*</font>Roman <font color='Salmon'>priorities</font> lay in the <font color='Salmon'>organization</font>, <font color='Salmon'>exploitation</font>, and <font color='Salmon'>defense of their territory</font>. <font color='LightSeaGreen'>*（对上一句的细化，并说明对领土怎么着）*</font><font color='red'>**||**</font> In all probability it was <font color='Salmon'>the fertile plain</font> of Latium, where the Latins who <font color='Salmon'>founded Rome originated</font>, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. <font color='LightSeaGreen'>*（举例，引出拉丁姆和他们做的事）*</font>From this arose the Roman <font color='Salmon'>genius</font> for military <font color='Salmon'>organization</font> and <font color='Salmon'>orderly government</font>. <font color='LightSeaGreen'>*（顺承，引出明确的“军事”方面特长）*</font>In turn, a deep attachment <font color='Salmon'>to the land</font>, and <font color='Salmon'>to the stability</font> which rural life engenders, <font color='Salmon'>fostered the Roman virtues</font>: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.<font color='LightSeaGreen'>*（递进补充，特长带来的诸多好处）*</font>
 
 !!! faq ""
 
-    Paragraph 3 suggests which of the following about the people of Latium?
-    >
+    **Paragraph 3** ==suggests== {++which of the following about *the people of Latium*++}?
+    > 第三段暗示以下哪个选项关于拉丁姆人？
     
-    A. Their economy was based on trade relations with other settlements.
-    >
+    A. **Their economy** ==was based on== ^^trade relations with other settlements^^.
+    > 他们的经济基于与其他移民的贸易关系
     
-    B. They held different values than the people of Rome.
-    >
+    B. **They** ==held== ^^different values { than the people of Rome `比较`}^^.
+    > 他们与罗马人们持有不同价值观。
     
-    C. Agriculture played a significant role in the society.
-    >
+    {++C++}. **Agriculture** ==played== ^^a significant role {in the society `地点`}^^.
+    > 农业在社会中扮演重要角色。
     
-    D. They possessed unusual knowledge of animal instincts.
-    >
+    !!! failure ""
+        
+        ==没有找到与农业有关的内容== 可能是第二句没有看懂
+    
+    {--D--}. **They** ==possessed== ^^unusual knowledge of animal instincts^^.
+    > 他们拥有动物本能的不寻常的知识。
 
     !!! failure ""
+    
+        {++From this……the Roman genius for……++} 指有某方面天赋，所以选 D
+        
+        不同寻常的知识？好像也没提，文章指提到“领土”本能，关于方面的天赋
+        
+        AB文章里都没提
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+Certainly 无疑，确定，当然 | place on 【尤指小心】放置 | emphasis 重点，重要性，强调
+instinct 本能，直觉 n. | imperative 紧急的事，命令 n. | priorities 优先处理的事 n.
+lay in 放置 v. | exploitation 开发，利用，剥削 | probability 概率，可能性
+fertile 肥沃的，丰富的 | Latium 拉丁姆 地名| originate 起源于 v.
+landed 拥有大量土地的，陆地上的 | arose （arise过去式） 出现，产生，发生 v. | genius 天才，天赋
+military 军用的，军事的，军队的 | In turn 相应地 | attachment to 依恋，信仰，忠诚
+stability 稳定，稳定性 | engender 【正式】引起，产生（某种情感或感觉） | foster 促进，培养，抚育
+gravitas 【正式】严肃，庄严 | peita 圣母怜子雕像  | devotion 奉献，忠诚 n.
+iustitia 主持正义 | based on 以…为基础 | Agriculture 农业
+possess 拥有，持有 v. | territorial 领土的 | Latin 拉丁人
+property 财产，资产 | orderly 整齐的，有秩序的 | settlement 移民
+plain 平原
+
 
 ### 2018-07-19
 

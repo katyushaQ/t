@@ -49,6 +49,7 @@ pages:
     
 - Listen:
     - 老托: listen/old.md
+    - Basics: listen/basics.md
 
 # - Word:
 #     - 短语: word/phrase.md
