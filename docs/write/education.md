@@ -24,9 +24,6 @@ Teachers have always been an important part of human society. Some believe that 
 
 For one thing, more people are attending school than before, so teachers are able to influence to young people on a lager scale than before. On reason more people are going to school is because primary and secondary education are now compulsory in most countries, with some countries like Chile even implementing free schooling up to the age of 21. Another reason is that higher education is receiving more attention, with scholarship allowing exceptional students to study for free or cheaply, study loans giving all students alternative way to pay for university, and goverment-sponsored exchange programs enabling students to study in foreign countries. Even people in rural and remote areas are going a chance to go to school thanks to governmental involvement. Because of these factors, teachers today are able to affect the lives of more people.
 
-
-##### New words
-
 PHRASE |  PHRASE
 ------------ | -------------
 the golden age of sb has already past 黄金年龄已不再 | primary and secondary education 中小学教育
@@ -36,7 +33,22 @@ be an important part of sth 某事很重要 | have influence over sb/influence s
 on a lager scale 在很大程度上 | revieve more attention 获得更多关注
 give sb alternative way to do sth 给某人另一种方法做某事 | 
 
+### 2018-07-19
 
+For another thing, education is seen as a higher priority now than in the past, so teachers are considered more important to young people's development this day and age. This is especially true with regard to minorities and women, because we now know that a lot of race and gender inequalities stem from education imblance. The men and women teaching in our academic institutions today are not only increasing literacy  and imparting wisdom, they are also helping to rebalance society by helping young illiterate people from disadvantaged groups get the qualitications they need to compete equally.
+> 另一点，教育在现在相比以前很重要，所以现在老师认为对年轻人发张更重要。就于少数和女性尤其真实，因为我们现在知道大量的竞争和性别不平等来自教育失衡。今天男性和女性在我们的学院制度下受教育不仅增长识字和传授智慧，他们也可以帮助社会重新平衡，通过帮助来自不利地位群体的文盲年轻人获得他们想要公平竞争的资格。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+minorities 少数 n. | especially 尤其 | inequalities 不平等 n. 
+institutions 制度 | stem 阻止 v. | imblance 失衡 n.
+equally 平等地  | imparting 【向某人】传授【知识，智慧】 | wisdom 智慧
+illiterate 不识字的；文盲 n. | disadvantaged 处于不利地位的  | qualitications 资格
+
+PHRASE |  PHRASE
+------------ | -------------
+be seen as a higher priority 某是很重要 | this day and age 现在
+impart knowledge / widsom 传授知识/智慧
 
 ----
 

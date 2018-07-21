@@ -2,6 +2,29 @@
 
 #### 1.
 
+!!! faq ""
+
+    **Which of the following** ==can be inferred from== ^^paragraph 1 about early sea otters^^?
+    > 从第一段关于早期海洋水獭推断出以下哪项？
+    
+       ==A==. **It** ==is not difficult to imagine== ^^what they looked like^^
+       > 很难想象他们看起来像什么
+       
+       B. ^^There^^ ==were== **great numbers of them**. 
+       > 他们的数量很庞大
+       
+       C. **They** ==lived in== ^^the sea only^^.
+       > 他们只生活在海洋中
+       
+       D. **They** ==did not leave== ^^many fossil remains^^.
+       > 他们没留下许多化石残余物 
+
+    !!! failure ""
+
+It should be obvious that cetaceans-whales, porpoises, and dolphins-are mammals. <font color='LightSeaGreen'>*（下定义，下文详细介绍）*</font>They breathe through lungs, not through gills, and give birth to live young. Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land-dwelling mammals. <font color='LightSeaGreen'>*（引出与陆地哺乳的关系，下文可能说区别）*</font><font color='red'>**|| 转折**</font> <font color='Blue'>*However*</font>, unlike the cases of sea otters and pinnipeds (seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct <font color='Blue'>*but*</font>, already fully marine cetaceans are known from the fossil record. <font color='LightSeaGreen'>*（参考传统两栖动物，对鲸形体的猜测和出处）*</font>How was the gap between a walking mammal and a swimming whale bridged? Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. <font color='LightSeaGreen'>*（提出与陆地哺乳差别问题，回答问题）*</font>
+
+----
+
 ***It*** ==should be== ^^obvious^^ **that cetaceans-whales, porpoises, and dolphins-are mammals**.
 > 鲸鱼， 鼠海豚和海豚显然是哺乳动物
 
@@ -23,29 +46,6 @@
 **Missing until recently** ==were== ^^fossils clearly intermediate, or transitional^^, {++between land mammals and cetaceans++}.
 >  缺失的直到最近，化石显然是中间的或者在陆地哺乳动物和鲸之间的过度。
 
-----
-
-> It should be obvious that cetaceans-whales, porpoises, and dolphins-are mammals. <font color='LightSeaGreen'>*（下定义，下文详细介绍）*</font>They breathe through lungs, not through gills, and give birth to live young. Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land-dwelling mammals. <font color='LightSeaGreen'>*（引出与陆地哺乳的关系，下文可能说区别）*</font><font color='red'>**|| 转折**</font> <font color='Blue'>*However*</font>, unlike the cases of sea otters and pinnipeds (seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct <font color='Blue'>*but*</font>, already fully marine cetaceans are known from the fossil record. <font color='LightSeaGreen'>*（参考传统两栖动物，对鲸形体的猜测和出处）*</font>How was the gap between a walking mammal and a swimming whale bridged? Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. <font color='LightSeaGreen'>*（提出与陆地哺乳差别问题，回答问题）*</font>
-
-!!! faq ""
-
-    **Which of the following** ==can be inferred from== ^^paragraph 1 about early sea otters^^?
-    > 从第一段关于早期海洋水獭推断出以下哪项？
-    
-       ==A==. **It** ==is not difficult to imagine== ^^what they looked like^^
-       > 很难想象他们看起来像什么
-       
-       B. ^^There^^ ==were== **great numbers of them**. 
-       > 他们的数量很庞大
-       
-       C. **They** ==lived in== ^^the sea only^^.
-       > 他们只生活在海洋中
-       
-       D. **They** ==did not leave== ^^many fossil remains^^.
-       > 他们没留下许多化石残余物 
-
-    !!! failure ""
-    
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 otters 水獭 | obvious 显然的 | cetaceans-whales 鲸目动物-鲸
@@ -59,25 +59,6 @@ clearly 毫无疑问，显然 | porpoises 鼠海豚 | give birth (to sb.) 生孩
 gap 【大的】差距，差额，差别
 
 #### 2.
-
-Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `地点`} ==had been done== { in homes or shops `地点`}  { by skilled artisans `方式`}.
-> 早于1815年，美国制造业在家里或者店里由熟练工匠生产。
-
-{ As master craft workers ``}, **they** ==imparted== ^^the knowledge of their trades to apprentices and journeymen^^.
-> 作为熟练工艺工作者，他们将他们的手艺知识传授给徒弟和熟练工。
-
- In addition, **women** ==often worked== { in their homes part-time `抽象地点`}, { making finished articles from raw material supplied `结果`} { by merchant capitalists `方式`}. 
- > 此外，女人们常常在家做兼职，从资本家提供的原始材料完成物品生产。
- 
- 【 { After 1815 `时间`} **this older form of manufacturing** ==began to give way to== ^^factories with machinery tended^^ { by unskilled or semiskilled laborers `方式`}. 】
- > 1815年以后，制造业的这个老旧形式开始让路给由非熟练或半熟练工人的机械工厂生产。
- 
- **Cheap transportation networks**, ( the rise of cities ), and **the availability of capital and credit all** ==stimulated== ^^the shift to factory production^^.
- > 廉价的运输网络，城市的增加， 资本和信贷的的可获得促进转换为工厂生产。
-
-----
-
-> Paragraph 1: <font color='Blue'>*Before 1815*</font> manufacturing in the United States had been done in homes or shops by skilled artisans. <font color='LightSeaGreen'>*（老旧生产方式）*</font>As master craft workers, they imparted the knowledge of their trades to apprentices and journeymen. <font color='LightSeaGreen'>*（介绍生产者）*</font><font color='Blue'>*In addition*</font>, women often worked in their homes part-time, making finished articles from raw material supplied by merchant capitalists. <font color='LightSeaGreen'>*（通过细节更加详细介绍老旧形式）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*After 1815*</font> this older form of manufacturing began to give way to factories with machinery tended by unskilled or semiskilled laborers. <font color='LightSeaGreen'>*（引出新的生产方式）*</font>Cheap transportation networks, the rise of cities, and the availability of capital and credit all stimulated the shift to factory production. <font color='LightSeaGreen'>*（支持新生产方式的背景）*</font>
 
 !!! faq ""
 
@@ -108,6 +89,25 @@ Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `
     D. **They** ==were produced== ^^mostly in large cities with extensive transportation networks^^.
     > 他们主要在大城市生产，结合大规模的运输网络。
     
+Paragraph 1: <font color='Blue'>*Before 1815*</font> manufacturing in the United States had been done in homes or shops by skilled artisans. <font color='LightSeaGreen'>*（老旧生产方式）*</font>As master craft workers, they imparted the knowledge of their trades to apprentices and journeymen. <font color='LightSeaGreen'>*（介绍生产者）*</font><font color='Blue'>*In addition*</font>, women often worked in their homes part-time, making finished articles from raw material supplied by merchant capitalists. <font color='LightSeaGreen'>*（通过细节更加详细介绍老旧形式）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*After 1815*</font> this older form of manufacturing began to give way to factories with machinery tended by unskilled or semiskilled laborers. <font color='LightSeaGreen'>*（引出新的生产方式）*</font>Cheap transportation networks, the rise of cities, and the availability of capital and credit all stimulated the shift to factory production. <font color='LightSeaGreen'>*（支持新生产方式的背景）*</font>
+
+----
+    
+Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `地点`} ==had been done== { in homes or shops `地点`}  { by skilled artisans `方式`}.
+> 早于1815年，美国制造业在家里或者店里由熟练工匠生产。
+
+{ As master craft workers ``}, **they** ==imparted== ^^the knowledge of their trades to apprentices and journeymen^^.
+> 作为熟练工艺工作者，他们将他们的手艺知识传授给徒弟和熟练工。
+
+ In addition, **women** ==often worked== { in their homes part-time `抽象地点`}, { making finished articles from raw material supplied `结果`} { by merchant capitalists `方式`}. 
+ > 此外，女人们常常在家做兼职，从资本家提供的原始材料完成物品生产。
+ 
+ 【 { After 1815 `时间`} **this older form of manufacturing** ==began to give way to== ^^factories with machinery tended^^ { by unskilled or semiskilled laborers `方式`}. 】
+ > 1815年以后，制造业的这个老旧形式开始让路给由非熟练或半熟练工人的机械工厂生产。
+ 
+ **Cheap transportation networks**, ( the rise of cities ), and **the availability of capital and credit all** ==stimulated== ^^the shift to factory production^^.
+ > 廉价的运输网络，城市的增加， 资本和信贷的的可获得促进转换为工厂生产。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 concern 担忧，关心 n. | extensive 广阔的，大量的，大规模的，全面的 | imparted 赋予，【向某人】传授【知识、智慧】
@@ -118,25 +118,6 @@ stimulated 促使，促进
 ### 2018-07-11
 
 #### 3.
-
-Paragraph 2: **Hills and mountains** ==are often regarded as== ^^the epitome of permanence^^, ( successfully resisting the destructive forces of nature ), *but* in fact **they** ==tend to be relatively short-lived== ^^in geological terms^^. 
-> 小山和高山常常被当作永恒的典范，成功地对抗自然的毁灭力量，但实际上，他们在地质学术语中倾向相对短暂的。
-
-{ As a general rule `方式`}, **the higher a mountain** ==is==, {++the more recently it was formed++}; for example, **the high mountains of the Himalayas** ==are== ^^only about 50 million years old^^. 
-> 作为一个普通的规则，更高的山更是近期形成的；例如，喜马拉雅高山只有大约5千万年。
-
-**Lower mountains** ==tend to be== ^^older^^, *and* ==are== ^^often the eroded relics of much higher mountain chains^^. 
-> 更低的山倾向年头更长，并且常常是许多高山脉风化的遗迹。
-
-{ About 400 million years ago `时间`}, {++when the present-day continents of North America and Europe were joined++}, **the Caledonian mountain chain** ==was== ^^the same size as the modern Himalayas^^. 
-> 大约在4亿年前，那时现在的北美大陆和欧洲大陆是连接起来的，苏格兰山脉如现代的喜马拉雅山脉一样。
-
-{ Today `时间`}, *however*, **the relics of the Caledonian orogeny** (mountain-building period) ==exist== { as the comparatively low mountains of Greenland , the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau `方式`}.
-> 然而今天，苏格兰山脉的遗迹（造山运动周期）如类似的格陵兰岛，美国北阿帕拉契山脉，苏格兰高地，和挪威沿海高原的低山那样的存在。
-
-----
-
-> Paragraph 2: <font color='LightSeaGreen'>*（与 Paragraph 1没有紧耦合关系，独立阐述）*</font>Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, <font color='Blue'>*but in fact*</font> they tend to be relatively <font color='Salmon'>short-lived</font> in geological terms. <font color='LightSeaGreen'>*（下定义，短暂的术语，预判下文解释为何称之为短暂的）*</font><font color='red'>**||**</font> As a general rule, <font color='Blue'>*the higher a mountain*</font> is, the more recently it was formed; for example, the high mountains of the Himalayas are <font color='hotpink'>**only**</font> <font color='Salmon'>about 50 million</font> years old. <font color='LightSeaGreen'>*（高山情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Lower mountains*</font> tend to be <font color='Salmon'>older</font>, and are often the eroded relics of much higher mountain chains. <font color='LightSeaGreen'>*（矮山情况）*</font><font color='red'>**||**</font> <font color='Blue'>*About 400 million*</font> years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. <font color='LightSeaGreen'>*（4亿年前的情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Today, however,*</font> the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.<font color='LightSeaGreen'>*（当今的情况）*</font>
 
 !!! faq ""
 
@@ -156,6 +137,25 @@ Paragraph 2: **Hills and mountains** ==are often regarded as== ^^the epitome of 
     > 他们不像4亿年前的苏格兰山一样高。
 
     !!! failure ""
+
+Paragraph 2: <font color='LightSeaGreen'>*（与 Paragraph 1没有紧耦合关系，独立阐述）*</font>Hills and mountains are often regarded as the epitome of permanence, successfully resisting the destructive forces of nature, <font color='Blue'>*but in fact*</font> they tend to be relatively <font color='Salmon'>short-lived</font> in geological terms. <font color='LightSeaGreen'>*（下定义，短暂的术语，预判下文解释为何称之为短暂的）*</font><font color='red'>**||**</font> As a general rule, <font color='Blue'>*the higher a mountain*</font> is, the more recently it was formed; for example, the high mountains of the Himalayas are <font color='hotpink'>**only**</font> <font color='Salmon'>about 50 million</font> years old. <font color='LightSeaGreen'>*（高山情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Lower mountains*</font> tend to be <font color='Salmon'>older</font>, and are often the eroded relics of much higher mountain chains. <font color='LightSeaGreen'>*（矮山情况）*</font><font color='red'>**||**</font> <font color='Blue'>*About 400 million*</font> years ago, when the present-day continents of North America and Europe were joined, the Caledonian mountain chain was the same size as the modern Himalayas. <font color='LightSeaGreen'>*（4亿年前的情况）*</font><font color='red'>**|| 对比**</font> <font color='Blue'>*Today, however,*</font> the relics of the Caledonian orogeny (mountain-building period) exist as the comparatively low mountains of Greenland, the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau.<font color='LightSeaGreen'>*（当今的情况）*</font>
+
+----
+
+Paragraph 2: **Hills and mountains** ==are often regarded as== ^^the epitome of permanence^^, ( successfully resisting the destructive forces of nature ), *but* in fact **they** ==tend to be relatively short-lived== ^^in geological terms^^. 
+> 小山和高山常常被当作永恒的典范，成功地对抗自然的毁灭力量，但实际上，他们在地质学术语中倾向相对短暂的。
+
+{ As a general rule `方式`}, **the higher a mountain** ==is==, {++the more recently it was formed++}; for example, **the high mountains of the Himalayas** ==are== ^^only about 50 million years old^^. 
+> 作为一个普通的规则，更高的山更是近期形成的；例如，喜马拉雅高山只有大约5千万年。
+
+**Lower mountains** ==tend to be== ^^older^^, *and* ==are== ^^often the eroded relics of much higher mountain chains^^. 
+> 更低的山倾向年头更长，并且常常是许多高山脉风化的遗迹。
+
+{ About 400 million years ago `时间`}, {++when the present-day continents of North America and Europe were joined++}, **the Caledonian mountain chain** ==was== ^^the same size as the modern Himalayas^^. 
+> 大约在4亿年前，那时现在的北美大陆和欧洲大陆是连接起来的，苏格兰山脉如现代的喜马拉雅山脉一样。
+
+{ Today `时间`}, *however*, **the relics of the Caledonian orogeny** (mountain-building period) ==exist== { as the comparatively low mountains of Greenland , the northern Appalachians in the United States, the Scottish Highlands, and the Norwegian coastal plateau `方式`}.
+> 然而今天，苏格兰山脉的遗迹（造山运动周期）如类似的格陵兰岛，美国北阿帕拉契山脉，苏格兰高地，和挪威沿海高原的低山那样的存在。
     
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
@@ -169,19 +169,6 @@ present-day 现代的，当今的 | short-lived 短暂的 | join 连接，接合
 Greenland 格陵兰岛 | mountain-building [地质] 造山运动，等于orogeny | uniform 一致的
 
 #### 4.
-
-Paragraph 10: 【 **The extreme seriousness of desertification** ==results from== ^^the vast areas of land and the tremendous numbers of people affected^^, { as well as from the great difficulty of reversing `方式`} or { even slowing the process `方式`}.  】
-> 荒漠化的极端严重受大量的陆地地区和巨大数量受影响的人群所产生，以及来自大量的彻底改变的困难，或者甚至缓慢的过程的所产生。
-
-{ Once the soil has been removed by erosion `条件`}, **only the passage of centuries or millennia** ==will enable== ^^new soil^^ ==to form==. 
-> 一旦土壤由腐蚀而消除，只有世纪和千年的一段可以形成新土壤。
-
-{ In areas {++where considerable soil still remains++} `地点`}, *though*, **a rigorously {++enforced++} program of land protection and cover-crop planting** ==may make it possible to reverse== ^^the present deterioration of the surface^^.
-> 而在仍然保留相当大的土壤的地区，严格的强制的陆地保护程序和覆盖作物的计划能够彻底改变农民地表的荒漠化。
-
-----
-
-> Paragraph 10: <font color='LightSeaGreen'>*（文章前文提出的荒漠化问题，这里做详细解释）*</font>The extreme seriousness of desertification <font color='Salmon'>results from</font> the <font color='Salmon'> vast </font> areas of <font color='Salmon'>land</font> and the tremendous <font color='Salmon'>numbers of people</font> affected, <font color='Salmon'>as well as</font> from the <font color='Salmon'>great difficulty of reversing</font> or <font color='Salmon'>even slowing the process</font>. <font color='LightSeaGreen'>*（荒漠化影响来源，预判地区和人们是如何影响的）*</font><font color='red'>**||**</font> <font color='Blue'>*Once*</font> the soil has been <font color='Salmon'>removed</font> by erosion, <font color='hotpink'>**only**</font> the passage of <font color='Salmon'>centuries or millennia</font> will enable <font color='Salmon'>new soil</font> to form. <font color='LightSeaGreen'>*（阐述地区自然现象）*</font><font color='red'>**|| 对比**</font> In areas where considerable soil <font color='Salmon'>still remains</font>, <font color='Blue'>*though,*</font> a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.<font color='LightSeaGreen'>*（阐述人为现象）*</font>
 
 !!! faq ""
 
@@ -211,7 +198,20 @@ Paragraph 10: 【 **The extreme seriousness of desertification** ==results from=
     
     D. **Desertification** ==will soon occur== ^^in all areas of the world^^. 
     > 荒漠化很快会在全世界发生。
+
+Paragraph 10: <font color='LightSeaGreen'>*（文章前文提出的荒漠化问题，这里做详细解释）*</font>The extreme seriousness of desertification <font color='Salmon'>results from</font> the <font color='Salmon'> vast </font> areas of <font color='Salmon'>land</font> and the tremendous <font color='Salmon'>numbers of people</font> affected, <font color='Salmon'>as well as</font> from the <font color='Salmon'>great difficulty of reversing</font> or <font color='Salmon'>even slowing the process</font>. <font color='LightSeaGreen'>*（荒漠化影响来源，预判地区和人们是如何影响的）*</font><font color='red'>**||**</font> <font color='Blue'>*Once*</font> the soil has been <font color='Salmon'>removed</font> by erosion, <font color='hotpink'>**only**</font> the passage of <font color='Salmon'>centuries or millennia</font> will enable <font color='Salmon'>new soil</font> to form. <font color='LightSeaGreen'>*（阐述地区自然现象）*</font><font color='red'>**|| 对比**</font> In areas where considerable soil <font color='Salmon'>still remains</font>, <font color='Blue'>*though,*</font> a rigorously enforced program of land protection and cover-crop planting may make it possible to reverse the present deterioration of the surface.<font color='LightSeaGreen'>*（阐述人为现象）*</font>
+
+----
     
+Paragraph 10: 【 **The extreme seriousness of desertification** ==results from== ^^the vast areas of land and the tremendous numbers of people affected^^, { as well as from the great difficulty of reversing `方式`} or { even slowing the process `方式`}.  】
+> 荒漠化的极端严重受大量的陆地地区和巨大数量受影响的人群所产生，以及来自大量的彻底改变的困难，或者甚至缓慢的过程的所产生。
+
+{ Once the soil has been removed by erosion `条件`}, **only the passage of centuries or millennia** ==will enable== ^^new soil^^ ==to form==. 
+> 一旦土壤由腐蚀而消除，只有世纪和千年的一段可以形成新土壤。
+
+{ In areas {++where considerable soil still remains++} `地点`}, *though*, **a rigorously {++enforced++} program of land protection and cover-crop planting** ==may make it possible to reverse== ^^the present deterioration of the surface^^.
+> 而在仍然保留相当大的土壤的地区，严格的强制的陆地保护程序和覆盖作物的计划能够彻底改变农民地表的荒漠化。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 seriousness 认真，严肃，严重 | desertification 【土地，尤指农田的】荒漠化，沙漠化 | vast 巨大的，广阔的，大量的
@@ -224,27 +224,6 @@ further 进一步，在很大程度上
 ### 2018-07-12
 
 #### 5.
-
-Paragraph 1: **Groundwater** ==is== ^^the word used to describe water^^ {++that saturates the ground++}, { filling all the available spaces `结果`}. 
-> 地下水是用来描述浸透地面的水的词，填充所有可用的空间。
-
-**By far the most abundant type of groundwater** ==is== ^^meteoric water^^; **this** ==is== ^^the groundwater^^ {++that circulates as part of the water cycle++}. 
-> 非常大量丰富的地下水类型是大气水；这个水是作为水循环的一部分循环地下水。
-
-**Ordinary meteoric water** ==is== ^^water^^ {++that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams++}. 
-> 普通的大气水是从表面，从降水量（下雨和下雪），和从湖泊和溪流中渗透到地里。
-
-^^There^^ **it** ==remains==, ( sometimes for long periods ), { before emerging at the surface again `时间`}. 
-> 存留这些，有时很长时间，在表面再次出现之前。
-
-【 { At first thought `？`} *it* ==seems== ^^incredible^^ **that there can be enough space in the “solid” ground underfoot to hold all this water**.  】
-> 最开始以为，能够充分占据“固态”地面下面来保持这些水看起来难以置信。
-
-!!! failure ""
-
-     At first thought 不知道应该定义成什么状语
-     
-> Paragraph 1: Groundwater is the word used to describe water that saturates the ground, <font color='Salmon'>filling all</font> the available spaces. <font color='LightSeaGreen'>*（下定义，预判下文阐述某种地下水解释）*</font><font color='red'>**||**</font> By far the most abundant type of groundwater is meteoric water; this is the groundwater that <font color='Salmon'>circulates as part of the water cycle</font>. <font color='LightSeaGreen'>*（提出子类大气水并解释）*</font>Ordinary meteoric water is water that has <font color='Salmon'>soaked into</font> the ground <font color='Salmon'>from the surface</font>, <font color='Salmon'>from precipitation (rain and snow)</font> and <font color='Salmon'>from lakes and streams</font>. <font color='LightSeaGreen'>*（形成方式）*</font>There it remains, sometimes <font color='Salmon'>for long periods,</font> before emerging at the surface again. <font color='LightSeaGreen'>*（存活方式）*</font> At first thought it seems incredible that there can be <font color='Salmon'>enough space</font> in the “solid” ground underfoot to <font color='Salmon'>hold all</font> this water.<font color='LightSeaGreen'>*（阐述一个观点）*</font><font color='LightSeaGreen'>*（全文顺承递进）*</font>
 
 !!! faq ""
 
@@ -273,6 +252,30 @@ Paragraph 1: **Groundwater** ==is== ^^the word used to describe water^^ {++that 
         
         严格的讲，soaked into the ground from 不一定吸收，也可能是路过，然后流失掉；吸收有储存属性，可是文章也提到 There it remains, sometimes for long periods，所以往上推，有争议，不明确
 
+     
+Paragraph 1: Groundwater is the word used to describe water that saturates the ground, <font color='Salmon'>filling all</font> the available spaces. <font color='LightSeaGreen'>*（下定义，预判下文阐述某种地下水解释）*</font><font color='red'>**||**</font> By far the most abundant type of groundwater is meteoric water; this is the groundwater that <font color='Salmon'>circulates as part of the water cycle</font>. <font color='LightSeaGreen'>*（提出子类大气水并解释）*</font>Ordinary meteoric water is water that has <font color='Salmon'>soaked into</font> the ground <font color='Salmon'>from the surface</font>, <font color='Salmon'>from precipitation (rain and snow)</font> and <font color='Salmon'>from lakes and streams</font>. <font color='LightSeaGreen'>*（形成方式）*</font>There it remains, sometimes <font color='Salmon'>for long periods,</font> before emerging at the surface again. <font color='LightSeaGreen'>*（存活方式）*</font> At first thought it seems incredible that there can be <font color='Salmon'>enough space</font> in the “solid” ground underfoot to <font color='Salmon'>hold all</font> this water.<font color='LightSeaGreen'>*（阐述一个观点）*</font><font color='LightSeaGreen'>*（全文顺承递进）*</font>
+
+----
+
+Paragraph 1: **Groundwater** ==is== ^^the word used to describe water^^ {++that saturates the ground++}, { filling all the available spaces `结果`}. 
+> 地下水是用来描述浸透地面的水的词，填充所有可用的空间。
+
+**By far the most abundant type of groundwater** ==is== ^^meteoric water^^; **this** ==is== ^^the groundwater^^ {++that circulates as part of the water cycle++}. 
+> 非常大量丰富的地下水类型是大气水；这个水是作为水循环的一部分循环地下水。
+
+**Ordinary meteoric water** ==is== ^^water^^ {++that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams++}. 
+> 普通的大气水是从表面，从降水量（下雨和下雪），和从湖泊和溪流中渗透到地里。
+
+^^There^^ **it** ==remains==, ( sometimes for long periods ), { before emerging at the surface again `时间`}. 
+> 存留这些，有时很长时间，在表面再次出现之前。
+
+【 { At first thought `？`} *it* ==seems== ^^incredible^^ **that there can be enough space in the “solid” ground underfoot to hold all this water**.  】
+> 最开始以为，能够充分占据“固态”地面下面来保持这些水看起来难以置信。
+
+!!! failure ""
+
+     At first thought 不知道应该定义成什么状语
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 saturate 使湿透，浸透 | meteoric 大气的 | circulate 使循环
@@ -281,20 +284,6 @@ emerging 出现 | At first thought 乍一想，起初以为 | underfoot | 在脚
 By far 到目前为止，非常
 
 #### 6.
-
-Paragraph 1: **The transition from forest to treeless tundra on a mountain slope** ==is== ^^often a dramatic one^^. 
-> 在山的斜坡上，从森林到无数木苔原的转变常常是戏剧性一点。
-
-{ Within a vertical distance of just a few tens of meters  `抽象地点`}, **trees** ==disappear== { as a life-form `方式`} and ==are replaced== { by low shrubs, herbs, and grasses `方式`}. 
-> 在仅仅10米的垂直空间里，树木作为一种生命形式消失，并且由低矮灌木，草本植物和草取代。
-
-**This rapid zone of transition** ==is called== ^^the upper timberline or tree line^^. 
-> 这个转变速度区域称之为较高的树木线或者树木线。
-
-{ In many semiarid areas `地点`} ^^there^^ ==is also== **a lower timberline** {++where the forest passes into steppe or desert { at its lower edge `地点`}++}, { usually because of a lack of moisture `原因`}.
-> 在许多半干旱地区，也有一种由于水分的缺乏，森林在他们低的边缘转换为大草原或者沙漠更矮的树木线。
-
-> Paragraph 1: The transition from forest to treeless tundra <font color='Salmon'>on a mountain slope</font> is often a dramatic one. <font color='LightSeaGreen'>*（下定义，预判下文举例说明）*</font><font color='red'>**||**</font> Within a <font color='Salmon'>vertical distance</font> of just a few tens of meters, trees <font color='Salmon'>disappear</font> as a life-form and are <font color='Salmon'>replaced</font> by low shrubs, herbs, and grasses. <font color='LightSeaGreen'>*（列举一种环境自然现象）*</font>This rapid zone of transition is called <font color='Salmon'>the upper timberline or tree line</font>. <font color='LightSeaGreen'>*（扣题，转变行程）*</font><font color='red'>**|| 对比**</font> In many <font color='Salmon'>semiarid areas</font> there is <font color='Blue'>*also*</font> <font color='Salmon'>a lower timberline</font> where the forest passes into steppe or desert at its <font color='Salmon'>lower edge</font>, usually because of a lack of moisture.<font color='LightSeaGreen'>*（列举另一种环境自然现象和转变行程）*</font>
 
 !!! faq ""
 
@@ -317,6 +306,22 @@ Paragraph 1: **The transition from forest to treeless tundra on a mountain slop
     D. **Both** ==suffer from== ^^a lack of moisture^^.
     > 二者遭受水分的缺乏。
 
+Paragraph 1: The transition from forest to treeless tundra <font color='Salmon'>on a mountain slope</font> is often a dramatic one. <font color='LightSeaGreen'>*（下定义，预判下文举例说明）*</font><font color='red'>**||**</font> Within a <font color='Salmon'>vertical distance</font> of just a few tens of meters, trees <font color='Salmon'>disappear</font> as a life-form and are <font color='Salmon'>replaced</font> by low shrubs, herbs, and grasses. <font color='LightSeaGreen'>*（列举一种环境自然现象）*</font>This rapid zone of transition is called <font color='Salmon'>the upper timberline or tree line</font>. <font color='LightSeaGreen'>*（扣题，转变行程）*</font><font color='red'>**|| 对比**</font> In many <font color='Salmon'>semiarid areas</font> there is <font color='Blue'>*also*</font> <font color='Salmon'>a lower timberline</font> where the forest passes into steppe or desert at its <font color='Salmon'>lower edge</font>, usually because of a lack of moisture.<font color='LightSeaGreen'>*（列举另一种环境自然现象和转变行程）*</font>
+
+----
+
+Paragraph 1: **The transition from forest to treeless tundra on a mountain slope** ==is== ^^often a dramatic one^^. 
+> 在山的斜坡上，从森林到无数木苔原的转变常常是戏剧性一点。
+
+{ Within a vertical distance of just a few tens of meters  `抽象地点`}, **trees** ==disappear== { as a life-form `方式`} and ==are replaced== { by low shrubs, herbs, and grasses `方式`}. 
+> 在仅仅10米的垂直空间里，树木作为一种生命形式消失，并且由低矮灌木，草本植物和草取代。
+
+**This rapid zone of transition** ==is called== ^^the upper timberline or tree line^^. 
+> 这个转变速度区域称之为较高的树木线或者树木线。
+
+{ In many semiarid areas `地点`} ^^there^^ ==is also== **a lower timberline** {++where the forest passes into steppe or desert { at its lower edge `地点`}++}, { usually because of a lack of moisture `原因`}.
+> 在许多半干旱地区，也有一种由于水分的缺乏，森林在他们低的边缘转换为大草原或者沙漠更矮的树木线。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 treeless 无数木的 | tundra 苔原 n. | slope 斜坡
@@ -329,31 +334,6 @@ boundaries 边界
 ### 2018-07-14
 
 #### 7.
-
-Paragraph 2: **Nearly any kind of plant of the forest understory** ==can be== ^^part of a deer's diet^^. 
->在任何种类森林林下叶层的植物能够是鹿的日常饮食的一部分。
-
-{ Where the forest inhibits the growth of grass and other meadow plants `地点`}, **the black-tailed deer** ==browses== ^^on huckleberry, salal, dogwood, and almost any other shrub or herb^^. 
-> 森林阻碍草和其他草地植物的生长的地方，黑尾鹿吃黑果，salal，山茱萸，和几乎其他任何灌木和草本植物。
-
-*But* **this** ==is== ^^fair-weather^^ ==feeding==. 
-> 但是，这是公平的食物。
-
-**What** ==keeps== {++the black-tailed deer alive { in the harsher seasons of plant decay `时间`} and dormancy++}? 
-> 什么保持黑尾鹿在更恶劣的植物腐烂的季节活着和冬眠？
-
-**One compensation for not hibernating** ==is== ^^the built-in urge to migrate^^. 
-> 一个对于没有冬眠的补偿是固定的催促迁徙。
-
-【 **Deer** ==may move from== ^^high-elevation browse areas^^ { in summer `时间`} ==down to== ^^the lowland areas { in late fall `时间`}^^.  】
-> 鹿在夏天可以从高海拔吃草地区移动，在深秋向下移动到矮地地区。
-
-【 { Even with snow on the ground `抽象地点`}, **the high bushy understory** ==is exposed==; *also* **snow and wind** ==bring down== ^^leafy branches of cedar, hemlock, red alder, and other arboreal fodder^^. 】
-> 甚至在有雪的地面，高的浓密的树下叶层被暴露出来；也即使雪和风把雪松，铁杉，红桤木和其他树木饲料拉下来（也吃不到）。
-
-----
-
-> Paragraph 2: <font color='LightSeaGreen'>*（文章前文提到鹿的生活，这里做详细说明）*</font>Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest <font color='Salmon'>inhibits</font> the growth of <font color='Salmon'>grass and other meadow plants</font>, the black-tailed deer <font color='Salmon'>browses</font> on huckleberry, salal, dogwood, and almost any other shrub or herb. <font color='LightSeaGreen'>*（鹿吃什么，吃低矮的，不吃高的）*</font> <font color='red'>**|| 转折**</font> <font color='Blue'>*But*</font> this is fair-weather feeding. <font color='LightSeaGreen'>*（引出问题，食物的不稳定性，预判鹿该如何生存）*</font> What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? <font color='LightSeaGreen'>*（顺承提出鹿生存问题）*</font>One compensation for <font color='Salmon'>not hibernating</font> is the built-in urge to <font color='Salmon'>migrate</font>. Deer may move from <font color='Salmon'>high-elevation</font> browse areas <font color='Salmon'>in summer</font> down to the <font color='Salmon'>lowland</font> areas <font color='Salmon'>in late fall</font>. <font color='LightSeaGreen'>*（用春秋两季回答问题）*</font><font color='Blue'>*Even with*</font> <font color='Salmon'>snow on the ground</font>, the <font color='Salmon'>high bushy understory</font> is exposed; <font color='Blue'>*also*</font> <font color='Salmon'>snow and wind bring down</font> leafy branches of cedar, hemlock, red alder, and other arboreal fodder. <font color='LightSeaGreen'>*（进一步用冬季补充迁徙的意义，即使高的变为低的也不吃，与开头吃的内容呼应，这本来就不是鹿吃的东西！）*</font>
 
 !!! faq ""
 
@@ -388,6 +368,31 @@ Paragraph 2: **Nearly any kind of plant of the forest understory** ==can be== ^^
     D. ==prevent== ^^deer from migrating during the winter^^ 
     > 阻止鹿在冬季期间迁徙
 
+Paragraph 2: <font color='LightSeaGreen'>*（文章前文提到鹿的生活，这里做详细说明）*</font>Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest <font color='Salmon'>inhibits</font> the growth of <font color='Salmon'>grass and other meadow plants</font>, the black-tailed deer <font color='Salmon'>browses</font> on huckleberry, salal, dogwood, and almost any other shrub or herb. <font color='LightSeaGreen'>*（鹿吃什么，吃低矮的，不吃高的）*</font> <font color='red'>**|| 转折**</font> <font color='Blue'>*But*</font> this is fair-weather feeding. <font color='LightSeaGreen'>*（引出问题，食物的不稳定性，预判鹿该如何生存）*</font> What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? <font color='LightSeaGreen'>*（顺承提出鹿生存问题）*</font>One compensation for <font color='Salmon'>not hibernating</font> is the built-in urge to <font color='Salmon'>migrate</font>. Deer may move from <font color='Salmon'>high-elevation</font> browse areas <font color='Salmon'>in summer</font> down to the <font color='Salmon'>lowland</font> areas <font color='Salmon'>in late fall</font>. <font color='LightSeaGreen'>*（用春秋两季回答问题）*</font><font color='Blue'>*Even with*</font> <font color='Salmon'>snow on the ground</font>, the <font color='Salmon'>high bushy understory</font> is exposed; <font color='Blue'>*also*</font> <font color='Salmon'>snow and wind bring down</font> leafy branches of cedar, hemlock, red alder, and other arboreal fodder. <font color='LightSeaGreen'>*（进一步用冬季补充迁徙的意义，即使高的变为低的也不吃，与开头吃的内容呼应，这本来就不是鹿吃的东西！）*</font>
+
+----
+
+Paragraph 2: **Nearly any kind of plant of the forest understory** ==can be== ^^part of a deer's diet^^. 
+>在任何种类森林林下叶层的植物能够是鹿的日常饮食的一部分。
+
+{ Where the forest inhibits the growth of grass and other meadow plants `地点`}, **the black-tailed deer** ==browses== ^^on huckleberry, salal, dogwood, and almost any other shrub or herb^^. 
+> 森林阻碍草和其他草地植物的生长的地方，黑尾鹿吃黑果，salal，山茱萸，和几乎其他任何灌木和草本植物。
+
+*But* **this** ==is== ^^fair-weather^^ ==feeding==. 
+> 但是，这是公平的食物。
+
+**What** ==keeps== {++the black-tailed deer alive { in the harsher seasons of plant decay `时间`} and dormancy++}? 
+> 什么保持黑尾鹿在更恶劣的植物腐烂的季节活着和冬眠？
+
+**One compensation for not hibernating** ==is== ^^the built-in urge to migrate^^. 
+> 一个对于没有冬眠的补偿是固定的催促迁徙。
+
+【 **Deer** ==may move from== ^^high-elevation browse areas^^ { in summer `时间`} ==down to== ^^the lowland areas { in late fall `时间`}^^.  】
+> 鹿在夏天可以从高海拔吃草地区移动，在深秋向下移动到矮地地区。
+
+【 { Even with snow on the ground `抽象地点`}, **the high bushy understory** ==is exposed==; *also* **snow and wind** ==bring down== ^^leafy branches of cedar, hemlock, red alder, and other arboreal fodder^^. 】
+> 甚至在有雪的地面，高的浓密的树下叶层被暴露出来；也即使雪和风把雪松，铁杉，红桤木和其他树木饲料拉下来（也吃不到）。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 understory 林下叶层；下层植被 | diet 日常饮食 | inhibit 阻止，阻碍，抑制
@@ -404,32 +409,6 @@ bushy 【毛发】浓密的，多毛的
 ### 2018-07-15
 
 #### 8.
-
-Paragraph 2： **One of the most puzzling aspects of the paintings** ==is== ^^their location^^. 
-> 绘画的大多数困惑的方面的一点是他们的位置。
-
-**Other rock paintings** —( for example, those of Bushmen in South Africa )— ==are== ^^either located near cave entrances or completely { in the open `抽象地点`}^^. 
-> 其他岩石绘画——例如，在南非布希曼人的岩石画——要么当地附近的洞穴入口要么在完全开放的地方。
-
-【 **Cave paintings** { in France and Spain `地点`}, *however*, ==are== { in recesses and caverns `地点`} ==far removed from== ^^original cave entrances^^.  】
->然而，在法国和西班牙的洞穴绘画在凹处和洞穴与原始洞穴入口迥然不同。
-
-**This** ==means== {++that artists were forced to work in cramped spaces and without sources of natural light++}. 
-> 这就是说艺术家被迫在狭窄的空间里工作，并且没有自然光的来源。
-
-*It* ==also implies== **that whoever made them did not want them to be easily found**. 
-> 也暗示谁使他们不想被容易的发现。
-
-{ Since cave dwellers normally lived close to entrances `原因`}, ^^there^^ ==must have been== ^^some reason^^ {++why so many generations of Lascaux cave dwellers hid their art++}.
-> 因为洞穴居民通常居住在洞口附近，必定有一些为什么L洞穴居民的后代隐藏他们的艺术的原因。
-
-!!! failure ""
-    
-    这句逻辑有点绕，不知道是不是为下段文字做铺垫，所以看着有些超脱，与上句关系不是很清晰
-    
-----
-
-> Paragraph 2： <font color='LightSeaGreen'>*（文章前文在说绘画，这里继续说绘画的某一个细节）*</font>One of <font color='Salmon'>the most puzzling</font> aspects of the paintings is their <font color='Salmon'>location</font>. <font color='LightSeaGreen'>*（提出：位置问题，预判下文详细阐述位置细节）*</font> <font color='red'>**||**</font> <font color='Salmon'>Other rock</font> paintings—for example, those of Bushmen <font color='Salmon'>in South Africa</font>—are <font color='Blue'>either</font> located <font color='Salmon'>near cave entrances</font> <font color='Blue'>or</font> completely <font color='Salmon'>in the open</font>. <font color='LightSeaGreen'>*（举例1：岩石画位置）*</font> <font color='red'>**|| 对比**</font> <font color='Salmon'>Cave</font> paintings <font color='Salmon'>in France and Spain</font>, <font color='Blue'>*however*</font>, are <font color='Salmon'>in recesses and caverns</font> <font color='Blue'>far removed from</font> <font color='Salmon'>original cave entrances</font>. <font color='LightSeaGreen'>*（举例2：洞穴画位置）*</font>This means that artists were <font color='Salmon'>forced</font> to work <font color='Salmon'>in cramped spaces</font> and <font color='Salmon'>without sources of natural light</font>. <font color='LightSeaGreen'>*（顺承：引出艺术家工作与位置的关系）*</font>It <font color='Blue'>*also*</font> implies that whoever made them did not want them to be easily found. <font color='LightSeaGreen'>*（顺承：进一步提出隐蔽问题，引发思考，为什么提及这块）*</font> <font color='Blue'>*Since*</font> cave dwellers normally lived <font color='Salmon'>close to entrances</font>, there must have been some <font color='Salmon'>reason</font> why so many generations of Lascaux cave dwellers hid their art.<font color='LightSeaGreen'>*（含对比，作者也在阐述隐藏是有原因的，预判下段可能会详细阐述隐藏原因）*</font>
 
 !!! faq ""
 
@@ -460,6 +439,32 @@ Paragraph 2： **One of the most puzzling aspects of the paintings** ==is== ^^th
     D. **Their painting practices** ==did not last== ^^for many years^^. 
     > 他们的绘画习俗不会持续很多年。
 
+Paragraph 2： <font color='LightSeaGreen'>*（文章前文在说绘画，这里继续说绘画的某一个细节）*</font>One of <font color='Salmon'>the most puzzling</font> aspects of the paintings is their <font color='Salmon'>location</font>. <font color='LightSeaGreen'>*（提出：位置问题，预判下文详细阐述位置细节）*</font> <font color='red'>**||**</font> <font color='Salmon'>Other rock</font> paintings—for example, those of Bushmen <font color='Salmon'>in South Africa</font>—are <font color='Blue'>either</font> located <font color='Salmon'>near cave entrances</font> <font color='Blue'>or</font> completely <font color='Salmon'>in the open</font>. <font color='LightSeaGreen'>*（举例1：岩石画位置）*</font> <font color='red'>**|| 对比**</font> <font color='Salmon'>Cave</font> paintings <font color='Salmon'>in France and Spain</font>, <font color='Blue'>*however*</font>, are <font color='Salmon'>in recesses and caverns</font> <font color='Blue'>far removed from</font> <font color='Salmon'>original cave entrances</font>. <font color='LightSeaGreen'>*（举例2：洞穴画位置）*</font>This means that artists were <font color='Salmon'>forced</font> to work <font color='Salmon'>in cramped spaces</font> and <font color='Salmon'>without sources of natural light</font>. <font color='LightSeaGreen'>*（顺承：引出艺术家工作与位置的关系）*</font>It <font color='Blue'>*also*</font> implies that whoever made them did not want them to be easily found. <font color='LightSeaGreen'>*（顺承：进一步提出隐蔽问题，引发思考，为什么提及这块）*</font> <font color='Blue'>*Since*</font> cave dwellers normally lived <font color='Salmon'>close to entrances</font>, there must have been some <font color='Salmon'>reason</font> why so many generations of Lascaux cave dwellers hid their art.<font color='LightSeaGreen'>*（含对比，作者也在阐述隐藏是有原因的，预判下段可能会详细阐述隐藏原因）*</font>
+    
+----
+
+Paragraph 2： **One of the most puzzling aspects of the paintings** ==is== ^^their location^^. 
+> 绘画的大多数困惑的方面的一点是他们的位置。
+
+**Other rock paintings** —( for example, those of Bushmen in South Africa )— ==are== ^^either located near cave entrances or completely { in the open `抽象地点`}^^. 
+> 其他岩石绘画——例如，在南非布希曼人的岩石画——要么当地附近的洞穴入口要么在完全开放的地方。
+
+【 **Cave paintings** { in France and Spain `地点`}, *however*, ==are== { in recesses and caverns `地点`} ==far removed from== ^^original cave entrances^^.  】
+>然而，在法国和西班牙的洞穴绘画在凹处和洞穴与原始洞穴入口迥然不同。
+
+**This** ==means== {++that artists were forced to work in cramped spaces and without sources of natural light++}. 
+> 这就是说艺术家被迫在狭窄的空间里工作，并且没有自然光的来源。
+
+*It* ==also implies== **that whoever made them did not want them to be easily found**. 
+> 也暗示谁使他们不想被容易的发现。
+
+{ Since cave dwellers normally lived close to entrances `原因`}, ^^there^^ ==must have been== ^^some reason^^ {++why so many generations of Lascaux cave dwellers hid their art++}.
+> 因为洞穴居民通常居住在洞口附近，必定有一些为什么L洞穴居民的后代隐藏他们的艺术的原因。
+
+!!! failure ""
+    
+    这句逻辑有点绕，不知道是不是为下段文字做铺垫，所以看着有些超脱，与上句关系不是很清晰
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 aspects 方面 | Bushmen 布希曼人 | recesse 【墙壁，架子，柜子等的】凹进处
@@ -471,20 +476,6 @@ practice 经常做的事，习俗
 ### 2018-07-16
 
 #### 9.
-
-Paragraph 4: **Wind power** ==is== ^^most economical { in areas with steady winds `地点`}^^. 
->在有稳定风的地区，风力发电是最经济的。
-
-{ In areas {++where the wind dies down++} `地点`}, **backup electricity from a utility company or from an energy storage system** ==becomes== ^^necessary^^. 
-> 在风平息的地区，从一个实用性公司或者从一个能源储备系统做备份电是有必要的。
-
-**Backup power** ==could also be provided== { by linking wind farms *with* a solar cell , *with* conventional or pumped-storage hydropower, *or with* efficient natural-gas-burning turbines `方式`}. 
-> 备份电源也能够供电，通过连接有太阳能电池的风电场，有传统的或者抽水蓄能的水力发电，或者有高效的燃烧天然气的涡轮机。
-
-【 **Some drawbacks to wind farms include visual pollution and noise**, *although* *these* ==can be overcome== { by improving their design `方式`} and ==locating== ^^them^^ { in isolated areas `地点`} `方式`}. 】
-> 尽管风电场的一些收回包括视觉污染和噪音，但是他们能够通过改善他们的设计和在把他们设置在隔离区。
-
-> Paragraph 4: <font color='LightSeaGreen'>*（文章前文可能在讲发电的东西，也可能提到很多种发电类型，这里顺承前文，阐述具体风力发电类型）*</font>Wind power is most economical in areas with steady winds. <font color='LightSeaGreen'>*（提出风力发电）*</font><font color='red'>**||**</font> In areas where the wind <font color='Salmon'>dies down</font>, <font color='Salmon'>backup electricity</font> from a utility company or from an energy storage system <font color='Salmon'>becomes necessary</font>. <font color='LightSeaGreen'>*（这里引出风少时的说明，因为风力发电需要风，容易使人思考没风怎么办，学习者疑虑。这里提出2个备用）*</font>Backup power could <font color='Blue'>*also*</font> be provided by linking wind farms with <font color='Salmon'>a solar cell</font>, with <font color='Salmon'>conventional</font> or <font color='Salmon'>pumped-storage hydropower</font>, or with <font color='Salmon'>efficient natural-gas-burning turbines</font>. <font color='LightSeaGreen'>*（顺承，详细阐述备用如何工作，用来支持上一句）*</font>Some <font color='Salmon'>drawbacks</font> to wind farms include <font color='Salmon'>visual pollution</font> and <font color='Salmon'>noise</font>, <font color='Blue'>*although*</font> these can be <font color='Salmon'>overcome</font> by improving their design and locating them in isolated areas.<font color='LightSeaGreen'>*（上面的各种with方式会引发人们的思考，这些方式的副作用，那么这里抛出副作用，通过让步方式回答如何处理副作用，进一步支持风电场的可用性）*</font>
 
 !!! faq ""
 
@@ -513,6 +504,22 @@ Paragraph 4: **Wind power** ==is== ^^most economical { in areas with steady wind
     D. **People** ==are== ^^more concerned about visual pollution { than noise `比较`}^^.
     > 人们更关心比关心噪音更关心视觉污染。
 
+Paragraph 4: <font color='LightSeaGreen'>*（文章前文可能在讲发电的东西，也可能提到很多种发电类型，这里顺承前文，阐述具体风力发电类型）*</font>Wind power is most economical in areas with steady winds. <font color='LightSeaGreen'>*（提出风力发电）*</font><font color='red'>**||**</font> In areas where the wind <font color='Salmon'>dies down</font>, <font color='Salmon'>backup electricity</font> from a utility company or from an energy storage system <font color='Salmon'>becomes necessary</font>. <font color='LightSeaGreen'>*（这里引出风少时的说明，因为风力发电需要风，容易使人思考没风怎么办，学习者疑虑。这里提出2个备用）*</font>Backup power could <font color='Blue'>*also*</font> be provided by linking wind farms with <font color='Salmon'>a solar cell</font>, with <font color='Salmon'>conventional</font> or <font color='Salmon'>pumped-storage hydropower</font>, or with <font color='Salmon'>efficient natural-gas-burning turbines</font>. <font color='LightSeaGreen'>*（顺承，详细阐述备用如何工作，用来支持上一句）*</font>Some <font color='Salmon'>drawbacks</font> to wind farms include <font color='Salmon'>visual pollution</font> and <font color='Salmon'>noise</font>, <font color='Blue'>*although*</font> these can be <font color='Salmon'>overcome</font> by improving their design and locating them in isolated areas.<font color='LightSeaGreen'>*（上面的各种with方式会引发人们的思考，这些方式的副作用，那么这里抛出副作用，通过让步方式回答如何处理副作用，进一步支持风电场的可用性）*</font>
+
+----
+
+Paragraph 4: **Wind power** ==is== ^^most economical { in areas with steady winds `地点`}^^. 
+>在有稳定风的地区，风力发电是最经济的。
+
+{ In areas {++where the wind dies down++} `地点`}, **backup electricity from a utility company or from an energy storage system** ==becomes== ^^necessary^^. 
+> 在风平息的地区，从一个实用性公司或者从一个能源储备系统做备份电是有必要的。
+
+**Backup power** ==could also be provided== { by linking wind farms *with* a solar cell , *with* conventional or pumped-storage hydropower, *or with* efficient natural-gas-burning turbines `方式`}. 
+> 备份电源也能够供电，通过连接有太阳能电池的风电场，有传统的或者抽水蓄能的水力发电，或者有高效的燃烧天然气的涡轮机。
+
+【 **Some drawbacks to wind farms include visual pollution and noise**, *although* *these* ==can be overcome== { by improving their design `方式`} and ==locating== ^^them^^ { in isolated areas `地点`} `方式`}. 】
+> 尽管风电场的一些收回包括视觉污染和噪音，但是他们能够通过改善他们的设计和在把他们设置在隔离区。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 dies down 减弱，平息 | electricity 电 n. | utility 【正式】实用（性），效用 n.
@@ -525,26 +532,6 @@ cell 电池 | wind farms 风电场
 ### 2018-07-17
 
 #### 10.
-
-Paragraph 3: **The body** {++that impacted Earth++} { at the end of the Cretaceous period `时间`} ==was== ^^a meteorite^^ {++with a mass of more than a trillion tons and a diameter of at least 10 kilometers++}. 
-> 在白垩纪时期的尾端撞击地球的主体是含有大量的比一兆顿还重的体积，并且至少10公里直径的陨石。
-
-**Scientists** first ==identified== ^^this impact^^ { in 1980 `时间`} ==from== ^^the worldwide layer of sediment {++deposited from the dust cloud++}^^ {++that enveloped the planet after the impact++}. 
-> 科学家第一次认识到这个撞击在1980年，来自全世界沉淀物的表层，这些表层在影响后覆盖地球。
-
-**This sediment layer** ==is enriched in== ^^the rare metal iridium and other elements^^ {++that are relatively abundant in a meteorite *but* very rare in the crust of Earth++}. 
-> 这个沉积层富含稀少的金属铱和在陨石中相对丰富，但是在地球地壳中非常稀有的其他元素。
-
-{ Even diluted by the terrestrial material {++excavated from the crater++} `让步`}, **this component of meteorites** ==is easily identified==. 
-> 甚至从陨石坑中发掘的地球地壳的物质被稀释，这些陨石成分很容易识别出。
-
-{ By 1990 `时间`} **geologists** ==had located== ^^the impact site itself  { in the Yucat region of Mexico `地点`}^^. 
-> 到1990年，地质学家在位于墨西哥的Y地区找出撞击地点本身。
-
-**The crater**, ( now deeply buried in sediment ), ==was== ^^originally about 200 kilometers { in diameter `地点`}^^. 
-> 陨石坑，现在深埋在沉淀物中，起初大约200公里直径。
-
-> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能是说白垩纪前期中期对地球的影响物质，这里提出陨石，预判下文详细阐述陨石对地球的影响）*</font>The body that impacted Earth at <font color='Salmon'>the end of the Cretaceous period</font> was a meteorite with <font color='Salmon'>a mass of more than a trillion tons</font> and <font color='Salmon'>a diameter of at least 10 kilometers</font>. <font color='LightSeaGreen'>*（陨石属性：超级大超级重）*</font>Scientists first identified this impact <font color='Salmon'>in 1980</font> from the worldwide layer of sediment deposited from the <font color='Salmon'>dust cloud</font> that enveloped the planet <font color='Salmon'>after</font> the impact. <font color='LightSeaGreen'>*（陨石撞击现象：提出沉积层）*</font>This sediment layer is enriched in the <font color='Salmon'>rare metal iridium and other elements</font> that are relatively abundant in a meteorite <font color='Blue'>*but*</font> <font color='Salmon'>very rare in the crust of Earth</font>. <font color='LightSeaGreen'>*（顺承，沉积层细节，提出内含稀少物质）*</font> <font color='Blue'>*Even*</font> <font color='Salmon'>diluted</font> by the terrestrial material excavated from the crater, this component of meteorites is <font color='Salmon'>easily identified</font>. <font color='LightSeaGreen'>*（让步：进一步强调沉积层内部物质属性：稀少）*</font><font color='red'>**||**</font> <font color='Salmon'>By 1990</font> geologists had located the impact site itself in the Yucat region of Mexico. <font color='LightSeaGreen'>*（陨石撞击另一现象：撞击坑，提出撞击地点）*</font>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. <font color='LightSeaGreen'>*（撞击坑属性：超级大）*</font>
 
 !!! faq ""
 
@@ -569,6 +556,28 @@ Paragraph 3: **The body** {++that impacted Earth++} { at the end of the Cretaceo
     D. **The Yucat region** ==was chosen== { by geologists `方式`} { as the most probable impact site `方式`} { because of its climate `原因`}.
     > Y地区由地质学家选定，作为最可能影响地点，因为他们的气候。
 
+Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能是说白垩纪前期中期对地球的影响物质，这里提出陨石，预判下文详细阐述陨石对地球的影响）*</font>The body that impacted Earth at <font color='Salmon'>the end of the Cretaceous period</font> was a meteorite with <font color='Salmon'>a mass of more than a trillion tons</font> and <font color='Salmon'>a diameter of at least 10 kilometers</font>. <font color='LightSeaGreen'>*（陨石属性：超级大超级重）*</font>Scientists first identified this impact <font color='Salmon'>in 1980</font> from the worldwide layer of sediment deposited from the <font color='Salmon'>dust cloud</font> that enveloped the planet <font color='Salmon'>after</font> the impact. <font color='LightSeaGreen'>*（陨石撞击现象：提出沉积层）*</font>This sediment layer is enriched in the <font color='Salmon'>rare metal iridium and other elements</font> that are relatively abundant in a meteorite <font color='Blue'>*but*</font> <font color='Salmon'>very rare in the crust of Earth</font>. <font color='LightSeaGreen'>*（顺承，沉积层细节，提出内含稀少物质）*</font> <font color='Blue'>*Even*</font> <font color='Salmon'>diluted</font> by the terrestrial material excavated from the crater, this component of meteorites is <font color='Salmon'>easily identified</font>. <font color='LightSeaGreen'>*（让步：进一步强调沉积层内部物质属性：稀少）*</font><font color='red'>**||**</font> <font color='Salmon'>By 1990</font> geologists had located the impact site itself in the Yucat region of Mexico. <font color='LightSeaGreen'>*（陨石撞击另一现象：撞击坑，提出撞击地点）*</font>The crater, now deeply buried in sediment, was originally about 200 kilometers in diameter. <font color='LightSeaGreen'>*（撞击坑属性：超级大）*</font>
+
+----
+
+Paragraph 3: **The body** {++that impacted Earth++} { at the end of the Cretaceous period `时间`} ==was== ^^a meteorite^^ {++with a mass of more than a trillion tons and a diameter of at least 10 kilometers++}. 
+> 在白垩纪时期的尾端撞击地球的主体是含有大量的比一兆顿还重的体积，并且至少10公里直径的陨石。
+
+**Scientists** first ==identified== ^^this impact^^ { in 1980 `时间`} ==from== ^^the worldwide layer of sediment {++deposited from the dust cloud++}^^ {++that enveloped the planet after the impact++}. 
+> 科学家第一次认识到这个撞击在1980年，来自全世界沉淀物的表层，这些表层在影响后覆盖地球。
+
+**This sediment layer** ==is enriched in== ^^the rare metal iridium and other elements^^ {++that are relatively abundant in a meteorite *but* very rare in the crust of Earth++}. 
+> 这个沉积层富含稀少的金属铱和在陨石中相对丰富，但是在地球地壳中非常稀有的其他元素。
+
+{ Even diluted by the terrestrial material {++excavated from the crater++} `让步`}, **this component of meteorites** ==is easily identified==. 
+> 甚至从陨石坑中发掘的地球地壳的物质被稀释，这些陨石成分很容易识别出。
+
+{ By 1990 `时间`} **geologists** ==had located== ^^the impact site itself  { in the Yucat region of Mexico `地点`}^^. 
+> 到1990年，地质学家在位于墨西哥的Y地区找出撞击地点本身。
+
+**The crater**, ( now deeply buried in sediment ), ==was== ^^originally about 200 kilometers { in diameter `地点`}^^. 
+> 陨石坑，现在深埋在沉淀物中，起初大约200公里直径。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 impacte 对……产生【重要或明显的】影响，撞击；影响 n. | Cretaceous 白垩纪 | meteorite 陨石
@@ -583,23 +592,6 @@ bury  埋 v.
 ### 2018-07-18
 
 #### 11.
-
-Paragraph 3: Certainly, { in trying to explain the Roman phenomenon `地点`}, **one** == would have to place== ^^great emphasis^^ ==on== ^^this almost instinct for the territorial imperative^^. 
-> 当然，在尝试解释罗马的现象中，一点要必须关注有大量的重点在这些几乎领土的命令的本能上。
-
-**Roman priorities** ==lay in== ^^the organization, exploitation, and defense of their territory^^. 
-> 罗马的当务之急放置在他们领土的组织，利用和防御上。
-
-【 { In all probability `地点`} **it** ==was== ^^the fertile plain of Latium^^, {++where the Latins++} {++who founded Rome originated++}, **that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society**.  】
->在所有的可能性中， 创造陆地上的居住习惯和技能，陆地上的财产，陆地上的经济，陆地上的管理和基于陆地的社会是找到起源的罗马的拉丁人所在的拉丁姆的肥沃的平原 。
-
-【 **From this** ==arose== ^^the Roman genius for military organization and orderly government^^. 】
-> 从这个计划产生军事组织和有秩序的管理的罗马天赋。
-
-In turn, **a deep attachment to the land, and to the stability** {++which rural life engenders++}, ==fostered== ^^the Roman virtues^^: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
-> 相应地，一个深度忠诚于陆地和忠诚于引起乡村生活的稳定性，促进罗马美德：庄严，责任感，圣母怜子雕像，对家庭和国家的忠诚感和主持正义，自然秩序感。
-
-> Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能在说罗马起源，这里为第三段，预判下文详细阐述罗马的某一具象）*</font>Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost <font color='Salmon'>instinct for the territorial imperative</font>. <font color='LightSeaGreen'>*（引出具象：关于对领土的本能，预判下文详细阐述罗马人怎么着领土了）*</font>Roman <font color='Salmon'>priorities</font> lay in the <font color='Salmon'>organization</font>, <font color='Salmon'>exploitation</font>, and <font color='Salmon'>defense of their territory</font>. <font color='LightSeaGreen'>*（对上一句的细化，并说明对领土怎么着）*</font><font color='red'>**||**</font> In all probability it was <font color='Salmon'>the fertile plain</font> of Latium, where the Latins who <font color='Salmon'>founded Rome originated</font>, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. <font color='LightSeaGreen'>*（举例，引出拉丁姆和他们做的事）*</font>From this arose the Roman <font color='Salmon'>genius</font> for military <font color='Salmon'>organization</font> and <font color='Salmon'>orderly government</font>. <font color='LightSeaGreen'>*（顺承，引出明确的“军事”方面特长）*</font>In turn, a deep attachment <font color='Salmon'>to the land</font>, and <font color='Salmon'>to the stability</font> which rural life engenders, <font color='Salmon'>fostered the Roman virtues</font>: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.<font color='LightSeaGreen'>*（递进补充，特长带来的诸多好处）*</font>
 
 !!! faq ""
 
@@ -618,6 +610,12 @@ In turn, **a deep attachment to the land, and to the stability** {++which rural 
     !!! failure ""
         
         ==没有找到与农业有关的内容== 可能是第二句没有看懂
+        
+        2018-07-19
+        
+        从新看了一遍第三句，昨天句子结构画错导致理解偏差。
+        
+        这一句应该就是在说条件好的土地对后期的罗马的影响，但是这里提到农业，比较抽象
     
     {--D--}. **They** ==possessed== ^^unusual knowledge of animal instincts^^.
     > 他们拥有动物本能的不寻常的知识。
@@ -629,6 +627,30 @@ In turn, **a deep attachment to the land, and to the stability** {++which rural 
         不同寻常的知识？好像也没提，文章指提到“领土”本能，关于方面的天赋
         
         AB文章里都没提
+
+Paragraph 3: <font color='LightSeaGreen'>*（文章前文可能在说罗马起源，这里为第三段，预判下文详细阐述罗马的某一具象）*</font>Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost <font color='Salmon'>instinct for the territorial imperative</font>. <font color='LightSeaGreen'>*（引出具象：关于对领土的本能，预判下文详细阐述罗马人怎么着领土了）*</font>Roman <font color='Salmon'>priorities</font> lay in the <font color='Salmon'>organization</font>, <font color='Salmon'>exploitation</font>, and <font color='Salmon'>defense of their territory</font>. <font color='LightSeaGreen'>*（对上一句的细化，并说明对领土怎么着）*</font><font color='red'>**||**</font> In all probability it was <font color='Salmon'>the fertile plain</font> of Latium, where the Latins who <font color='Salmon'>founded Rome originated</font>, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society. <font color='LightSeaGreen'>*（举例，引出拉丁姆和他们做的事）*</font>From this arose the Roman <font color='Salmon'>genius</font> for military <font color='Salmon'>organization</font> and <font color='Salmon'>orderly government</font>. <font color='LightSeaGreen'>*（顺承，引出明确的“军事”方面特长）*</font>In turn, a deep attachment <font color='Salmon'>to the land</font>, and <font color='Salmon'>to the stability</font> which rural life engenders, <font color='Salmon'>fostered the Roman virtues</font>: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.<font color='LightSeaGreen'>*（递进补充，特长带来的诸多好处）*</font>
+
+----
+
+Paragraph 3: Certainly, { in trying to explain the Roman phenomenon `地点`}, **one** == would have to place== ^^great emphasis^^ ==on== ^^this almost instinct for the territorial imperative^^. 
+> 当然，在尝试解释罗马的现象中，一点要必须关注有大量的重点在这些几乎领土的命令的本能上。
+
+**Roman priorities** ==lay in== ^^the organization, exploitation, and defense of their territory^^. 
+> 罗马的当务之急放置在他们领土的组织，利用和防御上。
+
+【 { In all probability `地点`} **it** ==was== ^^the fertile plain of Latium^^, {++where the Latins who founded Rome originated++}, **that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society**.  】
+>在所有的可能性中， 创造陆地上的居住习惯和技能，陆地上的财产，陆地上的经济，陆地上的管理和基于陆地的社会是找到起源的罗马的拉丁人所在的拉丁姆的肥沃的平原 。
+
+>> 【 { In all probability 地点} *it* ==was== ^^the fertile plain of Latium^^, {++where the Latins *who founded Rome* originated++}, **that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society**. 】
+
+>>在所有的可能性中，创造陆地上的居住习惯和技能，陆地上的财产，陆地上的经济，陆地上的管理和基于陆地的社会是发现罗马的拉丁人起源的拉丁姆的肥沃平原。
+>>> 在所有的可能性中，领土是发现罗马的拉丁人起源的拉丁姆的肥沃平原，（在这个领土后来的罗马人）创造陆地上的居住习惯和技能，陆地上的财产，陆地上的经济，陆地上的管理和基于陆地的社会。
+
+【 **From this** ==arose== ^^the Roman genius for military organization and orderly government^^. 】
+> 从这个计划产生军事组织和有秩序的管理的罗马天赋。
+
+In turn, **a deep attachment to the land, and to the stability** {++which rural life engenders++}, ==fostered== ^^the Roman virtues^^: gravitas, a sense of responsibility, peitas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
+> 相应地，一个深度忠诚于陆地和忠诚于引起乡村生活的稳定性，促进罗马美德：庄严，责任感，圣母怜子雕像，对家庭和国家的忠诚感和主持正义，自然秩序感。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
@@ -650,114 +672,129 @@ plain 平原
 
 #### 12.
 
-Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. 
->
-
-Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. 
->
-
-In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary?
->
-
-Why do the artists seem to get left and right confused? 
->
-
-And why did they not discover the geometric perspective as European artists did in the Renaissance? 
->
-
-The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.
->
-
-> Paragraph 1：In order to understand ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them. Without this knowledge we can appreciate only the formal content of Egyptian art, and we will fail to understand why it was produced or the concepts that shaped it and caused it to adopt its distinctive forms. In fact, a lack of understanding concerning the purposes of Egyptian art has often led it to be compared unfavorably with the art of other cultures: Why did the Egyptians not develop sculpture in which the body turned and twisted through space like classical Greek statuary? Why do the artists seem to get left and right confused? And why did they not discover the geometric perspective as European artists did in the Renaissance? The answer to such questions has nothing to do with a lack of skill or imagination on the part of Egyptian artists and everything to do with the purposes for which they were producing their art.
-
 !!! faq ""
 
-    Paragraph 1 suggests that one reason Egyptian art is viewed less favorably than other art is that Egyptian art lacks
-    >
+    **Paragraph 1** ==suggests== {++that one reason *Egyptian art is viewed less favorably { than other art `比较`}* is that Egyptian art <font color='hotpink'>**lacks**</font>++}
+    > 第一段暗示埃及艺术比其他艺术更不利于观赏的一个原因是埃及艺术缺乏？
     
     A. a realistic sense of human body proportion
-    >
+    > 现实主义的人类身体比例感
     
     B. a focus on distinctive forms of varying sizes
-    >
+    > 一个聚焦在独特多变的尺寸的形式
     
-    C. the originality of European art
-    >
+    {--C--}. the originality of European art
+    > 欧洲艺术的创造性
+ 
+    !!! failure ""
     
-    D. the capacity to show the human body in motion
-    >
+        {++everything to do with the purposes for which they were producing their art++} 与创造的意义有关，这里与创造性相对应
+        
+        题干问的是 ==缺乏== 什么……，真坑
+    
+    {++D++}. the capacity {++to show the human body in motion++}
+    > 展示动作中人类身体的能力
 
     !!! failure ""
+    
+        题干问的是 ==缺乏== 什么……，对应文章的两个 ==Why==
+        
+        {++not develop sculpture in which the body turned and twisted through space++}
+        
+        {++not discover the geometric perspective++}
+
+Paragraph 1：<font color='LightSeaGreen'>*（文章第一段，定义目的）*</font><font color='Blue'>In order to</font> <font color='Salmon'>understand</font> ancient Egyptian art, it is vital to know as much as possible of the elite Egyptians' <font color='Salmon'>view of the world</font> and <font color='Salmon'>the functions</font> and <font color='Salmon'>contexts</font> of the art produced for them. <font color='LightSeaGreen'>*（提出埃及艺术与精英世界观和艺术功能及背景有关，预判下文详细阐述世界观或者功能、背景）*</font> <font color='Blue'>*Without*</font> this knowledge we can appreciate <font color='Blue'>*only*</font> <font color='Salmon'>the formal content</font> of Egyptian art, and we will <font color='Salmon'>fail to understand</font> <font color='Blue'>why</font> it was <font color='Salmon'>produced</font> or <font color='Salmon'>the concepts</font> that shaped it and caused it to adopt its distinctive forms. <font color='LightSeaGreen'>*（顺承，进一步强调需要对世界观，功能、背景知识的了解，否则看不懂）*</font> <font color='red'>**||**</font> <font color='Blue'>*In fact*</font>, <font color='Salmon'>a lack of understanding</font> concerning the purposes of Egyptian art has often led it to be compared <font color='Salmon'>unfavorably</font> with <font color='Salmon'>the art of other cultures</font>: <font color='Blue'>Why</font> did the Egyptians <font color='Salmon'>not develop sculpture</font> in which the <font color='Salmon'>body turned</font> and <font color='Salmon'>twisted through space</font> like classical Greek statuary? <font color='LightSeaGreen'>*（深度顺承，提出与其他艺术的比较，引出对雕刻艺术的思考）*</font><font color='Blue'>Why</font> do the artists seem to <font color='Salmon'>get left and right confused</font>? <font color='LightSeaGreen'>*（提出关于艺术家思想的思考）*</font>And <font color='Blue'>why</font> did they <font color='Salmon'>not discover the geometric perspective</font> as European artists did in the Renaissance? <font color='LightSeaGreen'>*（提出对艺术家行为的思考）*</font>The answer to such questions has <font color='Salmon'>nothing to do with a lack of skill or imagination</font> on the part of Egyptian artists and <font color='Salmon'>everything to do with the purposes</font> for which they were producing their art.<font color='LightSeaGreen'>*（总结：回答以上三个问题的疑虑，并给出明确答案）*</font>
+
+----
+
+Paragraph 1：{ In order to understand ancient Egyptian art `目的`}, **it** ==is== ^^vital to know^^ { as much as possible of the elite Egyptians' view of the world and the functions and contexts of the art produced for them `方式`}. 
+> 为了理解古埃及艺术，至关重要的去了解尽可能多的精英埃及世界观和对于他们生产的艺术的功能和背景。
+
+{++Without this knowledge++} **we** ==can appreciate== ^^*only* the formal content of Egyptian art^^, *and* **we** ==will fail to understand== {++why it was produced or the concepts++} {++that shaped it and caused it to adopt its distinctive forms++}. 
+> 没有这些知识的情况下，我们只能欣赏埃及艺术的正式的内容，并且我们不能理解为什么它被制造出来或者形成它和造成它适应它独特的形式的意义。
+
+【 In fact, **a lack of understanding {++concerning the purposes of Egyptian art++}** ==has often led== ^^it^^ ==to be compared unfavorably== {++with the art of other cultures++}: **Why**==did== ^^the Egyptians^^ ==not develop== ^^sculpture^^ {++in which the body turned and twisted through space like classical Greek statuary++}? 】
+> 实际上，涉及埃及艺术的目的的理解的缺失常常导致不利于与其他文化的艺术比较：为什么埃及人没有发展像希腊雕像那样身体转动和扭曲的穿过空间的雕像。
+
+**Why** ==do== ^^the artists^^ ==seem to get left and right confused==? 
+> 为什么艺术家看似乎困惑不解？
+
+【 *And* **why** ==did== ^^they^^ ==not discover== ^^the geometric perspective^^  { as European artists did in the Renaissance `方式`}?  】
+> 并且，为什么他们没有探索几何想法，如文艺复兴时期欧洲艺术家所做的。
+
+**The answer to such questions** ==has nothing to do with== ^^a lack of skill or imagination on the part of Egyptian artists^^ *and* ==everything to do with== ^^the purposes^^ {++for which they were producing their art++}. 
+> 这些问题的答案与部分埃及艺术家中的缺少技能或想象力无关，并且与他们正在创造的艺术的意义有关。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+vital 至关重要的 | view of the world 世界观 | fail to do sth 失败做某事
+concept 概念，想法 n. |  purpose 目的 | unfavorably 不利地，不合时宜地，反对地
+twiste 扭曲，扭转 v.  | statuary 【正式】雕像，塑像，雕塑作品 | motion 运动，动作 n.
+confused 困惑的，不清楚的，混乱的，难懂的| geometric 几何形的 | perspective 【思考问题的】角度，观点，想法
+the Renaissance 【欧洲14至17世纪的】文艺复兴时期 | favorably 有利地 | varying 不同的，变化的
+for the purpose 对……的意义 | have nothing to do with 与……无关 | everything to do with 与……有关
+ get left and right confused 左右混淆，困惑不解 | originality 创造性
     
 ### 2018-07-20
 
 #### 13.
 
-Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. 
->
-
-The boxes were stationary, and the one containing food was always at the same point of the compass. 
->
-
-However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. 
->
-
-As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. 
->
-
-Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. 
->
-
-On overcast days, however, the birds were disoriented and had trouble locating their food box. 
->
-
-> Paragraph 4：So, in another set of experiments, Kramer put identical food boxes around the cage, with food in only one of the boxes. The boxes were stationary, and the one containing food was always at the same point of the compass. However, its position with respect to the surroundings could be changed by revolving either the inner cage containing the birds or the outer walls, which served as the background. As long as the birds could see the Sun, no matter how their surroundings were altered, they went directly to the correct food box. Whether the box appeared in front of the right wall or the left wall, they showed no signs of confusion. On overcast days, however, the birds were disoriented and had trouble locating their food box. 
-
 !!! faq ""
 
-    Which of the following can be inferred from paragraph 4 about Kramer s reason for filling one food box and leaving the rest empty?
-    >
+    **Which of the following** ==can be inferred from== ^^paragraph 4 about *Kramer's <font color='hotpink'>**reason**</font> for filling one food box and leaving the rest empty*^^?
+    > 从第四段关于Kramer's对于填满一个食物盒子和留下空闲的原因推断出以下哪个选项？    <font color='hotpink'>**因果**</font>
     
-    A. He believed the birds would eat food from only one box.
-    >
+    A. **He** ==believed== ^^the birds would eat food from only one box^^.
+    > 他认为鸟只能从一个盒子吃到食物。
     
-    B. He wanted to see whether the Sun alone controlled the birds' ability to navigate toward the box with food.
-    >
+    ==B==. **He** ==wanted to see== {++whether the Sun alone controlled the birds' ability to navigate toward the box with food++}.
+    > 他想看是否太阳独自控制鸟有导航到有食物的盒子的能力。
     
-    C. He thought that if all the boxes contained food, this would distract the birds from following their migratory route.
-    >
-    
-    D. He needed to test whether the birds preferred having the food at any particular point of the compass.
-    >
-
     !!! failure ""
+    
+        文章最后三句的举例说明了K在做实验，即食物对鸟判断方位的影响力——没有影响，鸟是看天气的
+        
+    C. **He** ==thought== {++that { if all the boxes contained food `条件`}, this would distract the birds from following their migratory route++}.
+    > 他认为如果所有盒子都有食物，这些食物会把鸟从跟随迁徙的路线中分离出来。
+    
+    D. **He** ==needed to test== {++whether the birds preferred having the food at any particular point of the compass++}.
+    > 他需要测试鸟是否在任何特定的指引点偏爱有食物的。
+
+Paragraph 4：<font color='LightSeaGreen'>*（文章前文可能在阐述对鸟的几个实验，这里介绍另一种实验）*</font><font color='Blue'>*So*</font>, in another set of experiments, Kramer put identical food boxes around the cage, <font color='Salmon'>with food</font> in <font color='Blue'>*only*</font> one of the boxes. <font color='LightSeaGreen'>*（说明上文的那些实验也用到了盒子，这里说明与上文盒子的区别，是有食物的盒子，预判下文的实验内容与“食物”有关）*</font>The boxes were <font color='Salmon'>stationary</font>, and the one containing food was always at <font color='Salmon'>the same point of the compass</font>. <font color='LightSeaGreen'>*（顺承，详细描述有食物的盒子在实验中的作用，并引出“指引方向的点”，食盒与点的关系，食盒定位点）*</font><font color='red'>**|| 转折**</font> <font color='Blue'>*However*</font>, its position <font color='Salmon'>with respect to the surroundings</font> could be changed by revolving either the <font color='Salmon'>inner cage containing the birds</font> or <font color='Salmon'>the outer walls</font>, which served as the background. <font color='LightSeaGreen'>*（转折：对前一句的“点”做客观说明，点和食盒不是必然的关系，还受其他方面影响）*</font><font color='Blue'>*As long as*</font> the birds could <font color='Salmon'>see the Sun</font>, <font color='Salmon'>no matter</font> how their surroundings were altered, they went directly to the correct food box. <font color='LightSeaGreen'>*（顺承：引出试验品“鸟”与“点”的关系，“点”对“鸟的”影响和作用）*</font>Whether the box appeared in front of the right wall or the left wall, they showed <font color='Salmon'>no signs of confusion</font>. <font color='LightSeaGreen'>*（顺承：细节描述，用来支持上一句，这里跳过“点”，直接将“食盒”与“鸟”联系，阐述影响）*</font><font color='Blue'>*On overcast days*</font>, however, the birds were <font color='Salmon'>disoriented</font> and <font color='Salmon'>had trouble</font> locating their food box. <font color='LightSeaGreen'>*（对比：第一句提到“太阳”对“鸟”有影响，后两句支出“食盒”与“鸟”没影响，这里再次提到“天气”对“鸟”有影响。总结：鸟的方向感与天气有关，与食物无关。）*</font>
+
+----
+
+Paragraph 4：{ So `结果`}, { in another set of experiments `地点`}, **Kramer** ==put== ^^identical food boxes around the cage^^, {++with food in only one of the boxes++}. 
+> 因此，在另一组实验中，K在笼子里放置完全相同的食盒，只有这个笼子放了有食物的盒子。
+
+**The boxes** ==were== ^^stationary^^, and **the one {++containing++} food** ==was== ^^always at the same point of the compass^^. 
+> 这个盒子是静止的，并且是一个有食物的，经常在指引方向的同一个点。
+
+*However*, **its position {++with respect to the surroundings++}** ==could be changed== { by revolving either the inner cage {++containing the birds++} or the outer walls `方式`}, {++which served { as the background `方式`}++}.  
+> 然而，与环境有关的点会被通过要么在有鸟的笼子中旋转要么提供作为背景的外墙所改变。
+
+【 **As long as the birds** ==could see== ^^the Sun^^, ( no matter {++how their surroundings were altered++} ), **they** ==went directly to== ^^the correct food box^^.  】
+> 只要鸟看到太阳，不管他们的环境被改变的怎样，他们直接飞去正确的食盒。
+
+【 { Whether the box appeared in front of the right wall or the left wall `让步`}, **they** ==showed== ^^no signs of confusion^^.  】
+> 不论盒子出现在正确的墙或左侧墙前面，他们没有展示混淆信号。
+
+【 { On overcast days `时间`}, *however*, **the birds** ==were disoriented== and ==had== ^^trouble locating their food box^^.  】
+> 然而，在阴天，鸟迷失方向并且找到他们的食盒有困难。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-
+Kramer 人名 | cage 笼子 | stationary 静止的
+compass 指南针 | with respect to sth 与某事有关 | revolve 旋转，转动
+As long as 只要，和……一样长 | sign 标记，信号 | overcast 阴天的，多云的
+disoriented 迷失方向的 | set of 一组，一套 | identical 完全相同的
+serve 服务，提供 | no matter 不管怎样，不要紧 | Whether 是否，不论
+have trouble 有……困难
+ 
 ### 2018-07-21
 
 #### 14.
 
-Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. 
->
-
-The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. 
->
-
-These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. 
->
-
-David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. 
->
-
-The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
->
-
-> Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
 
 !!! faq ""
 
@@ -778,27 +815,31 @@ The eggs “advertised” by the tree-nesters' begging calls were found bitten s
 
     !!! failure ""
 
+Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
+
+----
+
+Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. 
+>
+
+The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. 
+>
+
+These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. 
+>
+
+David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. 
+>
+
+The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
+>
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
     
 ### 2018-07-22
 
 #### 15.
-
-Paragraph 4: Fractures and other cut marks are another source of evidence. 
->
-
-Right-handed soldiers tend to be wounded on the left. 
->
-
-The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
->
-
-> Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. 
->
-
-The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
->
 
 !!! faq ""
 
@@ -818,6 +859,25 @@ The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in
     >
 
     !!! failure ""
+    
+Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+
+----
+
+Paragraph 4: Fractures and other cut marks are another source of evidence. 
+>
+
+Right-handed soldiers tend to be wounded on the left. 
+>
+
+The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+>
+
+> Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. 
+>
+
+The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+>
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------

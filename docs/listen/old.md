@@ -84,6 +84,15 @@
     
 ### 2018-07-13
 
-!!! info "**Frank Lloyd Wright**"
+??? info "**Frank Lloyd Wright**"
 
     Because of his belief in unity of design and elimination of unneccessary detail, he resisted his client's wishes to introduce what he called foreign objects to his carefully designed interiors.
+    
+### 2018-07-19
+
+!!! info "**The Painter Grant Wood**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    the turn of the century 世纪之交 | 
+
