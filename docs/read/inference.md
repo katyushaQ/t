@@ -795,47 +795,58 @@ have trouble 有……困难
 
 #### 14.
 
-
 !!! faq ""
 
-    Paragraph 2 indicates that the begging calls of tree nesting warblers
-    >
+    **Paragraph 2** ==indicates== {++that *the begging calls of <font color='hotpink'>**tree nesting warblers**</font>*++}   <font color='hotpink'>**看似对比，实则因果**</font>
+    > 第二段指明树巢鸣鸟的乞叫
     
-    A. put them at more risk than ground-nesting warblers experience
-    >
+    A. ==put== ^^them at more risk { than ground-nesting warblers experience `比较`}^^
+    > 使他们比地巢的鸣鸟的经验更少
     
-    B. can be heard from a greater distance than those of ground-nesting warblers
-    >
+    ==B==. ==can be heard from== ^^a greater distance { than those of ground-nesting warblers `比较`}^^
+    > 相比那些地巢的鸣鸟，更远的距离能被听到
     
-    C. are more likely to conceal the signaler than those of ground-nesting warblers
-    >
-    
-    D. have higher frequencies than those of ground nesting warblers
-    >
-
     !!! failure ""
+    
+        B符合逻辑推理 
 
-Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
+        {++These higher-frequency sounds do not travel as far , and so may better conceal the individuals producing them++} 这里含<font color='hotpink'>**因果关系**</font>，==因为== 高频声音不会传很远，==所以== 才更好的隐藏。也就是说，传播距离对于捕食者是否能发现他们是关键因素。
+        
+        AC没提，D说反了
+    
+    C. ==are== ^^more likely to conceal the signaler { than those of ground-nesting warblers `比较`}^^
+    > 相比那些地巢的鸣鸟，更可能隐藏信号鸟
+    
+    D. ==have== ^^higher frequencies { than those of ground nesting warblers `比较`}^^
+    > 相比那些地巢的鸣鸟，有更高频率
+
+Paragraph 2：<font color='LightSeaGreen'>*（文章前文可能在说对鸣鸟的研究和成本，这里引出乞叫声和差异，预判下文详细阐述乞叫声差异）*</font>Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. <font color='red'>**||**</font> The young of <font color='Salmon'>ground-nesting</font> warblers produce begging cheeps of <font color='Blue'>*higher*</font> frequencies <font color='Salmon'>than</font> do their <font color='Salmon'>tree-nesting</font> relatives. <font color='LightSeaGreen'>*（细节举例1：幼崽高频叫声对比）*</font>These higher-frequency sounds <font color='Salmon'>do not</font> travel <font color='Salmon'>as far</font>, and <font color='Blue'>*so*</font> <font color='Salmon'>may</font> <font color='Blue'>*better*</font> <font color='Salmon'>conceal</font> the individuals producing them, who are especially vulnerable to predators in their ground nests. <font color='LightSeaGreen'>*（顺承：阐述高频的影响，并引出地巢容易被攻击特点）*</font>David Haskell created artificial nests <font color='Salmon'>with clay eggs</font> and placed them <font color='Salmon'>on the ground</font> beside a tape recorder that played the begging calls of <font color='Salmon'>either</font> tree-nesting <font color='Salmon'>or</font> of ground-nesting warblers. <font color='red'>**||**</font> <font color='LightSeaGreen'>*（进一步围绕地巢，引出实验，研究员想通过不同类型巢幼崽乞叫声得知与被捕食因果关系）*</font>The eggs “advertised” by the <font color='Salmon'>tree-nesters' begging calls</font> were found bitten <font color='Salmon'>significantly</font> <font color='Blue'>*more often*</font> <font color='Salmon'>than</font> the eggs associated with <font color='Salmon'>the ground-nesters' calls</font>.<font color='LightSeaGreen'>*（顺承：研究结论，树巢乞叫声更容易被发现和攻击。那么就是说，捕食者更关注鸟的叫声，而不是鸟巢的位置）*</font>
 
 ----
 
-Paragraph 2：Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees. 
->
+Paragraph 2：**Further evidence for the costs of begging** ==comes from== ^^a study of differences^^ { in the begging calls of warbler species `地点`} {++that nest on the ground versus those++} {++that nest { in the relative safety of trees `地点`}++}. 
+> 另外证据，乞丐的成本来自鸣鸟种类的乞叫声的差异研究，在地面筑巢相对那些在相对安全的树上筑巢的之间的差异。
 
-The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives. 
->
+**The young of ground-nesting warblers** ==produce== ^^begging cheeps of higher frequencies { than do their tree-nesting relatives `比较`}^^. 
+> 地巢的鸣鸟的幼崽相比树巢的发出乞讨的更高频率的吱吱叫。
 
-These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests. 
->
+【 **These higher-frequency sounds** ==do not travel== { as far `结果`}, and { *so* may better conceal the individuals producing them, {++who are especially vulnerable to predators { in their ground nests `地点`}++} `结果`}.  】
+> 这些高频的叫声不会传很远，所以可以更好的掩盖发出声音的个体，他们在他们的地巢，他们尤其容易被捕食者攻击。
 
-David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers. 
->
+**David Haskell** ==created== ^^artificial nests^^ {++with clay eggs++} and ==placed== ^^them^^ ==on== ^^the ground beside a tape recorder^^ {++that played the begging calls of either tree-nesting or of ground-nesting warblers++}. 
+> DH制造带有黏土蛋的人工巢，并且把他们放置在地上一个磁带录音机旁边，这个录音机要么播放树巢鸣鸟的乞叫声要么播放地巢鸣鸟的乞叫声。
 
-The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
->
+**The eggs {++“advertised” by the tree-nesters' begging calls++}** ==were found bitten== ^^significantly { more often than the eggs associated with the ground-nesters' calls `比较`}^^.
+> 这个”放广播“来自树巢鸣鸟的乞叫声的蛋，相比与地巢鸣鸟的叫声的蛋被发现更经常被咬的很严重。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+beg 乞求 v. | warblers 鸣鸟 | ground-nesting 地面巢的
+conceal 隐藏，掩盖 v. | signaler 发信号的人/物 | evidence 证据
+versus 对，对抗，与……相对| cheep 吱吱地叫 v. | vulnerable 脆弱的，易受攻击的
+tree-nesting 树巢的 | advertised 广告的，宣传的；登广告，做宣传 | bitten bit过去分词；咬
+clay 黏土 | be associated with sb/sth 与某人/某事有关
+
     
 ### 2018-07-22
 
