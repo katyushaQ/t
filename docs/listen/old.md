@@ -88,7 +88,7 @@
 
     Because of his belief in unity of design and elimination of unneccessary detail, he resisted his client's wishes to introduce what he called foreign objects to his carefully designed interiors.
     
-### 2018-07-19
+### 2018-07-23
 
 !!! info "**The Painter Grant Wood**"
 
@@ -96,3 +96,11 @@
     ------------ | -------------  | -------------
     the turn of the century 世纪之交 | 
 
+!!! info "**Small-Business Management**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    turn attention to 转移注意力 | overlook 忽视 | sophisticated 成熟的，复杂的
+    enterprise 企业 | keep in mind 记住 | immediately 立即，立刻，马上
+    focus on 专注于 | caution 小心，谨慎 | can't afford to 不能承担起
+    at the heart 处在核心地位 | perform task 执行任务

@@ -847,48 +847,51 @@ versus 对，对抗，与……相对| cheep 吱吱地叫 v. | vulnerable 脆弱
 tree-nesting 树巢的 | advertised 广告的，宣传的；登广告，做宣传 | bitten bit过去分词；咬
 clay 黏土 | be associated with sb/sth 与某人/某事有关
 
-    
-### 2018-07-22
+### 2018-07-23
 
 #### 15.
 
 !!! faq ""
 
-    Which of the following statements about fractures and cut marks can be inferred from paragraph 4?
-    >
+    **Which of the following <font color='hotpink'>statements</font> about *fractures and cut marks*** ==can be inferred from== ^^paragraph 4^^?
+    > 从第四段能推断出以下哪个选项陈述关于骨裂和切痕？  <font color='hotpink'>**内容总结**</font>
     
-    A. Fractures and cut marks caused by right-handed soldiers tend to occur on the right side of the injured party's body.
-    >
+    A. **Fractures and cut marks** ==caused== { by right-handed soldiers tend to occur on the right side of the injured party's body `方式`}.
+    > 骨裂和切痕产生自右手的军人易于发生在受伤的部分身体右侧。
     
-    B. The right arm sustains more injuries because, as the dominant arm, it is used more actively.
-    >
+    B. **The right arm** ==sustains== ^^more injuries^^ { because, ( as the dominant arm ), it is used more actively `原因`}.
+    > 右臂承受更多伤害，因为，作为主要的胳膊，被更积极的使用。
     
-    C. In most people, the left side of the body is more vulnerable to injury since it is not defended effectively by the dominant arm.
-    >
+    ==C==. { In most people `抽象地点`}, **the left side of the body** ==is== ^^more vulnerable to injury^^ { since it is not defended effectively { by the dominant arm `方式`} `原因`}.
+    > 在大多数人中，身体的左侧更容易受伤害，因为它们没有来自主要胳膊的有效防御。
     
-    D. Fractures and cut marks on fossil humans probably occurred after death.
-    >
-
     !!! failure ""
     
-Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
+        {++Right-handed soldiers tend to be wounded on the left++}     第二句很明确的阐述
+        
+        A说反，B没提，D胡说
+    
+    D. **Fractures and cut marks on fossil humans** ==probably occurred== { after death `时间`}.
+    > 人类化石上的骨裂和切痕可能在死后产生。
+
+Paragraph 4: <font color='LightSeaGreen'>*（文章前文有三段，可能在阐述一个什么东西，并阐述了几个证据，这里提出另一个证据，预判下文详细描述该证据特征以及对前文那个东西的影响）*</font>Fractures and other cut marks are <font color='Blue'>another</font> source of evidence. <font color='LightSeaGreen'>*（阐述证据内容）*</font> <font color='red'>**||**</font> <font color='Salmon'>Right-handed</font> soldiers <font color='Salmon'>tend to</font> be wounded <font color='Salmon'>on the left</font>. <font color='LightSeaGreen'>*（证据形成的铺垫内容）*</font>The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had <font color='Salmon'>multiple healed</font> fractures to <font color='Salmon'>the skull</font>, <font color='Salmon'>the left arm</font>, and <font color='Salmon'>the ribs</font>.<font color='LightSeaGreen'>*（顺承：举例解释上一句，巩固论证）*</font>
 
 ----
 
-Paragraph 4: Fractures and other cut marks are another source of evidence. 
->
+Paragraph 4: **Fractures and other cut marks** ==are== ^^another source of evidence^^. 
+> 骨裂和切痕是另一个证据来源。
 
-Right-handed soldiers tend to be wounded on the left. 
->
+【 **Right-handed soldiers** ==tend to be wounded== { on the left `抽象地点`}.  】
+> 右手的军人的左侧容易受伤。
 
-The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
->
-
-> Paragraph 4: Fractures and other cut marks are another source of evidence. Right-handed soldiers tend to be wounded on the left. 
->
-
-The skeleton of a 40- or 50-year-old Nabatean warrior, buried 2,000 years ago in the Negev Desert, Israel, had multiple healed fractures to the skull, the left arm, and the ribs.
->
+**The skeleton of a 40- or 50-year-old Nabatean warrior**, ( {++buried 2,000 years ago in the Negev Desert++} ), ( Israel ), ==had== ^^multiple {++healed++} fractures to the skull, the left arm, and the ribs^^.
+> 2000年前被埋在内盖夫沙漠（以色列）的40或者50岁的纳巴泰人勇士的骨骼，有多处愈合的骨裂在头盖骨，左臂和肋骨上。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+fracture 骨折，骨裂 n. | injured 受伤的 | sustain 维持，保持，承受
+injuries/injury 损伤，伤害 n. | actively 积极地，活跃地，活动地 | vulnerable 脆弱的，易受攻击的
+defend 防守，防御 | cut marks 切痕 | rib 肋骨
+dominant 主要的，支配的，优势的 | evidence 证据 n. | wounded 受伤的，负伤的【刀，抢等】
+skeleton 骨架，骨骼 | Nabatean (古希腊和罗马时期的)纳巴泰人 | Negev 内盖夫（巴勒斯坦一地区）
+Israel 以色列 | heal 【伤口】治愈，愈合 | warrior 【昔日的】武士，战士，勇士

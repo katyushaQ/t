@@ -32,3 +32,6 @@ at once 立刻，马上 | civil war 内战
 PHRASE |  PHRASE
 ------------ | -------------
 make sense 是有意义的 | I suppose 我想，我认为【用于认为某事属实，但不敢肯定】
+syllabus 教学大纲 | antholoy 【诗，文】选集
+essay 散文 | journal 【专业】期刊
+circulate 流传 | novel 小说

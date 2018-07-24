@@ -35,7 +35,7 @@ give sb alternative way to do sth 给某人另一种方法做某事 |
 
 ### 2018-07-19
 
-For another thing, education is seen as a higher priority now than in the past, so teachers are considered more important to young people's development this day and age. This is especially true with regard to minorities and women, because we now know that a lot of race and gender inequalities stem from education imblance. The men and women teaching in our academic institutions today are not only increasing literacy  and imparting wisdom, they are also helping to rebalance society by helping young illiterate people from disadvantaged groups get the qualitications they need to compete equally.
+For another thing, education is seen as a higher priority now than in the past, so teachers are considered more important to young people's development this day and age. This is especially true with regard to minorities and women, because we now know that a lot of race and gender inequalities stem from education imbalance. The men and women teaching in our academic institutions today are not only increasing literacy  and imparting wisdom, they are also helping to rebalance society by helping young illiterate people from disadvantaged groups get the qualifications they need to compete equally.
 > 另一点，教育在现在相比以前很重要，所以现在老师认为对年轻人发张更重要。就于少数和女性尤其真实，因为我们现在知道大量的竞争和性别不平等来自教育失衡。今天男性和女性在我们的学院制度下受教育不仅增长识字和传授智慧，他们也可以帮助社会重新平衡，通过帮助来自不利地位群体的文盲年轻人获得他们想要公平竞争的资格。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
@@ -49,6 +49,20 @@ PHRASE |  PHRASE
 ------------ | -------------
 be seen as a higher priority 某是很重要 | this day and age 现在
 impart knowledge / widsom 传授知识/智慧
+
+### 2018-07-19
+
+Finally, teachers are able to influence young people in new ways thanks to technological, resources they now have. The computerization of classrooms, for instance, has allowed teachers to present information in more vivid ways. Instead of merely describing a chemical reaction, they can use a CGI video to show how two chemicals interact at the atomic level. This would stimulate a student's interest much more easily.  The growing popularity of distance education also means that teachers nowadays can reach students who are studying at home. Teachers can now reach students who cannot necessarily pay for private tutors or afford expensive tuition fees by instead teaching them through more affordable online courses. Today's technology enable teachers to convey knowledge like never before, and with greater efficiency.
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+present | vivid | merely
+reaction | atomic | stimulate
+interest | reach | 
+
+PHRASE |  PHRASE
+------------ | -------------
+thanks to 由于 | 
 
 ----
 
