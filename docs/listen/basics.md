@@ -35,3 +35,13 @@ make sense 是有意义的 | I suppose 我想，我认为【用于认为某事�
 syllabus 教学大纲 | antholoy 【诗，文】选集
 essay 散文 | journal 【专业】期刊
 circulate 流传 | novel 小说
+
+### 2018-07-24
+
+#### Function Sample Question
+
+PHRASE |  PHRASE
+------------ | -------------
+inform 通知 | direction 指导，指示
+discourage 阻止 | participate 参与
+study-abroad 留学 | in charge ( of sth ) 主管，负责

@@ -16,7 +16,7 @@ pages:
     - 2018_0702-0708 7月第一周: assignment/2018-0702-0708.md
     - 2018_0709-0715 7月第二周: assignment/2018-0709-0715.md
     - 2018_0716-0722 7月第三周: assignment/2018-0716-0722.md
-    - 2018_0716-0722 7月第四周: assignment/2018-0723-0729.md
+    - 2018_0723-0729 7月第四周: assignment/2018-0723-0729.md
     
 - Read: 
     - Policy: read/policy.md
@@ -25,6 +25,7 @@ pages:
     - Detail: read/detail.md
     - Negation: read/negation.md
     - Inference: read/inference.md
+    - Insertion: read/insertion.md
     - 2-3 Early Cinema: read/2-3.md
     - 3-1 Architecture: read/3-1.md
     - 3-2 Depletion of the Ogallala Aquifer: read/3-2.md

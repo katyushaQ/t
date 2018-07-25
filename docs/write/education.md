@@ -14,9 +14,9 @@ In conclustion, education is becoming more and more accessiable due to a number 
 
 ----
 
-### 2018-07-17
+### 范文 2
 
-#### 范文 2
+#### 2018-07-17
 
 A./D. Do you agree or disagree with the following statement: Teachers had a greater influence on young people in the past than they do today. Use specific reasons and examples to support your answer.
 
@@ -33,7 +33,7 @@ be an important part of sth 某事很重要 | have influence over sb/influence s
 on a lager scale 在很大程度上 | revieve more attention 获得更多关注
 give sb alternative way to do sth 给某人另一种方法做某事 | 
 
-### 2018-07-19
+#### 2018-07-19
 
 For another thing, education is seen as a higher priority now than in the past, so teachers are considered more important to young people's development this day and age. This is especially true with regard to minorities and women, because we now know that a lot of race and gender inequalities stem from education imbalance. The men and women teaching in our academic institutions today are not only increasing literacy  and imparting wisdom, they are also helping to rebalance society by helping young illiterate people from disadvantaged groups get the qualifications they need to compete equally.
 > 另一点，教育在现在相比以前很重要，所以现在老师认为对年轻人发张更重要。就于少数和女性尤其真实，因为我们现在知道大量的竞争和性别不平等来自教育失衡。今天男性和女性在我们的学院制度下受教育不仅增长识字和传授智慧，他们也可以帮助社会重新平衡，通过帮助来自不利地位群体的文盲年轻人获得他们想要公平竞争的资格。
@@ -50,26 +50,55 @@ PHRASE |  PHRASE
 be seen as a higher priority 某是很重要 | this day and age 现在
 impart knowledge / widsom 传授知识/智慧
 
-### 2018-07-19
+#### 2018-07-23
 
-Finally, teachers are able to influence young people in new ways thanks to technological, resources they now have. The computerization of classrooms, for instance, has allowed teachers to present information in more vivid ways. Instead of merely describing a chemical reaction, they can use a CGI video to show how two chemicals interact at the atomic level. This would stimulate a student's interest much more easily.  The growing popularity of distance education also means that teachers nowadays can reach students who are studying at home. Teachers can now reach students who cannot necessarily pay for private tutors or afford expensive tuition fees by instead teaching them through more affordable online courses. Today's technology enable teachers to convey knowledge like never before, and with greater efficiency.
+Finally, teachers are able to influence young people in new ways thanks to technological resources they now have. The computerization of classrooms, for instance, has allowed teachers to present information in more vivid ways. Instead of merely describing a chemical reaction, they can use a CGI video to show how two chemicals interact at the atomic level. This would stimulate a student's interest much more easily.  The growing popularity of distance education also means that teachers nowadays can reach students who are studying at home. Teachers can now reach students who cannot necessarily pay for private tutors or afford expensive tuition fees by instead teaching them through more affordable online courses. Today's technology enable teachers to convey knowledge like never before, and with greater efficiency.
+> 最后，老师能以新的方式影响年轻人由于他们现在拥有的技术资源。例如，教室的计算机化使教师能以更生动的方式呈现信息。取代仅仅描述一个化学品反应，他们可以使用CGI视频展示在原子层的两个化学品的互相影响。这个能够更容易的激发学生的兴趣。远程教育的越来越受欢迎也意味着教师如今能接触到在家学习的学生。教师现在能接触到无法必须支付私人教师或者无法承担昂贵学费的学生，通过更能承担的在线教育取代教他们。今天的技术能够使教师不再像以前那样传递知识，并且有更大的影响力。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | ------------- | -------------
-present | vivid | merely
-reaction | atomic | stimulate
-interest | reach | 
+present 授予 v. | vivid 生动的 | merely 仅仅，只不过
+reaction 反应 | atomic 原子的 | stimulate 刺激，促进，鼓励，激发
+reach 达到【某一阶段】，提升到【某一程度】| tuition fees 学费 | convey 传达，传递
+chemical 化学品 | popularity
 
 PHRASE |  PHRASE
 ------------ | -------------
-thanks to 由于 | 
+thanks to 由于 | convey knowledge / information 传递知识 / 传递信息
+present information 呈现信息 | instead of sb / sth 代替……；而不是……；取而代之……
+reach sb 接触某人 | in new ways 以新的方式
+for instance 例如 | growing popularity 越来越受欢迎
+private tutors 私人教师
+
+#### 2018-07-25
+
+In summary, teachers today are no less influential than teachers in the past. If anything, the combination of more people attending school, education being seen as a higher priority, and new techlogical resources becoming available have all made teachers today more influential towards young people, not less.
+> 总之，老师今天比过去没有更低的影响。如果有什么的话，更多人上学这类情况，教育被看作一个更高的优先级，并且新技术资源可获得都使教师今天对年轻人更有影响力，而不是更少。
+
+!!! error ""
+    
+    1.句子结构划分障碍，不知道 have all 算啥？
+    
+     {If anything `条件`}, ( the combination of more people attending school `插入语？`), **education** ==being seen== { as a higher priority `方式`}, and **new techlogical resources** ==becoming== ^^available^^ {`这里好像少了点什么`} have all {`这里是省略了that么？`} made teachers today more influential towards young people, not less.{`后面这段是啥成分？看不懂了`}
+     
+     being和becoming都使用系动词为啥在这里使用ing形式？我有点晕……
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+influential 有影响（力）的 | 
+
+PHRASE |  PHRASE
+------------ | -------------
+In summary 总之 | be / become available 可获得
+If anything 【口】要有什么的话（倒是……）【用于补充内容以强调前面所说的话】 | combination of 组合，联合，综合
 
 ----
 
-#### 范文 3
+### 范文 3
 
 
-#### 自己写
+### 自己写
 
 Do agree or disagree with the following statement: It is easier nowadays to get educated than before.
 
@@ -85,6 +114,6 @@ Do agree or disagree with the following statement: It is easier nowadays to get 
 
 ----
 
-#### 课后复写
+### 课后复写
 
 > In number of counties, nowadays university fee is too expensive, and this situation leads some people to believe that education is becoming obtainable than before. However, this is not true. If we look at the bigger picture, it is actually easier for most people to gain education in today's society compared to in the past.

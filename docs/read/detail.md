@@ -399,9 +399,9 @@ No longer ==was== {++it helpful to share widely++}.
     
     (While)  Listening to the music, jerry falls into the river.
     
-    都是状语从句的省略
+    都是状语从句的省略，句子格式如下：
     
-    to do / doing / done , SVO =》 最原始形式
+    to do / doing / done , SVO  {++最原始形式++}
     
     when / after / before + doing , SVO
     

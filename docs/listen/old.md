@@ -2,7 +2,7 @@
 
 ### 2018-06-07
 
-??? info "**Classification Of Trees**"
+!!! info "**Classification Of Trees**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -30,7 +30,7 @@
 
 ### 2018-06-07
 
-??? info "**Trouble Sleeping**"
+!!! info "**Trouble Sleeping**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -45,7 +45,7 @@
     
 ### 2018-06-21
 
-??? info "**Astronomers**"
+!!! info "**Astronomers**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -73,7 +73,7 @@
         
 ### 2018-06-23
 
-??? info "**Fossil Fuels**"
+!!! info "**Fossil Fuels**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -84,11 +84,11 @@
     
 ### 2018-07-13
 
-??? info "**Frank Lloyd Wright**"
+!!! info "**Frank Lloyd Wright**"
 
     Because of his belief in unity of design and elimination of unneccessary detail, he resisted his client's wishes to introduce what he called foreign objects to his carefully designed interiors.
     
-### 2018-07-23
+### 2018-07-19
 
 !!! info "**The Painter Grant Wood**"
 
@@ -96,11 +96,30 @@
     ------------ | -------------  | -------------
     the turn of the century 世纪之交 | 
 
-!!! info "**Small-Business Management**"
+### 2018-07-23
+
+!!! info "**Minerals**"
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
-    turn attention to 转移注意力 | overlook 忽视 | sophisticated 成熟的，复杂的
-    enterprise 企业 | keep in mind 记住 | immediately 立即，立刻，马上
-    focus on 专注于 | caution 小心，谨慎 | can't afford to 不能承担起
-    at the heart 处在核心地位 | perform task 执行任务
+    mineral 矿物质 | invite sb to sth 邀请某人做某事 | geologist 地质学
+    diverse 多种多样的 | specimen 【用于测试或检验的】样品，标本 | feldspar 长石
+    divide sth into sth 把……分成……若干部分 | orthoclase 正长石 | glassy 玻璃样的，【像玻璃一样】光滑的
+    volcanic rock 火山岩 | microcline 微斜长石 | amazonstone 亚马逊石，天河石
+    bright 明亮的 | jewelry / jewelery 珠宝 | plagioclase 斜长石 
+    proud of 自豪的，骄傲的 | slide 幻灯片 | 
+
+### 2018-07-25
+
+!!! info "**Household Pests**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    pest 害虫 | poison 毒药 | insect 害虫
+    cockroach 蟑螂 | termite 白蚁 | degree 度
+    fahrenheit 华氏 | centigrade 摄氏 |  procedure 过程
+    covering 盖住 | tent 帐篷 | force in 强制进入
+    wooden beam 木梁 | treatment 方法 | residue 残余物
+    endanger 使危险 | funny 古怪的 | smell 气味
+    drying 烘干 | oven 加热器 | substaintially 实质上
+   
