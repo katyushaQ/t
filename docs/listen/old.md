@@ -115,7 +115,7 @@
 
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
-    pest 害虫 | poison 毒药 | insect 害虫
+    pest 害虫 | poison 毒药 | insect 昆虫
     cockroach 蟑螂 | termite 白蚁 | degree 度
     fahrenheit 华氏 | centigrade 摄氏 |  procedure 过程
     covering 盖住 | tent 帐篷 | force in 强制进入

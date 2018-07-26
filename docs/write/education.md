@@ -60,7 +60,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 present 授予 v. | vivid 生动的 | merely 仅仅，只不过
 reaction 反应 | atomic 原子的 | stimulate 刺激，促进，鼓励，激发
 reach 达到【某一阶段】，提升到【某一程度】| tuition fees 学费 | convey 传达，传递
-chemical 化学品 | popularity
+chemical 化学品 | popularity 受欢迎，流行
 
 PHRASE |  PHRASE
 ------------ | -------------

@@ -46,20 +46,51 @@ disgust 气愤，厌恶，反感 n. | depicted 描写，描述，描绘 | passag
 demonstrate 说明，论证 | rather 相当 | expression 表情
 around the world 世界各地的
 
-### 2018-07-24
+### 2018-07-25
 
 #### 2.
 
 !!! faq ""
 
-    This new party argued against the policies of Jackson and his party in a number of important areas, beginning with the economy.
+    **This new party** ==argued against== ^^the policies of Jackson and his party { in a number of important areas `地点`}^^, { beginning with the economy `方式`}.     <font color='hotpink'>**指代**</font>
+    > 这个新政党反对杰克逊和他政党的政策在一些重要地区，以经济开始。
+    
+    !!! failure ""
+    
+        This new party 指代前面提出的共和党，所以应该紧跟第一句。
 
-During Jackson's second term, his opponents had gradually come together to form the Whig party. ■ Whigs and Democrats held different attitudes toward the changes brought about by the market, banks, and commerce. ■ The Democrats tended to view society as a continuing conflict between "the people”-farmers, planters, and workers-and a set of greedy aristocrats. ■ This "paper money aristocracy" of bankers and investors manipulated the banking system for their own profit, Democrats claimed, and sapped the nation's virtue by encouraging speculation and the desire for sudden, unearned wealth. ■ The Democrats wanted the rewards of the market without sacrificing the features of a simple agrarian republic. They wanted the wealth that the market offered without the competitive, changing society; the complex dealing; the dominance of urban centers; and the loss of independence that came with it.
+<font color='LightSeaGreen'>*（文章前文可能在其他政党，这里有时间点，引出共和党）*</font>During Jackson's second term, his opponents had gradually come together to form the Whig party. <font color='LightSeaGreen'>*（提出共和党和形成）*</font> ==■== Whigs and Democrats held different attitudes toward the changes brought about by the market, banks, and commerce.<font color='LightSeaGreen'>*（顺承，解释共和党，通过与民主党的区别，引出民主党）*</font><font color='red'>**|| 对比**</font>  ■ The Democrats tended to view society as a continuing conflict between "the people”-farmers, planters, and workers-and a set of greedy aristocrats.<font color='LightSeaGreen'>*（顺承，详述民主党风格）*</font> ■ This "paper money aristocracy" of bankers and investors manipulated the banking system for their own profit, Democrats claimed, and sapped the nation's virtue by encouraging speculation and the desire for sudden, unearned wealth. <font color='LightSeaGreen'>*（顺承，进一步举例说明贪婪行为和目的）*</font>■ The Democrats wanted the rewards of the market without sacrificing the features of a simple agrarian republic. <font color='LightSeaGreen'>*（总结，民主党的愿望）*</font>They wanted the wealth that the market offered without the competitive, changing society; the complex dealing; the dominance of urban centers; and the loss of independence that came with it.<font color='LightSeaGreen'>*（顺承，解释愿望）*</font>
 
 ----
 
+{ During Jackson's second term `时间`}, **his opponents** ==had gradually come together== ^^to form the Whig party^^.
+> 在杰克逊的第二任期期间，他的竞争对手逐渐地团结一致形成共和党。
+
+**Whigs and Democrats** ==held== ^^different attitudes^^ {++toward the changes brought about { by the market, banks, and commerce `方式`}++}. 
+> 共和党和民主党持有不同态度，这个态度朝着由市场，银行和商业带来的改变。
+
+**The Democrats** ==tended to view== ^^society^^ { as a continuing conflict ``} {++between "the people”++}-( farmers, planters, and workers )-and a set of greedy aristocrats. 
+> 民主党趋向把社会看作一个在人民群体（农场主，种植园主和工人）和一些贪婪的贵族之间的持续的矛盾。
+
+**This "paper money aristocracy" of bankers and investors** ==manipulated== ^^the banking system for their own profit^^, **Democrats** ==claimed==, and ==sapped== ^^the nation's virtue^^ { by encouraging speculation and the desire for sudden, unearned wealth `方式`}. 
+> 这个银行家和投资者的“纸质金钱贵族”操纵银行系统用于他们自己的利益，民主党要求并逐渐削弱国家美德，通过鼓励投机和渴望不劳而获突然暴富。
+
+**The Democrats** ==wanted== ^^the rewards of the market without sacrificing the features of a simple agrarian republic^^.
+> 民主党想要没有牺牲一个共和国土地的特征的市场回报。
+
+**They** ==wanted== ^^the wealth^^ {++that the market offered without the competitive, {++changing++} society; the complex dealing; the dominance of urban centers; and the loss of independence++} {++that came with it++}.
+> 他们想要财富，是市场提供没有竞争的，改变的社会；复杂的交易；城市中心的优势；和伴随市场发生的独立的丧失的财富。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+opponent 【竞争】对手 n. | gradually 逐渐地 | Democrat 民主党，民主人士
+commerce 商业 n. | greedy 贪婪的 | aristocrat 贵族 n.
+manipulate 操纵，控制【某人的思想和行为】 | sap 【逐渐】削弱，消耗【尤指力量或决心】 | speculation 猜测，推测；投机
+desire 渴望，欲望 n. | sudden 突然的 | unearned income / wealth 不劳而获，非劳动所得【收入/财富】
+sacrifice 牺牲 v. | agrarian 农业的，土地的 | party 政党
+argure against ( doing ) sth 反对（做）某事；论证；争辩 | begin with 以……开始，以……开头 | term 任期，时期
+come together to  团结一致，齐心协力 | Whig 【英】辉格党；【美】共和党 | dominance 优势，统治，支配 n.
+ came with 与……一起供给，伴随……发生 | view sth as sth 把……看作
 
 ### 2018-07-24
 
