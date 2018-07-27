@@ -45,3 +45,27 @@ PHRASE |  PHRASE
 inform 通知 | direction 指导，指示
 discourage 阻止 | participate 参与
 study-abroad 留学 | in charge ( of sth ) 主管，负责
+
+### 2018-07-26
+
+#### Function 3-1
+
+PHRASE |  PHRASE
+------------ | -------------
+allergy 过敏 n. | asthma 哮喘
+head 领导 | appointment 约定
+pardon me 对不起，请原谅 | medical history 病史
+miniature 很小的，微型的 | assign 分配
+
+### 2018-07-27
+
+#### Function 3-2
+
+PHRASE |  PHRASE
+------------ | -------------
+epidemic 泛滥，蔓延，流行病 | shooting spree 疯狂射击 
+the Constitution 宪法 | address 解决，处理，对付
+far more 很多，非常，很大程度上 | right 权力
+illegally 非法地 | access to 使用权
+that only goes so far 到目前为止 | tougher 更难办的，更棘手的
+drop in 拜访 | 

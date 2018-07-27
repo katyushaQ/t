@@ -46,7 +46,7 @@ disgust 气愤，厌恶，反感 n. | depicted 描写，描述，描绘 | passag
 demonstrate 说明，论证 | rather 相当 | expression 表情
 around the world 世界各地的
 
-### 2018-07-25
+### 2018-07-26
 
 #### 2.
 
@@ -92,20 +92,43 @@ argure against ( doing ) sth 反对（做）某事；论证；争辩 | begin wit
 come together to  团结一致，齐心协力 | Whig 【英】辉格党；【美】共和党 | dominance 优势，统治，支配 n.
  came with 与……一起供给，伴随……发生 | view sth as sth 把……看作
 
-### 2018-07-24
+### 2018-07-27
 
 #### 3.
 
 !!! faq ""
 
-    To enhance their listeners’ enjoyment, storytellers continually make their stories more engaging and memorable.
+    {`逻辑主语` ==To enhance== ^^their listeners' enjoyment^^ `方式`}, **storytellers** ==continually make== ^^their stories more engaging and memorable^^.   <font color='hotpink'>**因果逻辑**</font>
+    > 讲故事的人为了增强他们倾听者的兴趣，他们不断地使故事更动人更难忘。
+    
+    !!! failure ""
+    
+        插入语，阐述了一个愿景； 文章最后一句话，有 ==因此==，并且内容是具体的阐述，符合因果逻辑。
 
-Paragraph 3: ■ Although origin in ritual has long been the most popular, it is by no means the only theory about how the theater came into being. ■ Storytelling has been proposed as one alternative. ■ Under this theory, relating and listening to stories are seen as fundamental human pleasures. ■ Thus, the recalling of an event (a hunt, battle, or other feat) is elaborated through the narrator’s pantomime and impersonation and eventually through each role being assumed by a different person.
+Paragraph 3: <font color='LightSeaGreen'>*（前文可能是说与仪式相关的内容，本段开始就与上段为转折关系）*</font><font color='red'>**|| 转折**</font> ■ <font color='Blue'>*Although*</font> origin in ritual has long been the most popular, it is by no means the only theory about how the theater came into being. <font color='LightSeaGreen'>*（提出关于形成理论，预判下文可能要举例详细阐述理论）*</font> ■ Storytelling has been proposed as one alternative.<font color='LightSeaGreen'>*（顺承，用“讲故事”解释下抽象的上一句）*</font> ■ Under this theory, relating and listening to stories are seen as fundamental human pleasures. <font color='red'>**||**</font> <font color='LightSeaGreen'>*（顺承，支持上面观点）*</font> ==■== <font color='Blue'>*Thus*</font>, the recalling of an event (a hunt, battle, or other feat) is elaborated through the narrator’s pantomime and impersonation and eventually through each role being assumed by a different person.<font color='LightSeaGreen'>*（顺承：细节）*</font>
 
 ----
 
+{ Although **origin { in ritual `抽象地点`}** ==has long been== ^^the most popular^^ `让步`}, *it* ==is== { by no means the only theory `方式`} {++about how the theater came into being++}. 
+> 尽管起源在仪式中很长时间最流行，它是通过没有意义仅关于剧院是如何形成的理论。
+ 
+**Storytelling** ==has been proposed as== ^^one alternative^^. 
+> 讲故事被提议作为一个可选择的事。
+ 
+{ Under this theory `抽象地点`}, **{++relating and listening++} to stories** ==are seen as== ^^fundamental human pleasures^^.
+> 在这个理论下， 叙述的和倾听的故事看作是基本的人类娱乐。
+
+*Thus*, **the recalling of an event** (a hunt, battle, or other feat) ==is elaborated== {++through the narrator’s pantomime and impersonation++} and {++eventually through each role being assumed++} { by a different person `方式`}.
+> 因此，回忆起一件事（打猎，战斗，或者其他功绩）被由叙述者的话剧和模仿详细说明，并且最终每个角色由不同人假扮。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+storyteller 讲故事的人 | engaging 动人的，迷人的 | memorable 难忘的
+theater 剧院 | fundamental 基本的，根本的 | elaborated 详细说明
+narrator 叙述者 | pantomime 童话剧，哑剧，舞剧 | impersonation 模仿，假冒 n.
+come into sth 卷入【某事】| came into being 形成 | relate 叙述
+recall 回想，回忆起 v. | feat 业绩，功绩，壮举 n. | assume 假定，设想
+enjoyment 乐趣
 
 ### 2018-07-24
 
