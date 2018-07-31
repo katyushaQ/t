@@ -130,20 +130,52 @@ come into sth 卷入【某事】| came into being 形成 | relate 叙述
 recall 回想，回忆起 v. | feat 业绩，功绩，壮举 n. | assume 假定，设想
 enjoyment 乐趣
 
-### 2018-07-24
+### 2018-07-31
 
 #### 4.
 
 !!! faq ""
 
-    This explains how, for example, alpine cushion plants have been found growing at an altitude of 6,180 meters.
+    **This** ==explains== {++how++}, <font color='Blue'>*for example*</font>, {++alpine cushion plants have been found growing { at an altitude of 6,180 meters `地点`}++}.   <font color='hotpink'>**信息对应**</font>
+    > 例如，这个解释了高山垫植物如何被发现生长在6180米海拔。
+    
+    !!! failure ""
+    
+        {++例如++} 为具体举例，所以不可能在句首位置，应当寻找 ==概念描述性== 文字，放其后
+        
+        {++explains++} 说明上文是对概述的顺承详细描述，所以不可能在 {--概念性文字--} 后面，应该在 ==更靠后的详细描述== 后面
+        
+        以上两点综合来看，插入局为 ==总结性== 文字
 
-Paragraph 5: Above the tree line there is a zone that is generally called alpine tundra. ■ Immediately adjacent to the timberline, the tundra consists of a fairly complete cover of low-lying shrubs, herbs, and grasses, while higher up the number and diversity of species decrease until there is much bare ground with occasional mosses and lichens and some prostrate cushion plants. ■ Some plants can even survive in favorable microhabitats above the snow line. The highest plants in the world occur at around 6,100 meters on Makalu in the Himalayas. ■ At this great height, rocks, warmed by the sun, melt small snowdrifts. ■ 
+Paragraph 5: Above the tree line there is a zone that is generally called alpine tundra. ■ Immediately adjacent to the timberline, the tundra consists of a fairly complete cover of low-lying shrubs, herbs, and grasses, while higher up the number and diversity of species decrease until there is much bare ground with occasional mosses and lichens and some prostrate cushion plants. ■ Some plants can even survive in favorable microhabitats above the snow line. The highest plants in the world occur at around 6,100 meters on Makalu in the Himalayas. ■ At this great height, rocks, warmed by the sun, melt small snowdrifts. ==■== 
+
+{ Above the tree line `地点`} ^^there^^ ==is== **a zone** {++ that is generally called alpine tundra++}.
+> 在树线之上，有一个通常被称为高山苔原的区域。
+
+■ { Immediately adjacent to the timberline `抽象地点`}, **the tundra** ==consists of== ^^a fairly complete cover of low-lying shrubs, herbs, and grasses^^, { while higher up the number and diversity of species decrease `转折`} { until there is much bare ground {++with occasional mosses and lichens++} and some prostrate cushion plants `抽象地点`}.
+> 紧挨着树木线，苔原由相当低洼的灌木，草本植物和草完全的覆盖，然而更高的数量和品种多样性的降低，直到有更秃的偶尔有苔藓和地衣的土地和一些趴着的垫植物。
+
+■ **Some plants** ==can even survive== ^^{ in favorable microhabitats `地点`} { above the snow line `地点`}^^.
+> 一些植物甚至能够生存在雪线之上的有利的小地方。
+
+**The highest plants** { in the world `地点`} ==occur== ^^{ at around 6,100 meters on Makalu in the Himalayas `地点`}^^.
+> 世界上最高的植物在6100米的喜马拉雅山脉马卡鲁峰。
+
+■ { At this great height `地点`}, **rocks**, ==warmed== { by the sun `方式`}, ==melt== ^^small snowdrifts^^. ■
+> 在这个非常高处，岩石通过太阳变暖，融化为小雪堆。
 
 ----
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+alpine 阿尔卑斯山的，高山的 | cushion 垫，缓冲物 n. | altitude of 海拔（高度） n.
+tundra 苔原，冻原 | adjacent to 临近的，毗连的 | timberline 树木（生长）线【指树木能生长在最高海拔（维度）】
+low-lying 低洼的 | shrub 灌木 | herb 草本植物
+diversity 多样性 | bare 【树木】光秃秃的 | occasional 偶尔的，不经常的
+moss 苔藓 | lichen 地衣，苔藓，青苔 | prostrate 俯卧的，趴着的
+favorable 有利的 | microhabitat 小的栖息地 | Makalu 马卡鲁峰
+snowdrift 【风吹的】雪堆 |  Immediately adjacent 紧挨着 | fairly 相当
+higher up 更高的 | occur 存在 | around 大约
 
 ### 2018-07-24
 

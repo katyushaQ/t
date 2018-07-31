@@ -69,3 +69,20 @@ far more 很多，非常，很大程度上 | right 权力
 illegally 非法地 | access to 使用权
 that only goes so far 到目前为止 | tougher 更难办的，更棘手的
 drop in 拜访 | 
+
+### 2018-07-31
+
+#### Function 3-5
+
+PHRASE |  PHRASE
+------------ | -------------
+severe 很严重 | with respect to 关于
+hazard 危险 | place emphasis on 强调，重视
+ponderosa pine 西黄松 | give off 发出 【声音，气味等】
+alkaloid 生物碱 | normally 通常
+poison 毒杀 v. | highly 非常，极
+resistant to 有抵抗力的 | smolder 闷燃，慢燃
+toxin 毒素 | breathe 呼吸
+fumes 烟雾 | acidity 酸性
+particle 颗粒 | present 引起，造成
+solid 一致的
