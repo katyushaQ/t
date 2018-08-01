@@ -86,3 +86,19 @@ toxin 毒素 | breathe 呼吸
 fumes 烟雾 | acidity 酸性
 particle 颗粒 | present 引起，造成
 solid 一致的
+
+### 2018-08-01
+
+#### Attitude sample
+
+PHRASE |  PHRASE
+------------ | -------------
+economic recession 经济衰退 | point out that 指出，指明
+approach 方式，方法 n. | over the course of sth 过程，进程，经过
+trickle 滴，淌 | supposedly 据说，一般看来
+by the way 顺便说 |  in favor of sth 支持，赞同
+after all 终究，还是 | wisely 明智地
+intend to do sth 计划/打算/想要做某事 | suspect 猜想，怀疑，觉得【某事可能真实，尤指坏事】
+over the last couple of classes 在最后几节课上 | as well 【除某事物或某人外】还
+tax break 赋税减免 | come as no surprise 不足为奇
+sarcastically 讽刺地 | experiment with 实验

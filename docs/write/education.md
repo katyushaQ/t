@@ -99,13 +99,26 @@ If anything 【口】要有什么的话（倒是……）【用于补充内容�
 
 #### 2018-07-31
 
+Do you agree or disagree with the following statment? Parents should spend time with theire children helping them with schoolwork rather than playing games and sports. User specific reasons and examples to support your answer.
 
+A child's life ==is full of `sth 充满充斥着`==  experiences that will come to ==shape and define `sb 塑造某人`==  them later on. Children need to play and be active, to explore the world physically; but they also begin the process of ==learning and acquiring knowledge `学习并获得知识`== , and ==expand== their ==`one's` mental capacities `开发某人的智商`== . What role should the parent play in the development? Ideally a parent should be involved in both, but in today's world, time is limited. ==Under these circumstances `在这些情况下`== , a parent should ==focus on `sth 专注某事`== their child with schoolwork.
+> 一个孩子的一生充满着经历，这些经历可以在以后塑造他们。孩子们需要玩耍和积极的去探索这个实际上的世界；但是他们还好开始学习并获取知识的过程开发他们的智商。家长应该在这个发展中扮演什么角色？理想地家长应该参与到这两者当中，但是在今天的世界，时间是有限的。在这些情况下，家长应该关注孩子们的功课。
+
+The most important reason for this is because parents should ==strive to `do sth 努力做某事`== discover where a child's strengths and passions lie, and then help ==cultivate== those ==strengthes and passions `培养能力和激情`== . This will ==make a huge impact on `sb 对某人有巨大影响`==  a child's future success -- and more importantly, also their future happniess. When I was younger I ==was== moderately ==interested in `sth 对某事感兴趣`== all subjects, but I ==had a particular bent for `sth 对某事有特别的偏好`==  art. My parents could see how excited I was about art homework compared to my other homework. Some parents might have ==quashed this interest `打压兴趣`== , declaring it impractical. They didn't. They encouraged me to pursue art, as long as I didn't neglect the rest of my studies. Since then, art has ==become an indispensable part of `sth 某事不可或缺 / 某事很重要`== my life and studies, and I ==am eternally grateful to `sb 感激某人`== my parents for that.
+> 对于这件事最主要的原因是，因为家长们应该努力发现孩子的能力和激情在哪里，并帮助他们培养能力和激情。这样对孩子将来的成功有巨大的影响——并且更重要地，他们将来的幸福也有巨大的影响。当我年轻的时候我一般对所有科目感兴趣，但是我对艺术有特别的偏好。我的父母能够看到其他作业相比较，我做艺术作业多么兴奋。 一些家长可能会打压这些兴趣，说他不切实际。他们不这样。他们鼓励我追求艺术，只要我不忽略学习的休息。从那时起，艺术变成我生活和学习中不可或缺的部分，并且我感激我的父母这样做。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | ------------- | -------------
+mental 精神的 | circumstances 情况，情形 | strengths 意志力，毅力
+passion 激情 | lie 【问题，答案，责任等】存在，在于 | cultivate 培养，养成【技能，态度或者素质】
+moderately 普通的，一般地，适度地 | bent 【正式】天赋，特长 | quash 镇压 v.
+impractical 不切实际的 | neglect 忽视，忽略 v. | indispensable 不可或缺的
+eternally 永久的 | Ideally 理想地 | physically 实际上
 
 PHRASE |  PHRASE
 ------------ | -------------
+strive to do sth 努力做某事 | grateful to 感激的，感恩的
+later on 以后 | Since then 从那时起
 
 ----
 

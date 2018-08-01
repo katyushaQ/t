@@ -177,13 +177,13 @@ favorable 有利的 | microhabitat 小的栖息地 | Makalu 马卡鲁峰
 snowdrift 【风吹的】雪堆 |  Immediately adjacent 紧挨着 | fairly 相当
 higher up 更高的 | occur 存在 | around 大约
 
-### 2018-07-24
+### 2018-08-01
 
 #### 5.
 
 !!! faq ""
 
-    However, some modern architectural designs, such as those using folded plates of concreter or air-inflated structures, are again unifying skeleton and skin.
+    *However*, some modern architectural designs, such as those using folded plates of concreter or air-inflated structures, are again unifying skeleton and skin.
 
 Paragraph 5: ■ Modern architectural forms generally have three separate components comparable to elements of the human body; a supporting skeleton or frame, an outer skin enclosing the interior spaces, and equipment, similar to the body’s vital organs and systems. ■ The equipment includes plumbing, electrical wiring, hot water, and air-conditioning. ■ Of course in early architecture—such as igloos and adobe structures—there was no such equipment, and the skeleton and skin were often one. ■ 
 
@@ -191,6 +191,8 @@ higher up 更高的 | occur 存在 | around 大约
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+folded | plates | concreter
+air-inflated | 
 
 ### 2018-07-24
 
