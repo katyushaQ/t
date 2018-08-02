@@ -177,53 +177,176 @@ favorable 有利的 | microhabitat 小的栖息地 | Makalu 马卡鲁峰
 snowdrift 【风吹的】雪堆 |  Immediately adjacent 紧挨着 | fairly 相当
 higher up 更高的 | occur 存在 | around 大约
 
-### 2018-08-01
+### 2018-08-02
 
 #### 5.
 
 !!! faq ""
 
-    *However*, some modern architectural designs, such as those using folded plates of concreter or air-inflated structures, are again unifying skeleton and skin.
+    <font color='Blue'>*However*</font>, **some modern architectural designs**, ( such as those using folded plates of concreter or air-inflated structures ) , ==are== ^^<font color='Blue'>*again*</font> <font color='Salmon'>unifying</font> skeleton and skin^^.     <font color='hotpink'>**逻辑**</font>
+    > 然而，一些现代建筑设计，诸如使用对折的混凝土的盘或者空气充气的结构，是再一次的统一的结构和外层。
+    
+    !!! tip ""
+    
+        ==题干分析==
+        
+        However 为转折，那么内容与前文相反；again 为再一次，说明前面应该出现一次，那么内容应该在其后
 
-Paragraph 5: ■ Modern architectural forms generally have three separate components comparable to elements of the human body; a supporting skeleton or frame, an outer skin enclosing the interior spaces, and equipment, similar to the body’s vital organs and systems. ■ The equipment includes plumbing, electrical wiring, hot water, and air-conditioning. ■ Of course in early architecture—such as igloos and adobe structures—there was no such equipment, and the skeleton and skin were often one. ■ 
+Paragraph 5: ■ Modern architectural forms generally have three separate components comparable to elements of the human body; a supporting skeleton or frame, an outer skin enclosing the interior spaces, and equipment, similar to the body's vital organs and systems. ■ The equipment includes plumbing, electrical wiring, hot water, and air-conditioning.<font color='red'>**|| 转折**</font> ■ Of course in early architecture—such as igloos and adobe structures—there was no such equipment, and the skeleton and skin were <font color='Salmon'>often one</font>. ==■== <font color='LightSeaGreen'>*（句首有转折说早期建筑，所以后面要再次转折回来继续说现代建筑）*</font>
 
 ----
 
+■ **Modern architectural forms** ==generally have== ^^three separate components comparable to elements of the human body^^; a {++supporting++} skeleton or frame, an outer skin {++enclosing the interior spaces++}, and equipment, {++similar to the body's vital organs and systems++}.
+> 现代建筑形式通常有三个独立的类似人类身体元素的组成部分；一个支撑的骨骼或框架，一个包围内部空间的外层，和一个类似于身体不可缺少的器官和系统的设备。
+
+■ **The equipment** ==includes== ^^plumbing, electrical wiring, hot water, and air-conditioning^^.
+> 这个设备包含管道装置，电子布线系统，热水和空气条件。
+
+■ Of course { in early architecture `抽象地点`}—( such as igloos and adobe structures )—^^there^^ ==was== **no such equipment, and the skeleton and skin** {++were often one++}. ■
+> 当然在早起建筑中——比如冰屋和土坯结构——没有这些设备，骨骼和外层，这些通常是一体。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-folded | plates | concreter
-air-inflated | 
-
-### 2018-07-24
+folded 折叠的，对折的 | plates 盘，碟 n. | concreter 混凝土 n.
+air-inflated 空气充气的 | unifying 统一的 | separate 独立的
+components 零件，组成部分 | enclosing 将……围起来 v.ing | vital 极其重要的，必不可少的
+plumbing 管道装置 | wiring 布线 | air-conditioning 空气条件作用
+igloos 冰屋 | adobe 土坯，砖坯 | generally 普遍地，通常
+comparable 类似的
 
 #### 6.
 
 !!! faq ""
 
-    In fact, damage to the environment by humans is often much more severe than damage by natural events and processes.
+    In fact, **damage to the environment { by humans `方式`}** ==is== ^^often much more severe { than damage `比较`} { by natural events and processes `方式`}^^.   <font color='hotpink'>**逻辑**</font>
+    > 实际上，人类对环境的损害常常比自然的事件和变化过程的损害更严重。
+    
+    !!! tip ""
+    
+        ==题干分析==
+    
+        In fact 含转折含义，那么内容可能与前文相反；句子内容有总结性质，也有概括性质，那么会有前文也会有后文详细阐述，那么应该在中间位置承上启下
+        
+    !!! failure ""
+    
+        第一句已经说了 being severely，为什么还会在他后面再说一次  In fact
 
-Paragraph 6: ■ Ecologists are especially interested to know what factors contribute to the resilience of communities because climax communities all over the world are being severely damaged or destroyed by human activities. ■ The destruction caused by the volcanic explosion of Mount St. Helens, in the northwestern United States, for example, pales in comparison to the destruction caused by humans. ■ We need to know what aspects of a community are most important to the community’s resistance to destruction, as well as its recovery. ■ 
+Paragraph 6: <font color='LightSeaGreen'>*（前文可能在说群落的弹性情况，并引出思考的原因，提出人类活动对环境的破坏，下文可能要详细阐述人类破坏的情况）*</font> {--■--} Ecologists are especially interested to know what factors contribute to the resilience of communities because climax communities all over the world are being severely damaged or destroyed by human activities. {++■++} The destruction caused by the volcanic explosion of Mount St. Helens, in the northwestern United States, for example, pales in comparison to the destruction caused by humans. <font color='LightSeaGreen'>*（顺承举例）*</font><font color='red'>**||**</font> ■ We need to know what aspects of a community are most important to the community's resistance to destruction, as well as its recovery. ■ <font color='LightSeaGreen'>*（这里根据上面的问题又起另一个思考性问题）*</font>
 
 ----
 
+■ **Ecologists** ==are especially interested to know== {++what factors contribute to the resilience of communities++} { because climax communities all over the world are being severely damaged or destroyed { by human activities `方式`} `原因`}.
+> 生态学家尤其感兴趣了解什么因素造成群落的弹性，因为全世界的群落正在被人类活动非常严重地损害和破坏。
+
+■ **The destruction** ==caused== { by the volcanic explosion of Mount St. Helens `方式`}, ( in the northwestern United States `地点`), for example, pales in comparison to the destruction caused { by humans `方式`}.
+>例如，这个来自在美国西北部H山的火山爆发的破坏与来自人类的破坏相比微不足道。
+
+■ **We** ==need to know== {++what aspects of a community are most important to the community's resistance to destruction++}, { as well as its recovery `补充`}. ■ 
+> 我们需要知道一个群落的什么方面是对群落抵抗毁坏最重要的，以及他们的恢复。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-
-### 2018-07-24
+Ecologists 生态学家 | resilience 弹性，恢复力，适应力 | climax 高潮，顶点 n.
+contribute to 促成，造成【某事发生】 | pales in 相比之下微不足道，相形失色 | processes 【自然】变化过程
+explosion 爆炸
 
 #### 7.
 
 !!! faq ""
 
-    There food is available and accessible throughout the winter.
+    ^^There^^ **food** ==is== ^^available and accessible { <font color='Salmon'>throughout the winter</font> ``}^^.     <font color='hotpink'>**信息对应**</font>
+    > 在整个冬天有可得到和易接近的食物。
+    
+    !!! tip ""
+    
+        ==题干分析==
+        
+        单纯的文字描述，很像细节阐述，那么内容可能在句间；throughout the winter 内容应该在描述冬天条件附近
+        
+    !!! failure ""
+    
+        Paragraph 3 纯属捣乱
+    
+        感觉应该是A的位置，因为觉得 Even with 与前文承接的挺顺畅……
+        
+         also snow and wind bring down …… 冬天有的吃
+         
+         记得有道细节题或者否定题是Paragraph 2，内容是甚至also snow and wind bring down……他们也是要迁徙，我以为他们不吃这些！
 
-Paragraph 2: Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One compensation for not hibernating is the built-in urge to migrate. ■ Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. ■ Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. 
-  Paragraph 3: ■ The numbers of deer have fluctuated markedly since the entry of Europeans into Puget Sound country. ■ The early explorers and settlers told of abundant deer in the early 1800s and yet almost in the same breath bemoaned the lack of this succulent game animal. Famous explorers of the north American frontier, Lewis and Clark arrived at the mouth of the Columbia River on November 14, 1805, in nearly starved circumstances. They had experienced great difficulty finding game west of the Rockies and not until the second of December did they kill their first elk. To keep 40 people alive that winter, they consumed approximately 150 elk and 20 deer. And when game moved out of the lowlands in early spring, the expedition decided to return east rather than face possible starvation. Later on in the early years of the nineteenth century, when Fort Vancouver became the headquarters of the Hudson's Bay Company, deer populations continued to fluctuate. David Douglas, Scottish botanical explorer of the 1830s, found a disturbing change in the animal life around the fort during the period between his first visit in 1825 and his final contact with the fort in 1832. A recent Douglas biographer states:" The deer which once picturesquely dotted the meadows around the fort were gone [in 1832], hunted to extermination in order to protect the crops." 
+Paragraph 2: <font color='LightSeaGreen'>*（第一段可能在说鹿，这里提到鹿的食物，引出下层植被）*</font>Nearly any kind of plant of the forest understory can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. <font color='LightSeaGreen'>*（顺承细节，鹿的食物）*</font><font color='red'>**|| 转折**</font> <font color='Blue'>*But*</font> this is fair-weather feeding. <font color='LightSeaGreen'>*（转折，引出坏天气不是上面那样，那么下文应该详细阐述坏天气鹿的会怎样饮食）*</font>What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy?<font color='LightSeaGreen'>*（顺承，提出问题）*</font> One compensation for not hibernating is the built-in urge to migrate. <font color='LightSeaGreen'>*（顺承，回答问题，提出迁移方法）*</font> {--■--} Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. <font color='LightSeaGreen'>*（顺承细节，鹿迁徙的时间和地点）*</font> {++■++} Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down leafy branches of cedar, hemlock, red alder, and other arboreal fodder. <font color='LightSeaGreen'>*（顺承补充，通过植物入冬后的状态支持强调迁徙）*</font>
+
+Paragraph 3: <font color='LightSeaGreen'>*（前文最后说迁徙，这里提到鹿数量波动的情况，下文可能会详细阐述鹿数量波动的原因）*</font>■ The numbers of deer have fluctuated markedly since the entry of Europeans into Puget Sound country. <font color='LightSeaGreen'>*（提出数量波动，提出原因）*</font>■ The early explorers and settlers told of abundant deer in the early 1800s and yet almost in the same breath bemoaned the lack of this succulent game animal. <font color='LightSeaGreen'>*（顺承细节，早期情况描述）*</font>Famous explorers of the north American frontier, Lewis and Clark arrived at the mouth of the Columbia River on November 14, 1805, in nearly starved circumstances. <font color='LightSeaGreen'>*（顺承细节，探索辛苦，饿）*</font>They had experienced great difficulty finding game west of the Rockies and not until the second of December did they kill their first elk.<font color='LightSeaGreen'>*（顺承，探险艰苦，杀鹿充饥）*</font> To keep 40 people alive that winter, they consumed approximately 150 elk and 20 deer. <font color='LightSeaGreen'>*（顺承补充，强调杀鹿的重要性）*</font>And when game moved out of the lowlands in early spring, the expedition decided to return east rather than face possible starvation. <font color='LightSeaGreen'>*（顺承补充，探索地点改变）*</font>Later on in the early years of the nineteenth century, when Fort Vancouver became the headquarters of the Hudson's Bay Company, deer populations continued to fluctuate. <font color='LightSeaGreen'>*（总结，有人的地方，鹿的数量就有波动）*</font>David Douglas, Scottish botanical explorer of the 1830s, found a disturbing change in the animal life around the fort during the period between his first visit in 1825 and his final contact with the fort in 1832.<font color='LightSeaGreen'>*（顺承，支持上一句）*</font>A recent Douglas biographer states:" The deer which once picturesquely dotted the meadows around the fort were gone [in 1832], hunted to extermination in order to protect the crops." <font color='LightSeaGreen'>*（总结，杀鹿的原因）*</font>
+
+!!! failure ""
+
+    最后三句没看懂，烧脑
 
 ----
+**Nearly any kind of plant of the forest understory** ==can be== ^^part of a deer's diet^^.
+> 几乎任何种类的森林下层植被植物都是鹿日常饮食的一部分。
+
+{ Where the forest inhibits the growth of grass and other meadow plants `地点`}, **the black-tailed deer** ==browses== ^^on huckleberry, salal, dogwood, and almost any other shrub or herb^^.
+> 在森林抑制草和其他草地植物生长的地方，黑尾鹿吃黑果，沙龙白珠树，山茱萸和几乎任何灌木和草本植物。
+
+*But* **this** ==is== ^^fair-weather feeding^^.
+> 但是，这是限于好天气的食物。
+
+**What** ==keeps== ^^the black-tailed deer alive in the harsher seasons of plant decay and dormancy^^?
+> 什么保持黑尾鹿活在更恶劣的植物腐烂和休眠的季节？
+
+**One compensation for not hibernating** ==is== ^^the built-in {++urge to migrate++}^^.
+> 对于没有冬眠的一个补偿是催促迁徙的内置。
+
+■ **Deer** ==may move from== ^^high-elevation browse areas { in summer `时间`}^^ ==down to== ^^the lowland areas { in late fall `时间`}^^.
+> 鹿可能从夏天高海拔吃草地区下降到后续深秋低地地区。
+
+■ { Even with snow on the ground `地点`}, **the high bushy understory** ==is exposed==; **also snow and wind** ==bring down== ^^leafy branches of cedar, hemlock, red alder, and other arboreal fodder^^. 
+> 甚至有雪的地面，高浓密的下层植被被暴露出来；学和风也把雪松，毒芹，红桤木和其他树木饲料的叶子分支拉下来。
+
+■ **The numbers of deer** ==have fluctuated markedly== { since the entry of Europeans into Puget Sound country `原因`}.
+> 鹿的数量有明显的波动，因为欧洲人的进入到PS城市。
+
+■ **The early explorers and settlers** ==told of== ^^abundant deer { in the early 1800s `时间`}^^ and *yet* almost { in the same breath `地点`} ==bemoaned== ^^the lack of this succulent game animal^^. 
+> 早期探索者和移民描述1800年代早期的鹿，但是几乎在同样的气息中抱怨这个肉质植物运动动物的缺乏。
+
+( Famous explorers of the north American frontier ), **Lewis and Clark** ==arrived== ^^at the mouth of the Columbia River { on November 14, 1805 `时间`}^^, ( { in nearly starved circumstances `地点`} ) .
+> 北美前沿的著名探索者，L和C在1805年11月14号抵达哥伦比亚河的河口，在几乎饿死的情况下。
+
+**They** ==had experienced great difficulty== ^^finding game west of the Rockies and not until the second of December {++did they kill their first elk++}^^.
+> 他们非常有伟大的困难的体验，寻找运动在R的西边，直到12月2号，他们杀死第一头麋鹿。
+
+{ To keep 40 people alive that winter `目的`}, **they** ==consumed== ^^approximately 150 elk and 20 deer^^.
+>为了在冬天保持40人活着，他们消耗了大约150头麋鹿和20头鹿。
+
+And { when game moved out of the lowlands in early spring `时间`}, **the expedition** ==decided== ^^to return east rather than face possible starvation^^.
+> 并且，当时运动在春天开始离开低地，远征决定返回东方而不是面对可能饿死。
+
+{ Later on in the early years of the nineteenth century `时间`}, { when Fort Vancouver became the headquarters of the Hudson's Bay Company `时间`}, **deer populations** ==continued to fluctuate==.
+> 19世纪的早些年以后，当堡垒温哥华成为H的B公司的大本营，鹿的数量持续波动。
+
+**David Douglas**, ( Scottish botanical explorer of the 1830s ) , ==found== ^^a disturbing change in the animal life around the fort during the period {++between his first visit in 1825 and his final contact with the fort { in 1832 `时间`}++}^^.
+> DD，1830年代的苏格兰传记作者探索者，在他1825年第一次访问和有堡垒的1832年最后一次联系期间，发现一个扰乱在动物生活环境堡垒的改变。
+
+**A recent Douglas biographer** ==states==:^^" The deer {++which once picturesquely dotted the meadows around the fort were gone [in 1832]++}, ==hunted== ^^to extermination { in order to protect the crops `目的`}^^."^^ 
+> 一个D传记作者最近的陈述：一旦美丽的点缀的草地围绕堡垒在1832年消失，为了保护农作物，鹿被猎杀到灭绝。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+understory 林下叶层；下层植被 | inhibits 阻止，抑制 | meadow 草地
+salal 沙龙白珠树 | dogwood 山茱萸 | fair-weather 限于好天气的，只能同安乐不可共患难的
+harsher 更恶劣的 | decay 腐烂 n./v.| dormancy 休眠 n.
+compensation 补偿 | hibernating 冬眠 | urge 敦促，催促
+bushy 浓密的，多毛的 | cedar 雪松 | alder 桤木
+arboreal 树木的 | fodder 饲料 | markedly 明显地，显著地
+extermination 灭绝 | bemoaned 抱怨，叹息，悲叹 v.-ed | succulent 肉质植物
+starved 饿死的 |  elk 麋鹿 | consumed 消耗
+approximately  大约 | expedition 远征 | starvation 饿死
+headquarters 总部，大本营 | fluctuate 波动 | fort 堡垒，城堡
+Scottish 苏格兰的，苏格兰人的 | biographer 传记作者 | picturesquely 美丽地
+dotted 在【某物上面或上方】加点，布满 ，点缀 v. | Nearly 几乎
+built-in 固定的；内置 n. | breath 呼吸，微风 n. | yet 但是，然而 【用于在先前说过的内容之后引出令人惊讶的事实情况或品质】
+told of 描述，叙述 | frontier 边境，前沿 | mouth 河口
+Vancouver 温哥华
 
 ### 2018-07-24
 

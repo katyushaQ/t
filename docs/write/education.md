@@ -120,6 +120,21 @@ PHRASE |  PHRASE
 strive to do sth 努力做某事 | grateful to 感激的，感恩的
 later on 以后 | Since then 从那时起
 
+#### 2018-08-02
+
+Another significant reason for parents to involve themselves in theire children's schoolwork is tha fact that job competition has grown tremendously. Helping your kids with homework is no longer optional. In order to a secure steady job, graduating with a bachelor's degree is no longer enough. With such a saturate job market, parents need to help their kids find theire calling early on, and then support them in pursuing that calling so they have a chance to distinguished themselves among their peers. Studies have found that over half recent university graduates are unemployed, employed only part-time, or working at a job far below their qualifications. Without proper academic advice and guidance from parents, it is easy for children to grow up feeling somewhat directionless and fall victim to these circumstances.
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+tremendously | bachelor | saturate
+qualifications | proper | directionless
+victim
+
+
+PHRASE |  PHRASE
+------------ | -------------
+early on 
+
 ----
 
 ### 自己写

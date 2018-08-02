@@ -77,7 +77,7 @@ drop in 拜访 |
 PHRASE |  PHRASE
 ------------ | -------------
 severe 很严重 | with respect to 关于
-hazard 危险 | place emphasis on 强调，重视
+hazard 危险，隐患 | place emphasis on 强调，重视
 ponderosa pine 西黄松 | give off 发出 【声音，气味等】
 alkaloid 生物碱 | normally 通常
 poison 毒杀 v. | highly 非常，极
