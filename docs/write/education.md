@@ -122,18 +122,32 @@ later on 以后 | Since then 从那时起
 
 #### 2018-08-02
 
-Another significant reason for parents to involve themselves in theire children's schoolwork is tha fact that job competition has grown tremendously. Helping your kids with homework is no longer optional. In order to a secure steady job, graduating with a bachelor's degree is no longer enough. With such a saturate job market, parents need to help their kids find theire calling early on, and then support them in pursuing that calling so they have a chance to distinguished themselves among their peers. Studies have found that over half recent university graduates are unemployed, employed only part-time, or working at a job far below their qualifications. Without proper academic advice and guidance from parents, it is easy for children to grow up feeling somewhat directionless and fall victim to these circumstances.
+Another significant reason for parents to involve themselves in their children's schoolwork is the fact that job competition has grown tremendously. Helping your kids with homework is no longer optional. In order to a ==secure steady job `找一份稳定的工作`==, graduating with a bachelor's degree is no longer enough. With such ==a saturate job market `饱和的职场`==, parents need to help their kids find their calling early on, and then support them in pursuing that calling so they have a chance to ==distinguished== themselves ==oneself among== their ==one's peers `使得某人与众不同`==. Studies have found that over half recent university graduates are unemployed, employed only part-time, or working at a job far ==below== their ==one's qualifications `在某人能力之下`==. Without proper academic advice and guidance from parents, it is easy for children to grow up ==feeling somewhat directionless `失去方向感`== and ==fall victim to `sth 成为某事的牺牲品`== these circumstances.
+> 对于父母将他们自己参与到孩子们的功课中另一个重要的原因是工作竞争的现实，竞争是巨大地。帮助你们的孩子完成家庭作业不再是可选择的。为了找一份稳定的工作，拿到学士学位角度的毕业是不够的。在这些饱和的工作市场中，父母需要早些帮助他们的孩子找到他们的行业，然后支持他们追求该行业，因此他们有机会在他们的同龄人中与众不同。研究发现最近的大学毕业生超过半数没有就业，就业仅仅是兼职或者工作在远低于他们学历的职位上。没有来自父母的合适的学院建议和指导，孩子的成长很容易感到失去方向和成为这些情况的牺牲品。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | ------------- | -------------
-tremendously | bachelor | saturate
-qualifications | proper | directionless
-victim
-
+tremendously 巨大地，极大地 | bachelor 学士 | saturate 饱和的
+qualifications 资格，学历 | proper 适当的，正确的，合适的 | directionless 缺乏目标的
+victim 受害者，牺牲品 | calling 【正式】职业，行业 | distinguished 卓越的，杰出的
+peers 同龄人 | somewhat 有点
 
 PHRASE |  PHRASE
 ------------ | -------------
-early on 
+early on 在早期 | 
+
+#### 2018-08-03
+
+Finally, children have many friends to teach them how to play, but only parents can really teach them how to work. Most children do not enjoy schoolwork. If give a choice, they will want to play games and sports. They will have plenty opportunities to do so with their friends. It is only from parents that they can learn importance of hard work and discipline, because it is only parents who have the benifit of life experience. Of course, children will resist. They may even ==resent== their ==one's parents `怨恨父母`== at times.  But it is the parent's job to sometimes be the "bad guy", because nobody else will teach the child if the parents doesn't. Trough helping children with schoolwork, parents can ==instill the mentality values `灌输精神价值观`== that will allow children to sucessfully ==purse== their ==one's ambitions `追求理想`==.
+> 最后，孩子们有很多朋友教给他们如何去玩，但是只有父母能真正地教给他们如何工作。大多数的孩子不喜欢做功课。如果给一个机会，他们想去玩游戏和运动。只能从父母那里学到努力工作和纪律的重要性，因为只有父母有生活经验的收获。当然，孩子们会抵抗。他们甚至在这个时候怨恨他们的父母。但是父母的工作有时使他们成为“坏人”，因为如果他们不教，没有其他人能教孩子。通过帮助孩子们做功课，家长可以逐渐灌输精神价值观，这些可以使孩子们成功地追求他们的理想。
+
+A child's development needs to carefully balanced between play and work in order for them to find their true passion and succeed later in life. While friends can take care of "play", it is up to parents to ==impart the difficlut lessions of `sth 传授……艰难的一课`== "work".
+> 一个孩子的发展需要细致的平衡在玩耍和工作之中，为了让他们在以后的生活中找到他们真实的激情和成功。然而朋友可以照顾到“玩耍”，父母传授“工作”的艰难的一课。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+discipline 纪律，学科，训练 n. | instill 逐渐灌输 | really 真正的
+resent 对……感到愤恨，怨恨 | impart 【向某人】赋予，传授【知识，智慧】
 
 ----
 

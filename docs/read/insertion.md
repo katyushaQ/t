@@ -4,7 +4,7 @@
 
 !!! faq ""
 
-    12.==Look at== ^^the four squares ■ ^^ {++that indicate++} {++where the following sentence could be added to the passage++}.     <font color='hotpink'>**信息对应**</font>
+    12.==Look at== ^^the four squares ■^^ {++that indicate++} {++where the following sentence could be added to the passage++}.     <font color='hotpink'>**信息对应**</font>
     > 看看4个方块，他们指明在这段的什么位置可以加入下面语句。
     
     **This universality { in the recognition of emotions `抽象地点`}** ==was demonstrated== { by using rather simple methods `方式`}. 
@@ -78,7 +78,7 @@ around the world 世界各地的
 **The Democrats** ==wanted== ^^the rewards of the market without sacrificing the features of a simple agrarian republic^^.
 > 民主党想要没有牺牲一个共和国土地的特征的市场回报。
 
-**They** ==wanted== ^^the wealth^^ {++that the market offered without the competitive, {++changing++} society; the complex dealing; the dominance of urban centers; and the loss of independence++} {++that came with it++}.
+**They** ==wanted== ^^the wealth^^ {++that the market offered without the competitive++}, {++changing++} society; the complex dealing; the dominance of urban centers; and the loss of independence++} {++that came with it++}.
 > 他们想要财富，是市场提供没有竞争的，改变的社会；复杂的交易；城市中心的优势；和伴随市场发生的独立的丧失的财富。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
@@ -214,7 +214,7 @@ plumbing 管道装置 | wiring 布线 | air-conditioning 空气条件作用
 igloos 冰屋 | adobe 土坯，砖坯 | generally 普遍地，通常
 comparable 类似的
 
-#### 6.
+#### 6. <font color='red'>**错**</font>
 
 !!! faq ""
 
@@ -250,7 +250,7 @@ Ecologists 生态学家 | resilience 弹性，恢复力，适应力 | climax 高
 contribute to 促成，造成【某事发生】 | pales in 相比之下微不足道，相形失色 | processes 【自然】变化过程
 explosion 爆炸
 
-#### 7.
+#### 7. <font color='red'>**错，难，不懂**</font>
 
 !!! faq ""
 
@@ -327,7 +327,7 @@ And { when game moved out of the lowlands in early spring `时间`}, **the exped
 **David Douglas**, ( Scottish botanical explorer of the 1830s ) , ==found== ^^a disturbing change in the animal life around the fort during the period {++between his first visit in 1825 and his final contact with the fort { in 1832 `时间`}++}^^.
 > DD，1830年代的苏格兰传记作者探索者，在他1825年第一次访问和有堡垒的1832年最后一次联系期间，发现一个扰乱在动物生活环境堡垒的改变。
 
-**A recent Douglas biographer** ==states==:^^" The deer {++which once picturesquely dotted the meadows around the fort were gone [in 1832]++}, ==hunted== ^^to extermination { in order to protect the crops `目的`}^^."^^ 
+**A recent Douglas biographer** ==states==:^^" The deer^^ {++which once picturesquely dotted the meadows around the fort were gone [in 1832]++}, ==hunted== ^^to extermination { in order to protect the crops `目的`}^^." 
 > 一个D传记作者最近的陈述：一旦美丽的点缀的草地围绕堡垒在1832年消失，为了保护农作物，鹿被猎杀到灭绝。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
@@ -342,41 +342,110 @@ extermination 灭绝 | bemoaned 抱怨，叹息，悲叹 v.-ed | succulent 肉�
 starved 饿死的 |  elk 麋鹿 | consumed 消耗
 approximately  大约 | expedition 远征 | starvation 饿死
 headquarters 总部，大本营 | fluctuate 波动 | fort 堡垒，城堡
-Scottish 苏格兰的，苏格兰人的 | biographer 传记作者 | picturesquely 美丽地
-dotted 在【某物上面或上方】加点，布满 ，点缀 v. | Nearly 几乎
+Scottish 苏格兰的，苏格兰人的 | biographer 传记作者 | picturesquely 美丽地，风景如画地
+dotted 在【某物上面或上方】加点，布满 ，点缀 v. | Nearly 几乎 | Vancouver 温哥华
 built-in 固定的；内置 n. | breath 呼吸，微风 n. | yet 但是，然而 【用于在先前说过的内容之后引出令人惊讶的事实情况或品质】
 told of 描述，叙述 | frontier 边境，前沿 | mouth 河口
-Vancouver 温哥华
 
-### 2018-07-24
 
-#### 8.
+### 2018-08-04
+
+#### 8. <font color='red'>**错**</font>
 
 !!! faq ""
 
-    Therefore, if the paintings were connected with hunting, some other explanation is needed. 
+    *Therefore*, { if the paintings were connected with hunting `条件`}, **some other explanation** ==is needed==.      <font color='hotpink'>**因果**</font>
+    > 因此，如果画与打猎有联系，一些其他的解释是需要的。
+    
+    !!! tip ""
+    
+        ==题干分析==
+        
+        Therefore 因此，承上，为因果关系总结性开头，那么位置应该在提及 ==hunting== 之后
+        
+        is needed 承上启下，那么位置应该在 ==hunting== 的细节之前
+        
+    !!! failure ""
+    
+        败在 ==句间关系== 上，==some other explanatio== ，第二句 {++but++} 转折为插入句提供了空间，{++Perhaps++} 为一些其他提供了承接        
+    
+        对文章套路不够熟悉
 
-Paragraph 3: The subjects of the paintings are mostly animals. The paintings rest on bare walls, with no backdrops or environmental trappings. Perhaps, like many contemporary peoples, Upper Paleolithic men and women believed that the drawing of a human image could cause death or injury, and if that were indeed their belief, it might explain why human figures are rarely depicted in cave art. Another explanation for the focus on animals might be that these people sought to improve their luck at hunting. ■ This theory is suggested by evidence of chips in the painted figures, perhaps made by spears thrown at the drawings. ■ But if improving their hunting luck was the chief motivation for the paintings, it is difficult to explain why only a few show signs of having been speared. ■ Perhaps the paintings were inspired by the need to increase the supply of animals. Cave art seems to have reached a peak toward the end of the Upper Paleolithic period, when the herds of game were decreasing. ■ 
+Paragraph 3: <font color='LightSeaGreen'>*（前文可以在介绍画，下文继续阐述画的某些具体特征）*</font>The subjects of the paintings are mostly animals. <font color='LightSeaGreen'>*（细节，介绍画的内容）*</font>The paintings rest on bare walls, with no backdrops or environmental trappings. <font color='LightSeaGreen'>*（细节，介绍画的摆放位置）*</font>Perhaps, like many contemporary peoples, Upper Paleolithic men and women believed that the drawing of a human image could cause death or injury, and if that were indeed their belief, it might explain why human figures are rarely depicted in cave art. <font color='LightSeaGreen'>*（细节，古人对画的理解，提出思考）*</font><font color='red'>**|| 另一说明**</font> Another explanation for the focus on animals might be that these people sought to improve their luck at hunting.<font color='LightSeaGreen'>*（顺承，回答思思考的问题，提出打猎）*</font> {--■--} This theory is suggested by evidence of chips in the painted figures, perhaps made by spears thrown at the drawings. <font color='LightSeaGreen'>*（细节，打猎对画的影响）*</font><font color='red'>**||**</font> ■ <font color='Blue'>*But*</font> if improving their hunting luck was the chief motivation for the paintings, it is difficult to explain why only a few show signs of having been speared.<font color='LightSeaGreen'>*（细节内转折，还是在说打猎与画的关系，思考提问）*</font> {++■++} <font color='Blue'>*Perhaps*</font> the paintings were inspired by the need to increase the supply of animals.<font color='LightSeaGreen'>*（顺承，自问自答）*</font> Cave art seems to have reached a peak toward the end of the Upper Paleolithic period, when the herds of game were decreasing. <font color='LightSeaGreen'>*（细节，深度补充）*</font>■ 
 
 ----
 
+**The subjects of the paintings** ==are mostly== ^^animals^^. 
+> 画的主题主要是动物。
+
+**The paintings** ==rest on== ^^bare walls^^, {++with no backdrops or environmental trappings++}.
+> 画挂在没有背景或环境标志的空墙上。
+
+Perhaps, ( like many contemporary peoples ), **Upper Paleolithic men and women** ==believed== {++that the drawing of a human image could cause death or injury++}, and { if that were indeed their belief `条件`}, **it** ==might explain== {++why human figures are rarely depicted { in cave art `地点`}++}.
+> 也许，像许多当代的人们，旧石器时代教高级的男人和女人相信一个人类想象的画可以导致死亡或者伤害，并且如果这些画确实是他们认为的那样，可以解释为什么人类数据被极少地描绘在洞穴艺术中。
+
+**Another explanation for the focus on animals** ==might be== {++that these people sought to improve their luck at hunting++}.
+> 另一个对于关注于动物的解释可能是，这些人在打猎中寻求好运。
+
+■ **This theory** ==is suggested== { by evidence of chips in the painted figures `方式`}, perhaps ==made== { by spears thrown at the drawings `方式`}.
+> 这个理论是由画上的数据痕迹的证据所指出，也许由矛刺在画上锁制造。
+
+■ *But* { if improving their hunting luck was the chief motivation for the paintings `条件`}, *it* ==is== **difficult to explain** {++why only a few show signs of having been speared++}.
+> 但是，如果改善他们打猎的好运是画的主要动机，很难解释为什么只有一小部分显示曾经被刺的标记。
+
+■ Perhaps **the paintings** ==were inspired== { by the need to increase the supply of animals`方式`}.
+> 也许画是由需要增加动物供应被制造。
+
+**Cave art** ==seems to have reached== ^^a peak toward the end of the Upper Paleolithic period^^, { when the herds of game were decreasing `时间`}. ■
+> 洞穴艺术看似已经到达一个顶峰朝着较高的旧石器时代时期的尾声，在被猎群动物在减少的时候。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-
-### 2018-07-24
+mostly 主要地，通常 | bare 赤裸的，光秃秃的 | backdrops 背景
+trappings 【象征身份、职业或生活方式的】标志 | Paleolithic 旧石器时代的 | figures 官方数据
+cave 洞穴，山洞 | sought seek 过去式，寻求 | chips 痕迹，缺口；碎片
+spears 矛 n. 用矛刺 v. | inspired 激励；使产生| peak 高峰，峰值，顶点
+herds | rest on 【正式】依赖；根据，以……为基础；【目光】落在……上 | evidence 证据
+subjects 【绘画，摄影等】题材，主题 | indeed 当然，确实【用于强调陈述或回答】 | herds of 兽群，牧群
+game 野禽，野味【尤指猎物】
 
 #### 9.
 
 !!! faq ""
 
-    In fact, artifacts and pottery from Teotihuacán have been discovered in sites as far away as the Mayan lowlands, the Guatemalan highlands, northern Mexico, and the Gulf Coast of Mexico.
+    *In fact*, **artifacts and pottery from Teotihuacán** ==have been discovered== ^^in sites^^ {++as far away as the Mayan lowlands++}, ( the Guatemalan highlands, northern Mexico, and the Gulf Coast of Mexico ).   <font color='hotpink'>**信息对应**</font>
+    > 实际上，来自T的手工艺品和陶器已经被发现在远在玛雅低地的地点，这些低地是危地马拉高地，北墨西哥和墨西哥的高尔夫沿岸。
 
-The city of Teotihuacán, which lay about 50 kilometers northeast of modern-Day Mexico City, began its growth by 200-100 B.C. At its height, between about A.D. 150 and 700, it probably had a population of more than 125,000 people and covered at least 20 square kilometers.  ■ It had over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings.  ■ Clearly, much planning and central control were involved in the expansion and ordering of this great metropolis.  ■ Moreover, the city had economic and perhaps religious contacts with most parts of Mesoamerica (modern Central America and Mexico). ■ 
+    !!! tip ""
+
+        ==题干分析==
+    
+        In fact 实际上，总结性陈述，有转折或顺承可能，位置可能在开头或者中间
+    
+<font color='LightSeaGreen'>*（没有前文，下文提出城市）*</font>The city of Teotihuacán, which lay about 50 kilometers northeast of modern-Day Mexico City, began its growth by 200-100 B.C. <font color='LightSeaGreen'>*（提出位置，墨西哥东北方向）*</font><font color='red'>**|| 另一时间点**</font> At its height, between about A.D. 150 and 700, it probably had a population of more than 125,000 people and covered at least 20 square kilometers.<font color='LightSeaGreen'>*（细节，城市人口和面积）*</font>  ■ It had over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings.<font color='LightSeaGreen'>*（细节，城市建筑）*</font>  ■ <font color='Blue'>*Clearly*</font>, much planning and central control were involved in the expansion and ordering of this great metropolis. <font color='LightSeaGreen'>*（顺承，进一步补充城市规模，体现城市的重要性）*</font> ■ <font color='Blue'>*Moreover*</font>, the city had economic and perhaps religious contacts with most parts of Mesoamerica (modern Central America and Mexico). ==■== <font color='LightSeaGreen'>*（顺承，进一步补充经济与宗教，体现城市重要性）*</font>
 
 ----
 
+**The city of Teotihuacán**, {++which lay about 50 kilometers northeast of modern-Day Mexico City++}, ==began== ^^its growth by 200-100 B.C^^.
+> 位于现代墨西哥城市的东北大约50公里的T的城市，从公元前200-100年开始成长。
+
+{ At its height `地点`}, { between about A.D. 150 and 700 `时间`}, **it** probably ==had== ^^a population of more than 125,000 people^^ and ==covered== ^^at least 20 square kilometers^^.
+> 在它们的高度，在大约公元150-700年，这个城市可能有超过125,000的人口和覆盖至少20平方公里的面积。
+
+■ **It** ==had== ^^over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings^^.
+> 它有超过2000座复合公寓，大量的市场，大量的工业车间，一个管理中心，大量的巨大的宗教建筑和有规律的栅栏样式的街道和建筑。
+
+■ Clearly, **much planning and central control** ==were involved in== ^^the expansion and ordering of this great metropolis^^.
+> 显然，许多规划和中心控制参与到这个大量的城市的扩张和秩序中。
+
+■ *Moreover*, **the city** ==had== ^^economic and perhaps religious contacts with most parts of Mesoamerica (modern Central America and Mexico)^^. ■
+> 此外，这个城市拥有经济，也可能有与大部分中美洲（现代中美和墨西哥）宗教的联系。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+artifacts 人工制品，手工艺品 | as far away as 远在 | Guatemalan 危地马拉
+modern-Day 现代 | edifices 【正式】【尤指宏伟的】建筑 | expansion 扩张
+metropolis 首要城市 | Mesoamerica 中美洲
 
 ### 2018-07-24
 
