@@ -69,7 +69,7 @@
         
         { In this way `方式状语` }, **objects** ==can be photographed== {++that are hundred times too faint to be seen++} { by just looking through a telescope `方式状语` }.
             
-        ==问题：== {++that are hundred times too faint to be seen++} ==是什么成分？== **老师回答：定语从句，修饰objects。hundred times 上百倍大小。翻译：用这种方式，能拍下仅用望远镜看到的上百倍大小因为模糊而看不到的物体。**
+        ==问题：== {++that are hundred times too faint to be seen++} ==是什么成分？== **老师解答：定语从句，修饰objects，避免头重脚轻，只是我见的世面少。hundred times 上百倍大小。翻译：用这种方式，能拍下仅用望远镜看到的上百倍大小因为模糊而看不到的物体。**
         
 ### 2018-06-23
 
@@ -123,3 +123,22 @@
     endanger 使危险 | funny 古怪的 | smell 气味
     drying 烘干 | oven 加热器 | substaintially 实质上
    
+### 2018-08-06
+
+!!! info "**The Painter Grant Wood**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    Minneapolis 明尼阿波里斯市 | institute 学院 | stylized 使风格化的
+    applied 使用，运用  | stylistic 风格化的 | childhood 童年
+    portraits 人物画像，肖像 | imitate 模仿 | static 静止的
+    formlism 形式主义 | photograph 图片 | settler 居民
+    posed 造成，引起，产生 | midwestern 中西部 | serious 极度
+    respect 尊重 | figure 领袖人物 | regionalism 区域主义
+    in an effort to 为了干嘛…… | sustain 维持 | movement 运动
+    preserve 保存 | vision 视野 | pioneer 先驱
+    demonstrate 表明
+    
+!!! info "**Astronomers**"
+
+    [2018-06-21](#2018-06-21)

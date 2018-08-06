@@ -367,7 +367,7 @@ told of 描述，叙述 | frontier 边境，前沿 | mouth 河口
         
     !!! failure ""
     
-        败在 ==句间关系== 上，==some other explanatio== ，第二句 {++but++} 转折为插入句提供了空间，{++Perhaps++} 为一些其他提供了承接        
+        败在 ==句间关系== 上，==some other explanation== ，第二句 {++but++} 转折为插入句提供了空间，{++Perhaps++} 为 ==一些其他== 提供了承接        
     
         对文章套路不够熟悉
 
@@ -447,20 +447,85 @@ artifacts 人工制品，手工艺品 | as far away as 远在 | Guatemalan 危�
 modern-Day 现代 | edifices 【正式】【尤指宏伟的】建筑 | expansion 扩张
 metropolis 首要城市 | Mesoamerica 中美洲
 
-### 2018-07-24
+### 2018-08-05
 
-#### 10.
+#### 10.    <font color='red'>**错，难，不清晰**</font>
 
 !!! faq ""
 
-    Consequently, the idea that the lr in the boundary clay came from microscopic meteorites cannot be accepted.
+    <font color='Blue'>*Consequently*</font>, **the idea** {++that the lr in the boundary clay came from microscopic meteorites++} ==cannot be accepted==.      <font color='hotpink'>**看似逻辑，更像信息对应**</font>
+    > 因此，lr来自微小的陨石的边界土中的观点不能被接受。
+    
+    !!! tip ""
 
-Ir has not been common at Earth’s since the very beginning of the planet’s history. Because it usually exists in a metallic state, it was preferentially incorporated in Earth’s core as the planet cooled and consolidated. lr is found in high concentrations in some meteorites, in which the solar system’s original chemical composition is preserved. Even today, microscopic meteorites continually bombard Earth, falling on both land and sea. By measuring how many of these meteorites fall to Earth over a given period of time, scientists can estimate how long it might have taken to deposit the observed amount of lr in the boundary clay. ■ These calculations suggest that a period of about one million years would have been required. ■ However, other reliable evidence suggests that the deposition of the boundary clay could not have taken one million years. ■ So the unusually high concentration of lr seems to require a special explanation. ■ 
+        ==题干分析==
+        
+        Consequently 因此，总结性，位于概念+细节后
+        
+        ==the idea cannot be accepted== 找支持反例的文字
+        
+        ==the lr …… came from ……== 找 the lr 的出处文字
+        
+    !!! failure ""
+    
+        最开始，顺着看下来，感觉A的位置就可以了，因为上文已经说的很清楚了，不是地球上东西。
+        
+        那么，句间关系？A和上一句接的还是挺紧凑的，B和A也挺紧凑的，对照了答案后，不是很明白C和D的差别在哪儿
+        
+        排除法的话，D的下一句应该是 ==特殊说明== 的细节内容
+        
+Ir has not been common at Earth's since the very beginning of the planet's history. Because it usually exists in a metallic state, it was preferentially incorporated in Earth's core as the planet cooled and consolidated. lr is found in high concentrations in some meteorites, in which the solar system's original chemical composition is preserved. Even today, microscopic meteorites continually bombard Earth, falling on both land and sea. By measuring how many of these meteorites fall to Earth over a given period of time, scientists can estimate how long it might have taken to deposit the observed amount of lr in the boundary clay. {--■--} These calculations suggest that a period of about one million years would have been required. <font color='red'>**||**</font> {++■++} <font color='Blue'>*However*</font>, other reliable evidence suggests that the deposition of the boundary clay could not have taken one million years. ■ <font color='Blue'>*So*</font> the unusually high concentration of lr seems to require a special explanation. ■ 
 
 ----
 
+**Ir** ==has not been== ^^common at Earth's^^ { since the very beginning of the planet's history `时间`}.
+> 自从这个星球发展过程一开始，Ir在地球上就不常见。
+
+{ Because it usually exists in a metallic state `原因`}, **it** ==was preferentially incorporated== ^^in Earth's core^^ { as the planet {++cooled and consolidated++} `方式`}.
+> 因为它通常存在于金属态，它优先被包含在地球核心中，作为一个冷的和巩固的星球。
+
+!!! failure ""
+
+    这个as有点晕，as the planet  名词，当作，但是翻译后感觉怪怪的
+    
+    as 引导的是定语还是状语？
+
+**lr** ==is found== ^^in high concentrations in some meteorites^^, {++in which the solar system's original chemical composition is preserved++}.
+>Ir被发现高度聚集在一些陨石中，在陨石中太阳系统的原始化学成分被保留。
+
+{ Even today `时间`}, **microscopic meteorites** ==continually bombard== ^^Earth^^, { falling on both land and sea `结果`}.
+>即使今天，微小的陨石持续地爆炸地球，落到地面和海洋。
+
+!!! failure ""
+
+    什么是 continually bombard Earth ，很奇怪
+    
+{ By measuring how many of these meteorites fall to Earth over a given period of time `方式`}, **scientists** ==can estimate== {++how long it might have taken to deposit the observed amount of lr { in the boundary clay `地点`}++}.
+> 通过测量这些陨石有多少落到地球超过一个时间周期，科学家能够估算它可能多长时间沉淀到可观察的大量的Ir在边界土中。
+
+!!! failure ""
+
+    over a given period of time 不知道怎么翻译好，字典：在给定的时间内
+
+■ **These calculations** ==suggest== {++that a period of about one million years would have been required++}.
+> 这些计算表明一个周期大约可能需要一百万年。
+
+■ *However*, **other reliable evidence** ==suggests== {++that the deposition of the boundary clay could not have taken one million years++}.
+> 然而，其他可信赖的证据表明边界土的沉淀可能不用一百万年。
+
+■ *So* **the unusually high concentration of lr** ==seems== ^^to require a special explanation^^. ■
+> 所以，Ir的不寻常地高度聚集似乎需要一个特殊的说明。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+Consequently 因此，所以 | lr 书面报告；远距离，远程；实验室反应堆| boundary 边界，界线 n.
+clay 黏土 | microscopic 微小的 | meteorites 陨石 n.
+metallic 含金属的 | preferentially 优先地，优惠地 | incorporated 把【某事物】并入，包含
+consolidated 巩固，合并 v. | solar 太阳能的 | composition 组成，成分
+bombard 轰炸，炮轰 v. | measuring 测量，衡量 | estimate 估计，估算 v.
+deposit 使沉积 | calculations 计算 | 
+
+
 
 ### 2018-07-24
 

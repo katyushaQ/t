@@ -102,3 +102,30 @@ intend to do sth 计划/打算/想要做某事 | suspect 猜想，怀疑，觉�
 over the last couple of classes 在最后几节课上 | as well 【除某事物或某人外】还
 tax break 赋税减免 | come as no surprise 不足为奇
 sarcastically 讽刺地 | experiment with 实验
+
+### 2018-08-06
+
+#### Attitude Basic Drill
+
+##### 1
+
+PHRASE |  PHRASE
+------------ | -------------
+waitress 女服务员 | position 职位
+as for 至于 | 
+
+##### 2
+
+PHRASE |  PHRASE
+------------ | -------------
+admire 欣赏 | regret that 对……感到遗憾
+embrace 【正式】欣然接受【新思想，意见，宗教等】 | Maori 毛利人
+tribal 部落 | hardship 艰苦
+cultural transformation 文化变迁 | colonize 开拓移民地
+spread out 延伸 | popular among youth 在年轻人中盛行
+adapt into contemporary style 适应当代的风格 | tattoo 纹身
+tribesmen 部落男子 | pre-colonial days 移民前期
+war-dance 战舞 | take up 从事
+custom 风俗 | greeting 问候，招呼
+barbecue 烧烤野餐 | funeral wake 葬礼守灵
+feat 大餐，盛会 | anthropology 人类学
