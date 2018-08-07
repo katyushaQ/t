@@ -525,37 +525,133 @@ consolidated 巩固，合并 v. | solar 太阳能的 | composition 组成，成�
 bombard 轰炸，炮轰 v. | measuring 测量，衡量 | estimate 估计，估算 v.
 deposit 使沉积 | calculations 计算 | 
 
+### 2018-08-07
 
-
-### 2018-07-24
-
-#### 11.
+#### 11.    <font color='red'>**看不懂**</font>
 
 !!! faq ""
 
-    The sequence in which they migrate correlates with their body size.
+    **The sequence** {++in which they migrate correlates with their body size++}.   <font color='hotpink'>**信息对应**</font>
+    > 他们迁徙与他们身体尺寸相关事物的序列中。
+    
+    !!! tip ""
 
-The differences in feeding preferences lead, in turn, to differences in migratory habits.■  The wildebeests follow, in their migration, the pattern of local rainfall. ■  The other species do likewise. ■  But when a new area is fueled by rain, the mammals migrate toward it in a set order to exploit it. ■  The larger, less fastidious feeders, the zebras, move in first; the choosier, smaller wildebeests come later; and the smallest species of all, Thomson’s gazelle, arrives last. The later species all depend on the preparations of the earlier one, for the actions of the zebra alter the vegetation to suit the stomachs of the wildebeest, topi, and gazelle.
+        ==题干分析==
+        
+        对 The sequence 的描述，不是指代，看不到啥逻辑，只能找跟关键词有关的上下文
+        
+        看着像定义又像总结，位置不是意群的开头就是结尾
+
+    !!! failure ""
+    
+        说实话，这篇我看着很痛苦
+        
+        选 D，是因为看着跟前面都没关系，只有后面那句有序列细节描述
+
+The differences in feeding preferences lead, in turn, to differences in migratory habits. ■  The wildebeests follow, in their migration, the pattern of local rainfall. ■  The other species do likewise. ■  <font color='Blue'>*But*</font> when a new area is fueled by rain, the mammals migrate toward it in a set order to exploit it. ==■==  The larger, less fastidious feeders, the zebras, move in first; the choosier, smaller wildebeests come later; and the smallest species of all, Thomson’s gazelle, arrives last. The later species all depend on the preparations of the earlier one, for the actions of the zebra alter the vegetation to suit the stomachs of the wildebeest, topi, and gazelle.
 
 ----
 
+**The differences in feeding preferences** ==lead==, ( in turn ), ==to== ^^differences in migratory habits^^.
+> 喂养偏好中的差别依次导致在迁徙习惯中的差异。
+
+■  **The wildebeests** ==follow==, ( in their migration ), ^^the pattern of local rainfall^^. 
+> 角马在他们的迁徙中跟随本地的降雨模式。
+
+■  **The other species** ==do== ^^likewise^^. 
+> 其他种类也这样做。
+
+■  *But* { when a new area is fueled by rain `时间`}, **the mammals** ==migrate toward== ^^it in a set order to exploit it^^.
+> 但是，当雨把一个新地区有食物，哺乳动物迁徙到它为了利用它的地方。
+
+!!! failure ""
+
+    fuel 不知道怎么翻译好了，整句都很难理解
+
+    toword 后面感觉省略了that
+    
+    it in a set order to exploit it 这句彻底懵了，a set 加在 in order to 中间，是什么意思？
+    
+    第一个 it 指代的是什么？the manmals？  第二个 it 指代谁？rain？
+
+■  **The larger, less fastidious feeders**, ( the zebras ), ==move== ^^in first^^; **the choosier**, ( smaller wildebeests ) ==come== ^^later^^; and **the smallest species of all**, ( Thomson's gazelle ), ==arrives== ^^last^^.
+> 更大的，挑剔的饲养者，斑马，首先移动；C，更小的角马随后就来，然后所有的最小物种，瞪羚，最后到达。
+
+**The later species all** ==depend on== ^^the preparations of the earlier one^^, { for the actions of the zebra alter the vegetation to suit the stomachs of the wildebeest, topi, and gazelle `目的`}.
+> 最后的所有物种依靠更早的一个的准备，因为斑马的行为改变植物以适合角马，转角牛羚和瞪羚的胃。
+
+!!! failure ""
+
+    for 因为，对么？
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+correlates 相关的事物 | migratory 迁徙的 | habits 习惯
+wildebeests 牛玲，角马 | exploit 利用，开发，剥削，使用 v. | fastidious 挑剔的，讲究的
+zebras 斑马 | choosier | gazelle 瞪羚
+stomachs 胃 | preferences 偏好，优先 | in turn 反过来；转而；轮流，依次
+likewise 【正式】同样地，相似地 | fueled | vegetation 【正式】植物
+topi 转角牛羚
 
-### 2018-07-24
-
-#### 12.
+#### 12. <font color='red'>**错，为什么**</font>
 
 !!! faq ""
 
-    For all her originality in dance, her interests expanded beyond it into newly emerging artistic media.
+    { For all her originality in dance `目的`}, **her interests** ==expanded beyond== ^^it^^ ==into== ^^newly emerging artistic media^^.      <font color='hotpink'>**信息对应**</font>
+    > 为了所有她在舞蹈上的创造力，她的兴趣超越舞蹈扩展到新浮现出来的艺术媒体中。
+    
+    !!! tip ""
 
-As her technological expertise grew more sophisticated, so did the other aspects of her dances. ■  Although she gave little thought to music in her earliest dances, she later used scores by Gluck, Beethoven, Schubert, Chopin, and Wagner, eventually graduating to Stravinsky, Fauré, Debussy, and Mussorgsky, composers who were then considered progressive. ■  She began to address more ambitious themes in her dances such as The Sea, in which her dancers invisibly agitated a huge expanse of silk, played upon by colored lights. ■  Always open to scientific and technological innovations, she befriended the scientists Marie and Pierre Curie upon their discovery of radium and created a Radium Dance, which simulated the phosphorescence of that element. ■  She both appeared in films—then in an early stage of development—and made them herself; the hero of her fairy-tale film Le Lys de la Vie (1919) was played by René Clair, later a leading French film director.
+        ==题干分析==
+        
+        For…… 目的，前文应该提到发展类的，下文应该是 newly emerging artistic 的细节，位置应该在中间
+        
+    !!! failure ""
+    
+        2个点，1：更老练，2：创造力
+        
+        最后一句 Both 说的是以上两点吧？
+        
+        C 后面的文字像承接插入句的内容，A 承接文章第一句，B 是 A 的细节，D 不合适，插入局不是总结类
+
+As her technological expertise grew more sophisticated, so did the other aspects of her dances. ■  Although she gave little thought to music in her earliest dances, she later used scores by Gluck, Beethoven, Schubert, Chopin, and Wagner, eventually graduating to Stravinsky, Fauré, Debussy, and Mussorgsky, composers who were then considered progressive. ■  She began to address more ambitious themes in her dances such as The Sea, in which her dancers invisibly agitated a huge expanse of silk, played upon by colored lights. {--■--}  Always open to scientific and technological innovations, she befriended the scientists Marie and Pierre Curie upon their discovery of radium and created a Radium Dance, which simulated the phosphorescence of that element. {++■++}  She both appeared in films—then in an early stage of development—and made them herself; the hero of her fairy-tale film Le Lys de la Vie (1919) was played by René Clair, later a leading French film director.
 
 ----
 
+**As her technological expertise grew more sophisticated**, *so* ==did== ^^the other aspects of her dances^^.
+>  为了她技术上的专业成长为更老练的，就做她舞蹈的其他方面。
+
+■  *Although* **she** ==gave== ^^little thought to music in her earliest dances^^, **she** later ==used== ^^scores by Gluck, Beethoven, Schubert, Chopin, and Wagner, ( eventually graduating to Stravinsky, Fauré, Debussy, and Mussorgsky )^^, composers {++who were then considered progressive++}. 
+> 尽管她在她最早的舞蹈中使用极少的音乐，后来她使用G，B，S，C和W（最终毕业于S，F，D和M）的乐谱，作曲家们后来被考虑发展。
+
+!!! failure ""
+
+    considered 在这里是啥？后半句好奇怪，是说考虑把作曲家拉进来吗？
+    
+■  **She** ==began to address== ^^more ambitious themes in her dances such as The Sea^^, {++in which her dancers invisibly agitated a huge expanse of silk++}, ==played== ^^upon^^ { by colored lights `方式`}. 
+> 她开始表演更多野心勃勃的主题到她的舞蹈中，如海洋，在海洋中她的舞蹈无形地煽动巨大辽阔的丝绸，通过彩色的光向上舞动。
+
+■  { Always open to scientific and technological innovations `抽象地点？`}, **she** ==befriended== ^^the scientists Marie and Pierre Curie upon their discovery of radium and created a Radium Dance^^, {++which simulated the phosphorescence of that element++}. 
+> 她总是打开的科学的和技术的发明，她帮助科学家M和PC在他们的镭发现之上，并且创造镭绸舞蹈，模仿镭元素的磷光的舞蹈。
+
+!!! failure ""
+
+     Always 这个状语成分没看懂，同一个主语，被省略了？
+     
+     upon 有点晕
+
+■  **She** both ==appeared== ^^in films^^—( then in an early stage of development )—and ==made== ^^them herself^^; **the hero of her fairy-tale film Le Lys de la Vie (1919)** ==was played== { by René Clair `方式`}, { later a leading French film director `结果`}.
+> 她俩个都出现在电影里，然后在发展的早期阶段，并且自己使用他们；她的仙女故事的英雄电影Le Lys de la Vie (1919)由RC表演，后来成为法国电影导演。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+newly 最近，新近，以新的方式 | expertise 专业，专业知识 | sophisticated 复杂的，精密的，老练的
+composers 作曲家 | progressive 进展，发展 n. | befriended 帮助，以朋友态度对待
+upon 向，给，依据，在……上面 | radium 镭绸 | simulated 模仿
+phosphorescence 磷光 | originality 创造力 | scores 乐谱
+ambitious 有抱负的，有雄心的，野心勃勃的 | invisibly 看不见地，无形地
+agitated 煽动 | expanse 广阔，辽阔，大片 | silk 丝绸
+fairy-tale 仙女故事的 | 
 
 ### 2018-07-24
 

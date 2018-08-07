@@ -54,7 +54,7 @@
     photograph 拍照片 | image be developed 冲洗照片 | enlarge 使放大
     be positioned 被放在这 | astronomical object 天体 | feeble （光）虚弱的
     long time exposure 长曝光 | faint 不清楚的，模糊的 | coat 覆盖
-    think of 认为 | rarely 很少，难得 | a hundred times 一百次
+    think of 认为 | rarely 很少，难得 | a hundred times 一百倍
      
 
     !!! note   
