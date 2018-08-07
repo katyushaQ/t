@@ -76,9 +76,6 @@ cell phones 手机 |
 All in all, science and technology have been and will continued to develop, but the fundamental transformation of our lives has not yet taken place.
 > 总而言之，科学和技术已经存在并将持续发展，但是我们生活的基本转变仍然没有发生。
 
------------- | -------------
-All in all 总而言之 | 
-
 ----
 
 #### 自己写
