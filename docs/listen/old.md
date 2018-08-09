@@ -142,3 +142,24 @@
 !!! info "**Astronomers**"
 
     [2018-06-21](#2018-06-21)
+    
+### 2018-08-08
+
+!!! info "**Tyrannosaurus Rex**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    relate to 关于 | cold-blooded 冷血 | warm-blooded 温血
+    on the other hand 另一方面 | reptile 爬行动物 | amphibious 水陆两栖的
+    internally 内部地 | Tyrannosaurus rex 霸王龙  | dinosaur 恐龙
+    consistant with 与……保持一致 | bone 骨头
+    
+!!! info "**Classification Of Trees**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    angiosperm 孢子植物 | ended up 以……而结束 | develop 发育
+    fall into 属于 | pine 松树 | broadleaf trees 阔叶树
+    field study 实践练习 |  notice 注意到 | in front of 在……前面
+    a couple of 一些 | walnut 核桃树 | 
+    

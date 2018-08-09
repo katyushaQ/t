@@ -129,3 +129,31 @@ war-dance 战舞 | take up 从事
 custom 风俗 | greeting 问候，招呼
 barbecue 烧烤野餐 | funeral wake 葬礼守灵
 feat 大餐，盛会 | anthropology 人类学
+
+### 2018-08-08
+
+#### Attitude Basic Drill
+
+##### 3
+
+PHRASE |  PHRASE
+------------ | -------------
+musician 音乐家 | pianist 钢琴家
+a little bit 一点 | impressive 令人印象深刻的
+technical standpoint 技术观点 | bilinding 使炫目的
+composition 音乐作品 | mechanical 机械的，呆板的
+thoughtfullness 周到 | comtemporary 同龄人，同辈
+quite the contrary 恰恰相反 | fame 名声
+moving 动人的，感人的 | 
+
+##### 4
+
+PHRASE |  PHRASE
+------------ | -------------
+clerk 职员，接待员 | outreach 外展服务
+business degree 商科学位 | workshop 研讨会
+pamphlet 小册子 | work on 从事
+Master of Business Administration Degree MBA学位 | a little longer 一段时间
+in the meantime 与此同时 | appreciate 感激
+curious 好奇的 | knowledgeable 知识渊博的
+understandable 可理解的 | 

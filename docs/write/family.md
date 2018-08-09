@@ -1,4 +1,4 @@
-#### 范文
+### 范文 1
 
 Do you agree or disagree: parents should be let children make mistake and learn from the experience?
 
@@ -36,6 +36,36 @@ attend boarding school 上寄宿学校 | cry about the difference problems 头�
 get used to 习惯某事 | on one's own 独自
 manage one's lives without outside assistance 照顾好生活 | be beneficial to 对……有帮助的
 cope with life's low points and rise above them 面对生活的起伏成败 | nurture one's children's ability to do 培养某人的能力做某事
+
+----
+
+### 范文 2
+
+----
+
+### 范文 3
+
+#### 2018-08-09
+
+A./D. Do you agree or disagree with following statement? Young people today are less dependent on their parents than in the past. Use the specific reasons and examples to support your answer.
+> 你同意或不同意以下陈述？年轻人今天比以前更少依赖他们的父母。使用具体的原因和样例支持你的回答。
+
+Parents continue to ==be a contant source of support for `sb 某人的坚强后盾`== their children, no matter what age. Technology and ==changing society `变化万千的世界`== has changed ==the dynamic of society `变化的社会`==. ==Society trends `社会趋势`== indicate that today's youth are more independent from their parents than ==previous generations `前辈`==.
+> 家长一直是支持孩子持续不变的来源，不论什么年龄。技术和改变的社会已经改变动态的社会。社会确实表名今天的年轻人比前辈自父母那里更独立。
+
+A main reason that young people today are less dependent on their parents in the development of technology. This creates independence at a young age. whereas in previous generous parents would ==chaperone and accompany `sb 陪伴某人`== their children places, cellphones have changed their habit. Now parents ==are== not ==concerned about `关心关注`== where their children are every minute of the day, because they can be easy contacted through cellphones. Parents also do not ==warry about `担心`== their children's safty as much, because they know that if anything goes wrong, their children can easily ==call for help `需要帮助`==. Technology has also make children independent for mere fact that they are, as experts have termed it, "natives" to the technology age whereas their parents are all "immigrants". Although parents ==are== usually ==well versed in ` doing sth精通做某事`== using the latest technology, young people automatically comes to navigating themselves in the technology age.
+> 一个主要原因年轻人今天在技术的发展下更少依赖他们的父母。在年轻的年纪创造独立性。然而在前辈中，父母要监护和陪绑他们的孩子，手机改变了他们的习惯。现在父母不用担心他们的孩子在一天中的每分钟在哪儿，因为他们能通过手机轻松的联系到他们。父母也不用担心过多地他们孩子的安全，因为他们知道如果什么事不对，他们的孩子能容易地打电话求助。实际上，技术也使孩子们更独立，如专家把它称之为“天生的”的技术年龄，然而他们的父母都是“外来的”。尽管父母至少精通使用技术，但是年轻人自动地指引他们自己在技术年龄中。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+constant 持续不变的 | chaperone 当某人的监护人，陪伴 v. | termed 把……称作 v.
+immigrants 【外来的】移民 | dynamic 动态的 | natives 天生的
+navigate 指引方向 | 
+
+PHRASE |  PHRASE
+------------ | -------------
+be (well) versed in sth 【正式】精通某事物
 
 #### 自己写
 

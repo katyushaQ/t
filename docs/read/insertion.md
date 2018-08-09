@@ -645,7 +645,7 @@ As her technological expertise grew more sophisticated, so did the other aspects
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-newly 最近，新近，以新的方式 | expertise 专业，专业知识 | sophisticated 复杂的，精密的，老练的
+newly 最近，新近，以新的方式 | expertise 专业，专门知识 | sophisticated 复杂的，精密的，老练的
 composers 作曲家 | progressive 进展，发展 n. | befriended 帮助，以朋友态度对待
 upon 向，给，依据，在……上面 | radium 镭绸 | simulated 模仿
 phosphorescence 磷光 | originality 创造力 | scores 乐谱
@@ -653,17 +653,45 @@ ambitious 有抱负的，有雄心的，野心勃勃的 | invisibly 看不见地
 agitated 煽动 | expanse 广阔，辽阔，大片 | silk 丝绸
 fairy-tale 仙女故事的 | 
 
-### 2018-07-24
+### 2018-08-09
 
 #### 13.
 
 !!! faq ""
 
-    Indeed, the contribution of volcanoes and solar activity would more likely have been to actually reduce the rate of warming slightly.
+    *Indeed*, **the contribution of volcanoes and solar activity** ==would more likely have been to actually <font color='Blue'>reduce</font>== ^^the rate of warming slightly^^.   <font color='hotpink'>**看似信息对应，实则有因果逻辑**</font>
+    > 确实，火山和太阳活动的贡献实际上更可能稍微减少变暖率。
+    
+    !!! tip ""
 
-In addition to the internal variability of the global climate system itself, there is the added factor of external influences, such as volcanoes and solar activity .■ There is a growing body of opinion that both these physical variations have a measurable impact on the climate. ■ Thus we need to be able to include these in our deliberations. ■ Some current analyses conclude that volcanoes and solar activity explain quite a considerable amount of the observed variability in the period from the seventeenth to the early twentieth century’s, but that they cannot be invoked to explain the rapid warming in recent decades.■ 
+        ==题干分析==
+        
+        Indeed，总结性，位置应该在细节描述之后
+        
+    !!! failure ""
+    
+        ABC都很顺承，并且只有D与插入句内容相呼应
+
+In addition to the internal variability of the global climate system itself, there is the added factor of external influences, such as volcanoes and solar activity . ■ There is a growing body of opinion that both these physical variations have a measurable impact on the climate. ■ Thus we need to be able to include these in our deliberations. ■ Some current analyses conclude that volcanoes and solar activity explain quite a considerable amount of the observed variability in the period from the seventeenth to the early twentieth century's, but that they cannot be invoked to explain the rapid warming in recent decades. ==■== 
 
 ----
 
+{ In addition to the internal variability of the global climate system itself `抽象地点？`}, ^^there^^ ==is== **the added factor of external influences**, ( such as volcanoes and solar activity ).
+> 根据全球气候系统自身内部的的可变性，有额外的外部影响元素，如火山和太阳活动。
+
+■ ^^There^^ ==is== **a growing body of opinion** {++that both these physical variations have a measurable impact on the climate++}.
+> 有大量的发展初期的观点是这两者的物理变化在气候上有可测量的影响。
+
+■ *Thus* **we** ==need to be able to include== ^^these { in our deliberations `抽象地点`}^^.
+> 因此，我们需要在我们的商议中能够包含这些。
+
+■ **Some current analyses** ==conclude== {++that volcanoes and solar activity explain quite a considerable amount of the observed variability in the period from the seventeenth to the early twentieth century's++}, *but* {++that they cannot be invoked to explain the rapid warming in recent decades++}. ■ 
+> 一些当前的分析得出结论，从11到早期的20世纪，火山和太阳活动说明出众的贡献达到可观察的可变性在一个周期里，但是他们不能引起说明快速变暖在最近十年中。
+
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
+volcanoes 火山 n. | slightly 稍微，轻微 adv. | variations 变化，差异
+impact 影响 n. | deliberations 审议，考虑，商议 | conclude 结论，得出结论 v.
+invoked 调用，引起 v. | contribution 贡献 | actually 实际上
+warming 变暖，升温 | body of sth 大量的某物 | need to do sth 需要【做某事】
+quite 非常，十分 | quite a sth 不寻常的，出众的，相当不错的 | amount of 【数量上】达到，总计

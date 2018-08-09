@@ -1,4 +1,4 @@
-#### 范文
+### 范文 1
 Do you agree or disagree with the following statement: Technolog has more positive effects than negative ones.
 
 Technolog has had a wide range of effects on society. Thought some of the effects are problematic, I think that for the most part these changes are benefical to our lives.
@@ -44,7 +44,7 @@ take place 发生 |
 
 #### 2018-08-07
 
-Second, world peace still ==hangs by a thread `岌岌可危`==. Take the Iraq War for example. It broke out eight years ago and since Iraqis have been ==living in hell `活在地狱里`==. Their ==homes are torched and destoryed `家毁`== and their ==families== have been ==are torn ==tear apart `妻离子散`==. It is cerntain that they have not received all the benifits of advanced technology. Superpowers ==are busy with `sth 忙于某事`== nuclear experiments, but this advanced technology has broutht anything but world peace. If the most sigificant transformation in living standards has taken place, how is it possible that some people ==on this planet `地球上`== are still ==`be` in great agony `处于极度痛苦中`== ?
+Second, world peace still ==hangs by a thread `岌岌可危`==. Take the Iraq War for example. It broke out eight years ago and since Iraqis have been ==living in hell `活在地狱里`==. Their ==homes are torched and destoryed `家毁`== and their ==families== have been ==are torn apart `妻离子散`==. It is cerntain that they have not received all the benifits of advanced technology. Superpowers ==are busy with `sth 忙于某事`== nuclear experiments, but this advanced technology has broutht anything but world peace. If the most sigificant transformation in living standards has taken place, how is it possible that some people ==on this planet `地球上`== are still ==`be` in great agony `处于极度痛苦中`== ?
 > 其次，世界和平仍然岌岌可危。用伊拉克战争举例。它突然发生在8年前，自从那会以来伊拉克人生活在地狱中。他们的家园被火烧并摧毁，他们的家庭分离。他们无法获得先进技术的好处是肯定的。超级大国忙于核试验，但是这项先进技术带来任何事而非世界和平。如果最重大的转变发生在居住标准上，在这个地球上的一些人怎么可能仍然在极大的痛苦中？
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
