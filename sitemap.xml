@@ -100,6 +100,12 @@
     </url>
         
     <url>
+     <loc>/read/simplification/</loc>
+     <lastmod>2018-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/read/detail/</loc>
      <lastmod>2018-08-13</lastmod>
      <changefreq>daily</changefreq>
