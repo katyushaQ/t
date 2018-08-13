@@ -67,6 +67,20 @@ PHRASE |  PHRASE
 ------------ | -------------
 be (well) versed in sth 【正式】精通某事物
 
+#### 2018-08-13
+
+In addition, globalization has created a generation of internationally minded youth, who seeing going abroad and ==exploring the world `探索未知`== as a real possiblility. Young people studying and working abroad is a lot more common than it was in our parents' generation. Rather than continuing to live at home and work in one's hometown, youth beyond the comfort of their hometown to find better job opportunities in lager cities at home and overseas. When my father was young, he went with a program to study abroad and that was a very uncommon thing. However most if not all of my friends and classmates have spent ==some amount of time `一些时间`== studying abroad. Learning about the world and exploring the world has made young people more independent.
+> 此外，全球化已经创造国际性思维的年轻一代人，他们把出国和探索未知看作是一个真实的可能性。年轻的人们学习和工作在国外比在我们父母这一代大量更普遍。而不是持续生活在家，而且工作在别人的家乡，年轻人超出他们家乡的舒适去家和国外更大的城市寻找更好的工作机会。 当我的父亲年轻的时候，他用一个程序去国外学习并且那是非常不普遍的事情。然而大多数，如果没有我所有的朋友和同学花费一些时间在国外学习。学习关于世界和探索未知使年轻人更独立。
+
+Granted, in today's economy there are a lot of situations in which children cannot find good enough jobs to afford to move away from home. This people continue to live at home and do not have as much opportunity to gain independence. After all, they still have to depend on their parents for food and a place to live. While this situation is very common in our generation, it dose not mean that if these young people had a chance, they would choose continue living dependent on their parents.
+> 的确，在今天的经济中有大量的情况，在这个情况中孩子们不能找到足够好的工作担负离开家。这些人继续住在家中，并且没有足够的机会获得独立。终究，他们还得不得不依靠他们的父母我了吃饭和有空间居住。然而这个情况在我们这一代非常普遍，它不意味着如果这些年轻人有一次机会，他们会选择继续依靠他们的父母。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+minded 介意 | generation 一代人 | internationally 国际性地，在国际上
+overseas 在国外，在海外 | Granted 的确 | After all 毕竟，终究
+
 #### 自己写
 
 #### 课后复写
