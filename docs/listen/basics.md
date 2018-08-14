@@ -157,3 +157,36 @@ Master of Business Administration Degree MBA学位 | a little longer 一段时�
 in the meantime 与此同时 | appreciate 感激
 curious 好奇的 | knowledgeable 知识渊博的
 understandable 可理解的 | 
+
+### 2018-08-14
+
+#### Attitude Basic Drill
+
+##### 5
+
+PHRASE |  PHRASE
+------------ | -------------
+impractical 不切实际的 | seriously 严重地，非常
+observatory 天文台 | watch out 小心，注意
+reasonable 合理的 | unpredictable 不可预测的
+orbit 轨道 | ridiculout 可笑的，荒谬的
+complicated 复杂的，难懂的 | shuttle 航天飞机
+course 方针，总方向 | laser 激光
+alarming 令人担忧的，令人恐慌的 | wilderness 荒野，不毛之地
+dinosaur 恐龙 | across 穿过
+wipe out 彻底毁灭 | diameter 直径
+predict 预测 | space 太空
+asteroid 小行星 | scary 可怕的，恐怖的
+human race 人类 | threatening 【行为】带有威胁的
+astronomy 天文学 | dispute 争论
+look out 注意某人某事，留心某人某事 | 
+
+##### 6
+
+PHRASE |  PHRASE
+------------ | -------------
+respect 尊敬 | enemy 敌人
+defeat 失败 | crucial 至关重要的
+involvement 参与 | coalition 联盟
+surpass 超过，胜过 | strategist 战略家
+reform 改革，改进 | start over 重新开始
