@@ -169,7 +169,7 @@ PHRASE |  PHRASE
 impractical 不切实际的 | seriously 严重地，非常
 observatory 天文台 | watch out 小心，注意
 reasonable 合理的 | unpredictable 不可预测的
-orbit 轨道 | ridiculout 可笑的，荒谬的
+orbit 轨道 | ridiculous 可笑的，荒谬的
 complicated 复杂的，难懂的 | shuttle 航天飞机
 course 方针，总方向 | laser 激光
 alarming 令人担忧的，令人恐慌的 | wilderness 荒野，不毛之地

@@ -81,6 +81,24 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 minded 介意 | generation 一代人 | internationally 国际性地，在国际上
 overseas 在国外，在海外 | Granted 的确 | After all 毕竟，终究
 
+#### 2018-08-15
+
+Every parent will of course support their child if need be, but ==blazing one's own trail `活出自我`== and being able to live independently is very important people in society. Self-reliance is ==something society applauds `社会推崇`==. This combined independence that technology and golobalization of society has created a generation of youth that are less dependent on their parents than previous generaions. 
+> 如果需要，每个家长当然会支持他们的孩子，但是活出自我和能够独立地生活对人在社会上是非常重要的。自力更生是一些社会赞赏。这个包含技术和社会全球化的独立已经使年轻的一代人比上一代人更少依赖他们的父母。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | ------------- | -------------
+blazing 燃烧的，强烈的 | trail 踪迹 n. | Self-reliance 自力更生 n.
+applauds 赞赏，称赞，赞许 | own 自己的
+
+!!! failure ""
+
+    Self-reliance is something society applauds. 这一句不知道该怎么翻，something在这里比较迷。
+    
+    有道：自力更生是社会所推崇的。
+
+----
+
 #### 自己写
 
 #### 课后复写
