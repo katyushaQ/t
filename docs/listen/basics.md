@@ -190,3 +190,26 @@ defeat 失败 | crucial 至关重要的
 involvement 参与 | coalition 联盟
 surpass 超过，胜过 | strategist 战略家
 reform 改革，改进 | start over 重新开始
+
+### 2018-08-16
+
+#### Practice
+
+##### 1
+
+PHRASE |  PHRASE
+------------ | -------------
+the American Revolution 美国大革命 | the independence movement 独立运动
+convince sb do sth 说服某人做某事 | Boston Massacre 波士顿大屠杀
+tension between A and B A和B之间的紧张局势 | build up 使构成
+incident 事件 | mob 暴民，暴徒
+townspeople 城镇居民 | unruly 难控制的
+before too long 不久 | troop 军队
+the crowd 大众，百姓 | penalty 惩罚
+end up 到头来 | rebel againt 反抗
+order 命令 | no one knows 没人知道
+well-established 得到确认的 | bring up 提出
+propaganda tool 宣传工具 | unpopular 不得人心的
+political agendas 政治目的 | bloodthirsty 嗜杀的
+brute 残忍的人 | tyrant 暴君
+despite all this 尽管如此 | 
