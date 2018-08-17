@@ -1,3 +1,112 @@
+### 2018-08-17
+
+#### 6.
+
+**The Whigs** ==were== ^^<font color='red'>strongest</font>^^ { in the towns, cities, and those rural areas `地点`} {++that were fully integrated into the market economy++}, <font color='Blue'>*whereas*</font> **Democrats** ==dominated== ^^areas of semisubsistence farming^^ {++that were more isolated and languishing economically++}.
+> 辉格党被整合到市场经济的城镇、城市和他们的乡村区域里是最强大的，然而民主党统治 更独立，在经济上更衰弱的半自给农业区域。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    极端词：<font color='red'>strongest</font> 最高级
+    
+    逻辑：{++whereas++} 转折
+       
+    细节：两党：辉格党，民主党；辉格党——市场经济，民主党——经济落后
+    
+    答案：比较 + 转折 + 两党正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect choices change the meaning in important ways or leave out essential information.
+    
+    A. **Whigs** ==were able to attract== ^^support^^ <font color='red'>only</font> { in the <font color='red'>wealthiest</font> parts of the economy `地点`} { because Democrats dominated { in other areas `地点`} `原因`}.
+    > 辉格党只在经济最富有的地区能吸引支持，因为民主党统治其他地区。
+
+    B. **Whig and Democratic areas of influence** ==were naturally split== ^^between urban and rural areas^^, respectively.
+    > 辉格党和民主党影响的地区被自然地分别分隔为城市和乡村区域。
+
+    C. **The semisubsistence farming areas** {++dominated by Democrats++} ==became increasingly isolated== { by the Whigs' control of the market economy `方式`}.
+    > 由民主党统治的半自给农业地区逐渐由辉格党控制的市场经济所孤立。
+
+    ==D==. **The Democrats' power** ==was== ^^greatest^^ { in <font color='red'>poorer</font> areas `地点`} *while* **the Whigs** ==were== ^^strongest^^ { in those areas `地点`} {++where the market was already fully operating++}.
+    > 民主党的权利在更贫穷的地区是最好的，然而辉格党在已经全部实行市场的其他地区是最强大的。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没有因果逻辑和吸引细节；B没提自然分隔；C没有因果逻辑和孤立细节；D原文交换前后顺序的转述
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+integrated (sth) into sth 使整合 | dominated 统治，支配 | languishing 衰弱
+semisubsistence 半自给 | economically 在经济上 | wealthiest 最有财富的
+respectively 分别，各自地 | farming 农业
+
+#### 5. <font color='red'>**错，对A答案有些迷惑**</font>
+
+For example, **people** {++who believe that aggression is necessary and justified-( as during wartime )-++} ==are== ^^likely to act aggressively^^, <font color='Blue'>*whereas*</font> **people** {++who believe that a particular war or act of aggression++} ==is== ^^unjust^^, or {++who think that aggression is never justified++}, ==are== ^^less likely to behave aggressively^^.    <font color='hotpink'>**转折**</font>
+> 例如，相信侵略是必须的并且在战争时期是公正的的人可能有挑衅地行为，然而相信特定的战争或者侵略行为的人是不公正的，或者认为侵略决不是公正的人可能更少有挑衅行为。
+
+
+!!! tip ""
+
+    ==题干分析==
+    
+    逻辑：{++whereas++} 转折
+    
+    细节：两种人支持两种观点，支持侵略公正，不支持侵略公正；前者有挑衅行为，后者挑衅行为少
+    
+    答案：转折+2个人与观点的信息对应
+    
+    ----
+    
+    <font color='red'>**做错总结**</font>
+
+    极端词：<font color='red'>less</font> 比较级
+    
+    细节：不支持侵略公正的人，行为挑衅 ==更少==
+    
+    所以答案：==比较== + 转折 + 2个人与观点的信息对应
+    
+    补充：转折逻辑在这里只是两种不同人描述之间的转折，而不是内容转折，所以这道题{++重比较，轻转折++}
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect answer choices change the meaning in important ways or leave out essential information.
+
+    {--A--}. **People** {++who believe that they are fighting a just war++} ==act== ^^aggressively^^ *while* **those** {++who believe that they are fighting an unjust war++}} ==do not==.
+    > 相信他们在打公正的战争人行为挑衅，然而相信他们在打不公平的战争的人不挑衅。
+
+    {++B++}. **People** {++who believe that aggression is necessary and justified++} ==are== ^^more likely to act aggressively^^ { than **those** {++who believe differently++} `比较`}.
+    > 相信侵略是必须的和公正的人比认为不同的人有更可能多行为挑衅。
+
+    C. **People** {++who normally do not believe that aggression is necessary and justified++} ==may act== ^^aggressively during wartime^^.
+    > 通常不相信侵略是必须的和公正的人可能在战时行为挑衅。
+    
+    D. **People** {++who believe that aggression is necessary and justified++} ==do not necessarily act== ^^aggressively during wartime^^.
+    > 相信侵略是必须的和公正的人在战时没有必须的行为挑衅
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        {--B没有比较逻辑--} ==B有比较逻辑==；C原文反说；D原文反说；{--A原文概述--} A是不是细节迷惑？        
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+aggression 侵略 | wartime 战时 | behave 行为，表现，举止
+aggressively 好斗地，挑衅地 | unjust 不公正的 | just 公正的
+
+
 ### 2018-08-15
 
 #### 4. <font color='red'>**错 草率 难度增加**</font>

@@ -1,3 +1,64 @@
+### 指导课句子再翻译一次
+
+### 2018-08-17
+
+#### Education
+
+1、**计算机化** ==让== ^^老师^^ ==能够用== {++更生动的++}^^方式^^ { 呈现信息 *和* 激发学生的兴趣 }
+> Computerization make it impossible for teachers to display information and ^^stimulate^^ students' intertests by using more vivid ways.
+
+2、{ 如果你上课发现很难跟上 }，==找== ^^一个家教^^ *或者* ==参加== ^^在线课程^^ ==都可以帮助== ^^你的学习^^
+> If you find harding to follow in the class, you could find a priviate tutor or join into online courses, both are able to help your study.
+
+3、{ 不管经济衰退如何影响我们的经济 }，**政府最高的第一要务** ==就是应当提高== ^^全国的文化水平^^
+> Although economic ^^recession^^ how affect our economy, it is the government's the highest primary mission that should be enhancing national ^^literacy^^ level. 
+
+4、**我们学校** 最近 ==实行了== ^^让体育称为{++要拿奖学金学生的++}必修课^^
+> Our universy recently implement a policy which allow sports to major of students who want to abtain scholarship.
+
+5、**{++无法负担得起实体大学费用的++}人** ==可以报名参加== ^^远程教学的项目^^ { 来赢得文凭（资历）}
+> People who can not afford to universy fee might enroll a program of remote tuition for gaining ^^academic qualification^^.
+
+6、{ 由于在学习专业上意见不一致 }，**他** ==想不受== ^^父母的干预^^ ==去上大学==，{ 所以他申请了助学贷款而不是问父母要钱 }
+> Because of difference of study profession, he want to attend school without his parents' ^^involement^^, so he apply to student loans instead of asking parents' money.
+
+
+#### Technology
+
+1、 **{++保持安全软件的++}更新** ==能保护== ^^你不受病毒（的侵害）^^
+> Keeping securty software up-to-date make it possible to project you ^^avoid aggression^^ of viruses.
+
+2、**{++偷看孩子邮件的++}父母** *不但* ==是在侵犯== ^^孩子的隐私^^，*还有* ^^他们的信任^^
+> The parents who steal children's mail not only ^^violate^^ children's ^^privacy^^ but also their trust.
+
+3、{ *虽然* { 通过 {++基因工程改良过的++} 蔬菜 } 可以 *比* {++普通蔬菜更大规模的++}种植 }，*但* **他们** 通常 ==吃起来== ^^更糟^^。
+> The vegetable improved by ^^genetic engineering^^ would plant ^^on a lager scale^^ than common it, but it usually eat worse.
+
+4、{ *虽然* 电脑能让员工变的更加有效 }，*但是* **他们** ==也给== ^^办公室^^ ==带来== ^^{++更多各种各样的++}干扰^^
+> Although computers are able to become more affecitve for staff, it also make more various disturbance to office.
+
+5、{ *虽然* 社交网络给以方便 }，*但* **我们** ==还是希望尝试保留== ^^原有的{++与他人互动的++}方式^^
+> Although the convenience of social network, we will also try to retain original ways of interacting with each other.
+
+6、**我** ==很高兴== {++因特网让我能轻易地联络到全球各地的朋友++}，*但* 经常 ==要== { 和所有人保持联系 } ==也是== ^^很累的^^
+> I am very glad that internet allow me to contact friends all over the world easily, but I also tired as ^^keeping in touch with all of them^^.
+
+7、**通讯科技** ( 比如智能手机 ) ==使得== ^^我们的社交生活 { 在很多方式上 }^^ ==都== ^^更加丰富^^，*但是* **过量接触这些科技** ==也会对== ^^我们的社交生活^^ ==产生危害==
+> Communication technologies such as smart phone make it possible for our social lives more abundance, but ^^overexposed to^^ these technologies will be harmful to our social lives.
+
+
+
+
+
+
+
+
+
+
+----
+
+### 以前练习
+
 #### Education
 
 1.计算机化让老师能够用更生动的方法呈现信息和激发学生的兴趣。
