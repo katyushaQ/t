@@ -30,7 +30,7 @@
 
 2、**{++偷看孩子邮件的++}父母** *不但* ==是在侵犯== ^^孩子的隐私^^，*还有* ^^他们的信任^^
 > The parents who steal children's mail not only ^^violate^^ children's ^^privacy^^ but also their trust.
-
+
 3、{ *虽然* { 通过 {++基因工程改良过的++} 蔬菜 } 可以 *比* {++普通蔬菜更大规模的++}种植 }，*但* **他们** 通常 ==吃起来== ^^更糟^^。
 > The vegetable improved by ^^genetic engineering^^ would plant ^^on a lager scale^^ than common it, but it usually eat worse.
 
