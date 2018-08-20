@@ -163,3 +163,27 @@
     field study 实践练习 |  notice 注意到 | in front of 在……前面
     a couple of 一些 | walnut 核桃树 | 
     
+### 2018-08-20
+
+!!! info "**Rainbow**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    department 部分 | dig 挖掘 | weirdest 最奇怪的
+    band 条纹，色带 | half circle 半圆 | a full circle 一整圈
+    hue 色彩 | hang 悬挂 | disc 圆盘，圆盘状物
+    halo 光环，光晕 | curved 弯曲的，曲线的 | multicolored 多彩的
+    come off （从某物上）脱落，掉落，分开 | come with 和……一起 | fantistic 极好的，有趣的
+    sight 情景 | cook 厨师 n. | 
+
+!!! info "**Household Pests**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    word 消息，信息 | cockroach 蟑螂 | termite 白蚁
+    fahrenheit 华氏 |  covering 盖住  | tent 帐篷
+    wooden beam 木梁 | treatment 方法 | residue 残余物
+    endanger 使危险 | funny 古怪的 | smell 气味
+    drying 烘干 | oven 加热器 | substaintially 实质上
+    force in 强制进入 | pet 宠物 | few 很少，几乎没有
+    since 因为 | 

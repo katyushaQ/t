@@ -193,9 +193,7 @@ reform 改革，改进 | start over 重新开始
 
 ### 2018-08-16
 
-#### Practice
-
-##### 1
+#### Practice 1
 
 PHRASE |  PHRASE
 ------------ | -------------
@@ -213,3 +211,23 @@ propaganda tool 宣传工具 | unpopular 不得人心的
 political agendas 政治目的 | bloodthirsty 嗜杀的
 brute 残忍的人 | tyrant 暴君
 despite all this 尽管如此 | 
+
+### 2018-08-20
+
+#### Practice 2
+
+PHRASE |  PHRASE
+------------ | -------------
+handle 处理 | faculty 全体教师
+copies 副本 | print out 打印出来的资料
+check 支票 | inconvenient 不方便的
+at a time 一度，一段时间 | in that case 既然那样，在那种情况下
+ set up 建立 | be used for 用于
+ at almost 几乎 |  photocopier 复印机
+ not to mention sth 更不用说某事了 | anything else 其他任何
+ freshman 一年级学生 | dining hall 食堂
+ live off 住在……之外 | regardless of 不管
+ hesitantly 迟疑地 | agitated 激动的，焦虑的
+ sympathetic 同情的 | friendly 友善的
+ early on 在初期，开始不久 | get along well/find 相处很好
+ elicit 引起，套出信息
