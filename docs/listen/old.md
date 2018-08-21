@@ -121,7 +121,7 @@
     covering 盖住 | tent 帐篷 | force in 强制进入
     wooden beam 木梁 | treatment 方法 | residue 残余物
     endanger 使危险 | funny 古怪的 | smell 气味
-    drying 烘干 | oven 加热器 | substaintially 实质上
+    drying 烘干 | oven 加热器 | substantially 实质上
    
 ### 2018-08-06
 
@@ -184,6 +184,6 @@
     fahrenheit 华氏 |  covering 盖住  | tent 帐篷
     wooden beam 木梁 | treatment 方法 | residue 残余物
     endanger 使危险 | funny 古怪的 | smell 气味
-    drying 烘干 | oven 加热器 | substaintially 实质上
+    drying 烘干 | oven 加热器 | substantially 实质上
     force in 强制进入 | pet 宠物 | few 很少，几乎没有
     since 因为 | 

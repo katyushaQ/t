@@ -1,3 +1,117 @@
+### 2018-08-21
+
+#### 8. <font color='red'>**错**</font>
+
+{ If the pores are large `条件`}, **the water**  { in them `地点`} ==will exist== ^^as drops^^ {++too heavy for surface tension to hold++}, and **it** ==will drain away==; <font color='Blue'>*but*</font> { if the pores are small enough `条件`}, **the water** { in them `地点`} ==will exist== ^^as thin films^^, {++too light to overcome the force of surface tension holding them in place++}; <font color='Blue'>*then*</font> **the water** ==will be firmly held==.     <font color='hotpink'>**转折**</font>
+> 如果孔很大，它里面的水会存在像因为对表面来说太重以至于不能保持住的水滴，并且它会流走；但是如果孔足够小，它里面的水会存在像因为太轻可以克服表面拉力可以保持在里面的薄层；然后水会被牢固的保持住。
+
+!!! tip ""
+
+    ==题干分析==
+
+    极端词：
+    
+    逻辑：{++but++} 转折
+       
+    细节：{++if++} 2个条件：孔大，水流失；孔小，水保持；~~次要信息：水的轻重与客服表面拉力的能力~~
+    
+    答案：2条件 + 转折 + 与2条件正确对应的结果现象
+    
+    ----
+    
+    <font color='red'>**做错总结**</font>
+    
+    疯了，上次就做错了，并且错的理由和上次一模一样！！！上课还问过老师……
+    
+    {++whether++}  ==不是条件== 是否 表示不确定哪种；条件：如果……那么……
+    
+    细节：{++if++} 2个条件：孔大，水流失；孔小，水保持；{--次要信息：：水的轻重与克服表面拉力的能力--} ==as后面不是次要信息！！！==
+    
+    **老师！as后这个我课本上没有记，应该是什么：（？！**
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    {++A++}. **Surface tension** ==is not== ^^strong enough^^ ==to retain== ^^drops of water in rocks with large pores^^ *but* ==is== ^^strong enough^^ ==to hold on== ^^to thin films of water in rocks with small pores^^.
+    > 表面拉力不够强有力的保留大孔岩石中的水滴，但是足够强有力的保持住小孔岩石中的水薄层。
+
+    B. **Water** in rocks ==is held== ^^in place^^ { by large pores `方式`} and ==drains== ^^away from small size pores through surface tension `方式`}.
+    > 岩石的中的水通过大孔保留在那里，并且通过表面拉力从小孔中流失。
+
+    {--C--}. **Small pores and large pores both** ==interact with== ^^surface tension to determine^^ { whether a rock will hold water as heavy drops or as a thin film `条件`}.
+    > 小孔和大孔二者与表面拉力相互作用以确定岩石是否能像重水滴或者薄层一样保持住。
+
+    D. { If the force of surface tension is too weak to hold water in place as heavy drops `条件`}, **the water** ==will continue to be held== firmly ^^in place as a thin film^^ {++when large pores exist++}.
+    > 如果表面拉力太弱以至于不能像重水滴一样在那里保持住水，水会被继续牢固地像薄层一样保持在那里，当大孔存在的时候。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        {--A次要信息做主--} A原文转述；B说反；{--C原文转述--}总结性迷惑；D次要信息做主
+
+        关于选项：C迷惑的地方是在总结，而不是转述，这是个坑    
+        
+        其实原文是阐述，并没有表达是否这种模棱两可需要判定的意思
+        
+        <font color='red'>主要原因：对as和whether的理解不到位</font>
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+films 薄层，薄膜 | firmly 坚实地，牢固地 | drains 【液体】流走，流光
+drop 【液体的】滴 | hold 保持 | interact with 相互作用
+determine 确定，测定
+
+#### 7.
+
+**Hills and mountains** ==are== <font color='Blue'>*often*</font> ==regarded as== ^^the epitome of permanence^^, { successfully resisting the destructive forces of nature `结果`}, <font color='Blue'>*but*</font> <font color='Blue'>in fact</font> **they** ==tend to be relatively short-lived== ^^in geological terms^^.     <font color='hotpink'>**转折**</font>
+> 小山和高山常常被认为是永久的典范，成功地抵抗着自然摧毁的力量，但是实际上在地质学术语中，他们倾向于相对短暂的。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++but++} 转折
+       
+    细节：{++often++} 和 {++in fact++} 转折前后对比；often 永久，非专业认知；in fact 短暂的，地质学术语
+    
+    答案：对比 + 转折 + 两种认知
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?Incorrect choices change the meaning in important ways or leave out essential information.
+
+    A. { When they are relatively young `时间`}, **hills and mountains** successfully ==resist== ^^the destructive forces of nature^^.
+    > 在他们相对年轻的时候，小山和高山成功地抵抗自然摧毁的力量。
+    
+    ==B==. { Although they seem permanent `让步`}, **hills and mountains** ==exist== ^^for a relatively short period of geological time^^.
+    > 尽管他们看起来是永久的，但是小山和高山存在于一个相对短暂的地质学时间周期。
+
+    C. **Hills and mountains** successfully ==resist== ^^the destructive forces of nature^^, *but* ^^<font color='red'>only</font> for a short time^^.
+    > 小山和高山成功地抵抗自然摧毁的力量，但是只能在一个短暂的时间。
+
+    D. **Hills and mountains** ==resist== ^^the destructive forces of nature better^^ { than other types of landforms `比较`}.
+    > 小山和高山比其他类型的地形更好的抵抗自然摧毁的力量。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没提什么时间的山；C没有极端词相对应；D没提和其他类型的比较；B原文转述
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+Hills 小山 n. | regarded as 认为，看作 | the epitome of sth 某事物的典型（典范），缩影
+mountains 高山 | tend to to sth 易于做某事，倾向 | landforms 地形，地貌
+ 
+
 ### 2018-08-17
 
 #### 6.

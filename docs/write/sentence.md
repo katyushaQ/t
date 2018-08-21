@@ -1,5 +1,46 @@
 ### 指导课句子再翻译一次
 
+### 2018-08-21
+
+#### Family
+
+1、**{++过于保护的++}父母教育** ==会妨碍== ^^孩子^^ ==会剥夺== ^^孩子{++很多宝贵的++}人生经历^^（hamper。。。by doing）
+> ^^Over^^ protective parents' education will hamper chilren and will strip children's precious life experience.
+
+2、**我** { 有时 } 也 ^^和别人一样^^ ==害怕失败==，*但* **我** ==把== ^^失败^^ ==看作是== ^^必要的和积极的^^
+> I am also afraid to fail as same as other people sometimes, but I regarad failure as necessary and positive.
+
+3、**有些孩子很乖** ==不是== ^^因为他们和父母有感情^^，==而是== ^^因为他们害怕父母^^
+> The reason of some children are very ^^obedient^^ is not because of the parent-child bond but because they fear their parents.
+
+4、**{++被父母宠坏的++}孩子** ==或许会感到== ^^无助^^ { 当他们遇到生活中真正的挑战的时候 }
+> Children ^^doted on^^ their parents might be feeling ^^helpness^^ when they encounter the real challenge of life.
+
+5、**{++我还是孩子时接受的++}父母管教** { 在塑造我世界观上 } ==有== ^^极大的影响^^
+> ^^Accepting the parents guidance^^ when I was a kid is extremely influence in building my world view.
+
+6、{ 在中国 }，**{++不想让孩子变得总是受庇护的++}父母** ==会== 有时 ==把== ^^孩子^^ ==送去== ^^寄宿制学校^^ {++在那儿他们能体会到生活的困难++}
+> In China, parents who don't allow children to often be protected will send their children to ^^boarding schools^^ where they may experience life's difficulties.
+
+7、{ 诚然 }，**父母** 或许并 ==不是== 总是 ^^最好的老师^^，**但** **父母的天性** ==是== {++保护我们++} { 即使在有些情况下我们自己照顾自己的时候会学到更多 }
+> Granted, parents might also not be the best teacher, but parents' ^^nature instinct^^ is that protects our, even we learn more sometimes when we fend for ourselves.
+
+#### work
+
+1、因为我是我家养家糊口的人，赚高的薪水对我来说很重要
+
+2、对你的工作充满热情比只是单纯追求金钱要好，因为激情会自然地给你一种竞争优势。
+
+3、人们工作的原因各不相同。有些人追求名声，而其他人只是想体会一种成就感。
+
+4、我的朋友并不向往企业里往上爬，但是他在工作上显示的奉献让他能够每年都收到晋升
+
+5、最伟大的男性或女性都是那些努力做好事而不求获得对他们行为赞誉的人
+
+PHRASE |  PHRASE
+------------ | -------------
+妨碍 hamper 
+
 ### 2018-08-17
 
 #### Education

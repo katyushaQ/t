@@ -230,4 +230,4 @@ at a time 一度，一段时间 | in that case 既然那样，在那种情况下
  hesitantly 迟疑地 | agitated 激动的，焦虑的
  sympathetic 同情的 | friendly 友善的
  early on 在初期，开始不久 | get along well/find 相处很好
- elicit 引起，套出信息
+ elicit 引起某人的反应，套出信息
