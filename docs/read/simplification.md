@@ -109,7 +109,7 @@ determine 确定，测定
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 Hills 小山 n. | regarded as 认为，看作 | the epitome of sth 某事物的典型（典范），缩影
-mountains 高山 | tend to to sth 易于做某事，倾向 | landforms 地形，地貌
+mountains 高山 | tend to do sth 易于做某事，倾向 | landforms 地形，地貌
  
 
 ### 2018-08-17

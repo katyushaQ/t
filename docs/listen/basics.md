@@ -231,3 +231,29 @@ at a time 一度，一段时间 | in that case 既然那样，在那种情况下
  sympathetic 同情的 | friendly 友善的
  early on 在初期，开始不久 | get along well/find 相处很好
  elicit 引起某人的反应，套出信息
+ 
+ 
+### 2018-08-22
+
+#### Organization
+
+PHRASE |  PHRASE
+------------ | -------------
+favorite 最喜爱的 | novelist 小说家
+tragic 悲惨的，悲剧的 | deformed 畸形的，丑陋的
+the Renaissance 文艺复兴 | excellent 极好的，卓越的，杰出的
+examination 检查，检验 | hypocrisy 虚伪 n.
+musical 音乐剧，音乐片 | eptic 史诗 
+right 权利 n. | criticism 批评，批判，评论
+brief 简短的 | biography 传记
+pattern 方式，形式 | aware of 意识到的，明白的
+associate with 联系 | phrase 短语
+pattern of organization 组织形式 | chronology 时序
+cause / effect 原因/结果 | prior 以前的，较早的
+subsequent 随后的 | have an effect on 对…有影响；对……起作用，产生效果
+consequnently 结果，因此，所以 | for this reason 为此；由于这个原因
+likewise 同样地，相似的，也 | same as 相同的
+compared to 与……相比 | in contrast 形成对比
+as opposed to sth 与某事物相反 | piece of 片，块，段
+save 拯救 | word 著作
+play 剧本，戏剧
