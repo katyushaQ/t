@@ -1,5 +1,29 @@
 ### 指导课句子再翻译一次
 
+### 2018-08-23
+
+#### work
+
+1、{ 因为我是我家养家糊口的人 }，**赚高的薪水** ==对== ^^我^^ ==来说== ^^很重要^^
+> Because I am a breadwiner, it is an important part of earning higher salary to me.
+
+2、**对你的工作充满热情 *比* 只是单纯追求金钱** ==要== ^^好^^，{ 因为激情会自然地给你一种竞争优势 }
+> To be passionate about your work is better than only pursue money, because the passion will give you a competive edge naturally.
+
+3、**人们工作的原因** ^^各不相同^^。**有些人** ==追求== ^^名声^^，*而* **其他人** ==只是想体会== ^^一种成就感^^
+>  The reason of people works is difference. Some one pursues fames, nevertheless other peoples just want to gain a sense of achievement.
+
+4、**我的朋友** ==并不向往== ^^企业里往上爬^^，**但是** **{++他在工作上显示的++}奉献** ==让== ^^他能够每年都收到晋升^^
+> My friend do not ^^yearn for^^ ^^climbing the corporate ladder^^, but the ^^dedication^^ displayed by his works lead hime to ^^receive promotion^^ every year.
+
+5、**最伟大的男性或女性** ==都是== {++那些努力做好事而不求获得对他们行为赞誉的人++}
+> The greate male or femail both are those who strive to do good things rahter than praise their behavior.
+
+PHRASE |  PHRASE
+------------ | -------------
+养家糊口的人 be a breadwinner | 企业往上爬 climb the corporate ladder
+得到晋升和认可receive promotion and recognition | 成就感 a sence of achievement
+
 ### 2018-08-21
 
 #### Family
@@ -25,21 +49,9 @@
 7、{ 诚然 }，**父母** 或许并 ==不是== 总是 ^^最好的老师^^，**但** **父母的天性** ==是== {++保护我们++} { 即使在有些情况下我们自己照顾自己的时候会学到更多 }
 > Granted, parents might also not be the best teacher, but parents' ^^nature instinct^^ is that protects our, even we learn more sometimes when we fend for ourselves.
 
-#### work
-
-1、因为我是我家养家糊口的人，赚高的薪水对我来说很重要
-
-2、对你的工作充满热情比只是单纯追求金钱要好，因为激情会自然地给你一种竞争优势。
-
-3、人们工作的原因各不相同。有些人追求名声，而其他人只是想体会一种成就感。
-
-4、我的朋友并不向往企业里往上爬，但是他在工作上显示的奉献让他能够每年都收到晋升
-
-5、最伟大的男性或女性都是那些努力做好事而不求获得对他们行为赞誉的人
-
 PHRASE |  PHRASE
 ------------ | -------------
-妨碍 hamper 
+妨碍 hamper | 
 
 ### 2018-08-17
 

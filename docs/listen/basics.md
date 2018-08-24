@@ -255,5 +255,5 @@ consequnently 结果，因此，所以 | for this reason 为此；由于这个�
 likewise 同样地，相似的，也 | same as 相同的
 compared to 与……相比 | in contrast 形成对比
 as opposed to sth 与某事物相反 | piece of 片，块，段
-save 拯救 | word 著作
+save 拯救 | work 著作
 play 剧本，戏剧

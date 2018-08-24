@@ -1,3 +1,110 @@
+### 2018-08-23
+
+#### 10.
+
+{ In order for the structure to achieve the size and strength necessary to meet its purpose `目的`}, **architecture** ==employs== ^^methods of support that^^, { <font color='Blue'>because</font> they are based on physical laws `原因`}, ==have changed== ^^little^^ { <font color='Blue'>*since*</font> people first discovered them `时间`}-( <font color='Blue'>*even while*</font> building materials have changed dramatically ). 
+> 为了满足完成必须的尺寸和承受力的结构的目的，建筑采用支持的方法，原因是他们基于物理法则，自从人们第一次发现他们的时候，建筑就没有改变过——甚至在建筑材料大幅地改变下。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++because++} 因果
+       
+    细节：物理法则方法，达到建筑尺寸和力量的结构目的；支持这个方法的细节：建筑材料的改变也没有对建筑产生影响
+    
+    答案：因果 + 信息阐述对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+    
+    A. **Unchanging physical laws** ==have limited== ^^the size and strength of buildings^^ {++that can be made with materials discovered long ago++}.
+    > 不变的物理法则限制了使用很早以前发现的材料建造的建筑的尺寸和承受力。
+    
+    B. **Building materials** ==have changed== { in order to increase architectural size and strength `目的`}, *but* **physical laws of structure** ==have not changed==.
+    > 建筑材料发生改变为了增强建筑尺寸和承受力，但是结构的物理法则没有变。
+    
+    C. { When people first started to build `时间`}, **the structural methods** {++used to provide strength and size++} ==were inadequate== { because they were not based on physical laws `原因`}.
+    > 在人们第一次开始建造的时候，用于支持承受力和尺寸的结构方法是不足的，因为他们没有基于物理法则。
+    
+    ==D==. { Unlike building materials `比较`}, **the methods of support** ==used== ^^in architecture^^ {++have not changed over time++} { because they are based on physical laws `原因`}.
+    > 不同于建筑物材料，在建筑中使用的支持的方法渐渐地没有发生改变，因为他们基于物理法则。
+    
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没提限制；B前半句没提，没有转折逻辑；C没有提方法不足和原因；D原文转述
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+employs 使用，运用 v. | dramatically 大幅度 | Unchanging 不变的，恒定的
+inadequate 不足的，不够的 | meet 满足 | architecture 建筑
+over time 渐渐地，慢慢地 | 
+
+#### 9.
+
+For example, **some early societies** ==ceased to consider== ^^certain rites essential to their well-being^^ and ==abandoned== ^^them^^, <font color='Blue'>*nevertheless*,</font> **they** ==retained== { as parts of their oral tradition `结果`} ^^the myths^^ {++that had grown up around the rites and admired them for their artistic qualities rather than for their religious usefulness++}. 
+> 例如，一些早期的科学家终止认为他们幸福的确定仪式必需品，并且抛弃他们，然而他们保留作为他们口头传统的一部分，围绕仪式成长并赞美他们对他们艺术的特性，而不是对他们宗教的实用性的神话。
+
+!!! failure ""
+
+    as parts of their oral tradition 没看懂句子成分，好奇怪，后面直接接名词 the myths 
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++nevertheless++} 句间转折   {++rather than++} 句中转折
+           
+    细节：抛弃，保留；抛弃仪式必需品，保留对艺术有用的部分，而不是对宗教有用的部分
+    
+    答案：大小转折 + 抛弃与保留的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+    
+    A. **A society's rites** ==were more likely to be retained== ^^in the oral tradition^^ { if its myths were admired for artistic qualities `条件`}.
+    > 一个社会的仪式更可能被保留在口头传统中，如果它的神话被赞美于艺术特性。
+    
+    B. **The artistic quality of a myth** ==was== sometimes ^^an essential reason for a society^^ {++to abandon it from the oral tradition++}.
+    > 一个神话的艺术特性有时对于一个从口头传统赞美社会的社会是必须可少的原因。
+    
+    !!! failure ""
+        
+        to abandon it 这个it指代的是society么？
+    
+    C. **Some early societies** ==stopped using== ^^myths^^ { in their religious practices ``} { when rites ceased to be seen as useful for social well-being `时间`}.
+    > 一些早期的科学家停止在他们的宗教实践中使用神话，在仪式被终止作为有用于社会幸福的时候。
+    
+    ==D==. **Myths** sometimes ==survived== ^^in a society's tradition^^ { because of their artistic qualities `原因`} { even after they were no longer deemed religiously beneficial `时间`}.
+    > 神话有时存在于社会的传统中，原因是他们的艺术特性，甚至在他们不再被虔诚地视为有用的。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没有比较逻辑，没有条件逻辑；B没有因果逻辑；C没提停止使用神话；D原文转述
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+certain 肯定的，确实的 | essential 必需品，必不可少的东西 n. 极其重要的，必不可少的 adj. | abandon 抛弃，放弃，中止
+nevertheless 【正式】然而 | rites 仪式 n. | admire sb for (doing) sth 钦佩，赞美，羡慕
+rather than 而不是 | deem 认为，视为 | cease to do sth 【正式】停止，终止 做某事
+consider 考虑，认为 | myth 虚构 n. | usefulness 实用性
+quality 特征，特点，特性 | religiously 虔诚地 | beneficial 有用的
+
 ### 2018-08-21
 
 #### 8. <font color='red'>**错**</font>
