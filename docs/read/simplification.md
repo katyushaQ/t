@@ -99,10 +99,10 @@ For example, **some early societies** ==ceased to consider== ^^certain rites ess
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-certain 肯定的，确实的 | essential 必需品，必不可少的东西 n. 极其重要的，必不可少的 adj. | abandon 抛弃，放弃，中止
+certain 肯定的，确实的 | essential 必需品 n. 必要的 adj. | abandon 抛弃，放弃，中止
 nevertheless 【正式】然而 | rites 仪式 n. | admire sb for (doing) sth 钦佩，赞美，羡慕
 rather than 而不是 | deem 认为，视为 | cease to do sth 【正式】停止，终止 做某事
-consider 考虑，认为 | myth 虚构 n. | usefulness 实用性
+consider 考虑，认为 | myth 神话，虚构 n. | usefulness 实用性
 quality 特征，特点，特性 | religiously 虔诚地 | beneficial 有用的
 
 ### 2018-08-21

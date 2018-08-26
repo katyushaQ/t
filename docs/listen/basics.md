@@ -232,7 +232,6 @@ at a time 一度，一段时间 | in that case 既然那样，在那种情况下
  early on 在初期，开始不久 | get along well/find 相处很好
  elicit 引起某人的反应，套出信息
  
- 
 ### 2018-08-22
 
 #### Organization
@@ -243,7 +242,7 @@ favorite 最喜爱的 | novelist 小说家
 tragic 悲惨的，悲剧的 | deformed 畸形的，丑陋的
 the Renaissance 文艺复兴 | excellent 极好的，卓越的，杰出的
 examination 检查，检验 | hypocrisy 虚伪 n.
-musical 音乐剧，音乐片 | eptic 史诗 
+musical 音乐剧，音乐片 | epic 史诗 
 right 权利 n. | criticism 批评，批判，评论
 brief 简短的 | biography 传记
 pattern 方式，形式 | aware of 意识到的，明白的
@@ -256,4 +255,29 @@ likewise 同样地，相似的，也 | same as 相同的
 compared to 与……相比 | in contrast 形成对比
 as opposed to sth 与某事物相反 | piece of 片，块，段
 save 拯救 | work 著作
-play 剧本，戏剧
+play 剧本，戏剧 | hunchback 驼背
+
+### 2018-08-24
+
+#### Organization Basic Drill 1
+
+PHRASE |  PHRASE
+------------ | -------------
+narrow (sth) down 缩小范围 | variety plan 不同计划
+resident 居民 n. | special 特价 n.
+meal 一顿饭 | guarantee 保证 v.
+trade-off 权衡 | cover 包括，包含
+custom 【正式】【经常性的】惠顾，光顾，（其实就是类似老三样套餐） | advantage 优势
+pricing system 定价系统 | customize 定做，定制
+archeology 考古学 | Angkor Wat 吴哥窟
+impressive 令人印象深刻的 | ancient 古老的
+temple 寺庙 | Cambodia 柬埔寨
+Khmer 高棉人；高棉语 | honor 光荣，荣幸
+Hindu 印度教徒 | Vishnu n. 毗瑟挐（守护神，印度教主神之一）
+burial site 坟墓 | remarkable history find 显著的历史发现
+exquiste 精致的 | numerous 许多
+represent 象征，表现 | creature 创造物
+mythology 神话（学） | portray 描绘
+female goddess 女神 | Hinduism 印度教
+episode 片段，情节 | epic poem 史诗
+Ramayana n. 罗摩衍那（印度古代梵语叙事诗）；罗摩传（印度古代梵语两大史诗之一）
