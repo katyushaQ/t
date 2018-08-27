@@ -1,3 +1,102 @@
+### 2018-08-27
+
+#### 12.
+
+Indeed, **stability of the biological clock's period** ==is== ^^one of its major features^^, { even when the organism's environment is subjected to <font color='Blue'>considerable</font> changes in factors `时间`}, ( such as temperature ), {++that would be <font color='Blue'>*expected*</font> to affect biological activity strongly++}. 
+> 的确，生物钟周期的稳定性是生物的一个主要特性，即使在有机物的环境在一些因素中经历了相当大的改变的时候，如温度，这些因素不包括强烈地影响生物活动。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：<font color='red'>considerable</font> 表程度
+    
+    逻辑：{++even when++} 含让步
+       
+    细节：稳定性，条件：环境改变下也没有变化，补充：环境改变的因素中，不包括强烈影响生物活动的因素
+    
+    答案：程度 + 让步 + 条件，补充的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    A. **Stability**, （ a feature of the biological clock's period ）, ==depends on== ^^changeable factors^^ ( such as temperature ).
+    > 稳定性，一个生物钟周期的特性，依靠多变的因素，如温度。
+
+    ==B==. **A major feature of the biological clock** ==is== {++that its period does not change despite significant changes in the environment++}.
+    > 一个主要的生物钟的特性是生物钟周期不改变尽管环境中很严重的改变。
+
+    C. **A factor** ( such as temperature ) ==is== ^^an important feature in the establishment of the biological clock's period^^.
+    > 一个因素，如温度，是生物钟周期的建立中一个重要的特性。
+
+    D. **Biological activity** ==is not== strongly ==affected== { by changes `方式`} { in temperature `地点`}.
+    > 生物活动没有被温度中的改变强烈地影响。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A说反；B含让步，原文转述；C没提；D说反
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+subject 【正式】使顺从，征服；| subject sb/sth to sth 【尤指长期】使遭受，使经历 | 相当大的，可观的
+except 不包括，不计算，把……排除在外 v. | establishment 建立 | changeable 多变的，易变的
+
+
+#### 11.
+
+**Sociologists** ==view== ^^primary groups^^ ==as== ^^bridges^^ {++between individuals and the larger society++} { because they transmit, mediate, and interpret a society's cultural patterns `原因`} *and* ==provide== ^^the sense of oneness so critical for social solidarity^^.
+> 社会学家把主要群体视为在个体的和更大的社团之间的桥梁，因为他们传递，调解，解释社会的文化形式，并对社会稳定性提供很关键的统一感。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++because++} 因果
+       
+    细节：2结果：桥梁，社会稳定性；形成桥梁的原因：他们的3个社会职责
+    
+    答案：N/A + 因果 + 原因结果的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    A. **Sociologists** ==think== {++that cultural patterns establish connections++} {++between the individual and the larger society++}.
+    > 社会学家认为文化形式建立个人与更大社团的联系。
+
+    B. **Sociologists** ==believe== {++that individuals with a sense of oneness bridge the gap++} {++between society and primary groups++}.
+    > 社会学家认为有统一感的个体弥合社会和主要群体的差距。
+
+    ==C==. **Sociologists** ==think== {++primary groups contribute to social solidarity++} { because they help maintain a society's cultural patterns `原因`}.
+    > 社会学家认为主要群体促成社会稳定性，因为他们帮助维持一个社会的文化形式。
+
+    D. **Sociologists** ==believe== ^^that the cultural patterns^^ {++that provide social solidarity++} ^^arise as bridges from primary groups^^.
+    > 社会学家认为提供社会稳定性的文化形式产生来自主要群体的桥梁。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A次要当主要；B次要当主要；C因果，原文转述；D主次混乱
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+transmit 传输，传递 | mediate 调解，调停 | interpret 解释，理解
+oneness 一体，统一，统一性 n. | view sth as sth 【以某种方式】看，把……视为
+bridge 弥合【差距】，消除【分歧】| believe 认为，相信 | arise 出现，产生，发生，引起
+critical 关键的，批评的 | 
+
 ### 2018-08-23
 
 #### 10.
