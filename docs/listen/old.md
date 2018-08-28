@@ -187,3 +187,19 @@
     drying 烘干 | oven 加热器 | substantially 实质上
     force in 强制进入 | pet 宠物 | few 很少，几乎没有
     since 因为 | 
+    
+### 2018-08-28
+
+!!! info "**Train In The US**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    exemplify 例证 | rise and fall 兴衰，起起落落 | passenger 乘客
+    exposition 展览会 | regular 定期的 | inaugural 最初的
+    different from 与……不相同 | steam engine 蒸汽机 | sleeper 卧铺
+    a dining car 餐车 | an observation car 观光车 | a baggage car 行李车
+    wait on sb/sth 【尤指在餐厅】侍候【客人】，招待 | secretary 秘书 | long before 不久
+    reservation 预订 |  shorten 使变短 | diesel engine 柴油机 
+    unfortunately 很遗憾 | be named 所得名 | on board 在车上
+    as time 随着时间的推移 | as time passes 久而久之 | have ever seen before 曾经见过的
+    is wasn't long before 没过多久 | 

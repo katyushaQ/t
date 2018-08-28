@@ -281,3 +281,17 @@ mythology 神话（学） | portray 描绘
 female goddess 女神 | Hinduism 印度教
 episode 片段，情节 | epic poem 史诗
 Ramayana n. 罗摩衍那（印度古代梵语叙事诗）；罗摩传（印度古代梵语两大史诗之一）
+
+### 2018-08-28
+
+#### Organization Basic Drill 3
+
+PHRASE |  PHRASE
+------------ | -------------
+claw 爪 | model 模型
+perform 执行 | otherwise 其他方面 adv.
+impossible 不可能的 | attach 固定 v.
+while 一段时间 | nonetheless 然而，尽管日此
+breakthrough 突破 n. | robotics 机器人技术，机器人学
+refined 精制的 | pathway 通路，路，径
+assemble 装配，组装；assembling 聚集的 | weld 焊接；welded 团结的

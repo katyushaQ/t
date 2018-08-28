@@ -44,7 +44,7 @@ Indeed, **stability of the biological clock's period** ==is== ^^one of its major
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-subject 【正式】使顺从，征服；| subject sb/sth to sth 【尤指长期】使遭受，使经历 | 相当大的，可观的
+subject 【正式】使顺从，征服；| subject sb/sth to sth 【尤指长期】使遭受，使经历 | considerable 相当大的，可观的
 except 不包括，不计算，把……排除在外 v. | establishment 建立 | changeable 多变的，易变的
 
 
