@@ -81,6 +81,7 @@ assistance 帮助，援助 | dedication 奉献，全身心投入| compensation �
     
     **老师解答：这个behind 相当于 支撑 作为，就是很多人还是把钱作为工作准则**
     
+    
 ----
 
 

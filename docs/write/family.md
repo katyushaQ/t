@@ -96,6 +96,7 @@ applauds 赞赏，称赞，赞许 | own 自己的
     Self-reliance is something society applauds. 这一句不知道该怎么翻，something在这里比较迷。
     
     有道：自力更生是社会所推崇的。
+    
 
 ----
 

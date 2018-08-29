@@ -1,3 +1,112 @@
+### 2018-08-29
+
+#### 14. <font color='red'>**长难句**</font>
+
+<font color='Blue'>*Though*</font> **it** ==may be difficult to imagine== ^^from a later perspective^^, **a strain of critical opinion** { in the 1920s `时间`} ==predicted== ^^that sound film would be a technical novelty^^ {++that would soon fade from sight++}, { just as had many previous attempts `补充`}, ( dating well back before the First World War ), { to link images with recorded sound `什么成分？`}. 
+> 尽管后来的观点很难想象，但是1920年代的一个类关键的观点预示有声电影会是一个技术的很快从视线中消退的新奇事物，就像许多以前的尝试，追溯到一战以前，用录音连接图片。
+
+!!! failure ""
+    
+    从 just as 开始晕，最后的 to link 是什么成分，它省略的主语是？
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++ Though ++} 转折
+       
+    细节：转折后内容重点：观点——有声电影，技术，很快消失，新奇事物；补充——举例 录音与图片的连接
+    
+    答案：N/A + 转折 + 观点，补充正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    A. **It** ==was difficult for== **some critics** { in the 1920s `时间`} ==to imagine== {++why the idea of sound film had faded from sight well before the First World War++}.
+    > 1920年的一些评论家很难想象为什么有声电影的想法在一战以前从视线中消失。
+
+    ==B==. { As surprising as it seems today `比较`}, **some critics** { in the 1920s `时间`} ==believed== {++that the new attempts at sound films would fade just as quickly as the attempts made before the First World War++}.
+    > 就像今天看起来的一样令人惊讶，1920年代的评论家认为在有声电影上的新尝试会消退，就像在一战前尝试做的一样快。
+
+    C. *Though* **some early critics** ==thought== {++that sound film would fade++}, **its popularity** { during the First World War `时间`} ==proved== {++that it was not simply a technical novelty++}.
+    > 尽管一些早期评论家认为有声电影会消退，但是它在一战期间的普及证明它不是一个简单的技术新事物。
+
+    D. *Although* **some critics** ==predicted== { well before the First World War `时间`} {++that sound film would be an important technical innovation++}, **it** ==was not attempted== { until the 1920s `时间`}.
+    > 尽管一些评论家预言很久以前一战时期有声电影会是很重要的技术创新，但是直到1920年代它没有尝试。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没提原因；B原文转述；C没提它在一战期间的情况；D没提重要创新和20年代的尝试
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+perspective 观点 n. | strain of 系，品种，类型 n. | fade 逐渐消失，消退 v.
+sight 视线 n. | novelty 新奇，新颖，新奇的事 n. | date 写上日期，确定年代 v.
+later 以后的 adj. | date well back 追溯 | popularity 流行，受欢迎，普及 n.
+proved 证明 v. | critics 评论家 n. | innovation 创新
+well before 很久以前
+
+#### 13. <font color='red'>**单词问题**</font>
+
+<font color='Blue'>*Therefore*</font>, { when observational assessment is used as a technique for studying infant perceptual abilities `时间`}, **care** ==must be taken not to overgeneralize from== ^^the data^^ or ==to rely on== ^^one or two studies^^ { as conclusive evidence of a particular perceptual ability of the infant `结果`}. 
+> 因此，当观察的评估被作为一个用来研究婴儿感知能力的技巧的时候，关心必须不能从数据太笼统的概括，或者依靠一或两个研究作为婴儿的特定感知能力的结论性证据。
+
+!!! failure ""
+
+    care 在这里什么意思？关心，照顾？处理，负责？
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++ Therefore ++} 因果，在开头，结论性
+       
+    细节：观察评估技巧，婴儿感知能力研究；关心依据，1不能从数据笼统概括，2少数研究不能作为依据
+    
+    答案：N/A + 因果 + 研究内容与2个不稳定依据正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    ==A==. **Researchers using observational assessment techniques on infants** ==must not overgeneralize== and ==must base== ^^their conclusions on data from many studies^^.
+    > 研究员使用观察的评估技巧在婴儿上必须不能太笼统概括，并且必须基于他们从许多研究到数据上的结论。
+
+    B. { On the basis of the data from one or two studies ``}, *it* ==seems== {++that some infants develop a particular perceptual ability++} ==not observed== ^^in others^^.
+    > 在一或两个研究数据的依据上，一些婴儿开发一个特定的感知能力看起来在其他婴儿身上无法观测到。
+    
+    C. { To use data from one or two studies on infant's perceptual abilities `目的`}, *it* ==is== ^^necessary to use techniques^^ **that will provide conclusive evidence**.
+    > 使用一或两个婴儿的感知能力研究数据，要提供结论性的证据必须使用技巧。
+
+    D. { When researchers fail to make generalizations from their studies `时间`}, **their observed data** ==is== ^^often inconclusive^^.
+    > 当研究员不能从他们的研究笼统概括的时候，他们的观察数据常常是非结论性的。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A原文转述；B像但没提其他是否肯定无法观测到；C次要信息当主；D次要信息当主
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+assessment 评估，评价 | infant 婴儿 n.；【公司、组织等】刚成立的，初创的 | perceptual 知觉的；感知的；有知觉的
+evidence of 证据，证明 | conclusive 确凿的，结论性的 | observational 观测的，根据观察的
+overgeneralize 太笼统地概括 v. | particular 特定的，特指的 | inconclusive 不确定的，非结论性的
+conclusions 结论 | basis 基础，依据 n. | fail to 不能做某事
+
 ### 2018-08-27
 
 #### 12.
@@ -93,9 +202,9 @@ except 不包括，不计算，把……排除在外 v. | establishment 建立 |
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
 transmit 传输，传递 | mediate 调解，调停 | interpret 解释，理解
-oneness 一体，统一，统一性 n. | view sth as sth 【以某种方式】看，把……视为
+oneness 一体，统一，统一性 n. | view sth as sth 【以某种方式】看，把……视为 | critical 关键的，批评的
 bridge 弥合【差距】，消除【分歧】| believe 认为，相信 | arise 出现，产生，发生，引起
-critical 关键的，批评的 | 
+
 
 ### 2018-08-23
 

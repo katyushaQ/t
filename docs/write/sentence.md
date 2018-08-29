@@ -1,3 +1,40 @@
+{++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
+
+### 用来论证advantage好的方面
+
+### 2018-08-29
+
+1、**那些 {++经受这种疾病折磨的++} 许多孩子** ==将== ^^从新的治疗方法中^^ ==获益==。
+> Those many children who {++undergo++} ^^torment^^ of {++diseases++} would ==benefit from `受益于`== new {++treatment++}.
+
+2、*尽管* 经济衰退，**政府** ==仍然应该投资== ^^大比例的预算^^ { 在帮助穷人上 }。
+> Althought {++economic recessing++}, government should still invest ^^a large proportion^^ {++budget++} in helping {++the poor++}.
+
+3、*尽管* **城市** ==投资了== ^^大量的钱^^ { 在博物馆和美术馆上 }，*但是* **他们** ==没有起到== {++促进教育和医疗保障的发展的++} ^^作用^^。
+> Although the city invested a lot of money in museum and {++art gallery++}, they didn't metion effect that {++boosts++} development of education and ^^medical security^^.
+
+4、**{++高科技教学的++} 主要问题** ==是== ^^它^^ {++是否真实的提高了学习的效率和有效性++}。
+> The main question of high technological education is that is whether really {++raised++} {++effeciency++} and ^^availability^^ of study.
+
+5、**维生素和矿物质** { 在保持我们身体健康中 } ==起到== ^^关键作用^^，*因此*，**孩子和成年人的这类人群** ==应该多吃== {++含有丰富多样的维生素和矿物质的++} ^^蔬菜^^。
+> {++Vitamin++} and ^^mineral substance^^ ==function as `起作用`== keeping our heath critically, therefore, the children and adult will should eat abundant various vitamin and mineral substance.
+
+
+PHRASE |  PHRASE
+------------ | -------------
+疾病 disease  | 【精神或肉体上的】折磨，痛苦 torment 
+经受，遭受 undergo | 疗法 treatment 
+经济衰退 economic  recession n. | 暂停，休会，休庭 recess v.
+预算 budget n. | 大比例 a large proportion
+博物馆 museum | 美术馆 art gallery
+医疗保障 medical security | 促进，推送 boost v.
+是否 whether | 提高 raise v.
+效率 efficiency n. | 有效性 availability n.
+维生素 vitamin n. | 矿物质 mineral substance
+起作用 function as sth | 
+
+----
+
 ### 指导课句子再翻译一次
 
 ### 2018-08-23
