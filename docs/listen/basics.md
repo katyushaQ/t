@@ -295,3 +295,37 @@ while 一段时间 | nonetheless 然而，尽管日此
 breakthrough 突破 n. | robotics 机器人技术，机器人学
 refined 精制的 | pathway 通路，路，径
 assemble 装配，组装；assembling 聚集的 | weld 焊接；welded 团结的
+
+### 2018-08-30
+
+#### Organization Basic Drill 4
+
+PHRASE |  PHRASE
+------------ | -------------
+registrar 登记员 | come by sth 获得某物
+specific 详情 | apply for 申请
+graduation 毕业 n. | graduate 毕业 v.
+general 大致的 | the minimum number of 最少的
+credit 学分 | hours 时间
+the end of ……的最后 | stipulation 规定
+no matter 不管怎样 | registration 登记，注册 n.
+clear off 清除 | fine 罚款 n.
+ 
+#### Organization Basic Drill 5
+
+PHRASE |  PHRASE
+------------ | -------------
+zoology 动物学 | poisonous 有毒的
+hear of 听说 | cobra 眼镜蛇
+venomous 有毒的 | average of 平均数
+reach up 提升到 | Asia 亚洲
+fearsome 可怕的，吓人的 | prey on sb/sth 捕食
+mamba 曼巴蛇 | Africa 非洲
+venom 毒液 | agreessive 好斗的，进攻的
+capable of (doing) sth 有能力做某事 | remarkable 不寻常的
+coral 珊瑚色的 | tropical 热带的
+confuse with 混淆，弄错 | poisonous snake 毒蛇
+venomous snake 毒蛇 | the king cobra 眼镜蛇
+the black mamba 黑曼巴蛇 | coral snake 银环蛇 
+throughout 遍及，在……各处 | around 大约
+king snake 王蛇 | non-venomouse 无毒的

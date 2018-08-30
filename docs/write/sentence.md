@@ -31,7 +31,7 @@ PHRASE |  PHRASE
 是否 whether | 提高 raise v.
 效率 efficiency n. | 有效性 availability n.
 维生素 vitamin n. | 矿物质 mineral substance
-起作用 function as sth | 
+起作用 function as sth | 受益于 benefit from 
 
 ----
 

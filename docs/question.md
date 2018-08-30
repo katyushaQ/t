@@ -9,6 +9,9 @@
 [simplification-4](../read/simplification#2018-08-15) | 
 [simplification-5](../read/simplification#2018-08-17) | 
 [simplification-8](../read/simplification#2018-08-21) | 
+[simplification-13-14](../read/simplification#2018-08-29) | 
+
+
 
 
 #### 2018-07-08 新学后作业
