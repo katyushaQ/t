@@ -1,3 +1,117 @@
+### 2018-09-03
+
+#### 16. <font color='red'>**翻译和句子成分**</font>
+
+**The key factor** { in the success of these countries `抽象地点`} (along with high literacy, which contributed to it) ==was== ^^their^^ ==ability to adapt to== ^^the international division of labor^^ {++determined by the early industrializers++} <font color='Blue'>*and*</font> ==to stake out== ^^areas of specialization { in international markets `抽象地点`}^^ {++for which they were especially well suited++}.
+> 这些国家（与高文化一起，这点促成了它成功）的成功的关键因素是他们有能力适应由早期工业化国家确定的国际劳动划分，并且有能力监视国际市场的专业化领域，对于这个市场，他们特别很好的适应。
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++and++} 并列
+       
+    细节：高文化，2个能力：1适应国际划分，早期工业化国家确定；2监视专业领域，他们适应的市场
+    
+    答案：N/A + 并列 + 两个能力描述正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+    
+    A. **The early industrializers** ==controlled== ^^most of the international economy^^, { leaving these countries to stake out new areas of specialization along the margins `结果`}.
+    > 早期工业化国家控制大多数的国际经济，让这些国家去监视新的沿着专业化边缘的领域。
+    
+    !!! failure ""
+    
+        along the margins 沿着专业化边缘的领域，这样翻译对么？
+    
+    ==B==. **{++Aided by their high literacy rates++} these countries** ==were able to claim== ^^key areas of specialization within established international markets^^.
+    > 在他们的高文化率的帮助下的这些国家能够主张在建立的国际市场之内的专业化的关键区域。
+    
+    !!! failure ""
+    
+        定语是么？
+    
+    C. **High literacy rates** ==enabled== ^^these countries^^ ==to take over== ^^international markets^^ and ==adapt== ^^the international division of labor^^ ==to suit== ^^their strengths^^.
+    > 高文化率使这些国家能接管国际市场，并且使国际劳动划分适应他们的力量。
+        
+    D. **The international division of labor {++established by the early industrializers++}** ==was suited to== ^^these countries^^, ( a key factor in their success ).
+    > 建立在早起工业化国家的国际劳动划分适应这些国家，一个他们成功的关键因素。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没提新的专业化边缘；B部分内容的正确转述，外加排除法；C适应与被适应说反了；D适应与被适应说反了
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+along with sb/sth 与某人/某物一起 | high literacy 高素养，高文化 | determined by 确定自
+industrializers 工业化国家 | stake out 监视 | specialization 专业化
+margins 利润，边缘 | along 沿着……的边缘 | claim 声称，主张
+take over 接管，取得对……的控制 | division 部门，分歧，划分
+leave sth to do sth 使保持【某种状态或在某个位置】 | 
+
+#### 15.
+
+**<font color='red'>Only</font> the last of these** ==was suited== ^^at all to the continuous operating of machines^^, and <font color='Blue'>*although*</font> **waterpower** ==abounded== ^^in Lancashire and Scotland^^ *and* ==ran== ^^grain mills^^ { as well as textile mills }, **it** ==had== ^^one great disadvantage^^: **streams** ==flowed== {++where nature intended them to++}, and **water-driven factories** ==had to be located== ^^on their banks^^ {++whether or not the location was desirable for other reasons++}. 
+> 只有这些的最后事物被适应所有方面于机器的连续性运转，尽管水力发电大量存在于兰开夏郡和苏格兰，并使谷物磨坊像纺织品工厂一样运转，但它有一个巨大的劣势：溪流流动到自然流到的地方，并且水驱动的工厂位于他们的河堤上，这个位置能不能是合适的还有其他原因。
+
+!!! failure ""
+
+    {++whether or not the location was desirable for other reasons++} 的 for other reasons 不知道该怎么翻了，然后参考的有道翻译，但是不明白为什么有 ==还有其他原因== 的意思
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：<font color='red'> Only </font> 极端词
+    
+    逻辑：{++ although ++} 转折
+       
+    细节：最后的事物适应连续性运转；劣势：水的自然流动问题，水电站位置的问题，是否合适不确定，其他原因
+    
+    答案：只有 + 转折 + 适应连续性运转和劣势因素和考量的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information．
+    
+    A. **Running water** ==was== ^^the best power source for factories^^ { since it could keep machines operating continuously `原因`}, **but** { since it was abundant only in Lancashire and Scotland `原因`}, **most mills and factories** {++that were located elsewhere++} ==could not be== ^^water driven^^.
+    > 运转水力是工厂最好的电力来源，因为它能够使机器一直连续不断地运转，但是因为它只大量存在于兰开夏郡和苏格兰，大量的位于其他地方的磨坊和工厂不能被水力驱动。
+    
+    B. **The disadvantage of using waterpower** ==is== ^^that streams do not necessarily flow in places^^ {++that are the most suitable for factories++}, {++which explains++} {++why so many water-powered grain and textile mills were located in undesirable places++}.
+    > 使用水力发电的劣势是溪流无法必然流入适用于工厂的地方，这就解释为什么许多水力发电的谷物或者纺织品工厂位于不理想的地方。
+    
+    C. { Since machines could be operated continuously only where running water was abundant `原因`}, **grain and textile mills**, ( as well as other factories ), ==tended to be located== ^^only in Lancashire and Scotland^^.
+    > 因为机器可以不停地运转在水运转非常丰富的地方，谷物和纺织品工厂像其他工厂一样会被只位于兰开夏郡和苏格兰附近。
+    
+    ==D==. **Running water** ==was== ^^the only source of power^^ {++that was suitable for the continuous operation of machines++}, *but* { to make use of it `目的`}, **factories** ==had to be located== {++where the water was++}, ( regardless of whether such locations made sense otherwise ).
+    > 运转的水仅适应于机器的连续不断地运转的电力的来源，但是工厂使用它，工厂必须位于有水的地方，不管这样的位置在其他方面是否有意义。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+    A因果逻辑没有；B前半ok，后半没有因果；C没说只位于这两个位置；D原文转述
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+abounded 大量存在 v. | Lancashire and Scotland 兰开夏郡（英格兰西北部之州）和苏格兰 | grain 谷物
+textile 纺织品 n. | mills 工厂，磨坊 | intend to 计划，打算，想要
+the last 最后的人【事物】 | waterpower 水力发电 | run 运转，开动
+be located in/near etc sth 位于某处/位于某处附近等 | bank 岸，堤 | whether or not 是否，能不能
+desirable 可取的，理想的，令人满意的，合适的 | power 电力 | 
+
 ### 2018-08-29
 
 #### 14. <font color='red'>**长难句**</font>
