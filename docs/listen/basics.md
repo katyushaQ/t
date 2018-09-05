@@ -329,3 +329,36 @@ venomous snake 毒蛇 | the king cobra 眼镜王蛇
 the black mamba 黑曼巴蛇 | coral snake 银环蛇 
 throughout 遍及，在……各处 | around 大约
 king snake 王蛇 | non-venomouse 无毒的
+
+### 2018-09-04
+
+#### Organization Basic Drill 6
+
+PHRASE |  PHRASE
+------------ | -------------
+psychology 心理学 | human mind 人类思想
+psychoanalysts 精神分析学家 | defense mechanisms 防御机制，自我保护机制
+mental behaviors 精神行为 | propose 提议 
+concept 概念 | painful 痛苦的
+threaten 威胁 v. | mental well-being 精神健康
+unconscious 无意识的 | guilt 内疚，自责 n.
+shame 羞耻 n. | cause sb to do sth 使某人做某事；引起
+represson 压抑 | deep into 在深处
+subconscious 潜意识 | mostly 大部分，主要地
+child abuse 虐待儿童 | push sth out of sth 把某物抛在脑后，忘记不愉快的事
+involve 涉及，包括 | channel sth into sth 引导……向某处
+go over sth 仔细考虑某事 | resolve 解决
+productive activities 有成效的活动 | 
+
+#### Connceting Content Sample Question
+
+PHRASE |  PHRASE
+------------ | -------------
+connecting content 关联内容 | characteristics 特征
+linguistics 语言学 | overwhilming 难以抗拒的
+the sheer amount of 某事之重/之大等 |  involved 有关的
+stand for 用字母符号表示 | syllables 音节
+represent 表示 | presence 出现
+take from 收集 | ideas 思想
+pronounce 发音 | context 语境
+present 表现 | 

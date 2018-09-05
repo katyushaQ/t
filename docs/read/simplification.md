@@ -55,8 +55,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 along with sb/sth 与某人/某物一起 | high literacy 高素养，高文化 | determined by 确定自
 industrializers 工业化国家 | stake out 监视 | specialization 专业化
 margins 利润，边缘 | along 沿着……的边缘 | claim 声称，主张
-take over 接管，取得对……的控制 | division 部门，分歧，划分
-leave sth to do sth 使保持【某种状态或在某个位置】 | 
+take over 接管，取得对……的控制 | division 部门，分歧，划分 | leave sth to do sth 使保持【某种状态或在某个位置】
 
 #### 15.
 
