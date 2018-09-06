@@ -6,8 +6,8 @@
 
 简化题 | 细节题 
 ------------ | ------------- 
-[simplification-4](../read/simplification#2018-08-15) | 
-[simplification-5](../read/simplification#2018-08-17) | 
+[simplification-4](read/simplification#2018-08-15) | 
+[simplification-5](read/simplification#2018-08-17) | 
 [simplification-8](../read/simplification#2018-08-21) | 
 [simplification-13-14](../read/simplification#2018-08-29) | 
 

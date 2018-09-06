@@ -362,3 +362,34 @@ represent 表示 | presence 出现
 take from 收集 | ideas 思想
 pronounce 发音 | context 语境
 present 表现 | 
+
+### 2018-09-06
+
+#### Connceting Content Basic Drill 1
+
+PHRASE |  PHRASE
+------------ | -------------
+I haven't seen you in a while 一段时间没见 | Are you feeling any better？ 身体是否好些了？
+Thanks for asking 谢谢问候，谢谢关心 | make up 弥补
+first off 首先 | oral 口头的
+presentation 讲述，描述 | honestly 的确，老实说
+grade 评分 | essay on 【学生为某门课程所写的】短文
+apartheid 【旧南非的】种族隔离制度 | outline 大纲
+research paper 研究论文 | start on sb/sth 开始做，开始使用
+right way 正确的方式 | barely 勉强才能，仅仅
+by the end of 最后 | era 年代
+
+#### Connceting Content Basic Drill 2
+
+PHRASE |  PHRASE
+------------ | -------------
+excel 擅长 | numerous 许多的
+pursuit 【正式】嗜好，爱好 | political turmoil 政治混乱
+relocate to 搬迁 | jump aroud (sth) 【经常】突然改变，不断转换【含贬义】
+skip over 略过，跳过 | juggle 同时应付【两个或两个以上工作】
+beloved 钟爱的，挚爱的 | church 教堂
+Florence 佛罗伦萨 | Milan 米兰
+Bologna 博洛尼亚 | Michelangelo 米开朗基罗
+Leonardo 莱昂纳多 | Duke 杜克
+Medici 美第奇 | over the course of sth 在……过程中
+tomb 墓 | 
