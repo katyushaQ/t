@@ -557,7 +557,7 @@
         }, 
         {
             "location": "/question/", 
-            "text": "\u4f5c\u4e1a\u95ee\u9898\n\n\n\u9605\u8bfb\n\n\n\u7b2c\u4e8c\u6b21\u505a\n\n\n\n\n\n\n\n\n\u7b80\u5316\u9898\n\n\n\u7ec6\u8282\u9898\n\n\n\n\n\n\n\n\n\n\nsimplification-4\n\n\n\n\n\n\n\n\nsimplification-5\n\n\n\n\n\n\n\n\nsimplification-8\n\n\n\n\n\n\n\n\nsimplification-13-14\n\n\n\n\n\n\n\n\n\n\n2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a\n\n\n\n\n\n\n\n\n\u63d2\u5165\u9898  6/13\n\n\n\u63a8\u65ad\u9898 6/15\n\n\n\n\n\n\n\n\n\n\ninsertion-6-7\n\n\ninference-2\n\n\n\n\n\n\ninsertion-8\n\n\ninference-4\n\n\n\n\n\n\ninsertion-10\n\n\ninference-7\n\n\n\n\n\n\ninsertion-11-12\n\n\ninference-8\n\n\n\n\n\n\n\n\ninference-11\n\n\n\n\n\n\n\n\ninference-12", 
+            "text": "\u4f5c\u4e1a\u95ee\u9898\n\n\n\u9605\u8bfb\n\n\n\u7b2c\u4e8c\u6b21\u505a\n\n\n\n\n\n\n\n\n\u7b80\u5316\u9898\n\n\n\u7ec6\u8282\u9898\n\n\n\n\n\n\n\n\n\n\nsimplification-4\n\n\n\n\n\n\n\n\nsimplification-5\n\n\n\n\n\n\n\n\nsimplification-8\n\n\n\n\n\n\n\n\nsimplification-13\n\n\n\n\n\n\n\n\nsimplification-14\n\n\n\n\n\n\n\n\n\n\n2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a\n\n\n\n\n\n\n\n\n\u63d2\u5165\u9898  6/13\n\n\n\u63a8\u65ad\u9898 6/15\n\n\n\n\n\n\n\n\n\n\ninsertion-6\n\n\ninference-2\n\n\n\n\n\n\ninsertion-7\n\n\ninference-4\n\n\n\n\n\n\ninsertion-8\n\n\ninference-7\n\n\n\n\n\n\ninsertion-10\n\n\ninference-8\n\n\n\n\n\n\ninsertion-11\n\n\ninference-11\n\n\n\n\n\n\ninsertion-12\n\n\ninference-12", 
             "title": "Question"
         }, 
         {
@@ -572,12 +572,12 @@
         }, 
         {
             "location": "/question/#_3", 
-            "text": "\u7b80\u5316\u9898  \u7ec6\u8282\u9898      simplification-4     simplification-5     simplification-8     simplification-13-14", 
+            "text": "\u7b80\u5316\u9898  \u7ec6\u8282\u9898      simplification-4     simplification-5     simplification-8     simplification-13     simplification-14", 
             "title": "\u7b2c\u4e8c\u6b21\u505a"
         }, 
         {
             "location": "/question/#2018-07-08", 
-            "text": "\u63d2\u5165\u9898  6/13  \u63a8\u65ad\u9898 6/15      insertion-6-7  inference-2    insertion-8  inference-4    insertion-10  inference-7    insertion-11-12  inference-8     inference-11     inference-12", 
+            "text": "\u63d2\u5165\u9898  6/13  \u63a8\u65ad\u9898 6/15      insertion-6  inference-2    insertion-7  inference-4    insertion-8  inference-7    insertion-10  inference-8    insertion-11  inference-11    insertion-12  inference-12", 
             "title": "2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a"
         }, 
         {
@@ -1917,7 +1917,7 @@
         }, 
         {
             "location": "/question/", 
-            "text": "\u4f5c\u4e1a\u95ee\u9898\n\n\n\u9605\u8bfb\n\n\n\u7b2c\u4e8c\u6b21\u505a\n\n\n\n\n\n\n\n\n\u7b80\u5316\u9898\n\n\n\u7ec6\u8282\u9898\n\n\n\n\n\n\n\n\n\n\nsimplification-4\n\n\n\n\n\n\n\n\nsimplification-5\n\n\n\n\n\n\n\n\nsimplification-8\n\n\n\n\n\n\n\n\nsimplification-13-14\n\n\n\n\n\n\n\n\n\n\n2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a\n\n\n\n\n\n\n\n\n\u63d2\u5165\u9898  6/13\n\n\n\u63a8\u65ad\u9898 6/15\n\n\n\n\n\n\n\n\n\n\ninsertion-6-7\n\n\ninference-2\n\n\n\n\n\n\ninsertion-8\n\n\ninference-4\n\n\n\n\n\n\ninsertion-10\n\n\ninference-7\n\n\n\n\n\n\ninsertion-11-12\n\n\ninference-8\n\n\n\n\n\n\n\n\ninference-11\n\n\n\n\n\n\n\n\ninference-12", 
+            "text": "\u4f5c\u4e1a\u95ee\u9898\n\n\n\u9605\u8bfb\n\n\n\u7b2c\u4e8c\u6b21\u505a\n\n\n\n\n\n\n\n\n\u7b80\u5316\u9898\n\n\n\u7ec6\u8282\u9898\n\n\n\n\n\n\n\n\n\n\nsimplification-4\n\n\n\n\n\n\n\n\nsimplification-5\n\n\n\n\n\n\n\n\nsimplification-8\n\n\n\n\n\n\n\n\nsimplification-13\n\n\n\n\n\n\n\n\nsimplification-14\n\n\n\n\n\n\n\n\n\n\n2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a\n\n\n\n\n\n\n\n\n\u63d2\u5165\u9898  6/13\n\n\n\u63a8\u65ad\u9898 6/15\n\n\n\n\n\n\n\n\n\n\ninsertion-6\n\n\ninference-2\n\n\n\n\n\n\ninsertion-7\n\n\ninference-4\n\n\n\n\n\n\ninsertion-8\n\n\ninference-7\n\n\n\n\n\n\ninsertion-10\n\n\ninference-8\n\n\n\n\n\n\ninsertion-11\n\n\ninference-11\n\n\n\n\n\n\ninsertion-12\n\n\ninference-12", 
             "title": "Question"
         }, 
         {
@@ -1932,12 +1932,12 @@
         }, 
         {
             "location": "/question/#_3", 
-            "text": "\u7b80\u5316\u9898  \u7ec6\u8282\u9898      simplification-4     simplification-5     simplification-8     simplification-13-14", 
+            "text": "\u7b80\u5316\u9898  \u7ec6\u8282\u9898      simplification-4     simplification-5     simplification-8     simplification-13     simplification-14", 
             "title": "\u7b2c\u4e8c\u6b21\u505a"
         }, 
         {
             "location": "/question/#2018-07-08", 
-            "text": "\u63d2\u5165\u9898  6/13  \u63a8\u65ad\u9898 6/15      insertion-6-7  inference-2    insertion-8  inference-4    insertion-10  inference-7    insertion-11-12  inference-8     inference-11     inference-12", 
+            "text": "\u63d2\u5165\u9898  6/13  \u63a8\u65ad\u9898 6/15      insertion-6  inference-2    insertion-7  inference-4    insertion-8  inference-7    insertion-10  inference-8    insertion-11  inference-11    insertion-12  inference-12", 
             "title": "2018-07-08 \u65b0\u5b66\u540e\u4f5c\u4e1a"
         }
     ]
