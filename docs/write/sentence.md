@@ -2,6 +2,56 @@
 
 ### 用来论证advantage好的方面
 
+### 2018-09-05
+
+11、**国际旅游** ==能够创造== ^^工作机会^^。*另一方面*，**它** ==可能会破坏== ^^一个国家的文化遗产^^。
+> International travle might create job chance. Otherwise, It could destroy a countrie's ^^cultural heritage^^ 
+
+12、{ 与大众观点相反 }，**广告** ==让== ^^购物^^ ==变得== ^^*既没有* ==少花费== ^^时间^^ *又没有* ==更加经济了==。 
+> Contrast to population, advertisement make it possible to purchase becomes neither less expending times nor ^^more cost-efficient^^. 
+
+13、**兼职工作** ==帮助== ^^学生^^ ==减轻== ^^父母的财政负担^^。*然而*，**以兼职工作的基础去工作** ==能够导致== ^^学生心理负担^^。
+> The part-time jobs help students ^^alleviate^^ parents' ^^financial burden^^. However, working based on part-time could lead student's ^^psychological burden^^.
+
+14、**员工** { 在他们的工作没有被他们的雇主重视时 } ==会感觉到== ^^他们不能发挥职业的潜力^^。
+> Staffs when their works are not  much accounted of their employer will feel that they can not ^^give play to^^ professional potential.
+
+15、**翻译机器** ==消除了== ^^不同语言的人们之间的交流障碍^^。
+> The translation mechine eliminated ^^communication barriers^^ between different language people.
+
+PHRASE |  PHRASE
+------------ | -------------
+文化遗产 cultural heritage | 财政负担 financial burden
+心里负担 psychological burden | 重视 pay attention to 
+被重视 be much accounted of | 发挥 give play to
+潜力，可能性 potential | 交流障碍 communication barriers
+减轻 alleviate | 更加经济 more cost-efficient
+
+### 2018-09-03
+
+6、**上大学前工作一段时间** ==可以== 大幅度的 ==丰富== ^^学生的社会经历^^ *并且* ==让== ^^他们在大学中^^ ==更能干==。
+> Before to attend school while working could ^^enrich^^ student's social experence significantly and make them more ^^capable^^ in their university. 
+
+7、**和谐** ==能够保持== ^^社会稳定^^，**冲突** ==扰乱== ^^社会秩序^^。
+> ^^harmony^^ could able to keep ^^social stability^^, conflict ^^disturb^^ social sequence.
+
+8、{ 在欧洲的多数国家 }，**父母** ==有== ^^法律义务^^ ==去保证== ^^他们的孩子接受适当的教育^^。 
+> Most of country in European, parents have ^^a legal obligation^^ to ^^ensure^^ that their children accept desirable education.
+	
+9、**孩子** *不仅* ==需要获取== ^^知识的机会^^，**他们** *也* ==需要放松== ^^他们的身心^^。 
+> Children not only need to obtain chance of knowledge, but also they need to relax their ^^body and mind^^.
+
+10、**纪律** ==应该是基于== ^^一个良好的充满爱的亲子关系上^^ *而不是* ^^强迫和惩罚^^。 
+> ^^The discipline^^ should be based on a good relationship of love enough rather than ^^force and punishment^^.
+
+PHRASE |  PHRASE
+------------ | -------------
+丰富 v. enrich | 能干，有能力 adj. capable
+社会稳定 social stability | 扰乱 v. disturb
+有法律义务去保证 have a legal obligation to | 保证 v. ensure
+身心 body and mind | 纪律 n. discipline
+强迫和惩罚 force and punishment | 
+
 ### 2018-08-29
 
 1、**那些 {++经受这种疾病折磨的++} 许多孩子** ==将== ^^从新的治疗方法中^^ ==获益==。
