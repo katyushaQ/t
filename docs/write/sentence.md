@@ -2,6 +2,27 @@
 
 ### 用来论证advantage好的方面
 
+### 2018-09-07
+
+16、**{++一个普遍使用的++}语言** ==可以== 有效的 ==促进== ^^不同文化的国家之间的文化交流与互动^^。
+> A popluar using language will promote cultrual communication and interactionefficiently in diffient cultural counties.
+
+17、**政府** ==应该== 及时 ==采取== ^^手段控制污染的扩散^^，{ 无论花费多大的代价 }。
+> Governments should ^^adopt^^ manner for controling ^^diffusion^^ of pollution, whatever ^^the^^ cost.
+ 
+18、**媒体** ==能够提高== {++人们对青少年犯罪率急剧上升的意识++}。 
+> The medium should enhance conscious which people face to youth's ^^crime^^ rate increasing rapidly.
+
+19、**{ 以小组形式 } 教学** ==有提高== {++学校有效使用设备的内在优势++}。
+> Teaching in groups had raised internal advantage that university use equipment efficiently.  
+
+PHRASE |  PHRASE
+------------ | -------------
+采取 adopt | 扩散 diffusion n
+代价 price / the cost | 媒体 medium
+犯罪率 crime rate | 急剧 rapidly
+以小组形式 in groups | 
+
 ### 2018-09-05
 
 11、**国际旅游** ==能够创造== ^^工作机会^^。*另一方面*，**它** ==可能会破坏== ^^一个国家的文化遗产^^。

@@ -385,7 +385,7 @@ PHRASE |  PHRASE
 ------------ | -------------
 excel 擅长 | numerous 许多的
 pursuit 【正式】嗜好，爱好 | political turmoil 政治混乱
-relocate to 搬迁 | jump aroud (sth) 【经常】突然改变，不断转换【含贬义】
+relocate to 搬迁 | jump around (sth) 【经常】突然改变，不断转换【含贬义】
 skip over 略过，跳过 | juggle 同时应付【两个或两个以上工作】
 beloved 钟爱的，挚爱的 | church 教堂
 Florence 佛罗伦萨 | Milan 米兰

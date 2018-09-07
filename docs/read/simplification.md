@@ -1,3 +1,119 @@
+### 2018-09-07
+
+#### 18. <font color='red'>**错，定语从句问题**</font>
+
+{ With "climax," "biome," "superorganism," and various other technical terms for the association of animals and plants at a given locality being criticized `抽象地点`}, **the term "ecosystem"** ==was== more and more widely ==adopted== ^^for the whole system of associated organisms together^^ {++with the physical factors of their environment++}. 
+> 有“顶点”，“生物群系”，“超个体”，和多种其他的技术术语对动物和植物的联系在特定的地方被批评，术语“生态系统”越来越广泛地被用于关联含有他们环境的物理因素一起的整个生物系统。
+
+!!! failure ""
+
+    with the physical factors of their environment 是定语么？对于with引导的，无法明确的识别出来
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：<font color='red'>more and more</font> 程度
+    
+    逻辑：{++more and more++} 含对比
+       
+    细节：3个属于被批评；1个被广泛应用，附加生物的环境物理因素
+    
+    答案：程度 + 对比 + 批评，应用及附加信息的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information. 
+    
+    A. { Unlike the terms “climax”, “biome,” and “superorganism,” {++which refer to the particular association of plants and animals at a given location++} ``}, **the term “ecosystem”** ==refers specifically to== ^^the physical factors within an environment^^. 
+    > 不像术语“顶点”，“生物群系”和“超个体”参考植物和动物的特指的关系在特定的地方，术语“生态系统”专门参考环境中的物理因素。
+    
+    B. **The terms “climax,” “biome,” “superorganism,” and “ecosystem” all** ==refer to== ^^the system of plants and animals in an associated environment^^, *but* **some** ==are== ^^more controversial^^ { than others `比较`}. 
+    > 术语“顶点”，“生物群系”，“超个体”和“生态系统”都参考关联环境中的植物和动物系统，但是一些比其他更有争议。
+    
+    {--C--}. { When the older terms of ecology became too technical `时间`}, **they** ==were replaced== { by the more popular and more widely {++used++} term “ecosystem.”`方式`}
+    > 在生态学的老术语变得太技术的时候，他们被更受欢迎和更广泛使用的术语“生态系统”所替代。
+    
+    {++D++}. **The term “ecosystem”** gradually ==replaced== ^^{++discredited++} terms^^ { for the combination of a physical environment and the plants and animals living together in it `目的`}.
+    > 术语“生态系统”逐渐地替换质疑的术语，为了物理环境与动植物的结合，一起在环境中生活。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A不是专门，是一起；B没有提到争议，是批评；{--C原文转述，too对应various--} C没提太，没提更受欢迎？；{--D没提这个目的--} ==D 后半句的for没理解==
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+climax 高潮，顶点 | biome 【术语】生物群系【根据气候和植被划分的地理环境】| superorganism 超个体（指群居昆虫等的群体）
+association 关联，联系 | locality 地区，位置，地点 | ecosystem 生态系统
+adopted 采用，收养 | organisms 生物，有机体 | at a given ... 指定的，特定的
+more and more 越来越 | refer to 提到，参考，涉及，关于 | controversial 有争议的
+ecology 生态学 | discredit 怀疑
+
+#### 17. <font color='red'>**单词问题**</font>
+
+{ In the wake of the Roman Empire's conquest of Britain in the first century A.D. `时间`}, **a large number of troops** ==stayed in== ^^the new province^^, *and* **these troops** ==had== ^^a considerable impact on Britain with their camps, fortifications, and participation { in the local economy `抽象地点`}^^. 
+> 在公元一世纪的不列颠的罗马帝国的征服后，大量的军队入住新的省，这些军队在不列颠当地的经济中有相当大的影响，由于他们的营地，防御工事和关系。
+
+!!! failure ""
+    
+    with 不知道在这里是“和”的意思，还是“因为，由于”的意思？
+        
+    我感觉像后者
+
+
+!!! tip ""
+
+    ==题干分析==
+    
+    比较级/最高级/极端词：
+    
+    逻辑：{++and++} 并列，{++with++} 因果 ==【with这里不是很确定】==
+       
+    细节：时间：征服后；军队入住；对当地经济的影响，+产生影响的因素
+    
+    答案：并列 + 因果 + 时间，行为，影响和因素的正确信息对应
+    
+!!! faq ""
+
+    Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+    ==A==. **Many Roman soldiers** ==remained in== ^^Britain after conquering it^^, *and* **their presence** ==had== ^^a strong influence^^. 
+    > 许多罗马士兵在征服不列颠后留下，并且他们的出现有强烈的影响。
+    
+    B. **The new Roman province of Britain** ==seemed to awaken== { in the first century A.D. `时间`} { as the local economy improved `结果`}.
+    > 不列颠新的罗马省看起来在公元后一世纪唤醒，如当地改善的经济。
+    
+    !!! failure ""
+    
+        as比较晕，不知道是如同，还是作为了？
+    
+    C. **Camps, fortifications, and economic change** ==contributed to== ^^the Roman conquest of Britain^^.
+    > 营地，防御工事和经济的改变促成不列颠的罗马征服。
+    
+    D. { With the conquest of Britain by Roman troops ``}, **the Roman Empire** ==gained== ^^considerable economic strength^^.
+    > 由于罗马军队对不列颠的征服，罗马帝国获得相当大的经济力量。
+
+    ----
+    
+    ==选项分析==
+    
+    !!! failure ""
+    
+        A没有翻译，划成分时读者符合原文转述；B没提；C时间反了；D没提
+    
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+in the wake of sth 【尤指不好的事】紧随某事而来；作为某事的后果 | Empire 帝国 | conquest 征服 n.
+stay in 停留，留下，留宿 | the province  省 | fortifications 防御工事
+participation 参与，参加，关系 | remain in 【正式】停留，留下 | strong 强烈的
+awake 唤醒，激起 v. | 
+
 ### 2018-09-03
 
 #### 16. <font color='red'>**翻译和句子成分**</font>
@@ -33,7 +149,7 @@
     
     !!! failure ""
     
-        定语是么？
+        Aided by their high literacy rates是定语么？
     
     C. **High literacy rates** ==enabled== ^^these countries^^ ==to take over== ^^international markets^^ and ==adapt== ^^the international division of labor^^ ==to suit== ^^their strengths^^.
     > 高文化率使这些国家能接管国际市场，并且使国际劳动划分适应他们的力量。
