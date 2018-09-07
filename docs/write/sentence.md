@@ -28,7 +28,7 @@ PHRASE |  PHRASE
 11、**国际旅游** ==能够创造== ^^工作机会^^。*另一方面*，**它** ==可能会破坏== ^^一个国家的文化遗产^^。
 > International travle might create job chance. Otherwise, It could destroy a countrie's ^^cultural heritage^^ 
 
-12、{ 与大众观点相反 }，**广告** ==让== ^^购物^^ ==变得== ^^*既没有* ==少花费== ^^时间^^ *又没有* ==更加经济了==。 
+12、{ 与大众观点相反 }，**广告** ==让== ^^购物^^ ==变得== *既没有* ==少花费== ^^时间^^ *又没有* ==更加经济了==。 
 > Contrast to population, advertisement make it possible to purchase becomes neither less expending times nor ^^more cost-efficient^^. 
 
 13、**兼职工作** ==帮助== ^^学生^^ ==减轻== ^^父母的财政负担^^。*然而*，**以兼职工作的基础去工作** ==能够导致== ^^学生心理负担^^。
