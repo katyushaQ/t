@@ -279,7 +279,7 @@ Paragraph 3: <font color='LightSeaGreen'>*（前文最后说迁徙，这里提�
 
 !!! failure ""
 
-    最后三句没看懂，烧脑
+    最后三段没看懂，烧脑
 
 ----
 **Nearly any kind of plant of the forest understory** ==can be== ^^part of a deer's diet^^.

@@ -580,7 +580,7 @@ quality 特征，特点，特性 | religiously 虔诚地 | beneficial 有用的
     {++A++}. **Surface tension** ==is not== ^^strong enough^^ ==to retain== ^^drops of water in rocks with large pores^^ *but* ==is== ^^strong enough^^ ==to hold on== ^^to thin films of water in rocks with small pores^^.
     > 表面拉力不够强有力的保留大孔岩石中的水滴，但是足够强有力的保持住小孔岩石中的水薄层。
 
-    B. **Water** in rocks ==is held== ^^in place^^ { by large pores `方式`} and ==drains== ^^away from small size pores through surface tension `方式`}.
+    B. **Water** in rocks ==is held== ^^in place^^ { by large pores `方式`} and ==drains away== { from small size pores through surface tension `方式`}.
     > 岩石的中的水通过大孔保留在那里，并且通过表面拉力从小孔中流失。
 
     {--C--}. **Small pores and large pores both** ==interact with== ^^surface tension to determine^^ { whether a rock will hold water as heavy drops or as a thin film `条件`}.
@@ -605,7 +605,7 @@ quality 特征，特点，特性 | religiously 虔诚地 | beneficial 有用的
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-films 薄层，薄膜 | firmly 坚实地，牢固地 | drains 【液体】流走，流光
+films 薄层，薄膜 | firmly 坚实地，牢固地 | drains away / from 【液体】流走，流光
 drop 【液体的】滴 | hold 保持 | interact with 相互作用
 determine 确定，测定
 
@@ -706,7 +706,7 @@ integrated (sth) into sth 使整合 | dominated 统治，支配 | languishing �
 semisubsistence 半自给 | economically 在经济上 | wealthiest 最有财富的
 respectively 分别，各自地 | farming 农业
 
-#### 5. <font color='red'>**错，对A答案有些迷惑**</font>
+#### 5. <font color='red'>**错，{--对A答案有些迷惑--} 明晰了**</font>
 
 For example, **people** {++who believe that aggression is necessary and justified-( as during wartime )-++} ==are== ^^likely to act aggressively^^, <font color='Blue'>*whereas*</font> **people** {++who believe that a particular war or act of aggression++} ==is== ^^unjust^^, or {++who think that aggression is never justified++}, ==are== ^^less likely to behave aggressively^^.    <font color='hotpink'>**转折**</font>
 > 例如，相信侵略是必须的并且在战争时期是公正的的人可能有挑衅地行为，然而相信特定的战争或者侵略行为的人是不公正的，或者认为侵略决不是公正的人可能更少有挑衅行为。
@@ -756,7 +756,7 @@ For example, **people** {++who believe that aggression is necessary and justifie
     
     !!! failure ""
     
-        {--B没有比较逻辑--} ==B有比较逻辑==；C原文反说；D原文反说；{--A原文概述--} A是不是细节迷惑？        
+        {--B没有比较逻辑--} ==B有比较逻辑==；C原文反说；D原文反说；{--A原文概述--} A 没有说不挑衅，是更少挑衅
     
 
 NEW WORDS |  NEW WORDS |  NEW WORDS

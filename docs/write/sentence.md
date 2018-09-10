@@ -1,5 +1,36 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
 
+### 用来论证disadvantage负面的方面
+
+### 2018-09-10
+
+1、{ 生活在困苦中 }，**{++生活在这些贫穷国家的++}市民** ==认为== ^^工业化国家有义务提供财政帮助^^，{ 这可以帮助他们摆脱贫穷 }。 
+> Living in ^^misery^^, these citizens who live in these ^^poor nation^^ beleive that industrialized counties ^^have an obligation to^^ provide ^^financial^^ help, it will help them riding of poverty.
+
+2、**电影中的大量的持枪和色情画面** ==可能导致== ^^年轻的手看着更加暴力^^。*因此*，**这些画面** ==有可能导致== ^^年轻人犯罪率上升^^。
+> A lot of  ^^guns and porn^^ in movies might lead the young hands to seem more ^^violent^^. Therefore, these pictures could make it possible for youth's crime rate to increase.
+
+3、**国家间的经济战争越来越激烈**，*这* ==导致了== ^^政府对本国市场更加保护了^^。
+> The economic wars between counties are ^^more and more intense^^, these led governments protection to native market.
+
+4、{ 为了避免这些物种的灭绝 }，**我们** ==应该停止破坏== ^^我们星球的生态平衡^^。
+> For avoiding extinction of these species, we should stop destroying ^^ecological^^ balance of our plant.
+
+5、如今，**个人可以用的科技** 实际上 ==加大了== ^^贫富差距^^ *而不是* ==缩小==。 
+> Nowadays, the technology that individual should use increased ^^gap between the rich and the poor^^ instead of decrese.
+
+PHRASE |  PHRASE
+------------ | -------------
+困苦 misery n. | 有义务做某事 have an obligation to  
+财政，金融的 financial | 贫穷 poverty
+使摆脱 rid sb/sth of sth | 持枪和色情 guns and porn
+暴力 violent adj. | 画面 pictures 
+激烈 intense adj. | 避免 avoid
+灭绝 extinction | 生态 ecological
+贫富差距 gap between the rich and the poor | 贫穷的国家 poor nation
+工业化国家 industrialized country | 
+
+
 ### 用来论证advantage好的方面
 
 ### 2018-09-07
