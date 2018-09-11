@@ -21,7 +21,7 @@
 
 PHRASE |  PHRASE
 ------------ | -------------
-困苦 misery n. | 有义务做某事 have an obligation to  
+困苦 misery n. | 有义务做某事 have an obligation to do sth
 财政，金融的 financial | 贫穷 poverty
 使摆脱 rid sb/sth of sth | 持枪和色情 guns and porn
 暴力 violent adj. | 画面 pictures 

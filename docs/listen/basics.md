@@ -393,3 +393,36 @@ Bologna 博洛尼亚 | Michelangelo 米开朗基罗
 Leonardo 莱昂纳多 | Duke 杜克
 Medici 美第奇 | over the course of sth 在……过程中
 tomb 墓 | 
+
+### 2018-09-11
+
+#### Connceting Content Basic Drill 3
+
+PHRASE |  PHRASE
+------------ | -------------
+anthropology 人类学 | in the course of sth ……的过程中
+agricultural 农业的 | architectural 建筑的
+marital 婚姻的 | namely 也就是
+mythological 神话的 | gods 男神
+goddeeses 女神 | prosperous 繁荣的
+pray to 祈祷 |  harvests 收成 n.
+similarly 类似的 | something you will 你会了解的东西
+worship 崇拜 v. | converns 关心，忧虑 n.
+invade 侵略 | merchandise 商品，货品
+counterpart 与对方地位相当的人或物 | defend sth from sth 保护，保卫
+pop up 冒出来 | again and agin 一次又一次
+Saturn 土星，农业之神（罗马神话中的一个形象） | rule over 统治，治理
+Mercury 水星 | Diana  月，黛安娜（女子名，罗马神话中之处女性守护神）
+appropriate 合适的 | commerce 贸易，商业
+
+#### Connceting Content Basic Drill 4
+
+PHRASE |  PHRASE
+------------ | -------------
+affairs 事物 n. | orientation 方向
+freshman 一年级学生 | assembly 集会 n.
+pick up 拿起 | packet 小袋
+pamphiets 小册子 | dean 系主任，学院院长
+chat about 闲谈 | expect from 期望某人做某事
+fair 招聘 n. | auditorium 礼堂
+supplies 【学校的】必需品 | 

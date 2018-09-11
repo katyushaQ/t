@@ -28,7 +28,7 @@
 
 ### 2018-06-04
 
-??? info "**TPO2  Bus Service Elimination Planned （公交服务被计划取消）**"
+!!! info "**TPO2  Bus Service Elimination Planned （公交服务被计划取消）**"
 
     ==**Reading**==
     
@@ -60,8 +60,13 @@
     
      `听力部分录音`
     
-    !!! note
- 
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    arc 走弧线 | overcrowded 过度拥挤的 | out-of-date 过时的
+    live in 居住 | ridiculous 荒谬的，可笑的 | route 路线
+    tough 艰难的 | cut back 削减，缩减 | gonna 【going to 的】一种说法 is gonna
+    encourage 鼓励，激励 | 
 
 ### 2018-06-05
 
