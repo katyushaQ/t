@@ -406,8 +406,8 @@ marital 婚姻的 | namely 也就是
 mythological 神话的 | gods 男神
 goddeeses 女神 | prosperous 繁荣的
 pray to 祈祷 |  harvests 收成 n.
-similarly 类似的 | something you will 你会了解的东西
-worship 崇拜 v. | converns 关心，忧虑 n.
+similarly 类似的，同样地 | something you will 你会了解的东西
+worship 敬奉，崇拜 v. | conerns 关心，忧虑 n.
 invade 侵略 | merchandise 商品，货品
 counterpart 与对方地位相当的人或物 | defend sth from sth 保护，保卫
 pop up 冒出来 | again and agin 一次又一次
@@ -419,10 +419,10 @@ appropriate 合适的 | commerce 贸易，商业
 
 PHRASE |  PHRASE
 ------------ | -------------
-affairs 事物 n. | orientation 方向
+affairs 事务 n. | orientation 方向
 freshman 一年级学生 | assembly 集会 n.
-pick up 拿起 | packet 小袋
+pick up 拿起 | packet 小包，2小袋
 pamphiets 小册子 | dean 系主任，学院院长
 chat about 闲谈 | expect from 期望某人做某事
-fair 招聘 n. | auditorium 礼堂
+fair 招聘 n. | auditorium 礼堂，音乐厅
 supplies 【学校的】必需品 | 

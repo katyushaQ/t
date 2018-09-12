@@ -203,3 +203,14 @@
     unfortunately 很遗憾 | be named 所得名 | on board 在车上
     as time 随着时间的推移 | as time passes 久而久之 | have ever seen before 曾经见过的
     it wasn't long before 没过多久 | improvement 进步
+    
+### 2018-09-12
+
+!!! info "**Magazines**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    move away from 改变话题 | focus on 关注 | magazines 杂志
+    periodical 期刊，周期的 | look like 看起来像 | domestic 国内的 
+    the time 当时的 | content 内容 | in terms of sth 根据……来解释【描述】
+    

@@ -2,6 +2,32 @@
 
 ### 用来论证disadvantage负面的方面
 
+### 2018-09-12
+
+6、{ 总体来讲 }，**孩子的坏行为** ==来源于== {++模仿他们的父母的++} ^^行为^^。
+> Overall, children's bad behavior comes from the action that they ^^imitate^^ their parents.
+ 
+7、**一个国家拥有的武器** *不只* ==是对== ^^其他国家^^ ==构成威胁==，**他们** ==对== ^^自己^^ *也* ==构成了== ^^一个真实的威胁^^。 
+> The weapons of nation not only threatened to other counties, but also they made a real threat to themselves.
+
+8、**一些亚洲国家的传统的教育方法** 严重 ==扼杀了== ^^学生的创造力和想象力^^。
+> The traditional educational manners in some Asia extremely ^^throttled^^ students' creativities and imaginations.
+
+9、**年轻学生** ==趋向于发现== ^^传统教学单调^^ *而且* ^^无法给人动力^^。 
+> The young students intend to find ^^humdrum^^ of traditional education, and it can't ^^motivate people^^.
+
+10、**越来越快速节奏的生活** 严重的 ==减少了== ^^人们的休闲时间^^ *并且* ==可能导致== ^^心理疾病^^。 
+> ^^Faster and faster^^ ^^pace of^^ life severely reduced people's ^^leisure time^^ and could lead to ^^psychological disease^^.
+
+PHRASE |  PHRASE
+------------ | -------------
+模仿 imitate | 亚洲的Asian
+扼杀 throttle | 创造力 creativity
+单调 humdrum n./adj. | 给人动力 motivate people
+节奏 pace | 越来越快速 faster and faster
+严重地 severely | 休闲时间 leisure time
+心理疾病 psychological / mental |  illness / disease
+
 ### 2018-09-10
 
 1、{ 生活在困苦中 }，**{++生活在这些贫穷国家的++}市民** ==认为== ^^工业化国家有义务提供财政帮助^^，{ 这可以帮助他们摆脱贫穷 }。 
