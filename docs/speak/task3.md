@@ -28,7 +28,7 @@
 
 ### 2018-06-04
 
-!!! info "**TPO2  Bus Service Elimination Planned （公交服务被计划取消）**"
+??? info "**TPO2  Bus Service Elimination Planned （公交服务被计划取消）**"
 
     ==**Reading**==
     
@@ -70,7 +70,7 @@
 
 ### 2018-06-05
 
-??? info "**TPO3 Hot Breakfasts Eliminated （热早餐被取消）**"
+!!! info "**TPO3 Hot Breakfasts Eliminated （热早餐被取消）**"
 
     ==**Reading**==
     
@@ -120,7 +120,17 @@
         add up 增加，累积
     
         Even if it's only two or three mornings a week, it can add up.（即使每周只两或三天，也增加了（开销）。）
-
+        
+    
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    a wide assortment of sth 各种各样的 | yogurt  酸奶 | health-conscious 健康意识
+    in another way 另一种方式 | affordable 负担得起的 | omelet 煎蛋
+    cereal 麦片 | obvious 明显的 | There's no question 毫无疑问
+    save money 省钱 | make things worse 使事情更差 | go off 离开，走
+    add up 把……加起来 | 
+    
+    
 ### 2018-06-06
 
 ??? info "**TPO 4 Evening Computer Classes May Be Added （可能要增加计算机晚课）**"

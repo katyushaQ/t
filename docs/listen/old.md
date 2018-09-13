@@ -213,4 +213,6 @@
     move away from 改变话题 | focus on 关注 | magazines 杂志
     periodical 期刊，周期的 | look like 看起来像 | domestic 国内的 
     the time 当时的 | content 内容 | in terms of sth 根据……来解释【描述】
-    
+    jail 监狱 | pusblish article 发表文章 | critical of 批评，批判
+    outspoken 坦率的，直言不讳的 | founder 创始人 |  prison 监狱
+    issue 议题 | 

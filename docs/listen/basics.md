@@ -426,3 +426,44 @@ pamphiets 小册子 | dean 系主任，学院院长
 chat about 闲谈 | expect from 期望某人做某事
 fair 招聘 n. | auditorium 礼堂，音乐厅
 supplies 【学校的】必需品 | 
+
+### 2018-09-13
+
+#### Connceting Content Basic Drill 5
+
+PHRASE |  PHRASE
+------------ | -------------
+botany 植物学 | tissue 【动植物的】组织
+angiosperms 被子植物 | flowering 开花的
+dermal 表层的 | vascular 维管的
+waxy 光滑的 | thin 薄的
+cells 细胞 | excellent 【口】太好了
+chloroplasts 叶绿体 | chlorophyll 叶绿素
+regulate 控制，调节 | intake of 吸入 n.
+gas 气，气体 | consist of 由……组成
+xylem 木质部 | phloem 韧皮部
+blood vessesls 血管 | essentially 本质上
+flesh 果肉 | organ 器官，组织
+entire 全部的，整个的 | quality of 特征，特点，特性
+permit 允许 | 
+
+#### Connceting Content Basic Drill 6
+
+PHRASE |  PHRASE
+------------ | -------------
+the Civil War 美国内战 | eventually 【口】最终
+bill 法案，议案 | slavery 奴隶制度
+split sth into sth 分裂……成为…… | parallel 维线，维度
+territory 领土 | delicate 微妙的
+compromise 妥协 | creation  创建
+tip the balance 起决定作用，扭转局势 | admit to 承认
+union 联邦，工会 | paris 成对的
+roughly 大致上 | admission 承认
+repeal 废除 | unleash 释放，发泄
+a wave of violence 一波暴力 | supporter 支持者
+opponents 对手 | prior to 在……之前
+hostility 敌意 | break out 突然爆发
+open war 野战 | Arkansas（美国）阿肯色州
+michigan 美国密歇根州 | Missouri 密苏里（美国州名）
+缅因州（美国州名） | Kansas 堪萨斯州（美国州名）
+Nebraska 内布拉斯加州 | Act 法案，法令
