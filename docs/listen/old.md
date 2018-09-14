@@ -202,7 +202,7 @@
     reservation 预订 |  shorten 使变短 | diesel engine 柴油机 
     unfortunately 很遗憾 | be named 所得名 | on board 在车上
     as time 随着时间的推移 | as time passes 久而久之 | have ever seen before 曾经见过的
-    it wasn't long before 没过多久 | improvement 进步
+    it wasn't long before 没过多久 | improvement 进步 | 
     
 ### 2018-09-12
 
@@ -215,4 +215,8 @@
     the time 当时的 | content 内容 | in terms of sth 根据……来解释【描述】
     jail 监狱 | pusblish article 发表文章 | critical of 批评，批判
     outspoken 坦率的，直言不讳的 | founder 创始人 |  prison 监狱
-    issue 议题 | 
+    issue 议题 | arrest 拘捕 | the Church 国教
+    head 领导 | appear on 露面 | didn't take long 没多久
+    pop up 冒出来 | publication 出版，出版物 | mixture 混合物
+    poetry 诗歌 | analysis | essays 散文
+    philosophical 哲学的 | 
