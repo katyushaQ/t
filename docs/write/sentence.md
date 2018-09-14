@@ -2,6 +2,40 @@
 
 ### 用来论证disadvantage负面的方面
 
+### 2018-09-14
+
+11、**肥胖症的上升率** ==和== ^^快餐的正在上涨的消费趋势^^ ==有着== ^^密切的关系^^。 
+> The ^^rate of adiposis rise^^ has ^^closely related^^ with increasing ^^onsumption trend^^ of fast food.
+
+12、**希腊金融危机** ==正在失去== ^^控制^^ *并且* ==传播（spill over）到了== ^^其他欧洲国家^^。 
+> The financial ^^crisis^^ in ^^Greece^^ is losing domination, and spiiled over other European nation.
+
+13、**游客与当地居民之间的文化差异** ==导致了== ^^他们之间的紧张和冲突^^。
+>  The cultural variety between visitors and local ^^residents^^ contribute to their tension and conflict.
+
+14、**科技令人们过度依赖它**，*这* ==导致了== ^^更多的人长期不运动的生活方式^^ *和* ^^更少的面对面交流^^。
+> It generates more people in in life style long time without sporting and less fact-to-face communication that technology makes it impossible for people overly relay on.
+
+15、{ 显而易见的 }，**长距离飞行** ==对== ^^环境^^ ==有== ^^负面的影响^^，*尽管* **它** ==是== ^^目前最有效率的旅行方式^^。
+> It's obvious, flight of long distance has a negative impact on environment, despit it is the biggest efficient way of travle recently.
+
+16、**很多亚洲国家的人口** ==都在激增==，*然而* **许多欧洲国家的出生率** 仍然 ==保持== ^^很低^^。 
+> All of Population in numerous Asian nation is increasing, while the natality of many European countries is still keeping lesser.
+
+17、{ 就材料、形式和颜色而言 }，**现代建筑的设计** 经常 ==是== ^^与历史环境明显不协调^^。 
+> In terms of metirals, forms and colors, the design of morden architecture are always  ^^apparent^^ ^^incongruity^^ with historical environment.
+
+PHRASE |  PHRASE
+------------ | -------------
+肥胖症 adiposis | 上升率 rate of rise
+消费趋势 onsumption trend | 密切的 closely 
+快餐 fast food | 金融危机 financial crisis
+希腊 Greece | 游客 visitor
+居民 residents | 负面的 negative
+出生率 natality | 就……而言 in terms of sth
+不协调 incongruity | 明显的 apparent
+生活方式 life style | 
+
 ### 2018-09-12
 
 6、{ 总体来讲 }，**孩子的坏行为** ==来源于== {++模仿他们的父母的++} ^^行为^^。

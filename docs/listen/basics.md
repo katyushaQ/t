@@ -455,14 +455,14 @@ the Civil War 美国内战 | eventually 【口】最终
 bill 法案，议案 | slavery 奴隶制度
 split sth into sth 分裂……成为…… | parallel 维线，维度
 territory 领土 | delicate 微妙的
-compromise 妥协 | creation  创建
+compromise 妥协 | creation  创造，创建
 tip the balance 起决定作用，扭转局势 | admit to 承认
 union 联邦，工会 | paris 成对的
 roughly 大致上 | admission 承认
 repeal 废除 | unleash 释放，发泄
-a wave of violence 一波暴力 | supporter 支持者
+a wave of violence 一波暴力事件| supporter 支持者
 opponents 对手 | prior to 在……之前
-hostility 敌意 | break out 突然爆发
+hostility 敌意 | break out 爆发，突然发生
 open war 野战 | Arkansas（美国）阿肯色州
 michigan 美国密歇根州 | Missouri 密苏里（美国州名）
 缅因州（美国州名） | Kansas 堪萨斯州（美国州名）
