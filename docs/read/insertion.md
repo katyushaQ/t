@@ -254,7 +254,7 @@ explosion 爆炸
 
 !!! faq ""
 
-    ^^There^^ **food** ==is== ^^available and accessible { <font color='Salmon'>throughout the winter</font> ``}^^.     <font color='hotpink'>**信息对应**</font>
+    ^^There^^ **food** ==is== ^^available and accessible { <font color='Salmon'>throughout the winter</font> `时间`}^^.     <font color='hotpink'>**信息对应**</font>
     > 在整个冬天有可得到和易接近的食物。
     
     !!! tip ""
@@ -590,7 +590,7 @@ correlates 相关的事物 | migratory 迁徙的 | habits 习惯
 wildebeests 牛玲，角马 | exploit 利用，开发，剥削，使用 v. | fastidious 挑剔的，讲究的
 zebras 斑马 | choosier | gazelle 瞪羚
 stomachs 胃 | preferences 偏好，优先 | in turn 反过来；转而；轮流，依次
-likewise 【正式】同样地，相似地 | fueled | vegetation 【正式】植物
+likewise 【正式】同样地，相似地 | fueled 加燃料 v. | vegetation 【正式】植物
 topi 转角牛羚
 
 #### 12. <font color='red'>**错，为什么**</font>
@@ -612,7 +612,7 @@ topi 转角牛羚
         
         最后一句 Both 说的是以上两点吧？
         
-        C 后面的文字像承接插入句的内容，A 承接文章第一句，B 是 A 的细节，D 不合适，插入局不是总结类
+        C 后面的文字像承接插入句的内容，A 承接文章第一句，B 是 A 的细节，D 不合适，插入句不是总结类
 
 As her technological expertise grew more sophisticated, so did the other aspects of her dances. ■  Although she gave little thought to music in her earliest dances, she later used scores by Gluck, Beethoven, Schubert, Chopin, and Wagner, eventually graduating to Stravinsky, Fauré, Debussy, and Mussorgsky, composers who were then considered progressive. ■  She began to address more ambitious themes in her dances such as The Sea, in which her dancers invisibly agitated a huge expanse of silk, played upon by colored lights. {--■--}  Always open to scientific and technological innovations, she befriended the scientists Marie and Pierre Curie upon their discovery of radium and created a Radium Dance, which simulated the phosphorescence of that element. {++■++}  She both appeared in films—then in an early stage of development—and made them herself; the hero of her fairy-tale film Le Lys de la Vie (1919) was played by René Clair, later a leading French film director.
 

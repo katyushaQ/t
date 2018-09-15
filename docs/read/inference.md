@@ -96,7 +96,7 @@ Paragraph 1: <font color='Blue'>*Before 1815*</font> manufacturing in the United
 Paragraph 1: { Before 1815 `时间`} **manufacturing**  { in the United States `地点`} ==had been done== { in homes or shops `地点`}  { by skilled artisans `方式`}.
 > 早于1815年，美国制造业在家里或者店里由熟练工匠生产。
 
-{ As master craft workers ``}, **they** ==imparted== ^^the knowledge of their trades to apprentices and journeymen^^.
+{ As master craft workers `方式`}, **they** ==imparted== ^^the knowledge of their trades to apprentices and journeymen^^.
 > 作为熟练工艺工作者，他们将他们的手艺知识传授给徒弟和熟练工。
 
  In addition, **women** ==often worked== { in their homes part-time `抽象地点`}, { making finished articles from raw material supplied `结果`} { by merchant capitalists `方式`}. 
@@ -210,7 +210,7 @@ Paragraph 10: 【 **The extreme seriousness of desertification** ==results from=
 > 一旦土壤由腐蚀而消除，只有世纪和千年的一段可以形成新土壤。
 
 { In areas {++where considerable soil still remains++} `地点`}, *though*, **a rigorously {++enforced++} program of land protection and cover-crop planting** ==may make it possible to reverse== ^^the present deterioration of the surface^^.
-> 而在仍然保留相当大的土壤的地区，严格的强制的陆地保护程序和覆盖作物的计划能够彻底改变农民地表的荒漠化。
+> 而在仍然保留相当大的土壤的地区，严格的强制的陆地保护程序和覆盖作物的计划能够彻底改变现在的地表的荒漠化。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
@@ -470,7 +470,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 aspects 方面 | Bushmen 布希曼人 | recesse 【墙壁，架子，柜子等的】凹进处
 cavern 大洞穴  | forced sb to do sth 迫使某人做某事 | cramped 狭窄的，狭小的
  whoever 谁，无论谁，任何人 | dweller 居民，居住者 | generation 一代人
-Lascaux 地名 | cave 洞穴，山洞 | be far removed from sth 预谋是迥然不同
+Lascaux 地名 | cave 洞穴，山洞 | be far removed from sth 与某事物迥然不同
 practice 经常做的事，习俗
      
 ### 2018-07-16
