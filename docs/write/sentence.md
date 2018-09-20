@@ -1,5 +1,45 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
 
+### 后退类（用来论证disadvantage负面的方面）
+
+### 2018-09-14
+
+Is accompanied by… 某种好现象伴随着某种坏现象 
+
+1、**科技的惊人（staggering）发展** ==伴随着== ^^严重的生态污染^^。
+> Technological ^^staggering^^ development {++is accompanied by++} ^^serious^^ ecological pollution.
+
+Sth. Is unwarranted/unjustified 某种做法很不合理
+
+2、**那些巨星们在很短时间内挣的钱** ==是不会有很大可能被认为== ^^与他们的做的工作是合理的^^。
+> It is not large possibly beleived that the money that those stars make in short time is unwarranted with their jobs.
+
+> It is not possibly thought that The money which those stars earn in short time {++is unjustified++} with their jobs.
+
+Be afflicted with
+
+3、**大量的非洲国家** ==正在遭受== ^^长期的(chronic)贫穷和持续不断的战争^^。
+> A lot of Africa counties are  {++afflicted with++} ^^chronic^^ poetry and ^^continual^^ wars.
+
+Deprive someone of sth. 剥夺某人的。。。
+
+4、**现代城市** ==剥夺了== ^^城市居民(city-dwellers)的新鲜空气和舒适的生活节奏^^。
+> The modern city {++has deprived++}  ^^city-dwellers^^ {++of++} fresh air and comfortable pace of life.
+
+Sth. Impels sb. To …促使某人去。。。
+
+5、**越来越多的同伴压力** ==促使== ^^很多年轻人在他们年龄小的时候开始抽烟或喝酒^^。(使用强调句) 
+> {++It was++} more and more companies' pressure {++that++} impels many youth to begin smoking or drinking ^^when they were young^^.
+
+PHRASE |  PHRASE
+------------ | -------------
+遭受 suffer from | 持续不断的 continual
+长期的 chronic | 城市居民的 city-dwellers
+陪伴 accompainy | 没有正当理由的 unwarranted / unjustified
+【正式】使受痛苦，折磨 afflict | 谋夺 deprive sb of sth
+【正式】 促使，驱使 impel | 在他们年龄小的时候 when they were young
+严重的 serious | 
+
 ### 用来论证disadvantage负面的方面
 
 ### 2018-09-14

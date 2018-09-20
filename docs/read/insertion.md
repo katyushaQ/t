@@ -306,6 +306,8 @@ Paragraph 3: <font color='LightSeaGreen'>*（前文最后说迁徙，这里提�
 ■ **The numbers of deer** ==have fluctuated markedly== { since the entry of Europeans into Puget Sound country `原因`}.
 > 鹿的数量有明显的波动，因为欧洲人的进入到PS城市。
 
+>> game：猎物。succulent多汁的猎物，抱怨鹿的缺乏。
+
 ■ **The early explorers and settlers** ==told of== ^^abundant deer { in the early 1800s `时间`}^^ and *yet* almost { in the same breath `地点`} ==bemoaned== ^^the lack of this succulent game animal^^. 
 > 早期探索者和移民描述1800年代早期的鹿，但是几乎在同样的气息中抱怨这个肉质植物运动动物的缺乏。
 
@@ -313,19 +315,26 @@ Paragraph 3: <font color='LightSeaGreen'>*（前文最后说迁徙，这里提�
 > 北美前沿的著名探索者，L和C在1805年11月14号抵达哥伦比亚河的河口，在几乎饿死的情况下。
 
 **They** ==had experienced great difficulty== ^^finding game west of the Rockies and not until the second of December {++did they kill their first elk++}^^.
-> 他们非常有伟大的困难的体验，寻找运动在R的西边，直到12月2号，他们杀死第一头麋鹿。
+> {--他们非常有伟大的困难的体验--}，寻找{--运动--} {++猎物++} 在R的西边，直到12月2号，他们杀死第一头麋鹿。
+
+>> have difficulty doing sth 有困难做某事，==They  had experienced(v.) great(adj.) difficulty(n.) finding== ^^...^^ 他们经历了巨大的苦难  
 
 { To keep 40 people alive that winter `目的`}, **they** ==consumed== ^^approximately 150 elk and 20 deer^^.
 >为了在冬天保持40人活着，他们消耗了大约150头麋鹿和20头鹿。
 
 And { when game moved out of the lowlands in early spring `时间`}, **the expedition** ==decided== ^^to return east rather than face possible starvation^^.
-> 并且，当时运动在春天开始离开低地，远征决定返回东方而不是面对可能饿死。
+> 并且，当时 {--运动--} {++猎物++} 在春天开始离开低地，远征决定返回东方而不是面对可能饿死。
+
+>> the expedition 远征探险队
 
 { Later on in the early years of the nineteenth century `时间`}, { when Fort Vancouver became the headquarters of the Hudson's Bay Company `时间`}, **deer populations** ==continued to fluctuate==.
 > 19世纪的早些年以后，当堡垒温哥华成为H的B公司的大本营，鹿的数量持续波动。
 
+>> Later on 时间逻辑词，顺承递进，对应前面提到的时间
+
+
 **David Douglas**, ( Scottish botanical explorer of the 1830s ) , ==found== ^^a disturbing change in the animal life around the fort during the period {++between his first visit in 1825 and his final contact with the fort { in 1832 `时间`}++}^^.
-> DD，1830年代的苏格兰传记作者探索者，在他1825年第一次访问和有堡垒的1832年最后一次联系期间，发现一个扰乱在动物生活环境堡垒的改变。
+> DD，1830年代的苏格兰传记作者探索者，在他1825年第一次访问和有堡垒的1832年最后一次联系期间，发现一个扰乱{++性的变化++} 在动物生活环境堡垒的改变。
 
 **A recent Douglas biographer** ==states==:^^" The deer^^ {++which once picturesquely dotted the meadows around the fort were gone [in 1832]++}, ==hunted== ^^to extermination { in order to protect the crops `目的`}^^." 
 > 一个D传记作者最近的陈述：一旦美丽的点缀的草地围绕堡垒在1832年消失，为了保护农作物，鹿被猎杀到灭绝。
@@ -371,7 +380,7 @@ told of 描述，叙述 | frontier 边境，前沿 | mouth 河口
     
         对文章套路不够熟悉
 
-Paragraph 3: <font color='LightSeaGreen'>*（前文可以在介绍画，下文继续阐述画的某些具体特征）*</font>The subjects of the paintings are mostly animals. <font color='LightSeaGreen'>*（细节，介绍画的内容）*</font>The paintings rest on bare walls, with no backdrops or environmental trappings. <font color='LightSeaGreen'>*（细节，介绍画的摆放位置）*</font>Perhaps, like many contemporary peoples, Upper Paleolithic men and women believed that the drawing of a human image could cause death or injury, and if that were indeed their belief, it might explain why human figures are rarely depicted in cave art. <font color='LightSeaGreen'>*（细节，古人对画的理解，提出思考）*</font><font color='red'>**|| 另一说明**</font> Another explanation for the focus on animals might be that these people sought to improve their luck at hunting.<font color='LightSeaGreen'>*（顺承，回答思思考的问题，提出打猎）*</font> {--■--} This theory is suggested by evidence of chips in the painted figures, perhaps made by spears thrown at the drawings. <font color='LightSeaGreen'>*（细节，打猎对画的影响）*</font><font color='red'>**||**</font> ■ <font color='Blue'>*But*</font> if improving their hunting luck was the chief motivation for the paintings, it is difficult to explain why only a few show signs of having been speared.<font color='LightSeaGreen'>*（细节内转折，还是在说打猎与画的关系，思考提问）*</font> {++■++} <font color='Blue'>*Perhaps*</font> the paintings were inspired by the need to increase the supply of animals.<font color='LightSeaGreen'>*（顺承，自问自答）*</font> Cave art seems to have reached a peak toward the end of the Upper Paleolithic period, when the herds of game were decreasing. <font color='LightSeaGreen'>*（细节，深度补充）*</font>■ 
+Paragraph 3: <font color='LightSeaGreen'>*（前文可以在介绍画，下文继续阐述画的某些具体特征）*</font>The subjects of the paintings are mostly animals. <font color='LightSeaGreen'>*（细节，介绍画的内容）*</font>The paintings rest on bare walls, with no backdrops or environmental trappings. <font color='LightSeaGreen'>*（细节，介绍画的摆放位置）*</font>Perhaps, like many contemporary peoples, Upper Paleolithic men and women believed that the drawing of a human image could cause death or injury, and if that were indeed their belief, it might explain why human figures are rarely depicted in cave art. <font color='LightSeaGreen'>*（细节，古人对画的理解，提出思考）*</font><font color='red'>**|| 另一说明**</font> Another explanation for the focus on animals might be that these people sought to improve their luck at hunting.<font color='LightSeaGreen'>*（顺承，回答思思考的问题，提出打猎）*</font> {--■--} This theory is suggested by evidence of chips in the painted figures, perhaps made by spears thrown at the drawings. <font color='LightSeaGreen'>*（细节，打猎对画的影响）*</font> ■ <font color='Blue'>*But*</font> if improving their hunting luck was the chief motivation for the paintings, it is difficult to explain why only a few show signs of having been speared.<font color='LightSeaGreen'>*（细节内转折，还是在说打猎与画的关系，思考提问）*</font> {++■ 因果，为上一句的总结性++} <font color='red'>**||**</font> <font color='Blue'>*Perhaps*</font> the paintings were inspired by the need to increase the supply of animals.<font color='LightSeaGreen'>*（顺承，自问自答）*</font> Cave art seems to have reached a peak toward the end of the Upper Paleolithic period, when the herds of game were decreasing. <font color='LightSeaGreen'>*（细节，深度补充）*</font>■ 
 
 ----
 
@@ -383,9 +392,11 @@ Paragraph 3: <font color='LightSeaGreen'>*（前文可以在介绍画，下文�
 
 Perhaps, ( like many contemporary peoples ), **Upper Paleolithic men and women** ==believed== {++that the drawing of a human image could cause death or injury++}, and { if that were indeed their belief `条件`}, **it** ==might explain== {++why human figures are rarely depicted { in cave art `地点`}++}.
 > 也许，像许多当代的人们，旧石器时代教高级的男人和女人相信一个人类想象的画可以导致死亡或者伤害，并且如果这些画确实是他们认为的那样，可以解释为什么人类数据被极少地描绘在洞穴艺术中。
+>> 第一个解释
 
 **Another explanation for the focus on animals** ==might be== {++that these people sought to improve their luck at hunting++}.
 > 另一个对于关注于动物的解释可能是，这些人在打猎中寻求好运。
+>> 第二个解释
 
 ■ **This theory** ==is suggested== { by evidence of chips in the painted figures `方式`}, perhaps ==made== { by spears thrown at the drawings `方式`}.
 > 这个理论是由画上的数据痕迹的证据所指出，也许由矛刺在画上锁制造。
@@ -393,11 +404,16 @@ Perhaps, ( like many contemporary peoples ), **Upper Paleolithic men and women**
 ■ *But* { if improving their hunting luck was the chief motivation for the paintings `条件`}, *it* ==is== **difficult to explain** {++why only a few show signs of having been speared++}.
 > 但是，如果改善他们打猎的好运是画的主要动机，很难解释为什么只有一小部分显示曾经被刺的标记。
 
+>> 第三个解释，插入位
 ■ Perhaps **the paintings** ==were inspired== { by the need to increase the supply of animals`方式`}.
 > 也许画是由需要增加动物供应被制造。
 
+>> 那个时代的人就这样认为的，画越多的动物就觉得动物就多了 
+
 **Cave art** ==seems to have reached== ^^a peak toward the end of the Upper Paleolithic period^^, { when the herds of game were decreasing `时间`}. ■
 > 洞穴艺术看似已经到达一个顶峰朝着较高的旧石器时代时期的尾声，在被猎群动物在减少的时候。
+
+>> 支持上一句
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
@@ -474,7 +490,7 @@ metropolis 首要城市 | Mesoamerica 中美洲
         
         排除法的话，D的下一句应该是 ==特殊说明== 的细节内容
         
-Ir has not been common at Earth's since the very beginning of the planet's history. Because it usually exists in a metallic state, it was preferentially incorporated in Earth's core as the planet cooled and consolidated. lr is found in high concentrations in some meteorites, in which the solar system's original chemical composition is preserved. Even today, microscopic meteorites continually bombard Earth, falling on both land and sea. By measuring how many of these meteorites fall to Earth over a given period of time, scientists can estimate how long it might have taken to deposit the observed amount of lr in the boundary clay. {--■--} These calculations suggest that a period of about one million years would have been required. <font color='red'>**||**</font> {++■++} <font color='Blue'>*However*</font>, other reliable evidence suggests that the deposition of the boundary clay could not have taken one million years. ■ <font color='Blue'>*So*</font> the unusually high concentration of lr seems to require a special explanation. ■ 
+Ir has not been common at Earth's since the very beginning of the planet's history. Because it usually exists in a metallic state, it was preferentially incorporated in Earth's core as the planet cooled and consolidated. lr is found in high concentrations in some meteorites, in which the solar system's original chemical composition is preserved. Even today, microscopic meteorites continually bombard Earth, falling on both land and sea. By measuring how many of these meteorites fall to Earth over a given period of time, scientists can estimate how long it might have taken to deposit the observed amount of lr in the boundary clay. {--■--} These calculations suggest that a period of about one million years would have been required.  ■ <font color='Blue'>*However 转折，所以前面的观点有问题，因此不能被接受*</font>, other reliable evidence suggests that the deposition of the boundary clay could not have taken one million years. {++■++} <font color='red'>**||**</font> <font color='Blue'>*So*</font> the unusually high concentration of lr seems to require a special explanation. ■ 
 
 ----
 
@@ -562,7 +578,7 @@ The differences in feeding preferences lead, in turn, to differences in migrator
 > 其他种类也这样做。
 
 ■  *But* { when a new area is fueled by rain `时间`}, **the mammals** ==migrate toward== ^^it in a set order to exploit it^^.
-> 但是，当雨把一个新地区有食物，哺乳动物迁徙到它为了利用它的地方。
+> 但是，当雨把一个新地区有食物，哺乳动物迁徙到它为了开发利用它的地方。
 
 !!! failure ""
 
@@ -578,11 +594,11 @@ The differences in feeding preferences lead, in turn, to differences in migrator
 > 更大的，挑剔的饲养者，斑马，首先移动；C，更小的角马随后就来，然后所有的最小物种，瞪羚，最后到达。
 
 **The later species all** ==depend on== ^^the preparations of the earlier one^^, { for the actions of the zebra alter the vegetation to suit the stomachs of the wildebeest, topi, and gazelle `目的`}.
-> 最后的所有物种依靠更早的一个的准备，因为斑马的行为改变植物以适合角马，转角牛羚和瞪羚的胃。
+> {--最后的--} {++后来的++}所有物种依靠更早的一个的准备，因为斑马的行为改变植物以适合角马，转角牛羚和瞪羚的胃。
 
 !!! failure ""
 
-    for 因为，对么？
+    for 因为，对么？老师：对
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
