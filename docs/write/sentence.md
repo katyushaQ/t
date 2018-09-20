@@ -1,6 +1,41 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
 
-### 后退类（用来论证disadvantage负面的方面）
+## 后退类（用来论证disadvantage负面的方面）
+
+### 2018-09-20
+
+A has rendered B + adj./n. A让B变成某种。。
+
+6、**信息技术产业的更新** ==让== ^^许多老款电脑^^ ==变的== ^^过时(obsolete)^^。
+> Updating of information technological industry {++has rendered++} many old computer obsolete.
+
+Sth. Is the root cause of …
+
+7、**水资源短缺(scarcity)的根源** ==是== ^^人口爆炸^^。
+>  Scarcity of water resources {++is the root csuse of++} population explosion.
+
+Be confronted with sth.
+
+8、**我们** 在某种程度上 ==将要面临== ^^这个问题^^，{ 无论它会多令人不开心 }。
+> We will partly face to this problem, however it makes people unpleasant。
+
+Be inundated with sth. 
+
+9、**国际贸易** ==让== ^^很多发展中国家的市场^^ ==变得== {++充斥着他们实际上不需要的外国产品++}。
+> The national trade makes it possible for so many develpmental contries's market to {++be inundateed with++} their unnecessary foreign producation.
+
+If …, sth will be ensue.
+
+10、{ 如果父母忽视他们的下一代 }，**缺乏纪律性和尊敬** ==就会产生==。
+> If parents ignore their generation, lacking sense of discipline and respect {++will be ensuing++}.
+>> ensue是动词，这个词条用的be，那么是不是应该ensuing呀
+
+PHRASE |  PHRASE
+------------ | -------------
+使成为，使变得 render | 不足，缺乏，稀少 scarcity n.
+不开心 unpleasant | 充斥着 Be inundated with
+外国的 foreign | 纪律性 sense of discipline
+尊敬 respect | 【正式】继而发生 ensue v.
 
 ### 2018-09-14
 
@@ -40,7 +75,7 @@ PHRASE |  PHRASE
 【正式】 促使，驱使 impel | 在他们年龄小的时候 when they were young
 严重的 serious | 
 
-### 用来论证disadvantage负面的方面
+## 用来论证disadvantage负面的方面
 
 ### 2018-09-14
 
@@ -131,7 +166,7 @@ PHRASE |  PHRASE
 工业化国家 industrialized country | 
 
 
-### 用来论证advantage好的方面
+## 用来论证advantage好的方面
 
 ### 2018-09-07
 
@@ -237,7 +272,7 @@ PHRASE |  PHRASE
 
 ----
 
-### 指导课句子再翻译一次
+## 指导课句子再翻译一次
 
 ### 2018-08-23
 
@@ -349,7 +384,7 @@ PHRASE |  PHRASE
 
 ----
 
-### 以前练习
+## 以前练习
 
 #### Education
 
