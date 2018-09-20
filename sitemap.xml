@@ -124,6 +124,12 @@
     </url>
         
     <url>
+     <loc>/read/newsentence/</loc>
+     <lastmod>2018-09-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/question/</loc>
      <lastmod>2018-09-20</lastmod>
      <changefreq>daily</changefreq>
