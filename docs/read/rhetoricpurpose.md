@@ -1,5 +1,80 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-09-21
+
+#### 3.
+
+!!! faq ""
+
+    **The author** ==mentions== ^^"Baring the teeth in a hostile way"^^ { in order to `目的`} 
+    > 作者提及“用敌意的方式露出牙齿”是为了
+    
+    A. ==Differentiate== ^^one possible meaning of a particular facial expression^^ {++from other meanings of it++}} 
+    > 区分一个从特殊的面部表情的其他含义的表情一个可能含义
+    
+    B. ==Support== ^^Darwin's theory of evolution^^
+    > 支持达尔文的进化论
+    
+    C. ==Provide== ^^an example of a facial expression^^ {++whose meaning is widely understood++} 
+    > 提供一个面部表情的例子，这个面部表情它的意义被广泛地理解
+    
+    D. ==Contrast== ^^a facial expression^^ {++that is easily understood with other facial expressions++}
+    > 对比一个面部表情，这个表情容易随着其他人的面部表情而理解
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：露出牙齿；敌对方式
+    
+    ==段落分析==
+    
+    细节：主旨句—情感表达普遍；==2个例子：笑和露牙齿==；题干相关—敌意露牙齿，达尔文，19世纪，生气标志 
+    
+    答案：情感表达普遍性+敌意露牙齿细节
+    
+    A没提；B没提支持；C主旨+题干；D没有对比    
+    
+!!! failure ""
+
+    做题后反思：段落分析，题干句，应当标明它在句子中的成分和作用，比如：==例子==，本题就是
+
+Paragraph 1：{`意群1`【==**Joy and sadness are experienced by people in all cultures around the world, but how can we tell when other people are happy or despondent?**== <font color='red'>主旨句-问</font>】【==**It turns out that the expression of many emotions may be universal.**== <font color='red'>主旨句-答</font> `观点`】`意群1`} <font color='red'>**||**</font>  {`意群2` Smiling is apparently a universal sign of friendliness and approval. `顺承，细节` <font color='red'>**||**</font>【{++**Baring the teeth in a hostile way, as noted by Charles Darwin in the nineteenth century, may be a universal sign of anger.**++} <font color='red'>题干句</font> `顺承，另一解释`】 As the originator of the theory of evolution, Darwin believed that the universal recognition of facial expressions would have survival value. `顺承，补充` <font color='Blue'>For example 举例</font>, facial expressions could signal the approach of enemies (or friends) in the absence of language. `顺承，举例` `意群2`}
+
+----
+
+【 **Joy and sadness** ==are experienced== { by people `方式`} {++in all cultures around the world++}, *but* **how** ==can== ^^we^^ ==tell== {++when other people are happy or despondent++}? <font color='red'>主旨句-问</font> 】
+> 快乐与悲伤由围绕世界的所有文化的人们所体会，但是我们如何能辨别其他人什么时候开心或沮丧？
+
+【 *It* turns out {++that the expression of many emotions may be universal++}. <font color='red'>主旨句-答</font> 】
+> 许多情感的表达可能是普遍的，成为最终结果。
+
+Smiling is apparently a universal sign of friendliness and approval.
+> 笑似乎是友善和认可的普遍标志。
+
+【 **Baring the teeth in a hostile way**, ( as noted by Charles Darwin in the nineteenth century ), ==may be== ^^a universal sign of anger.^^ <font color='red'>题干相关句</font> 】
+> 用敌意的方式露出牙齿，在19世纪由查尔斯达尔文提出，可能是生气的通用标志。
+
+{ As the originator of the theory of evolution `方式`}, **Darwin** ==believed== {++that the universal recognition of facial expressions would have survival value++}. 
+> 作为进化论的发明者，达尔文认为面部表情的普遍认可会有生存价值。
+
+( For example ), **facial expressions** ==could signal== ^^the approach of enemies (or friends)^^ { in the absence of language `抽象地点`}. 
+> 例如，面部表情会表示敌人（或朋友）的靠近，在缺乏语言的情况下。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+Bare 露出 v. | teeth 牙齿 | Differentiate 区分 v.
+evolution 进化 | Joy 快乐，喜悦 n. | sadness 悲伤 n.
+despondent 沮丧的，失望的 | turn out 最后结果是，最终成为 | universal 全世界的，普遍的
+apparently 似乎，好像 | approval 批准，认可 | sign 标志
+originator 发明者 | recognition 承认，认可 | absence of 缺乏，没有
+the approach of sth 某事的来临【临近】 | signal 表示 v. | enemies 敌人（复数）
+tell sb how/what/where/who/when etc 显示，提示，说明
+
+
 ### 2018-09-19
 
 #### 2.
@@ -42,7 +117,7 @@
 
 ----
 
-【**Sensitivity to physical laws** ==is== ^^thus an important consideration^^ { for the maker of applied-art objects `状语`}. <font color='red'>主旨句</font>】
+【 **Sensitivity to physical laws** ==is== ^^thus an important consideration^^ { for the maker of applied-art objects `状语`}. <font color='red'>主旨句</font> 】
 > 物理法则的敏感性是这样，对于应用艺术主体的制作者来说，是很严重的必须考虑的因素。
 
 *It* ==is== ^^often taken for granted^^ **that this is also true for the maker of fine-art objects**. 
@@ -60,13 +135,13 @@ This assumption misses a significant difference between the two disciplines.
 **Sculptures** ==must==, ( for example ), ==be== ^^stable^^, {++which requires an understanding of the properties of mass, weight distribution, and stress++}.
 > 例如，雕刻必须是稳定的，这件事需要一个体积，重量分布和压力的性质的理解。
 
-**Paintings** ==must have== ^^rigid stretchers^^ { so that the canvas will be taut ``}, *and* **the paint** ==must not deteriorate, crack, or discolor==. 
+**Paintings** ==must have== ^^rigid stretchers^^ { so that the canvas will be taut `结果`}, *and* **the paint** ==must not deteriorate, crack, or discolor==. 
 > 画必须有不弯曲的支架，因此油画会是紧绷的，并且这个画必须不会变质，不会裂开，或者不会褪色。
 
 ***These 指代*** ==are== ^^problems^^ {++that must be overcome { by the artist `方式`}++} { because they tend to intrude upon his or her conception of the work `原因`}. 
 > 上面的这些是艺术家必须克服的问题，因为这些问题易于干涉他或她工作的观念。
 
-【( For example ), { in the early Italian Renaissance `时间`}, **bronze statues of horses {++with a raised foreleg++}** usually ==had== ^^a cannonball {++under that hoof++}.  <font color='red'>题干涉及内容</font>】
+【 ( For example ), { in the early Italian Renaissance `时间`}, **bronze statues of horses {++with a raised foreleg++}** usually ==had== ^^a cannonball {++under that hoof++}.  <font color='red'>题干涉及内容</font> 】
 > 例如，在文艺复兴早期，有一个抬起前腿的马的青铜雕像通常在其蹄下有一个铁弹。
 
 ***This 指代*** ==was done== { because the cannonball was needed to support the weight of the leg `原因`}. 
@@ -140,16 +215,16 @@ hoof 蹄 | statue 雕像 | being 本质 |
 
 ----
 
-【 **The first generation to experience these changes** ==did not adopt== ^^the new attitudes^^ easily. <font color='red'>主旨句</font>】
+【 **The first generation to experience these changes** ==did not adopt== ^^the new attitudes^^ easily. <font color='red'>主旨句</font> 】
 > 经历这些改变的第一代人无法容易地适应新看法。
 
 **The factory clock** ==became== ^^the symbol of the new work rules^^. 
 > 工厂时钟变成新的工作规则的象征。
 
-【 **One mill worker {++who finally quit++}** ==complained== revealingly ^^about "obedience to the ding-dong of the bell-just { as though we are so many living machines `方式`}."^^  <font color='red'>题干涉及内容</font>】
+【 **One mill worker {++who finally quit++}** ==complained== revealingly ^^about "obedience to the ding-dong of the bell-just { as though we are so many living machines `方式`}."^^  <font color='red'>题干涉及内容</font> 】
 > 一个最终辞职的工厂工人揭露性地抱怨关于“遵从铃声的叮咚声，就像我们是许多活着的机器”。
 
-**With the loss of personal freedom** also ==came== ^^the loss of standing^^ { in the community `抽象地点`}.
+**With the loss of personal freedom** also ==came== ^^the loss of standing^^ {++in the community++}.
 > 随着个人自由的丢失，也带来社会地位的丢失。
 
 { Unlike artisan workshops `对比`} {++in which apprentices worked closely with the masters supervising them++}, **factories** sharply ==separated== ^^workers^^ ==from== ^^management^^.

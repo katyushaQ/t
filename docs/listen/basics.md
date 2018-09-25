@@ -467,3 +467,30 @@ open war 野战 | Arkansas（美国）阿肯色州
 michigan 美国密歇根州 | Missouri 密苏里（美国州名）
 缅因州（美国州名） | Kansas 堪萨斯州（美国州名）
 Nebraska 内布拉斯加州 | Act 法案，法令
+
+### 2018-09-21
+
+#### Inference Sample Question
+
+PHRASE |  PHRASE
+------------ | -------------
+host 主持人 | I wonder if 【口】我不知道是否【用于礼貌的要求某物】
+paperwork 文书，资料，申请表 | disc jockyes DJ，光盘操作者
+cautously 很谨慎 | show 演出 n.
+personal recommandation 个人推荐 | application 申请（书）
+major 专业 | anyway 【口】总之
+spot 地点，场所 | open up 【机会，新情况】出现，产生
+know 认识 | fill out 填写【正式文件、表格等】
+go through 检查，审查 | 
+
+#### Inference Basic Drill
+
+PHRASE |  PHRASE
+------------ | -------------
+return 归还，退回 | compatible 兼容的
+annoyed 生气的 | electronic 电子，电的
+used 旧的 | I guess 【口】我想，我认为
+be stuck with sth 不得不接受某事物 | not necessarily 不一定
+willing to do sth 乐意做某事 | find out (that) 发现
+想退货那会自己的钱 want to return is for my money back | 那会我的部分钱 get some of money back
+ads 广告（复数） | 
