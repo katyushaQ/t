@@ -2,6 +2,42 @@
 
 ## 后退类（用来论证disadvantage负面的方面）
 
+### 2018-09-25
+
+Distract sb. From …
+
+11、**有一些教育性的视频**，==替代的是== ^^让学生从课堂中分心^^，{ 实际上让学生在学习上更有动力 }。
+> Some educational videos replace that {++distract++} students {++from++} classes, actually make it possible for students to study more actively.
+ 
+Be addicted to sth. /be preoccupied with sth.
+
+12、{ 在极端情况下(At the extreme) }，**一些孩子** ==可能甚至会变得== ^^对电脑上瘾就像他们中的一些人对毒品依赖一样^^。
+> {++At the extreme++}, some children even might {++become preoccupied with++} computer as some one {++is addicated to++} ^^drugs^^.
+
+Copy sth. Mechanically/apply sth. indiscriminately
+
+13、**许多建筑学家如今照搬传统的建筑风格到他们自己的建筑设计中的现象** ==是== ^^困扰人的^^。(强调句) 
+> It was puzzling that is phenomenon which many ^^architects^^ nowadays {++copy++} traditional architecture style {++Mechanically++} to their own arvhitectural designs.
+
+Increase the government expenditure增加政府支出
+
+14、**大规模裁员（layoffs）** ==将会== { 显著的在培训那些失去工作但是没有胜任新工作的技能的市民上 } ==增加== ^^政府支出^^。
+> A large scope of layoffs will {++increase the government expenditure++} evidently on training those citizen whom loses work and obtains new skills.
+
+Run contrary to (principles/faith/theories/evidence)
+
+15、**他们的提议与科技提高人类的效率这个压倒性的证据** ==背道而驰==。
+> Their proposes and technological enhancing human's effiency which is ^^overwhelming^^ {++run contrary to evidence++}.
+
+PHRASE |  PHRASE
+------------ | -------------
+分散【注意力】，使分心 v.  distract sb/sth from sth | 有瘾的，上瘾的 addicted
+【正式】使全神贯注，使专心于，占据【某人的思想】 preoccupy | 毒品 drug
+困扰人的 puzzling  | 机械地 ，呆板地 Mechanically 
+不分青红皂白地，不加区分地 indiscriminately | 建筑学家 architect | 裁员 layoffs
+开支，支出 expenditure | 正相反 contrary 
+压倒性的 overwhelming
+
 ### 2018-09-20
 
 A has rendered B + adj./n. A让B变成某种。。

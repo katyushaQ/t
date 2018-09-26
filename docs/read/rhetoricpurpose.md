@@ -1,5 +1,152 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-09-25
+
+#### 5.
+
+!!! faq ""
+
+    { In paragraph 4 }, **what** ==is== ^^the author's main purpose^^ { in the discussion of the dramatic cessation of tree growth at the upper timberline? }
+    > 在第四段中，作者在树木生长在树木线以上的戏剧性中断的讨论中主要的目的是什么？
+    
+    A. ==To argue== ^^that none of several environment factors {++that are believed to contribute to that phenomenon do in fact++} play a role {++in causing it++}^^
+    > 用来论证不相同的被认为事实上导致成为那个现象环境因素中，没有一个扮演导致它的角色
+    
+    B. ==To argue== { in support of one particular explanation of that phenomenon against several competing explanations }
+    > 用来论证支持那个现象反对数个竞争解释的一个特殊的解释
+    
+    C. ==To explain== {++why the primary environmental factor responsible for that phenomenon has not yet been identified++}
+    > 用来说明为什么主要环境因素对那个现象还没有被识别负有责任
+    
+    ==D==. ==To present== ^^several environmental factors^^ {++that may contribute to a satisfactory explanation of that phenomenon++}
+    > 用来表现数个会导致那个现象的合适的解释环境因素
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：树木生长，高于树木生长线，戏剧性中断
+    
+    ==段落分析==
+    
+    细节：主旨句—前两句问答，问-没有商定，为什么。答-各种各样的环境因素；5个例子—雪、风速（海拔）、紫外线、吃草动物、温度（最主要）
+    
+    答案：喜剧性中断+各种各样的环境因素
+    
+    A说错；B没提特殊解释；C没提负责任；D题干+细节
+    
+!!! failure ""
+    
+Paragraph 4：【`意群1` {++**There is still no universally agreed-on explanation for <font color='red'>why 逻辑词</font> there should be such a dramatic cessation of tree growth at the upper timberline.**++} <font color='red'>题干句-主旨句-问</font>】 【==**Various environmental factors may play a role.**== <font color='red'>主旨句-答</font> `观点` `意群1`】 <font color='red'>**||**</font> 【`意群2` Too much <font color='Salmon'>snow 例1</font>, <font color='Blue'>for example, 举例</font> can smother trees, and avalanches and snow creep can damage or destroy them. `顺承，举例1` Late-lying snow reduces the effective growing season to the point where seedlings cannot establish themselves. `顺承，进一步解释`】 <font color='Salmon'>Wind velocity 例2</font> also increases with altitude and may cause serious stress for trees, as is made evident by the deformed shapes at high altitudes. `顺承，举例2` Some scientists have proposed that the presence of increasing levels of <font color='Salmon'>ultraviolet light 例3</font> with elevation may play a role, <font color='Blue'>while 句内转折</font> <font color='Salmon'>browsing and grazing animals 例4</font> like the ibex may be another contributing factor. `顺承，举例3和4` Probably <font color='Blue'>the most important 极端词</font> environmental factor is <font color='Salmon'>temperature 例5</font>, for if the growing season is too short and temperatures are too low, tree shoots and buds cannot mature sufficiently to survive the winter months. `顺承，强调` `意群2`】
+
+----
+
+【 ^^There^^ ==is== **still no universally agreed-on explanation** {++for why there should be such a dramatic cessation of tree growth at the upper timberline++}. <font color='red'>题干相关句</font>】 
+> 仍然没有普遍地商定的解释，对于为什么这些树木生长在高于树木线的地方的突然的中断。
+
+**Various environmental factors** ==may play== ^^a role^^. 
+> 各种各样的环境因素可能扮演一个角色。
+-
+**Too much snow**, ( for example ), ==can smother== ^^trees^^, and **avalanches and snow creep** ==can damage== or ==destroy== ^^them^^.
+> 例如，太多的雪会完全覆盖树，雪崩和雪蔓延会损坏或者毁灭他们。
+
+**Late-lying snow** ==reduces== ^^the effective growing season to the point^^ {++where seedlings cannot establish themselves++}.
+> 后来平躺的雪降低有效生长季节到幼苗不能建立他们自己的点。
+
+**Wind velocity** also ==increases== ^^with altitude^^ and ==may cause== ^^serious stress for trees^^, { as is made evident by the deformed shapes at high altitudes }.
+> 风速也随着海拔增加，对树造成严重的压力，从高海拔变形的形状形状是明显的
+
+!!! failure ""
+    
+    as和made 不知道该怎么翻了
+
+**Some scientists** ==have proposed== {++that the presence of increasing levels of ultraviolet light with elevation may play a role++}, *while* **{++browsing and grazing++} animals** {++like the ibex++} ==may be== ^^another contributing factor^^.
+> 一些科学家建议高海拔的紫外线光的逐渐增加的等级的存在可能扮演一个角色，然而吃草的和啃草的动物，像北山羊，可能是另一个导致因素。
+
+{ Probably the most important environmental factor is temperature }, ( for if the growing season is too short and temperatures are too low ), **tree shoots and buds** ==cannot mature sufficiently to survive== ^^the winter months^^.
+> 可能最主要的环境因素是温度，对于如果生长季节太短，温度太低，树芽和蓓蕾不能足够成熟生存在冬天月份。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+dramatic 巨大而突然的，急剧的，戏剧性的 | cessation 【正式】暂时休息，停止，中断 | timberline 树木生长线
+paragraph 【文章的】段，段落 | play a role 扮演一个角色 | cause it 导致它
+competing 竞争 | several 几个，数个；不相同的 | in support 支持，赞同 n.
+responsible for 对……负有责任的 | identify 认出，识别 | satisfactory 令人满意的，合适的
+agreed-on 商定 | smother 完全覆盖，厚厚地覆盖 v. | creep 蔓延 n.
+Late-lying 稍后平躺的 | seedlings 幼苗 | establish 建立
+velocity 【术语】速度 | altitude 海拔，高地 | evident 明显的
+deform 使变形 | shoots 【植物的】芽，苗，嫩枝 | buds 芽，苞，蓓蕾
+mature 变成熟，完全长成 | sufficiently 足够 | avalanches 雪崩
+ultraviolet 紫外线的 | graze 【动物】吃草 v. | ibex 北山羊
+ 
+#### 4.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==mention== ^^Carbon dioxide^^ { in the passage }?
+    > 为什么作者在段落中提到二氧化碳？
+    
+    ==A==. ==To explain== ^^the origin of a chemical^^ {++that can erode rocks++}
+    > 用来解释能够腐蚀岩石的一个化学物质的起源
+    
+    B. ==To contrast== ^^carbon dioxide^^ {++with carbonic acid++}
+    > 用来对比含碳酸的二氧化碳
+    
+    C. ==To give== ^^an example of how rainwater penetrates soil^^
+    > 用来给出一个雨水如何深入土壤的例子
+    
+    D. ==To argue== { for the desirability of preventing erosion }
+    > 用来论证用于抵抗腐蚀的愿望
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：二氧化碳
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，天气，腐蚀的主要药剂；题干句—举例雨水侵蚀，二氧化碳在当中的作用
+    
+    答案：天气+腐蚀药剂+举例+二氧化碳的作用
+    
+    A主旨+题干；B没提对比；C雨水是例子，但二氧化碳不是，是例子中的作用因素；D没提愿望
+    
+!!! failure ""
+    
+    
+Paragraph 5: 【==**The weather, in its many forms, is the main agent of erosion.**== <font color='red'>主旨句</font> `观点`】 <font color='red'>**||**</font> 【`意群1` Rain washes away loose soil and penetrates cracks in the rocks. `顺承，举例` 【{++**Carbon dioxide in the air reacts with the rainwater, forming a weak acid (carbonic acid) that may chemically attack the rocks.**++} `顺承，解释`】 The rain seeps underground and the water may reappear later as springs. `顺承，现象` <font color='Blue'> These springs 指代前一句的泉水</font> are the sources of streams and rivers, which cut through the rocks and carry away debris from the mountains to the lowlands. `顺承，与第二句呼应` `意群1`】
+
+----
+
+【 **The weather**, ( in its many forms ), ==is== ^^the main agent of erosion^^. <font color='red'>主旨句</font>】
+> 天气，在它的许多形式中，是腐蚀的主要药剂。
+
+**Rain** ==washes away== ^^loose soil^^ and ==penetrates== ^^cracks^^ { in the rocks }. 
+> 雨冲走松动的土壤，并渗入到岩石的裂缝中。
+
+【 **Carbon dioxide** { in the air } ==reacts with== ^^the rainwater^^, { forming a weak acid } (carbonic acid) {++that may chemically attack the rocks++}. <font color='red'>题干相关句</font>】
+> 二氧化碳和雨水在空气中发生化学反应，形成一个弱酸的（二氧化碳），它能以化学的方式侵袭岩石。
+
+**The rain** ==seeps== { underground } and **the water** ==may reappear== { later as springs }. 
+> 雨渗透到地下面，水会在以后作为泉水重现。
+
+***These* springs** ==are== ^^the sources of streams and rivers^^, {++which cut through the rocks and carry away debris from the mountains to the lowlands^^.
+> 这些泉水是溪流和河水的来源，这些泉水在岩石中轻松地流过，并且携带来自大山的碎片到低地。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+Carbon 碳 n. | dioxide 二氧化物 | carbonic 碳的
+penetrates 渗透，渗入 v. | passage 一段，一节 | chemical 化学物质 n.
+desirability 愿望 n. | agent 药剂 n. | washe sth <-> away 冲掉，冲走
+loose 松的 | react with 【术语】起化学反应 | weak 弱的
+chemically 化学性质上，用化学，以化学方法 | seep 渗入，渗透 v. | cut through sth 【在水中或空中】轻松地通过
+debris 碎片 n. | springs 泉水 | 
+
 ### 2018-09-21
 
 #### 3.
@@ -75,7 +222,7 @@ the approach of sth 某事的来临【临近】 | signal 表示 v. | enemies 敌
 tell sb how/what/where/who/when etc 显示，提示，说明
 
 
-### 2018-09-19
+### 2018-09-20
 
 #### 2.
 
@@ -169,6 +316,8 @@ iron 铁 | thus 以此种方式，如此，这样 | applied-art 应用艺术的
 granted 想当然，的确，准许 | misses 漏掉
 in terms of sth 根据……来解释【描述】 | canvas 油画，油画布 | tend to do sth 易于做某事，倾向
 hoof 蹄 | statue 雕像 | being 本质 | 
+
+### 2018-09-17
 
 #### 1.
 
