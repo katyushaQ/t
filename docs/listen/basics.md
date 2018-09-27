@@ -483,7 +483,7 @@ spot 地点，场所 | open up 【机会，新情况】出现，产生
 know 认识 | fill out 填写【正式文件、表格等】
 go through 检查，审查 | 
 
-#### Inference Basic Drill
+#### Inference Basic Drill 1
 
 PHRASE |  PHRASE
 ------------ | -------------
@@ -494,3 +494,24 @@ be stuck with sth 不得不接受某事物 | not necessarily 不一定
 willing to do sth 乐意做某事 | find out (that) 发现
 想退货那会自己的钱 want to return is for my money back | 那会我的部分钱 get some of money back
 ads 广告（复数） | 
+
+### 2018-09-26
+
+#### Inference Basic Drill 2
+
+PHRASE |  PHRASE
+------------ | -------------
+biology 生物学 | go over 仔细考虑某事
+vital 维持生命所必需的，极其重要的 | nutrient 营养物
+calcium 钙 | crucial 至关重要的
+bone 骨头 | nerve 神经
+aid 帮助，援助 | involuntary 无意识做出的
+nerve transmission 神经传送 | blood-clotting 血液聚集
+muscle contractions 肌肉收缩 | dairy products 乳制品
+green vegetables 绿色蔬菜 | leafy 多叶的
+seafood 海产品 | take pill 服药
+consumption 消耗量 | hormones 激素
+digestion 消化功能 | consume 消耗；【正式】吃，喝 v.
+properly 恰当地 | so much 非常
+no matter 不管 | get enough of 得到足够的
+regulate 调节 | 
