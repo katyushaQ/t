@@ -1,6 +1,46 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
 
+### 2018-09-27
+
+## 中间类 
+
+Support/oppose … on the grounds that
+
+1、**一些人** 继续 ^^以他们很不人道的（inhumane）这个理由^^ ==去反对== ^^动物实验^^。
+> Some one {++opposed++} animal experience, {++on the grounds that++} they ^^continually^^ use very inhumane reason.
+
+Abide by the rules/law/regulations 
+
+2、{ 为了防止孩子步入歧途 }，**家长** ==应该帮助== ^^他们的孩子学习尊重他人和遵守规则^^。
+> For preventing children into wrong way, parents shoule help their children learning to respect others and to {++adibe by regulations++}.
+
 ## 后退类（用来论证disadvantage负面的方面）
+
+Erode the national identity/national pride
+
+16、**对传统文化的盲目崇拜(worship)** 严重的 ==侵蚀了== ^^年轻国家的文化特性^^。
+> The blind worship for traditional cultrue seriously {++eroded++} the young {++national++} caltural {++identity++}.
+
+At the expense of …
+
+17、**基础设施(infrastructure)** ==不该更新换代== { (要是)以纳税人的幸福感为代价(的话) }。
+> The ^^infrastructure^^ should not update {++at the expense of++} ^^happiness^^ of ^^taxpayers^^.
+
+It is wrong to equate … with …ß
+
+18、把快乐等同于 { 赚很多钱和住在宽敞的房子里面 } ==是== ^^错误的^^。
+> {++It is wrong to equate++} pleasure {++with++} earning a lot of money and dwelling in commodious room.
+
+PHRASE |  PHRASE
+------------ | -------------
+崇拜 worship n. | 盲目的 blind
+基础设施 infrastructure | 纳税人 taxpayer
+幸福感 happiness | 宽敞的 【正式】【房子或房间】commodious
+充分的理由 on the grounds that | 反对 oppose 
+连续不断地 continually | 不人道的 inhumane
+遵守【法规】 abide by sth | 歧途 wrong way
+防止 prevent | 规则 regulations
+特性 identity |
 
 ### 2018-09-25
 

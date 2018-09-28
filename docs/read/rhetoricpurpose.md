@@ -1,5 +1,154 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-08-27
+
+#### 7.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==include== ^^a description of^^ {++how the “doorways and windows” of Machu Picchu were constructed++}?
+    > 为什么作者包含MP的“门口和窗户”是如何建造的描述？
+    
+    A. ==To indicate== ^^that the {++combined++} skeletons and skins of the stone {++buildings of Machu Picchu++} were similar to igloos and adobe structures^^
+    > 用来指明组合的骨骼和MP建筑的石头的表皮与冰屋和土坯结构相似。
+    
+    B. ==To indicate== ^^the different kinds of stones^^ {++that had to be cut to build Machu Picchu++}
+    > 用来指明必须被切断去建筑MP的石头的不同种类。
+    
+    ==C==. ==To provide== ^^an illustration of the kind of construction^^ {++that was required++} { before arches were invented }
+    > 用来提供一个在拱形被发明出来以前所需要的结构种类的例证。
+    
+    D. ==To explain== {++how ancient builders reduced the amount of time necessary to construct buildings from stone++}
+    > 用来说明古代建筑者如何减少必须用石头建造建筑时间量。
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：MP地方，“门口和窗户”的建造
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，伟大建筑，石头建造，3个原因；2个维度，时间+位置；用门窗举例，石头的位置作用；克服物理限制，作用，形状，组成成分；2个应用场景：地中海，地下道；罗马 第一个开发，用在地面上；罗马人偏爱半圆拱形
+    
+    答案：主旨句+3个原因+2个维度+2个应用场景+其他细节
+    
+    A没提冰屋和土坯结构；B没有强调必须切断石头与门窗或者拱形的关系；C时间+结构例证；D没提时间量
+    
+!!! failure ""
+
+Paragraph 6: 【==**Much of the world's great architecture has been constructed of stone because of its beauty, permanence, and availability.**== <font color='red'>主旨句</font> `观点`】 <font color='red'>**||**</font> {`意群1` <font color='Blue'>In the past, 时间</font> whole cities grew from the arduous task of cutting and piling stone upon. `顺承，时间维度` Some of the world's finest stone architecture can be <font color='Blue'>seen in 位置</font> the ruins of the ancient Inca city of Machu Picchu high in the eastern Andes Mountains of Peru. `顺承，位置维度` `意群1`}  <font color='red'>**||**</font> {`意群2` 【{++**The doorways and windows are made possible by placing over the open spaces thick stone beams that support the weight from above.**++} `顺承，细节`】 A structural invention had to be made before the physical limitations of stone could be overcome and new architectural forms could be created. `顺承，作用` That invention was the arch, a curved structure originally made of separate stone or brick segments. `顺承，原理` The arch was used by the early cultures of the Mediterranean area chiefly for underground drains, <font color='Blue'>but 句内转折</font> it was the Romans who first developed and used the arch extensively in aboveground structures. `顺承，应用描述` Roman builders perfected the semicircular arch made of stone. `顺承，进一步强调认可` `意群2`}
+    
+----
+
+【 **Much of the world's great architecture** ==has been constructed of== ^^stone^^ { because of its beauty, permanence, and availability }. <font color='red'>主旨句</font>】
+> 大多数世界上伟大的建筑由石头建造，因为他们漂亮，持久和可用性。
+
+{ In the past }, **whole cities** ==grew from== ^^the arduous task of cutting and piling stone upon^^. 
+> 在过去，整个城市从切割和堆砌石头增长起来。
+
+**Some of the world's finest stone architecture** ==can be seen== { in the ruins of the ancient Inca city of Machu Picchu high in the eastern Andes Mountains of Peru }.
+> 一些世界上非常好的石头建筑会在高的秘鲁的安第斯山脉东部的MP的残余古代印加城市看到。
+
+【 **The doorways and windows** ==are made== possible { by placing over the open spaces thick stone beams } {++that support the weight from above.++} <font color='red'>题干相关句</font>】
+> 门口和窗户可能由位于开发空间厚石梁所建造，这个厚石梁从上面提供重量。
+
+**A structural invention** ==had to be made== { before the physical limitations of stone could be overcome } and **new architectural forms** ==could be created==.
+> 一个结构的发明必须在石头能够克服的物理限制以前被发明出来，并且新的建筑形式会被创造出来。
+
+***That* invention** ==was== ^^the arch^^, ( a curved structure originally made of separate stone or brick segments ).
+> 那个发明就是拱形，一个弯曲的结构，起初由分离石头或者分割砖块制成。
+
+**The arch** ==was used== { by the early cultures of the Mediterranean area chiefly for underground drains }, *but* **it** ==was== ^^the Romans^^ {++who first developed and used the arch extensively in aboveground structures++}. 
+> 这个共性用于早期地中海地区的文化，主要用于地下的下水道，但是它是第一个开发并且广泛地在地面上结构中使用拱形的罗马人的。
+
+**Roman builders** ==perfected== ^^the semicircular arch made of stone^^.
+> 罗马建筑者偏爱这种由石头制造的半圆的拱形。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+doorways 门口，出入口 | Machu Picchu 马丘比丘 | igloos 冰屋
+invent 发明 | illustration 实例，例证 | amount of ……的数量
+arduous 艰巨的，费力的 | pile 堆放 v. | grow from 增多，增长
+finest 非常好的 | the ruins of sth 【组织，体制，思想等的】残余部分 | Andes Mountains 安第斯山脉
+Peru 秘鲁 | Inca 印加 | curved 弯曲的
+separate 把……分离 | brick 砖块 n. | segments 分割
+Mediterranean 地中海 | chiefly 首先，主要地 | drains 下水道
+extensively 广泛地 | aboveground 在地面上
+ 
+#### 6.
+
+!!! faq ""
+
+    { In paragraph 6 }, **the author** ==discusses== ^^the “The thriving obsidian operation”^^ { in order to }
+    > 在第六段中，做着谈论“茂盛的黑曜岩”是为了
+    
+    A. ==explain== {++why manufacturing was the main industry of Teotihuacán++}
+    > 说明为什么制造业是T这个地方的主要工业
+    
+    B. ==give== ^^an example of an industry^^ {++that took very little time to develop in Teotihuacán++}
+    > 给出一个在T这个地方，使用极少时间开发的工业的例子
+    
+    ==C==. ==Illustrate== {++how several factors influenced each other to make Teotihuacán a powerful and wealthy city++}
+    > 阐明数个因素如何影响彼此，使T这个地方成为强大的和富有的城市
+    
+    D. ==explain== {++how a successful industry can be a source of wealth and a source of conflict at the same time++}
+    > 说明一个成功的工业如何成为富有的来源，并且在同时成为冲突的来源
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：茂盛的，黑曜岩
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，T地方，采矿业，正面反馈，4个方面；For example 举例，额外的工人与交易，吸引更多移民，精英的力量与影响，移民者角色，行业对社会的影响
+    
+    答案：主旨句+举例+细节
+    
+    A没提谁是主要工业；B是例子，但没提极少时间开发；C题干+举例+细节概括；D没提冲突
+    
+!!! failure ""
+
+    这题提前知道答案了，否则差一点选A。自己的题干与段落分析没问题，做题的时候，应严格对应自己的分析，这题，比如“4个方面”和“影响”
+
+Paragraph 6 【==**The picture of Teotihuacán that emerges is a classic picture of positive feedback among obsidian mining and working, trade, population growth, irrigation, and religious tourism.**== <font color='red'>主旨句</font> `观点`】 <font color='red'>**||**</font> {`意群1`【{++**The thriving obsidian operation, <font color='Blue'>for example, 举例</font> would necessitate more miners, additional manufacturers of obsidian tools, and additional traders to carry the goods to new markets.**++} <font color='red'>题干句</font>】`顺承，举例` <font color='Blue'>All this 单数，指代上一句“茂盛的黑曜岩操作”</font> led to increased wealth, which in turn would attract more immigrants to Teotihuacán. `顺承，描述` The growing power of the elite, who controlled the economy, would give <font color='Blue'>them 指代上一句吸引的移民</font> the means to physically coerce people to move to Teotihuacán and serve as additions to the labor force. `顺承，描述` More irrigation works would have to be built to feed the growing population, and this resulted in more power and wealth for the elite. `顺承，总结` `意群1`}
+    
+----
+
+【 **The picture of Teotihuacán** {++that emerges++} ==is== ^^a classic picture of positive feedback among obsidian mining and working^^,( trade, population growth, irrigation, and religious tourism ). <font color='red'>主旨句</font>】
+> 浮现在T地方的情况是在采矿业和矿坑中正面的反馈的一个经典情况，贸易，人口增长，灌溉和宗教旅游业。
+
+【 **The thriving obsidian operation**, ( for example ), ==would necessitate== ^^more miners^^, ( additional manufacturers of obsidian tools ), and ^^additional traders to carry the goods to new markets^^. <font color='red'>题干相关句</font>】
+> 例如，茂盛的黑曜岩操作需要更多的矿工，额外的黑曜岩工具的制造业，并且需要额外的交易者把商品带到新市场。
+
+**All *this*** ==led to== ^^{++increased++} wealth^^, {++which in turn would attract more immigrants to Teotihuacán++}.
+> 所有这些促成增长的财富，这个情况相应地会吸引更多的移民到T这个地方。
+
+**The growing power of the elite**, ( {++who controlled the economy++} ), ==would give== ^^them the means {++to physically coerce people to move to Teotihuacán++}^^ and ==serve== { as additions to the labor force }.
+> 成长的精英力量，这些精英控制着经济，会给他们在身体上强制人们去T地方的方法，并且把他们作为新劳动力。
+
+**More irrigation works** ==would have to be built to feed== ^^the growing population^^, and **this** ==resulted in== ^^more power and wealth^^ { for the elite }.
+> 更多的灌溉工作必须建立，用来喂养成长的人口，并且这些工作使得精英更有权利和财富。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+thriving 繁荣的，兴旺的，茂盛的 | obsidian 黑曜岩 | manufacturing 制造业
+powerful 强大的 | irrigation 灌溉 | tourism 旅游业 | result in sth 导致，造成
+picture 【某地方，组织等的】情况，局面 | among 在……当中
+mining 采矿业 | positive 积极的，正面的 | necessitate 使成为必须，需要，必须 v.
+miners 矿工 | working 矿坑，矿内工作区 | additional 额外的，附加的
+in turn 相应地 | attract 吸引 | immigrants 移民
+coerce 强制，迫使 v. | additions to 添加物 | the elite 社会精英，上层人士
+serve 服务，提供 v. | force 力 n. | 
+
+
 ### 2018-09-25
 
 #### 5.
@@ -135,7 +284,7 @@ Paragraph 5: 【==**The weather, in its many forms, is the main agent of erosion
 **The rain** ==seeps== { underground } and **the water** ==may reappear== { later as springs }. 
 > 雨渗透到地下面，水会在以后作为泉水重现。
 
-***These* springs** ==are== ^^the sources of streams and rivers^^, {++which cut through the rocks and carry away debris from the mountains to the lowlands^^.
+***These* springs** ==are== ^^the sources of streams and rivers^^, {++which cut through the rocks and carry away debris from the mountains to the lowlands++}.
 > 这些泉水是溪流和河水的来源，这些泉水在岩石中轻松地流过，并且携带来自大山的碎片到低地。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS

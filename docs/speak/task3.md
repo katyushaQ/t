@@ -70,7 +70,7 @@
 
 ### 2018-06-05
 
-!!! info "**TPO3 Hot Breakfasts Eliminated （热早餐被取消）**"
+??? info "**TPO3 Hot Breakfasts Eliminated （热早餐被取消）**"
 
     ==**Reading**==
     
@@ -133,7 +133,7 @@
     
 ### 2018-06-06
 
-??? info "**TPO 4 Evening Computer Classes May Be Added （可能要增加计算机晚课）**"
+!!! info "**TPO 4 Evening Computer Classes May Be Added （可能要增加计算机晚课）**"
 
     ==**Reading**==
     
@@ -182,7 +182,12 @@
     
     ![3](../images/IMG_8743.JPG)
     
-    !!! note
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    in the fall 在秋天 | proposal 提议 | overcrowded 过度拥挤的
+    expense 费用，花费 | cost-effective 划算的 | enrol 登记，注册；过去式enrolled
+    guarantee 保证，保障 n. | hire 【短期】雇佣（某人） | plenty of 【书面】充足，大量
+    come down 【价格，水平等】下降 | 
     
 ### 2018-06-08
 
