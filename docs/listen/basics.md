@@ -515,3 +515,38 @@ digestion 消化功能 | consume 消耗；【正式】吃，喝 v.
 properly 恰当地 | so much 非常
 no matter 不管 | get enough of 得到足够的
 regulate 调节 | 
+
+### 2018-09-28
+
+#### Inference Basic Drill 3
+
+PHRASE |  PHRASE
+------------ | -------------
+deceptive 欺骗性的 | superiority 优势
+numerical 数字的 | ammunition 弹药
+cannon 【旧的】大炮，农家炮 | sufficient 足够的，充足的
+in haste 匆忙地，急忙地 | crew of 全体船员
+ship 船 | accurate 正确的，准确的
+in extent 在某种程度上 | fleet 船队，舰队
+outnumber 在数量上超过，比……多 v. | all-powerful 有无上权力的
+dramatize 戏剧化 | anyway 尽管如此
+dominance 优势 | decline 衰落，削减
+armada 大批，大群【尤指船舰】，舰队 | defeat 战胜，击败 n.
+on the course of 在……过程中 | good deal 很多的，大量的
+point out 指出 | as some of ……的一些
+outgunned 在枪炮数量上超过 | arm 把……武装起来
+inexperience 缺乏经验 n. | eager 热切的，急切
+further 促进，推动 | possess 【正式】拥有，具有
+historic 【正式】历史上的，历史性，有历史意义的 | historical （有关）历史的
+colonical 殖民地的 | interest 利益，影响 n.
+mark 标志 v. | 
+
+#### Inference Basic Drill 4
+
+PHRASE |  PHRASE
+------------ | -------------
+syllabus 教学大纲 | go over 复习
+be coming up 即将到来 | push limit 推向极限，逼迫
+session 一日内连续授课时间=class | memorize 记住  v.
+have yours limit 【口】有自己的原则 | trip to 出行
+tropical rainforest 热带雨林 | 
