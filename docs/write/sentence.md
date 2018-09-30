@@ -1,5 +1,45 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
 
+### 2018-09-29
+
+A prevail over (or outweigh/outbalance) B
+
+3、**对待违规司机采取严厉的惩罚的好处** ^^大于坏处^^。
+> The benefit of ^^treating^^ the ^^illegal^^ driver to use ^^rigorous punishment^^ is {++outbalance++} ^^disadvantage^^.
+
+A create (or bring about/generate/cause/breed/engender/spawn/induce) B     A产生B这个结果
+
+4、**技术革新** { 在许多政治、经济和文化领域（arena） } ==带来了== ^^根本性的变化^^。
+> Technological ^^innovation^^ in numerous political, economic and cultural arena has {++generated++} ^^essential^^ change.
+
+A is a key determinant of B
+
+5、{ 在一个人的事业上 }，**毅力(tenacity)** ==是== ^^成功的一个重要决定因素^^。
+> In a personal ^^career^^,  tenacity {++is a key determinant of++} success.
+
+are, by nature, + adj. 天生就。。。 
+
+6、**孩子** 天生 ==就是== { 在道德上、情感上还有生理上 } ^^没有发展好的^^。
+> The children {++are++} not good development {++by nature++} on ^^ethic^^, emotion and psychology.
+
+It is standard practice for someone to do sth.
+
+7、{ 如今 }，**科学家** 通常 ==不会发布（release）== ^^他们的数据或者研究模型^^，{++这可能导致对人类有害的研究++}。
+> Nowadays, scientist nomorally dose not release their data or reseaching model, it is standard practice for human to be harmful study.
+
+
+PHRASE |  PHRASE
+------------ | -------------
+获胜 prevail over | 比……更重要 v. outweigh
+超过，较为重要 v. outbalance | 违规的 illegal
+对待 treat | 严厉的 rigorous
+惩罚 punishment | 好处 benefit
+坏处 disadvantage | 革新 innovation
+舞台，竞技场 arena | 根本性的 essential
+政治舞台  the political arena | 事业 career
+毅力 tenacity | 【正式】决定性因素 determinant
+道德 ethic | 
+
 ### 2018-09-27
 
 ## 中间类 

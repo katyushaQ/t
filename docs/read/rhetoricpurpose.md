@@ -1,5 +1,155 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-09-29
+
+#### 9. 错
+
+!!! faq ""
+
+    { In paragraph 5 }, **why** ==does== ^^the author^^ ==provide== ^^the information that "A fifteen-speed racing bicycle is more likely to break down than a child's tricycle"^^?
+    > 在段五中，为什么作者提供“一个15速的赛车自行车比儿童三轮车可能更可能出问题”的信息？
+    
+    A. ==To illustrate== ^^a general principle^^ {++about the stability of systems by using an everyday example++}
+    > 用来阐明一个关于系统的稳定性的原理，通过每天使用的的样例
+    
+    ==B==. ==To demonstrate== ^^that an understanding of stability^^ { in ecosystems } can be applied to help understand stability {++in other situations++}
+    > 用来证实在生态系统中稳定性的理解能够应用到帮助理解在其他情况下的稳定性
+    
+    C. ==To make== ^^a comparison^^ {++that supports the claim that++}, ( in general ), { stability increases with diversity }
+    > 用来做一个对比，这个对比支持声明（题干中的信息），通常情况下，稳定性增加具有多样性
+    
+    D. ==To provide== ^^an example^^ {++that contradicts mathematical models of ecosystems++}
+    > 用来提供一个例子，这个例子否定生态系统的数据模型
+        
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：15速赛车自行车，儿童三轮自行车；比较级，更容易出问题；那么——三轮自行车稳定强于行驶中的赛车自行车
+    
+    ==段落分析==
+    
+    细节：主旨句—稳定性，不常有最大多样性辅助，变化的缺乏；1个举例，多样性发生的时间阶段，在过程中物种与数量减少；概括多样性对稳定性作用，多样性对稳定性影响——反比；1个举例，复杂更可能出问题
+    
+    答案：多样性无法确保稳定性，并反比；更复杂，更可能出问题
+    
+    A不是稳定性原理，是多样性对稳定性影响的例子;B用举例支持主旨；C说反了；D是支持，不是否定
+    
+!!! failure ""
+
+    这道题，我不知道B错在哪里了，看了答案，A也勉强说的通吧，关于稳定性原理这块
+    
+    但是从文章段落分析，应该选A，整篇顺承递进，没有很明显的“其他情况下”，这个很迷惑，可以说B阐述的很模糊
+
+Paragraph 5: {`意群1` 【 ==**<font color='Blue'>Even 上一段落的顺承</font> the kind of stability defined as simple lack of change is not always associated with maximum diversity.**== <font color='red'>主旨句</font> `观点`】<font color='Blue'>At least 递进含义</font> in temperate zones, maximum diversity is often found in mid-successional stages, not in the climax community. `顺承，细化` <font color='Blue'>Once 时间</font> a redwood forest matures, <font color='Blue'>for example, 举例</font> the kinds of species and the number of individuals growing on the forest floor are reduced. `意群1`} <font color='red'>**||**</font> {`意群2` In general, diversity, by itself, does not ensure stability. `弱顺承，概括二者关系` Mathematical models of ecosystems likewise suggest that diversity does not guarantee ecosystem stability—just the opposite, in fact. `顺承，细化` A <font color='Salmon'>more  complicated</font> system is, in general, <font color='Salmon'>more</font> likely than a simple system to <font color='Salmon'>break down</font>. `顺承，进一步细化` 【{++**A fifteen-speed racing bicycle is <font color='Salmon'>more</font> likely to break down than a child's tricycle.**++} <font color='red'>题干句</font> `顺承，举例` 】 `意群2`}
+    
+----
+
+Even **the kind of stability** ==defined== { as simple lack of change {++is not always associated with maximum diversity++} }.
+> 甚至这种稳定性被定义为简单的变化的缺乏，这种变化不总是有最大的多变性的辅助。
+
+{ At least in temperate zones }, **maximum diversity** ==is often found== { in mid-successional stages }, { not in the climax community }.
+> 至少在温带，最大的多样性常常被发现在中期连续的阶段中，不在顶点群体。
+
+{ Once a redwood forest matures }, ( for example ), **the kinds of species and the number of individuals {++growing on the forest floor++}** ==are reduced==.
+> 例如，自从一个红树林变成熟，这类品种和成长在树林地面的个体数会减少。
+
+{ In general }, **diversity**, ( by itself ), ==does not ensure== ^^stability^^. 
+> 通常情况下，多样性，由他们自己，无法确保稳定性。
+
+**Mathematical models of ecosystems** likewise ==suggest== {++that diversity does not guarantee ecosystem stability++}— ( just the opposite ), { in fact }.
+> 生态系统的数学模型同样地表明，多样性无法保证生态系统稳定性——正好相反，实际上。
+
+**A more complicated system** ==is==, ( in general ), ^^more^^ likely { than a simple system to break down }.
+> 一般情况下，一个更复杂的系统比一个简单的系统更可能出问题。
+
+【 **A fifteen-speed racing bicycle** ==is== ^^more likely to break down^^ { than a child's tricycle }. <font color='red'>题干相关句</font>】
+> 一个15速赛车自行车比一个儿童三轮自行车更可能出问题。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+break down <-> sth 撞到，打破，失败，发生故障 | tricycle 【尤指幼儿骑的】三轮自行车 | demonstrate 说明，证明，论证，证实
+ecosystems 生态系统 | claim 声称 | diversity 多样性
+contradict 反驳，否定 v. | mathematical 数学的 | racing 比赛用的，赛车 adj.
+principle 原则，原理 | stages 时期，阶段 | ensure 确保，保证
+guarantee 保证 v. | maximum 最大的 | successional 连续不断的
+mid-successional 中期演替的 | temperate zones 温带 | complicated 复杂的
+matures 变成熟 | likewise 同样地 | suggest 表明
+not .. just the opposite 不……，正好相反 | 
+
+
+#### 8.
+
+!!! faq ""
+
+    { In paragraph 3 }, **why** ==does== ^^the author^^ ==provide== ^^the information^^ {++that 40 percent of American cattle are fattened in the High Plains }?
+    > 在段3中，为什么作者提供美国牛的40%在高地平原被养肥的信息？
+    
+    A. ==To suggest== {++that crop cultivation is not the most important part of the economy of the High Plains++}
+    > 用来说明农作物养殖不是高地平原经济的最重要部分
+    
+    B. ==To indicate== {++that not all economic activity in the High Plains is dependent on irrigation++}
+    > 用来指出高地平原的非所有经济活动依靠灌溉
+    
+    ==C==. ==To provide== ^^another example of^^ {++how water from the Ogallala has transformed the economy of the High Plains++}
+    > 用来提供另一个水如何从奥加拉拉转变到高地平原的经济的例子
+    
+    D. ==To contrast== ^^cattle-fattening practices in the High Plains^^ {++with those used in other region of the United States++}
+    > 用来对比高地平原的牛养肥的实践，和那些实践用在美国的其他地区
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：40%牛，养肥，高地平原
+    
+    ==段落分析==
+    
+    细节：主旨句—不在第一句，第一句为承接上一段，第二句，灌溉扩张，1950年代开始，转变地区经济；10万口井，奥加拉拉地区；举例1，现代灌溉设备，喷洒量，产生的农业影响；此外，农作物供给量多，对养殖业影响，举例2，谷物喂养，40%牛，被养肥
+    
+    答案：灌溉改变经济+对农作物和养殖业的影响
+    
+    A没有提最重要部分；B说反了，因为灌溉，所以谷物茂盛，所以谷物喂养的牛占了40%之多；C水对经济的改变+另一个举例；D没有对比
+    
+!!! failure ""
+
+Paragraph 3: {`意群1` The first wells were drilled into the Ogallala during the drought years of the early 1930s. `顺承，上一段可以提到井` 【==**The ensuing rapid expansion of irrigation agriculture, especially from the 1950s onward, transformed the economy of the region.**== <font color='red'>主旨句</font>】 More than 100,000 wells now tap the Ogallala. `顺承，细化` Modern irrigation devices, each capable of spraying 4.5 million liters of water a day, have produced a landscape dominated by geometric patterns of circular green islands of crops. `顺承，举例1，影响` Ogallala water has enabled the High Plains region to supply significant amounts of the cotton, sorghum, wheat, and corn grown in the United States. `顺承，进一步强调影响`【{++**<font color='Blue'>In addition 另一个影响</font>, 40 percent of American grain-fed beef cattle are fattened here.**++} <font color='red'>题干句</font>】`顺承，举例2，与上一句含因果` `意群1`}
+
+----
+
+**The first wells** ==were drilled into== ^^the Ogallala^^ { during the drought years of the early 1930s }.
+> 第一口井在1930年代早期干旱那几年被钻入奥加拉拉。
+
+**The ensuing rapid expansion of irrigation agriculture**, ( especially from the 1950s onward ), ==transformed== ^^the economy of the region^^.
+> 灌溉农业随后的迅速扩张，尤其从1950年代往后，转变了地区的经济。
+
+**More than 100,000 wells** now ==tap== ^^the Ogallala^^. 
+> 多余10万口的井，现在开发奥加拉拉。
+
+**Modern irrigation devices**, ( each capable of spraying 4.5 million liters of water a day ), ==have produced== ^^a landscape^^ {++dominated by geometric patterns of circular green islands of crops++}.
+> 现代灌溉设备，每个每天能喷洒4.5百万升的水，产生一个由农作物的原型绿色岛的几何模型影响的地方。
+
+**Ogallala water** ==has enabled== ^^the High Plains region^^ ==to supply== ^^significant amounts of the cotton, sorghum, wheat, and corn {++grown++} in the United States^^.
+> 奥加拉拉水，在美国，能够使高地平原供给重要的成熟的棉花，高粱，小麦和玉米数量。
+
+【 In addition, 40 percent of American grain-fed beef cattle are fattened here. <font color='red'>题干相关句</font> 】
+> 此外，美国谷物喂养的肉牛的40%是在这被养肥。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+cattle 牛 | fatten 养肥 v. | High Plains 高地平原
+irrigation 灌溉 | Ogallala 奥加拉拉 | transform 转换，改变，转变
+expansion 扩大，增加 | onward 向前的，继续的 | ensuing 随后的 
+tap 利用，开发 | capable of doing sth 有能力做某事 | spray 喷 v.
+liters 升 | dominate 控制，支配，影响 | circular 圆形的
+produce 引起，造成，产生 | sorghum 高粱 | cotton 棉花
+beef 牛 | 
+
 ### 2018-08-27
 
 #### 7.
@@ -197,7 +347,7 @@ Paragraph 4：【`意群1` {++**There is still no universally agreed-on explanat
 
 **Various environmental factors** ==may play== ^^a role^^. 
 > 各种各样的环境因素可能扮演一个角色。
--
+
 **Too much snow**, ( for example ), ==can smother== ^^trees^^, and **avalanches and snow creep** ==can damage== or ==destroy== ^^them^^.
 > 例如，太多的雪会完全覆盖树，雪崩和雪蔓延会损坏或者毁灭他们。
 
