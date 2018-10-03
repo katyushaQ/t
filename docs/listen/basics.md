@@ -550,3 +550,24 @@ be coming up 即将到来 | push limit 推向极限，逼迫
 session 一日内连续授课时间=class | memorize 记住  v.
 have yours limit 【口】有自己的原则 | trip to 出行
 tropical rainforest 热带雨林 | 
+
+### 2018-09-30
+
+#### Inference Basic Drill 5
+
+PHRASE |  PHRASE
+------------ | -------------
+appreciate 欣赏，赏识 | fully 完全地，充分地，彻底地
+examine （仔细）检查，审查 | theme 特定风格
+philosophically 哲学地 | morally 道德上
+explore 探讨 | keen 热衷的，热切的
+merely 只是 | deal with sb/sth 处理
+closely 仔细地，严密地 | loosely 不严谨地
+based 有根据的 | celebrated 著名的，闻名的
+end up doing sth 到头来，最后 | sailor 水手
+various 不同的，各种各样的 | heavily 大量地
+experiment with 试验，试用 | style （文学作品）风格
+poetry 诗歌 | novel （长篇）小说
+literature 文学，文学作品 | literary 文学的
+Polish 波兰语 | French 法语
+

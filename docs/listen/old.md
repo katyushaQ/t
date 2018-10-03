@@ -220,3 +220,15 @@
     pop up 冒出来 | publication 出版，出版物 | mixture 混合物
     poetry 诗歌 | analysis | essays 散文
     philosophical 哲学的 | 
+    
+### 2018-09-30
+
+!!! info "**Midterm Exam**"
+
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    present 展现 | either or 或者……或者 | conference 会议
+    Detroit 底特律 | a week from today 从今天往后一周 | midterm exam 期中考试
+    halfway 一半的 | administer 管理 v. | optional 选修的
+    review 复习 | attendance 出勤率 | attend 出席
+    administer the exam 监考 | in place of sb/sth 代替某人/某物 | 
