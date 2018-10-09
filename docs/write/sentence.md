@@ -1,4 +1,42 @@
-{++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语`解释`==
+{++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语 `解释`==
+
+### 2018-10-08
+
+A is best characterized by …
+
+8、**出色记者的最重要特质** ==是== ^^自律、决断力和洞察力^^。
+> The remarkable reporter {++is best characterized by++} ^^self-discipline^^, ^^decision^^, and ^^insight^^.
+
+Given the choice, …
+
+9、{ 如果可以选择的话 }，**大多数成年人** ==会发现== ^^人类朋友比宠物更值得拥有^^。
+> {++Given the choice++}, many adults will find that human friends are ^^more worth having^^ than pets.
+ 
+Someone would be well-advised to do sth.
+
+10、**家长** ==应该== ^^多花些时间和他们的后代在一起^^。
+> Parents should ^^spend more time^^ with their generation.
+
+…, and there seems to be plenty of research findings to confirm this 
+
+11、**以小组形式** ==教== ^^学生^^ ==帮助== ^^他们成长成好社交的、有责任感的个体^^。
+> As a group form taught students, {++and there seemed to be plenty of research findings to confirm this++}.
+
+> As a group form taught students, and help them to ^^grow into^^ social and responsible individual.
+
+In all likelihood 很可能
+
+12、{ 很可能 }，**这个决定** ==是由== { 那些对问题错误理解了的政府官员 } ==决定的==。
+>{++In all likelihood++}, the decision was determined by government officals who ^^misunderstand^^ the problems. 
+
+
+PHRASE |  PHRASE
+------------ | -------------
+自律 self-discipline | 决断力 decision
+洞察力 insight  | 成长为 grow into
+更值得拥有 more worth having |  几乎确定地，极可能地 In all likelihood
+误解 misunderstand | 如果可以选择的话 given the choice
+
 
 ### 2018-09-29
 

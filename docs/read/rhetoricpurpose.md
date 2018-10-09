@@ -1,5 +1,156 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-10-08
+
+#### 11.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==mention== ^^herbs, shrubs, and trees^^?
+    > 为什么作者提及草本植物，灌木和树？
+    
+    A. ==To provide== ^^examples of plant types^^ {++that cannot tolerate high levels of harmful minerals++}.
+    > 用来提供植物类型的样例，这个类型不能忍受高级别的有害矿物质。
+    
+    B. ==To show== ^^why so many plants are hyper accumulators^^.
+    > 用来表明为什么非常多的植物是超级蓄电池。
+    
+    C. ==To help== ^^explain^^ {++why hyper accumulators can be found in so many different places++}.
+    > 用来帮助解释为什么超级蓄电池能够被发现在特别多的不同的地方。
+    
+    ==D==. ==To emphasize== ^^that hyper accumulators occur in a wide range of plant types^^.
+    > 用来强调超级蓄电池存在在各种不同的植物类型中。
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：提及，草本植物，灌木，树 这几个植物
+    
+    ==段落分析==
+    
+    细节：主旨句—某些植物，超级蓄电池，百倍，比常规更大聚集能力，聚集矿物质；7个化学元素以外，75%其他矿物质；运转在整个植物系列中，3个范围举例，草本，灌木，树；4大家族，应该是上面3个例子范围中的，顶级；生存环境，提供保护，抵抗吃植物的害虫，微生物病原，热带和亚热带
+    
+    答案：超级蓄电池+矿物质+整个植物系列+3个范围+4个家族+顶级+生存环境
+    
+    A没提不能忍受和有害的；B排除法后，没有因果，只是举例；C排除法后，没有因果，只是举例；D超级蓄电池+3个范围+4个家族
+    
+!!! failure ""
+
+
+Paragraph5:  {`意群1`【==**Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal.**== <font color='red'>主旨句</font> `观点`】 A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. `顺承，细化` Hyper accumulators run the entire range of the plant world. `顺承，生存环境` `意群1`} {`意群2`【{++**They may be herbs, shrubs, or trees.**++}  <font color='red'>题干句</font>】 `顺承，范围举例` Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. `顺承，详细举例` Many are found in tropical and subtropical areas of the metals may afford some protection against plant-eating insects and microbial pathogens. `顺承，生存环境，结构与上面一致，先描述后生存环境` `意群2`}
+
+----
+
+【 **Scientists** ==have known== { for some time } ^^that certain plants, ( called hyper accumulators ), can concentrate minerals at levels a hundredfold or greater than normal^^. <font color='red'>主旨句</font>】
+> 科学家已经了解到在某些时候，某些植物，被称作超级蓄电池，能够聚集百倍或者比常规更大级别的矿物质。
+
+**A survey of known hyper accumulators** ==identified== ^^that 75 percent of them {++amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium++} are other minerals of choice^^.
+> 对超级蓄电池的调查发现，聚集了镍，钴，铜，锌，锰，铅和镉的他们的75%是选择范围的的其他矿物质。
+
+**Hyper accumulators** ==run== ^^the entire range of the plant world^^.
+> 超级蓄电池运转在植物世界的整个系列中。
+
+【 **They** ==may be== ^^herbs, shrubs, or trees^^. <font color='red'>题干相关句</font>】
+> 他们可能是草本植物，灌木，或者树。
+
+**Many members of the mustard family, spurge family, legume family, and grass family** ==are== ^^top hyper accumulators^^. 
+> 许多数量的芥末家族，大戟家族，豆科植物家族和草家族是顶级超级蓄电池。
+
+**Many** ==are found== { in tropical and subtropical areas of the metals } {++may afford some protection against plant-eating insects and microbial pathogens++}.
+> 许多被发现在能够提供一些保护抵抗以植物为食的昆虫和微生物病原体的金属的热带和亚热带地区。
+
+!!! failure ""
+
+    {++may afford some protection against plant-eating insects and microbial pathogens++} 是定语从句吗，为什么省略了that？因为和 the metals 是宾语么？
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+herbs 草本植物 | shrubs 灌木 | tolerate 容忍，忍受 v.
+minerals 矿物质 | hyper 亢奋的，非常紧张的，超过 | accumulators 累加器，蓄电池
+in a wide range of 一系列，各种不同的 | occur in 发生，存在 | afford 提供 
+certain 某些 | hyper accumulators 超级蓄电池 | concentrate 集中，浓缩，聚集
+hundredfold 百倍 n. 百倍的 adj. | a survey of 对……的调查 | amass 积聚，积累
+nickel 镍 | cobalt 钴 | copper 铜
+zinc 锌 | manganese 锰 | cadmium 镉
+lead 铅 | identify 确定，发现 | the entire range of 整个系列
+mustard 芥末 | spurge 大戟 | legume 【术语】豆科植物
+grass 草 | family 家族 | microbial 微生物的
+pathogens 【术语】病原体 | plant-eating 以植物为食的 |
+
+#### 10.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==ask== ^^readers^^ ==to recall== ^^"the fate of the Columbian white-tailed deer" in the discussion of changes in the wilderness landscape^^? 
+    > 为什么作者要求读者回想在野外场景中的改变的论述中的“哥伦比亚白尾鹿的命运”？
+    
+    ==A==. ==To provide== ^^support for the idea^^ {++that habitat destruction would lead to population decline++}
+    > 用来提供支持栖息地损毁会导致数量减少的观点
+    
+    B. ==To compare== ^^how two species of deer caused biotic changes in the wilderness environment^^
+    > 用来比较鹿的两个品种如何引起野外环境中的生物的改变
+    
+    C. ==To provide== ^^an example of a species of deer^^ {++that has successfully adapted to human settlement++}
+    > 用来提供一个品种鹿的样例，这种鹿成功地适应人类居住场所
+    
+    D. ==To argue== ^^that some deer species must be given a {++protected++} status^^
+    > 用来论证一些鹿品种必须被给予一个被保护的状态
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：回想，野外场景，哥伦比亚 白尾鹿 命运
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，猎物数量 在日后的生存中 会受损；生存环境被各种人类各种破坏，因果，数量确实在减少，举例哥伦比亚白尾鹿，少到被保护；转折 举例黑尾鹿，人类 反作用，数据支持，没有减少
+    
+    答案：猎物数量+人类影响+哥伦比亚白鹿生存状态
+    
+    A题干为举例，例子就是用来支持观点；B说反了，不是鹿引起改变；C说反了，适应的是黑尾鹿，不是白尾鹿；D看似没错，但与主旨没关系
+    
+!!! failure ""
+
+Paragraph 4: {`意群1`【==**Reduction in numbers of game should have boded ill for their survival in later times.**== <font color='red'>主旨句</font> `观点`】 A worsening of the plight of deer was to be expected as settlers encroached on the land, logging, burning, and clearing, eventually replacing a wilderness landscape with roads, cities, towns, and factories. `顺承，细化` <font color='Blue'>No doubt 含因果</font> the numbers of deer declined still further.  `顺承，因果`【{++**Recall the fate of the Columbian white-tailed deer, now in a protected status.**++} <font color='red'>题干句</font>  `顺承，举例`】 `意群1`} <font color='red'>**||**</font> {`意群2` <font color='Blue'>But 转折</font> for the black-tailed deer, human pressure has had just the opposite effect.  `转折，反观点` Wildlife zoologist Helmut Buechner(1953), in reviewing the nature of biotic changes in Washington through recorded time, says that "since the early 1940s, the state has had more deer than at any other time in its history, the winter population fluctuating around approximately 320,000 deer (mule and black-tailed deer), which will yield about 65,000 of either sex and any age annually for an indefinite period."  `顺承，细化，数据` `意群2`}
+    
+----
+
+【 **Reduction {++in numbers of game++}** ==should have boded== ^^ill^^ { for their survival in later times }. <font color='red'>主旨句</font>】
+> 猎物数量的减少应该会面临伤害，对于他们日后的生存中。
+
+**A worsening of the plight of deer** ==was to be expected== { as settlers } {++encroached on the land++}, ==logging, burning, and clearing, eventually replacing== ^^a wilderness landscape^^ {++with roads, cities, towns, and factories++}.
+> 一个正在变坏的鹿的困境是如逐步侵占土地的开拓者所期待的，伐木，燃烧和清理，最终替代为有道路，城市，小镇和工厂的野外场所。
+
+No doubt **the numbers of deer** ==declined== still further. 
+> 无疑，鹿数量仍然在更大程度上减少。
+
+【 ==Recall== ^^the fate of the Columbian white-tailed deer^^, { now in a protected status }. <font color='red'>题干相关句</font>】
+> 回忆下哥伦比亚白尾鹿的命运，现在在一个被保护的状态。
+
+*But* { for the black-tailed deer }, **human pressure** ==has had== ^^just the opposite effect^^.
+> 但是对于黑尾鹿，人类压力只有反作用。
+
+**Wildlife zoologist Helmut Buechner**(1953), { in reviewing the nature of biotic changes in Washington through recorded time }, ==says== ^^that "since the early 1940s, ( the state has had more deer than at any other time in its history ), the winter population fluctuating around approximately 320,000 deer (mule and black-tailed deer), which will yield about 65,000 of either sex and any age annually for an indefinite period."^^
+> 野生动物学家HB（1953），在华盛顿通过记录的时间回顾与生命有关的改变的自然中，讲到“自从1940年代早期，这个地方的鹿比在历史上任何一个时候多，冬天数量大约320,000左右（骡子和黑尾鹿），这个情况每年会出产大约65,000，不分性别和任何年龄，在一个无限周期中。”
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+ask sb to do sth 要求，请求 某人做某事 | recall 回忆，回想 | fate 命运 n.
+habitat （动物的）生活环境，栖息地 n. | biotic 生物的；有关生命的 | settlement 住处
+Reduction （数量，尺寸、价格）缩小，减少，下降 | boded bide过去式，等待，面临 | ill 伤害，邪恶，病，坏
+worsening worsen 使变坏 | plight 困境 n. | encroached encroach 过去式 encroach on 逐步侵占（侵犯）
+either 都不 | settler 移民，殖民者，开拓者 | No doubt 无疑，很可能
+further 在更大程度上 adv. 更多的 adj. | opposite 截然相反的 have the opposite effect 反作用 | zoologist 动物学家
+wildlife 野生动物 | fluctuating 正在进行时 fluctuate 波动，fluctuate around n n左右 | approximately 大约，大概
+mule 骡子 | yield 出产，产出，产生 | annually 每年 adv.
+indefinite 无限的，不确定的 |
+
 ### 2018-09-29
 
 #### 9. 错
@@ -9,10 +160,10 @@
     { In paragraph 5 }, **why** ==does== ^^the author^^ ==provide== ^^the information that "A fifteen-speed racing bicycle is more likely to break down than a child's tricycle"^^?
     > 在段五中，为什么作者提供“一个15速的赛车自行车比儿童三轮车可能更可能出问题”的信息？
     
-    A. ==To illustrate== ^^a general principle^^ {++about the stability of systems by using an everyday example++}
+    {++A++}. ==To illustrate== ^^a general principle^^ {++about the stability of systems by using an everyday example++}
     > 用来阐明一个关于系统的稳定性的原理，通过每天使用的的样例
     
-    ==B==. ==To demonstrate== ^^that an understanding of stability^^ { in ecosystems } can be applied to help understand stability {++in other situations++}
+    {--B--}. ==To demonstrate== ^^that an understanding of stability^^ { in ecosystems } can be applied to help understand stability {++in other situations++}
     > 用来证实在生态系统中稳定性的理解能够应用到帮助理解在其他情况下的稳定性
     
     C. ==To make== ^^a comparison^^ {++that supports the claim that++}, ( in general ), { stability increases with diversity }
