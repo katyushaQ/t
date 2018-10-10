@@ -1,5 +1,41 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语 `解释`==
 
+### 2018-10-10
+
+This trend is not restricted to…
+
+13、**这个现象** ==并不仅限于== ^^那些有钱做这些事的有钱学生^^，{ 在更穷的孩子中 } ==也是== ^^很明显的^^。
+> {++This phenomenon is not restricted to++} students who have money to do these things, and is ^^obvious^^ in ^^poorer^^ children.
+
+Tend to …多半是。。。(代替most of)
+
+14、**年轻人** 多半 ==容易== ^^更冲动^^ *并且* ^^更容易在社会中误入歧途^^。
+> The youth easily tends to more ^^impulsion^^, and easily moves into wrong way.
+
+Hinge on 取决于。。。
+
+15、**这次努力的成功** ==取决于== ^^来自当局的贡献^^。
+> The success of this attempt {++hinges on++} that originate from contribution of ^^the authorities^^.
+
+A reflect B 体现，反映
+
+16、**{++一个人对工作的++}感觉 **==会体现出== ^^一个人整体对自己生活的感知^^。
+> The sense of a person works for job may reflect perception of facing to his lives entirely. 
+
+The proportion of … is very high.
+
+17、**他们** ==花费== ^^时间^^ { 在这种工作上的生活 } ^^的比例非常高^^。
+> They spend times in which {++the proportion of++} lives of this jobs {++is very high++}.
+
+PHRASE |  PHRASE
+------------ | -------------
+trend 趋向，趋势 | restrict 限制 v.
+穷的 poor | 明显的 obvious
+冲动 impulsion n. | 努力 attempt n.
+取决于 hinge on sth | 当局 the authorities
+体现，反映 reflect | 感知 perception
+
+
 ### 2018-10-08
 
 A is best characterized by …

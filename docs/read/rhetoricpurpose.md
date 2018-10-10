@@ -1,5 +1,169 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+
+### 2018-10-10
+    
+#### 13.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^ ==mention== ^^secret ceremonies^^?
+    > 为什么作者提及秘密典礼？
+    
+    A. ==To present== ^^a common opinion held by many scholars^^
+    > 用来表现一个学者们持有的共同的观点
+    
+    B. ==To suggest== ^^a similarity between two opinions held by scholars^^
+    > 用来暗示一个学者们持有的两个观点的相似之处。
+    
+    ==C==. ==To suggest== ^^a possible explanation^^ { for a weakness in an opinion expressed in the passage }
+    > 用来暗示一个可能的解释，针对小节中所表达的一个观点的不足。
+    
+    D. ==To give== ^^evidence^^ {++that contradicts a major opinion expressed in the passage++}
+    > 用来给出一个反驳小节中所表达的主要观点的证据
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：秘密典礼
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，三个，有关联，不同的，观点；画的起源+意义；周期性迁徙；画被覆盖，画的价值告终与迁徙的关系；画的隐蔽位置与迁徙+秘密典礼的关系
+    
+    答案：观点+画的起源和意义+画的位置+画的价值+与迁徙的关系+秘密典礼
+    
+    A没提共同观点；B没提其他两个观点和相似处；C画的价值告终与迁徙有关；D没有反驳，是支持
+    
+!!! failure ""
+
+Paragraph 3： {`意群1`【==**Scholars offer three related but different opinions about the mysterious origin and significance of these paintings.**== <font color='red'>主旨句</font> `观点`】  One opinion is that the paintings were a record of seasonal migrations made by herds. `顺承，细化` `意群1`} <font color='red'>**||**</font> {`意群2`<font color='Blue'>Because 因果</font> some paintings were made directly over others, obliterating them, it is probable that a painting's value ended with the migration it pictured. `顺承，现象+结论` 【{++**<font color='Blue'>Unfortunately 句间转折</font>, this explanation fails to explain the hidden locations, <font color='Blue'>unless 句内转折</font> the migrations were celebrated with secret ceremonies.**++} <font color='red'>题干句</font> `顺承，进一步支持结论，呼应上一句`】 `意群2`}
+
+----
+
+**Scholars** ==offer== ^^three {++related++} but different opinions^^ {++about the mysterious origin and significance of these paintings++}. 
+> 学者们提供三个有关联的但不同的，关于这些画的神秘起源和意义的观点。
+
+**One opinion** ==is== ^^that the paintings were a record of seasonal migrations {++made by herds++}^^.
+> 一个观点是这些画是由牧群制作的周期性迁徙的记录。
+
+{ *Because* some paintings were made directly over others }, ( obliterating them ), *it* ==is== ^^probable^^ **that a painting's value ended with the migration it pictured**. 
+> 因为一些画被直接地挂在其他的上面，覆盖他们，一个画的价值随着绘画的迁徙而告终是可能的。
+
+【 Unfortunately, **this explanation** ==fails to explain== ^^the hidden locations^^, *unless* **the migrations** ==were celebrated== ^^with secret ceremonies^^. <font color='red'>题干相关句</font>】
+> 很不幸，这些说明无法解释这个隐蔽的位置，除非迁徙随着秘密典礼而举行。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+ceremonies ceremony复数 仪式，典礼 | similarity between 相似之处 | scholars 学者
+weakness 弱点，缺点，不足 | contradicts 反驳 | common 共同的，一般的，通常的
+mysterious 神秘的 | origin 起源 n. | significance 意义，重要性
+seasonal 季节性的，周期性的 | herds 【某一种类并一同活动的】兽群，牧群 | probable 可能的，可能存在的
+end with | over 在……上面 prep | make 组装 | obliterating 遮蔽，覆盖
+celebrated 举行 | fail to do sth 做某事没成功 | 
+
+#### 12. <font color='red'>错</font>
+
+!!! faq ""
+
+    { In paragraphs 1 and 2 }, **the author's primary purpose** ==is== ^^to^^
+    > 在第1和2段，作者的目的是要 
+    
+    {++A++}. ==describe== ^^how petroleum is formed^^ 
+    > 描述石油是如何形成的
+    
+    {--B--}. ==explain== ^^why petroleum formation is a slow process^^ 
+    > 说明为什么石油形成是一个缓慢的过程
+    
+    C. ==provide== ^^evidence^^ {++that a marine environment is necessary for petroleum formation++} 
+    > 提供一个海洋环境对石油形成是必须的的证据
+    
+    D. ==show== ^^that oil commonly occurs in association with gas^^
+    > 表明石油通常地与气体同时存在
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：2段信息都重要
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，2个组成元素，来源 沉淀物中的有机物；有机物利用氧分解，并不间断的沉淀；2元素的形成方式和过程；经过长时间积累；2元素密度特性，向上升
+    
+    答案：2个组成元素+形成方式和过程+长时间积累+特性和现象
+    
+    A第一段和第二段第一句说的是形成；B第二段的意义，就是在说形成的慢；C没有提必须的相关；D只是现象，不是目的
+    
+!!! failure ""
+
+    做题的时候就感觉B哪里不对，但是又说不上来，第二段不就是在阐述耗时么
+
+    与正确答案有争议，首先说的是形成过程，并且形成过程中涉及到缓慢的积累过程，所以B为什么不对？
+    
+    A是陈述，是如何形成的
+    
+    B是疑问，为什么缓慢，这个我迷惑了。文章中确实没有原因问答，但是我感觉这样解释是不是有点牵强，不明确。或者说他错在哪里了？
+    
+    {++解题思路提到：主旨句——搞清楚段落主旨句内容，据此判断段落的内容（一般就可以选出答案了）++}
+    
+
+Paragraph 1: {`意群1`【==**Petroleum, consisting of crude oil and natural gas, seems to originate from organic matter in marine sediment.**== <font color='red'>主旨句</font> `观点`】 Microscopic organisms settle to the seafloor and accumulate in marine mud. `顺承，细化` The organic matter may partially decompose, using up the dissolved oxygen in the sediment. `顺承，另一个角度细化` As soon as the oxygen is gone, decay stops and the remaining organic matter is preserved. `顺承，进一步确定上一句` `意群1`}
+
+Paragraph 2: {`意群2` `用沉淀顺承上一段，呼应主旨句` Continued sedimentation—the process of deposits' settling on the sea bottom—buries the organic matter and subjects it to higher temperatures and pressures, which convert the organic matter to oil and gas. As muddy sediments are pressed together, the gas and small droplets of oil may be squeezed out of the mud and may move into sandy layers nearby. `顺承，形成` Over long periods of time (millions of years), accumulations of gas and oil can collect in the sandy layers. `顺承，结果` Both oil and gas are less dense than water, so they generally tend to rise upward through water-saturated rock and sediment. `顺承，现象` `意群2`}
+    
+----
+
+Paragraph 1: **Petroleum**, ( consisting of crude oil and natural gas ), ==seems to originate from== ^^organic matter^^ {++in marine sediment++}.
+> 石油，由原油石油和天然气组成，看起来源自海洋沉淀物中的有机物。
+
+**Microscopic organisms** ==settle== ^^to the seafloor^^ and ==accumulate== ^^in marine mud^^.
+> 微生物定居在海底，并聚集在海泥中。
+
+**The organic matter** ==may== partially ==decompose==, { using up the {++dissolved++} oxygen {++in the sediment++} }.
+> 有机物可能部分地分解，用完沉淀物中已分解的氧。
+
+{ As soon as the oxygen is gone }, **decay** ==stops== and **the {++remaining++} organic matter** ==is preserved==. 
+> 氧一用完，腐烂就停止，并且保留的有机物被保存下来。
+
+Paragraph 2:  **Continued sedimentation**— ( the process of deposits' settling on the sea bottom )—==buries== ^^the organic matter^^ and ==subjects== ^^it^^ ==to== ^^higher temperatures and pressures^^, {++which convert the organic matter to oil and gas++}. 
+> 不间断的沉淀（沉积物定居在海底的过程），埋住有机物，使其经受高温和高压，这些操作转变有机物为石油和气体。
+
+!!! failure ""
+
+    1. deposits' 没看懂词性，应该是 n. 沉积物，但是为什么加 =='==，为什么有所有格？
+    
+        **老师解答：**
+    
+    2. 破折号，没有看出与题干相关的作用，这里只是一个插入语
+    
+        **老师解答：**
+    
+{ As muddy sediments are pressed together }, **the gas and small droplets of oil** ==may be squeezed out of== ^^the mud^^ and ==may move into== ^^sandy layers nearby^^.
+> 随着多泥的沉淀物被一起挤压，气体和石油的小滴可能从泥中被挤出来，并且可能进入附近多沙层中。
+
+{ Over long periods of time (millions of years) }, **accumulations of gas and oil** ==can collect== { in the sandy layers }.
+> 超过很长的时间周期（百万年），气体和石油的积累能够在多沙层中收集。
+
+**Both oil and gas** ==are== ^^less dense^^ { than water }, { so they generally tend to rise upward through water-saturated rock and sediment }.
+> 石油和气体两者都比水密度小，因此他们通常往往向上升，穿过水饱和的岩石和沉淀物。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+petroleum 石油 | in association with sb/sth 与某人/某机构等合伙（合作） | crude oil 原油石油
+organic matter 有机物 | originate from 源自 | organisms 生物
+settle 定居 | microscopic 极小的，微小的 | decompose 使腐烂；【术语】使分解
+partially 【正式】不完全地，部分地 | dissolve sth in sth 使溶解，使分解 | use up <-> sth 用完，用光
+preserve 保存 | as soon as 一……就…… | subject sb/sth to sth 【尤指长期】使遭受，使经历，使蒙受
+deposits 沉积物，沉积层 | squeezed out 挤出来 | saturated 饱和的
+buries bury复数 埋 | 
+
+
 ### 2018-10-08
 
 #### 11.
@@ -153,7 +317,7 @@ indefinite 无限的，不确定的 |
 
 ### 2018-09-29
 
-#### 9. 错
+#### 9. <font color='red'>错</font>
 
 !!! faq ""
 

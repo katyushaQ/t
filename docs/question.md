@@ -14,6 +14,42 @@
 > That makes *it 形式宾语* easy ^^to do the job 真正的宾语^^. 做这个工作很容易
 >> 也是因为宾语太长的，避免头重脚轻，类似形式主语
 
+### 2018-09-16 新学后作业 
+
+#### 修饰目的提 2/n
+
+!!! info "[5](read/rhetoricpurpose#5)"
+
+    **Wind velocity** also ==increases== ^^with altitude^^ and ==may cause== ^^serious stress for trees^^, { as is made evident by the deformed shapes at high altitudes }.
+    > 风速也随着海拔增加，对树造成严重的压力，从高海拔变形的形状形状是明显的
+    
+    !!! failure ""
+        
+        as和made 不知道该怎么翻了
+
+!!! info "[9](read/rhetoricpurpose#9)"
+
+    不知道B哪里错了，A也说的通，感觉B阐述的很模糊
+
+!!! info "[11](read/rhetoricpurpose#11)"
+
+    **Many** ==are found== { in tropical and subtropical areas of the metals } {++may afford some protection against plant-eating insects and microbial pathogens++}.
+    > 许多被发现在能够提供一些保护抵抗以植物为食的昆虫和微生物病原体的金属的热带和亚热带地区。
+    
+    !!! failure ""
+    
+        {++may afford some protection against plant-eating insects and microbial pathogens++} 是定语从句吗，为什么省略了that？因为和 the metals 是宾语么？
+    
+    
+!!! info "[12](read/rhetoricpurpose#12)"
+
+    不知道B哪里错了，不明确
+    
+    第一感觉是A，看了B，结合第二段，迷惑了
+    
+    句子翻译有个问题，见详情
+
+
 ### 第二次做
  
 !!! info "[4](read/simplification#4)" 

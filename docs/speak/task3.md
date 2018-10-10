@@ -133,7 +133,7 @@
     
 ### 2018-06-06
 
-!!! info "**TPO 4 Evening Computer Classes May Be Added （可能要增加计算机晚课）**"
+??? info "**TPO 4 Evening Computer Classes May Be Added （可能要增加计算机晚课）**"
 
     ==**Reading**==
     
@@ -180,7 +180,9 @@
     `The  computer department announces that they will add evening computer classes for students. Because students complains that the daytime classes is increasingly overcrowded and there are no longer enough computers available.
     In the listening, the man disagrees with this. First of all, students are very busy at night, they have jobs, families, clubs, and social events. They already have something to do every single night of the week. They cound't fit anything into their schedule during the week. Second, It cost money to fire more teachers and keep academic building open later, which is more expensive than buying more computers. And the department rooms are very big, there's a plenty of space to add more computers.`
     
-    ![3](../images/IMG_8743.JPG)
+    ??? info "Listening notes"
+    
+        ![3](../images/IMG_8743.JPG)
     
     NEW WORDS |  NEW WORDS |  NEW WORDS
     ------------ | -------------  | -------------
@@ -191,7 +193,7 @@
     
 ### 2018-06-08
 
-??? info "**TPO 5 Campus Dining Club Announced（宣布校园餐厅俱乐部）**"
+!!! info "**TPO 5 Campus Dining Club Announced（校园餐厅俱乐部宣布）**"
 
     ==**Reading**==
     
@@ -244,9 +246,12 @@
     cousin 弟兄姐妹 | atmosphere 气氛，环境 | kind of 各种
     be in a rush 赶时间 | chef 厨师 | look at  看看
     fancier ==fancy的比较级，更高级的== | ==fancy 【酒店、餐厅、汽车等】昂贵的，豪华的== | be worth sth 值……钱
-    pressure 压力 | fantastic 极好的，吸引人的，有趣的
+    pressure 压力 | fantastic 极好的，吸引人的，有趣的 | dining hall 食堂
+    transform sth into sth 使……变成…… | culinary arts 烹饪艺术 | 
     
-    ![3](../images/IMG_0517.JPG)
+    ??? info "Listening notes"
+    
+        ![3](../images/IMG_0517.JPG)
             
     !!! note "老师反馈"
         Reading：BECAUSE...AND...有问题，这里不是2个reason，应该是2个point
@@ -315,7 +320,8 @@
     Seminar 研讨班 | concentrate  专注，专心，集中注意力v | straight 径直的
     tiring 令人困倦的 | boring  无聊的 | waste 浪费n
     wonder 奇迹n（no wonder 表达不出意外的话，正常情况下） | worthwhile 重要的，有益的，值得做的 | pay attention (to sb./sth.) （对某人/某事）注意
-    get involved 参与 | stay up 熬夜
+    get involved 参与 | stay up 熬夜 | 
+    
     
     ![3](../images/IMG_3974.JPG)    
     

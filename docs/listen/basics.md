@@ -4,6 +4,15 @@
 
 PHRASE |  PHRASE
 ------------ | -------------
+I was wondering if 【口】我想知道是否【礼貌的求助】 | on your mind 某人心里想的
+positing comment 假定的评论 | note 笔记
+look up 查阅 | whoa 惊叹声
+of all people 【口】在所有人中竟然/偏偏 | lab 【非正式】实验室
+If that's the case = in that case 既然那样 | be great at 擅于，精通
+point out 指出，指明 | at night 夜间
+printouts 打印出来的资料 | black-and-white 黑白混合的
+look at 浏览 | type up 打字
+expert 专家，能手 | seek (sb's) help 【正式】寻求某人帮助
 
 
 ----
