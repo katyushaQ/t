@@ -14,6 +14,9 @@
 > That makes *it 形式宾语* easy ^^to do the job 真正的宾语^^. 做这个工作很容易
 >> 也是因为宾语太长的，避免头重脚轻，类似形式主语
 
+名词后面跟to do sth是什么意思，如sb's effort(s) to do sth 努力做某事。一般不都是动词跟to do sth么
+>
+
 ### 2018-09-16 新学后作业 
 
 #### 修饰目的提 2/n

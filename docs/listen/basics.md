@@ -1,3 +1,34 @@
+### 2018-10-11
+
+#### Inference practice 2
+
+PHRASE |  PHRASE
+------------ | -------------
+Everglandes 佛罗里达公园的沼泽地 | immense 巨大的 extremely large
+wetland 湿地，沼泽地 | peninsula 半岛
+fill with 填满，充满 | poke out 从……中露出/伸出 
+pools 池塘 | locate in 位于某处
+the continental United State 美国大陆/本土【不包括阿拉斯加和夏威夷】 | Atlantic Ocean 大西洋
+marshland 沼泽地 | varietis variety复数 a variety of 各种各样的事物
+essentially 本质上，本来 | temperate climates 温带气候
+oaks 橡树 | maples 枫树
+mahogany 桃花心木，红木 | plant life 植物的生命
+oversaturated 过度饱和的 | lizards 蜥蜴
+wading brids 涉禽类 | manatees 海牛
+reside v. 居住 | alligators 短吻鳄
+slight 轻微的 | chuckle 偷笑，窃笑
+swamp 沼泽 | destructive 毁灭性的，破坏性的
+flooding 水灾 | disturb 干扰，打扰
+distribution 分布 | as a result 结果
+rise in 增加 | organice mercury 无机贡
+block off <-> sth 封闭，封锁 | flooded 淹没的
+deprive ... of ...  从……夺走…… | algae 藻类
+bloom 开花 v. | thrive v. 【正式】兴旺，茁壮成长
+endangered 濒危的 |  coservation 【对动植物，森林等的】保护
+be worth 值得…… | constantly 连续不断地
+sb's effort(s) to do sth 努力做某事 | urban 城市的
+drain 排水 v. | 
+
 ### 2018-10-09
 
 #### Inference practice 1

@@ -160,8 +160,8 @@ organic matter 有机物 | originate from 源自 | organisms 生物
 settle 定居 | microscopic 极小的，微小的 | decompose 使腐烂；【术语】使分解
 partially 【正式】不完全地，部分地 | dissolve sth in sth 使溶解，使分解 | use up <-> sth 用完，用光
 preserve 保存 | as soon as 一……就…… | subject sb/sth to sth 【尤指长期】使遭受，使经历，使蒙受
-deposits 沉积物，沉积层 | squeezed out 挤出来 | saturated 饱和的
-buries bury复数 埋 | 
+deposits 沉积物，沉积层 | squeezed out of 从……中挤出来 | saturated 饱和的
+buries bury三单 埋 | 
 
 
 ### 2018-10-08

@@ -19,7 +19,7 @@ Hinge on 取决于。。。
 
 A reflect B 体现，反映
 
-16、**{++一个人对工作的++}感觉 **==会体现出== ^^一个人整体对自己生活的感知^^。
+16、**{++一个人对工作的++}感觉** ==会体现出== ^^一个人整体对自己生活的感知^^。
 > The sense of a person works for job may reflect perception of facing to his lives entirely. 
 
 The proportion of … is very high.
@@ -29,7 +29,7 @@ The proportion of … is very high.
 
 PHRASE |  PHRASE
 ------------ | -------------
-trend 趋向，趋势 | restrict 限制 v.
+trend 趋向，趋势 | 限制 v. restrict 
 穷的 poor | 明显的 obvious
 冲动 impulsion n. | 努力 attempt n.
 取决于 hinge on sth | 当局 the authorities
