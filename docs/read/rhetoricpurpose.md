@@ -1,6 +1,150 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-10-12
 
+#### 15.
+
+!!! faq ""
+
+    **The author** ==mentions== ^^"343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead"^^ { in order to }
+    > 作者提及“343个男人在使用中的一个堡垒里做工，如修皮鞋，建造浴室，烧窑，挖土和制铅”为了
+       
+    A. ==describe== ^^the kinds of tasks soldiers were required to perform^^ { as punishment for disloyalty or misdeeds }
+    >
+    
+    B. ==illustrate== ^^some of the duties assigned to soldiers to keep them busy and well-behaved^^ { when not involved in military campaigns
+    >
+    
+    C. ==provide== ^^evidence^^ {++that Roman soldiers had a negative effect on the local area { by performing jobs }++} {++that had been performed by native workers++}
+    >
+       
+    D. ==argue== ^^that the soldiers would have been better employed in the construction of infrastructure^^ { such as roads }
+    >
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：信息—艺术马的青铜雕像；时间—文艺复兴早期
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，物理法则，关键因素；For example 题干相关句；作者用画和雕刻举例阐述物理法则重要性
+    
+    答案：物理法则+雕刻家细节
+    
+!!! failure ""
+
+Paragraph 2: Economic exchange was clearly very important as the Roman army brought with it very substantial spending power. Locally a fort had two kinds of impact. Its large population needed food and other supplies. Some of these were certainly brought from long distances, but demands were inevitably placed on the local area. Although goods could be requisitioned, they were usually paid for, and this probably stimulated changes in the local economy. When not campaigning, soldiers needed to be occupied; otherwise they represented a potentially dangerous source of friction and disloyalty. Hence a writing tablet dated 25 April tells of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead. Such activities had a major effect on the local area, in particular with the construction of infrastructure such as roads, which improved access to remote areas.
+
+----
+Economic exchange was clearly very important as the Roman army brought with it very substantial spending power.
+>
+
+Locally a fort had two kinds of impact. Its large population needed food and other supplies.
+>
+
+Some of these were certainly brought from long distances, but demands were inevitably placed on the local area.
+>
+
+Although goods could be requisitioned, they were usually paid for, and this probably stimulated changes in the local economy.
+>
+
+When not campaigning, soldiers needed to be occupied; otherwise they represented a potentially dangerous source of friction and disloyalty.
+>
+
+Hence a writing tablet dated 25 April tells of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead.
+>
+
+Such activities had a major effect on the local area, in particular with the construction of infrastructure such as roads, which improved access to remote areas.
+>
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+fort 堡垒 n. | engaged 使用中的 | shoemaking 制鞋，修补皮鞋 n.
+bathhouse 澡堂，更衣室 | kilns 窑 | clay 黏土
+perform 执行，表演 | punishment 惩罚，处罚 | disloyalty 不忠实，不义
+misdeeds | duties | involved
+military 不端行为，犯罪，恶行，劣迹 | infrastructure 基础设施 | campaigns 【为取得某种结果而进行的政治，商业或社会性的】运动，（宣传）活动
+
+
+
+#### 14. <font color='red'>错，文章句子难，内容绕</font>
+
+!!! faq ""
+
+    **The author** ==includes== ^^the information^^ {++that "a protectionist movement developed in Sweden"++} { in order to }
+    > 作者包含“一个在瑞典形成的贸易保住主义运动”的信息，为了
+    
+    {--A--}. ==support== ^^the claim^^ {++that the political institutions of the four countries posed no significant barriers to industrialization or economic growth++}
+    > 支持四个国家的政治机构对工业化或者经济增长造成了无意义的障碍的声明
+    
+    {++B++}. ==identify== ^^an exception {++to the general trend++} {++favoring liberal trade policy++}^^
+    > 发现一个对偏爱自由贸易政策的一般趋向的例外
+    
+    !!! failure ""
+    
+        成分划分是否正确，上面两部分是分别是exception和trend的定语么，一个是不定式，一个是动名词
+    
+    C. ==explain== ^^why Sweden industrialized less^^ quickly { than the other Scandinavian countries and Netherlands }
+    > 说明为什么瑞典工业化片刻比其他斯堪的纳维亚的国家和荷兰少
+    
+    D. ==provide== ^^evidence^^ {++that agricultural reforms take place more quickly in countries^^ {++that have a liberal trade policy++} { than in those } {++that do not++}
+    > 提供农业改革在拥有自由贸易政策的比这些没有自由贸易政策的国家，更快地占据在国家中 的证据
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：贸易保护主义的运动 瑞典
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，政治机构 无意义障碍 对工业化和经济增长；民主，19世纪和平；政府合理管制和扶持；转折，小国家 外国市场，追求自由贸易；农业改革逐步，农民地主阶级的产生
+    
+    答案：政治机构+障碍+政府管理和扶持+转折 追求自由贸易+新阶级产生
+    
+    A例证用来支持主旨句；B没提例外；C没有比较；D农业改革是下一句，这句对应的是外国市场
+    
+!!! failure ""
+
+Paragraph 5: {`意群1`【==**The political institutions of the four countries posed no significant barriers to industrialization or economic growth.**== <font color='red'>主旨句</font>】 The nineteenth century passed relatively peacefully for <font color='Blue'> these 指代前面4个国家</font> countries, with progressive democratization taking place in all of them. `顺承，描述` <font color='Blue'>They 指代前面4个国家</font> were reasonably well governed, without notable corruption or grandiose state projects, <font color='Blue'>although 句内转折</font> in all of them the government gave some aid to railways, and in Sweden the state built the main lines. `顺承，进一步描述` `意群1`} <font color='red'>**|| 转折**</font> {`意群2` As small countries dependent on foreign markets, they followed a liberal trade policy in the main, <font color='Blue'>though 句间转折后置</font> a protectionist movement developed in Sweden. `转折，改变` In Denmark and Sweden agricultural reforms took place gradually from the late eighteenth century through the first half of the nineteenth, resulting in a new class of peasant landowners with a definite market orientation. `顺承，进一步描述` `意群2`}
+
+----
+
+【 **The political institutions of the four countries** ==posed== ^^no significant barriers to industrialization or economic growth^^.
+> 四个国家的政治机构造成对工业化和经济增长无意义的障碍。<font color='red'>主旨句</font>】
+
+**The nineteenth century** ==passed== relatively peacefully { for these countries }, { with progressive democratization taking place in all of them }.
+> 对于这些国家，随着先进的民主占据他们的所有，十九世纪相对和平地度过了。
+
+**They** ==were== reasonably well ==governed==, ( without notable corruption or grandiose state projects ), *although* in all of them **the government** ==gave== ^^some aid to railways^^, and in Sweden **the state** ==built== ^^the main lines^^.
+> 他们被很好地合理地管制，没有明显的腐败或者宏伟的国家项目，尽管在他们所有当中，政府给予一些帮助在地铁上，并且在瑞典，国家建筑主干线。
+
+【 { As small countries dependent on foreign markets }, **they** ==followed== ^^a liberal trade policy in the main^^, **though** **a protectionist movement** ==developed== { in Sweden }. <font color='red'>题干相关句</font>】
+> 随着小国家依靠外国市场，他们基本上追求一个自由贸易政策，尽管一个贸易保护主义运动在瑞典展开。
+
+{ In Denmark and Sweden } **agricultural reforms** ==took place== gradually { from the late eighteenth century through the first half of the nineteenth }, { resulting in a new class of peasant landowners {++with a definite market orientation++}.
+> 在丹麦和瑞典，农业改革逐步占据，从十八世纪晚期通过十九世纪上半叶，导致一个有明确市场方向的农民地主的阶级。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+pose 造成，引起，产生【问题，危险，困难等】 | barrier to ……是障碍，对于…… | industrialization 工业化
+Sweden 瑞典 | industrialized （已实现）工业化的 | agricultural 农业的
+reform 改进，改革 n. | liberal 自由的，开明的 | protectionist 贸易保护主义者；贸易保护主义的
+movement 【政治，社会等方面的】运动 | develop 形成 | institutions 机构，制度
+favoring favor 进行时态 偏爱，支持 | Scandinavian 斯堪的纳维亚的，北欧日耳曼语系 | Netherlands 荷兰
+ progressive 【尤指在政治和教育方面】进步的，先进的 | democratization 民主 | reasonably 合理地，适度地，相当地
+ notable 显著的，明显的 | corruption 腐败，贪污 | grandiose 宏伟的，浮夸的
+ follow 跟随，追求 | in the main 大体上，基本上 | peasant 农民
+ landowners 地主 | definite 明确的 | orientation 方向，目标
+ Denmark 丹麦 | the late eighteenth century 十八世纪晚期，晚期的，后期的 | the first half of the nineteenth 十九世纪上半叶
+ 
 ### 2018-10-10
     
 #### 13.
