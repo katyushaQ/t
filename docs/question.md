@@ -1,3 +1,15 @@
+## 写作
+
+### 2018-10-13 新学后整理
+
+主将从现——时间状语从句，只有时间有先后顺序
+> We will go on a picnic, if it doesn't rain tomorrow.
+
+定语从句时态，体现在动词，时态一致
+
+主句时态随意，从句一般现在时——描述客观事实
+> 例：地球绕着太阳转，做宾语从句时，不管主语是什么时态，这个都是一个事实
+
 ## 阅读
 
 请老师再给讲下意群
@@ -15,6 +27,12 @@
 >> 也是因为宾语太长的，避免头重脚轻，类似形式主语
 
 名词后面跟to do sth是什么意思，如sb's effort(s) to do sth 努力做某事。一般不都是动词跟to do sth么
+>
+
+杰出的记者 exellent reporter | distinctive report 哪个更好
+> 
+
+带连接符的词，组词规律
 >
 
 ### 2018-09-16 新学后作业 
@@ -52,6 +70,25 @@
     
     句子翻译有个问题，见详情
 
+!!! info "[14](read/rhetoricpurpose#14)"
+
+    文章句子难，内容绕
+    
+    {++B++}. ==identify== ^^an exception {++to the general trend++} {++favoring liberal trade policy++}^^
+    > 发现一个对偏爱自由贸易政策的一般趋向的例外
+    
+    !!! failure ""
+    
+        成分划分是否正确，上面两部分是分别是exception和trend的定语么，一个是不定式，一个是动名词
+        
+!!! info "[15](read/rhetoricpurpose#15)"
+
+    **Economic exchange** ==was== clearly ^^very important^^ { as the Roman army brought with *it* very substantial spending power }.
+    > 经济的交换明显地非常重要，因为罗马军队带来非常大量的消费力。
+    
+    !!! failure ""
+    
+        as 没有理解，通过翻译软件才知道是 因为
 
 ### 第二次做
  

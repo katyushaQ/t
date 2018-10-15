@@ -1,25 +1,25 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
-### 2018-10-12
+### 2018-10-15
 
 #### 15.
 
 !!! faq ""
 
     **The author** ==mentions== ^^"343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead"^^ { in order to }
-    > 作者提及“343个男人在使用中的一个堡垒里做工，如修皮鞋，建造浴室，烧窑，挖土和制铅”为了
+    > 作者提及“343个男人在一个堡垒里参与任务，如修皮鞋，建造浴室，烧窑，挖土和制铅”为了
        
     A. ==describe== ^^the kinds of tasks soldiers were required to perform^^ { as punishment for disloyalty or misdeeds }
-    >
+    > 描述一类任务士兵需要去执行对不忠实和罪行的处罚
     
-    B. ==illustrate== ^^some of the duties assigned to soldiers to keep them busy and well-behaved^^ { when not involved in military campaigns
-    >
+    ==B==. ==illustrate== ^^some of the duties {++assigned to soldiers to keep them busy and well-behaved++}^^ { when not involved in military campaigns
+    > 表明一些指派士兵保持繁忙和行为端正的职务，在他们没有参加军事运动时
     
     C. ==provide== ^^evidence^^ {++that Roman soldiers had a negative effect on the local area { by performing jobs }++} {++that had been performed by native workers++}
-    >
+    > 提供这样的一个证据，罗马士兵通过执行任务在当地有负面影响，这个任务曾经被当地工人执行过
        
     D. ==argue== ^^that the soldiers would have been better employed in the construction of infrastructure^^ { such as roads }
-    >
+    > 论证士兵更好的被雇佣于基础设施的建设中，如公路
     
 !!! tip ""
 
@@ -27,49 +27,66 @@
     
     类型：目的
        
-    细节：信息—艺术马的青铜雕像；时间—文艺复兴早期
+    细节：343男人，堡垒，做工——属于进一步举例详情
     
     ==段落分析==
     
-    细节：主旨句—第一句，物理法则，关键因素；For example 题干相关句；作者用画和雕刻举例阐述物理法则重要性
+    细节：主旨句—第一句，经济的交换 重要，来自罗马军队，超大消费力；2个影响，物资需求和人力产出；物资，必需远方，当地压力大，虽征用，但付款，促进经济；人力产出，空闲多事，举例如何使用军队，各种接触基础设施建造，举例效果
     
-    答案：物理法则+雕刻家细节
+    答案：主旨+2个影响+2个举例+效果
+    
+    A没提对别人的处罚；B符合第二影响中举例内容；C没提负面影响和当地人执行过；D没有比较
     
 !!! failure ""
 
-Paragraph 2: Economic exchange was clearly very important as the Roman army brought with it very substantial spending power. Locally a fort had two kinds of impact. Its large population needed food and other supplies. Some of these were certainly brought from long distances, but demands were inevitably placed on the local area. Although goods could be requisitioned, they were usually paid for, and this probably stimulated changes in the local economy. When not campaigning, soldiers needed to be occupied; otherwise they represented a potentially dangerous source of friction and disloyalty. Hence a writing tablet dated 25 April tells of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead. Such activities had a major effect on the local area, in particular with the construction of infrastructure such as roads, which improved access to remote areas.
+Paragraph 2: {`意群1`【Economic exchange was clearly very important as the Roman army brought with it very substantial spending power. <font color='Blue'>主旨句</font> `观点`】Locally a fort had two kinds of impact. Its large population needed food and other supplies. `顺承，现象和问题` Some of these were certainly brought from long distances, <font color='Blue'>but 句内转折</font> demands were inevitably placed on the local area. `顺承，解决方法` <font color='Blue'>Although 句间转折</font> goods could be requisitioned, they were usually paid for, and this probably stimulated changes in the local economy. `顺承，进一步细化，第一个影响` `意群1`} <font color='red'>**||**</font> {`意群2` When not campaigning, soldiers needed to be occupied; otherwise they represented a potentially dangerous source of friction and disloyalty. `另一个现象`【<font color='Blue'>Hence 因果，前句的果</font> a writing tablet dated 25 April tells of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead. <font color='red'>题干句</font> `顺承，因果，举例`】 Such activities had a major effect on the local area, in particular with the construction of infrastructure such as roads, which improved access to remote areas.`顺承，第二个影响` `意群2`}
 
 ----
-Economic exchange was clearly very important as the Roman army brought with it very substantial spending power.
->
 
-Locally a fort had two kinds of impact. Its large population needed food and other supplies.
->
+**Economic exchange** ==was== clearly ^^very important^^ { as the Roman army brought with *it* very substantial spending power }.
+> 经济的交换明显地非常重要，因为罗马军队带来非常大量的消费力。
 
-Some of these were certainly brought from long distances, but demands were inevitably placed on the local area.
->
+!!! failure ""
 
-Although goods could be requisitioned, they were usually paid for, and this probably stimulated changes in the local economy.
->
+    as 没有理解，通过翻译软件才知道是 因为
 
-When not campaigning, soldiers needed to be occupied; otherwise they represented a potentially dangerous source of friction and disloyalty.
->
+Locally **a fort** ==had== ^^two kinds of impact^^. 
+> 在本地，一个堡垒有2种影响。
 
-Hence a writing tablet dated 25 April tells of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead.
->
+**Its large population** ==needed== ^^food and other supplies^^.
+> 它的巨大人口，需要食物和其他必需品。
+ 
+**Some of these** ==were certainly brought== ^^from long distances^^, *but* **demands** ==were inevitably placed on== ^^the local area^^.
+> 上面这些东西必定从远距离地方运来，但是需求必然强加于当地地区。
 
-Such activities had a major effect on the local area, in particular with the construction of infrastructure such as roads, which improved access to remote areas.
->
+*Although* **goods** ==could be requisitioned==, they were usually paid for, *and* *this* probably ==stimulated== ^^changes {++in the local economy++}^^.
+> 尽管商品可能被征用，但是他们通常会付款，并且这种情况很可能刺激当地经济。
+
+{ When not campaigning }, **soldiers** ==needed to be occupied==; *otherwise* **they** ==represented== ^^a potentially dangerous source of friction and disloyalty^^.
+> 在没有运动的时候，士兵需要被使用；否则他们呈现一个潜在地摩擦和不忠实的危险根源。
+
+【 *Hence* **a writing tablet** {++dated 25 April++} ==tells== ^^of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead^^. <font color='red'>题干相关句</font>】
+> 因此，一个写着日期为4月25的便签纸说，343个男人在一个堡垒里参与任务，如修皮鞋，建造浴室，烧窑，挖土和制铅。
+
+Such **activities** ==had== ^^a major^^ {++effect on the local area++}, ( in particular with the construction of infrastructure such as roads ), {++which improved access to remote areas++}.
+> 这些活动给当地带来一个主要的影响，特别在基础设施建造上，如公路，以上这些改善与远方接触的机会。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-fort 堡垒 n. | engaged 使用中的 | shoemaking 制鞋，修补皮鞋 n.
+fort 堡垒，城堡 n. | engaged 使用中的 | shoemaking 制鞋，修补皮鞋 n.
 bathhouse 澡堂，更衣室 | kilns 窑 | clay 黏土
 perform 执行，表演 | punishment 惩罚，处罚 | disloyalty 不忠实，不义
-misdeeds | duties | involved
-military 不端行为，犯罪，恶行，劣迹 | infrastructure 基础设施 | campaigns 【为取得某种结果而进行的政治，商业或社会性的】运动，（宣传）活动
-
-
+misdeeds 【正式】不端行为，犯罪，恶行，劣迹 | duties 责任，职务 n. | involve sb in (doing) sth 要求（允许）参与
+military 军事的，军用的 | infrastructure 基础设施 | campaigns 【为取得某种结果而进行的政治，商业或社会性的】运动，（宣传）活动
+assign sb to do sth 派某人做某事 | bring sb/sth with sb 带着……来（和他自己） | substantial 大量的，实质性的
+spending 支出，开销 | Locally 在本地，在当地 | certainly 必定 
+inevitably 必然地，不可避免地 | place on 强加于 |  requisition 征用 v.
+stimulate 刺激，激发，促进，鼓励 | otherwise 否则，要不然 | potentially 潜在地，可能地
+friction 摩擦，冲突 | tablet 【美】便签本 | engage on 参加，参与【活动】
+effect on…… 对……阐述影响 | in particular 尤其，特别 | improve 改善
+access to 使用权，接触的机会 | well-behaved 行为端正的 | 
+ 
+### 2018-10-12
 
 #### 14. <font color='red'>错，文章句子难，内容绕</font>
 

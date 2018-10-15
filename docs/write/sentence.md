@@ -1,31 +1,87 @@
 {++能想起来，但拼写不出来或不完整的或词性++}&nbsp;&nbsp;&nbsp;&nbsp;^^不会，查字典的^^&nbsp;&nbsp;&nbsp;&nbsp;==词条或固定短语 `解释`==
 
+## 解决类（用来论证solution解决方案）
+
+### 2018-10-15
+
+Give priority to sth.	
+
+1、**政府** ==应该把== ^^优化财政资源^^ ==放在== ^^优先位置^^。
+> Governments should {++give priority to++} optimize financial resources.
+
+Dedicate money/time/energy to …
+
+2、**政府** ==应该把== ^^自己花费^^ { 在保护老年人、病人和无家可归的人的权利上 }。
+> Governments should {++dedicate money to++} right of protecting elder,sick,and ^^dosser^^.
+
+Be vulnerable to …
+
+3、{ 如果没有适当的家庭指导 }，**孩子** 容易 ==成为== {++那些电视节目中的暴力和色情内容的++}^^受害者^^。
+> Without ^^appropriate^^ family education, children are easily vulnerable to those violence of TV and ^^pornographic contents^^.
+
+#### 中间类
+In this respect/regard
+
+18、**主管（superior）的积极反馈** { 在这方面 } ^^很重要^^。
+> The superior's positive feekback {++in this respect++} is very important.
+
+… is a frequent topic of discussion
+
+19、**天生能力和训练的重要性比较** ==是== ^^一个一再{++引起辩论的++}话题^^。
+> The comparison between the natural ability and training importance/significance  {++is a frequent topic of discussion++}
+
+PHRASE |  PHRASE
+------------ | -------------
+上级，上司，长官 superior | 一个一再辩论的话题 a frequent topic of discussion
+在这方面 in this respect / in this regard | 比较 comparison
+重要性 importance/significance | 把……放在优先位置 give priority to sth
+病人 sick | 无家可归的人 dosser
+献给 dedicate sth to sb | 适当的 appropriate
+暴力 violence | 色情内容 pornography 色情【杂志，电影等】；色情内容 pornographic contents 
+易受到……伤害 be vulnerable to sth | 
+
 ### 2018-10-10
 
 This trend is not restricted to…
 
 13、**这个现象** ==并不仅限于== ^^那些有钱做这些事的有钱学生^^，{ 在更穷的孩子中 } ==也是== ^^很明显的^^。
-> {++This phenomenon is not restricted to++} students who have money to do these things, and is ^^obvious^^ in ^^poorer^^ children.
+> {++This++} {--phenomenon--} ==trend== {++is not restricted to++} students who have money to do these things, and ==it `并列，缺主语`== is ==also== ^^obvious^^ {--in--} ==among== ^^poorer^^ children.
+>> 现象的复数 phenomena
 
 Tend to …多半是。。。(代替most of)
 
 14、**年轻人** 多半 ==容易== ^^更冲动^^ *并且* ^^更容易在社会中误入歧途^^。
-> The youth easily tends to more ^^impulsion^^, and easily moves into wrong way.
+> The youth easily tends to more ^^{--impulsion--} ==impulsive `more 比较级+形容词`==^^, and easily {--moves into--} ==goes `并列，三单`== wrong way.
 
 Hinge on 取决于。。。
 
 15、**这次努力的成功** ==取决于== ^^来自当局的贡献^^。
-> The success of this attempt {++hinges on++} that originate from contribution of ^^the authorities^^.
+> The success of this attempt {++hinges on++} `+名词` {--that originate from--} ^^contribution of the authorities^^.
 
 A reflect B 体现，反映
 
 16、**{++一个人对工作的++}感觉** ==会体现出== ^^一个人整体对自己生活的感知^^。
-> The sense of a person works for job may reflect perception of facing to his lives entirely. 
+> The sense of a person {--works for job--} ==to work== may reflect perception of {--facing--} ==a person== to his lives entirely.
+
+!!! failure ""
+
+    works的使用场景：It works 起作用
+    
+    face with sb 面对 【近】confront v.
+    
+    feel 感觉，感受；sense 感性认知
 
 The proportion of … is very high.
 
 17、**他们** ==花费== ^^时间^^ { 在这种工作上的生活 } ^^的比例非常高^^。
 > They spend times in which {++the proportion of++} lives of this jobs {++is very high++}.
+>> They spend on the lives of work is very high.
+
+!!! failure ""
+
+    our lives 我们的生活；抽象 live
+    
+    life of sth 正确没问题；人，sb's/one's life
 
 PHRASE |  PHRASE
 ------------ | -------------
@@ -41,29 +97,68 @@ trend 趋向，趋势 | 限制 v. restrict
 A is best characterized by …
 
 8、**出色记者的最重要特质** ==是== ^^自律、决断力和洞察力^^。
-> The remarkable reporter {++is best characterized by++} ^^self-discipline^^, ^^decision^^, and ^^insight^^.
+> The {--remarkable--} ==excellent== reporter {++is best characterized by++} ^^self-discipline^^, ^^{--decision--} ==decisiveness==^^, and ^^{--insight--} insightfulness^^.
+
+!!! failure ""
+
+    卓越的，杰出的 excellent 中国人的解释，外国人的解释 distinctive，外国人认为独特的就是杰出的，地道
+    
+    decision 做决定 make decision；决断力 形容词+ness
+    
+    insight 普通顿悟；洞察力 形容词+ness
+    
+    remarkable 显著的（在数据方面）
 
 Given the choice, …
 
 9、{ 如果可以选择的话 }，**大多数成年人** ==会发现== ^^人类朋友比宠物更值得拥有^^。
-> {++Given the choice++}, many adults will find that human friends are ^^more worth having^^ than pets.
+> {++Given the choice++}, many adults will find {--that human friends are ^^more worth {--having--} ==owning `拥有`==^^ than pets--}.
+>> find 后 it is more worth owning human friends than pets.
+
+!!! failure ""
+
+    多用形式主语，形式宾语
+    
+    英语 越简洁越好，去掉从句，改用形式主/宾语
+    
+    从句，支持句子多样性
  
-Someone would be well-advised to do sth.
+Someone would be well-advised `好的建议` to do sth.
 
 10、**家长** ==应该== ^^多花些时间和他们的后代在一起^^。
-> Parents should ^^spend more time^^ with their generation.
+> Parents should ==be well-advised to== ^^spend more time^^ with their {--generation--} ==descendant==.
+
+!!! failure ""
+
+    汉->英 原则，汉语意思简化后翻成英语
+    
+    花费时间做某事，采用形式主语 It take sb some time to do sth / It cost 
 
 …, and there seems to be plenty of research findings to confirm this 
 
 11、**以小组形式** ==教== ^^学生^^ ==帮助== ^^他们成长成好社交的、有责任感的个体^^。
-> As a group form taught students, {++and there seemed to be plenty of research findings to confirm this++}.
-
+> {--As a group form--} ==In a samll groups,== {--taught students, {++and there seemed to be plenty of research findings to confirm this++}--}.
 > As a group form taught students, and help them to ^^grow into^^ social and responsible individual.
+>> In a small groups, students are taught and helped to grow up to be sociable and responsible individual.
+
+!!! failure ""
+
+    中文看不到主语，没有主语，就用被动语态
+    
+    help to do sth 
+    
+    grow up to be 为了成为……的人
+    
+    sociable 好交际的；social 社会的
 
 In all likelihood 很可能
 
 12、{ 很可能 }，**这个决定** ==是由== { 那些对问题错误理解了的政府官员 } ==决定的==。
->{++In all likelihood++}, the decision was determined by government officals who ^^misunderstand^^ the problems. 
+>{++In all likelihood++}, the decision was {--determined--} ==made== by government officals who ^^{--misunderstand--} misunderstood `时态前后一致`^^ the problems. 
+
+!!! failure ""
+
+    make the decision 做决定
 
 
 PHRASE |  PHRASE
@@ -72,7 +167,8 @@ PHRASE |  PHRASE
 洞察力 insight  | 成长为 grow into
 更值得拥有 more worth having |  几乎确定地，极可能地 In all likelihood
 误解 misunderstand | 如果可以选择的话 given the choice
-
+强烈建议你做某事 you would be well-advised to do sth | 后代，后裔 descendant
+做决定 make the decision | 
 
 ### 2018-09-29
 
