@@ -1,3 +1,29 @@
+### 2018-10-16
+
+### Part B Approaching Themes
+
+#### Office Hours
+
+PHRASE |  PHRASE
+------------ | -------------
+approach 接近，探讨 | performance 表现
+honor 表扬 v. | participation 参加，参与
+major [大学的]主修科目，专业 | audit 旁听[大学课程]
+microcredit 小额信贷 | exactly 精确地
+hold 保留 | have plenty on my plate 有相当多的事情
+solely 唯一地 | sit in 出席
+I suppose that 我想，我认为 | outstanding 突出的
+reputation 名望 | persuaslor 说服
+take a great course 上一门很棒的课程 | appreciate 感谢
+fair 公平的 | hold on 等会儿
+benefit from 受益于 | get a free ride 搭便车
+annoying 令人气恼的 | point in 暗示，表明
+money is no small matter 钱不是小事 | sign up 报名
+plate 盘，碟 | inform 通知，告知
+inquire 询问，打听 | harsh 严酷地
+owe to sb 归功于谁 | poorly 拙劣地
+thesis 论文
+
 ### 2018-10-11
 
 #### Inference practice 2

@@ -73,7 +73,7 @@ Such **activities** ==had== ^^a major^^ {++effect on the local area++}, ( in par
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-fort 堡垒，城堡 n. | engaged 使用中的 | shoemaking 制鞋，修补皮鞋 n.
+fort 堡垒，城堡 n. | well-behaved 行为端正的 | shoemaking 制鞋，修补皮鞋 n.
 bathhouse 澡堂，更衣室 | kilns 窑 | clay 黏土
 perform 执行，表演 | punishment 惩罚，处罚 | disloyalty 不忠实，不义
 misdeeds 【正式】不端行为，犯罪，恶行，劣迹 | duties 责任，职务 n. | involve sb in (doing) sth 要求（允许）参与
@@ -83,8 +83,8 @@ spending 支出，开销 | Locally 在本地，在当地 | certainly 必定
 inevitably 必然地，不可避免地 | place on 强加于 |  requisition 征用 v.
 stimulate 刺激，激发，促进，鼓励 | otherwise 否则，要不然 | potentially 潜在地，可能地
 friction 摩擦，冲突 | tablet 【美】便签本 | engage on 参加，参与【活动】
-effect on…… 对……阐述影响 | in particular 尤其，特别 | improve 改善
-access to 使用权，接触的机会 | well-behaved 行为端正的 | 
+effect on…… 对……产生影响 | in particular 尤其，特别 | improve 改善
+access to 使用权，接触的机会 |
  
 ### 2018-10-12
 
