@@ -11,9 +11,9 @@ honor 表扬 v. | participation 参加，参与
 major [大学的]主修科目，专业 | audit 旁听[大学课程]
 microcredit 小额信贷 | exactly 精确地
 hold 保留 | have plenty on my plate 有相当多的事情
-solely 唯一地 | sit in 出席
+solely 唯一地 | sit in 列席，旁听
 I suppose that 我想，我认为 | outstanding 突出的
-reputation 名望 | persuaslor 说服
+reputation 名声 | persuaslor 说服
 take a great course 上一门很棒的课程 | appreciate 感谢
 fair 公平的 | hold on 等会儿
 benefit from 受益于 | get a free ride 搭便车

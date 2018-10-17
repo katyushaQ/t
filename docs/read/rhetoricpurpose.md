@@ -1,5 +1,144 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 2018-10-17
+
+#### 17.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==make== ^^the statement, "Indeed, there are vast areas of spruce forest without moose"^^ ?
+    > 为什么作者写这段话“的确，没有驼鹿的云杉森林有广阔的区域”？
+    
+    A. ==To highlight== ^^a fact^^ {++whose significance the ecologist Herbert Gleason had missed++}
+    > 用来强调一个事实，它的重要性生物学家HG没有还注意到。
+   
+    B. ==To propose== ^^the idea^^ {++that a spruce forest is by itself a superorganism++}
+    > 用来建议一个观点，一个云杉森林自身是一个超生物体。
+
+    C. ==To emphasize== ^^that moose are not limited to a single kind of environment^^
+    > 用来强调驼鹿不会局限于一种单一的环境。
+
+    ==D==. ==To criticize== ^^the idea of a spruce-moose biome^^
+    > 用来批评一个云杉驼鹿的生物群体的观点
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：没有驼鹿的 云杉森林 地域广阔
+    
+    ==段落分析==
+    
+    细节：主旨句——前两句，特定群体是动物和植物的延伸，提出“生物群系”概念；细节——1，误导“云杉驼鹿的生物群系”，这个生物群系没有内部凝聚力；云杉不受驼鹿出现与否影响；深度细节——没有驼鹿的云杉，有更快广阔区域；2，反对概念，很多生物学家反对C概念，并提出观点，种类分布与栖息地环境关系和结果
+    
+    答案：生物群系+误导内容+举例云杉与驼鹿的关系+反对概念+分布观点支持
+    
+    A没提注没注意到；B没提超生物体特点；C像推断题；D误导内容+举例
+    
+!!! failure ""
+
+Paragraph 5: {`意群1`【==**<font color='Blue'>Even 进一步，承接上一段</font> less fortunate was the extension of this type of thinking to include animals as well as plants.**== `顺承，上一段` ==**This resulted in the "biome," a combination of coexisting flora and fauna.**== <font color='red'>主旨句</font> `顺承，结果，主旨` `观点`】 <font color='Blue'>Though 句间转折</font> it is true that many animals are strictly associated with certain plants, it is misleading to speak of a "spruce-moose biome," for example, because there is no internal cohesion to their association as in an organism. `顺承，细节` The spruce community is not substantially affected by either the presence or absence of moose. `顺承，细节现象` 【{++**<font color='Blue'>Indeed, `强调`</font> there are vast areas of spruce forest without moose.**++} `顺承，进一步细节`】 `意群1`} <font color='red'>**||**</font> {`意群2` The opposition to the Clementsian concept of plant ecology was initiated by Herbert Gleason, soon joined by various other ecologists. `另一维度，支持主旨` Their major point was that the distribution of a given species was controlled by the habitat requirements of that species and that therefore the vegetation types were a simple consequence of the ecologies of individual plant species. `顺承，细节` `意群2`}
+    
+----
+
+*Even* **less fortunate** ==was== ^^the extension of this type of thinking to include animals^^ { as well as plants }. 
+> 甚至穷苦群体是设法包含动物以及植物的这个类型的延伸。
+
+***This*** ==resulted in== ^^the "biome,"^^ ( a combination of coexisting flora and fauna ).
+> 上面这个情况导致“生物群系”，一个植物群和动物群共存的组合。
+
+*Though* *it* ==is== ^^true^^ **that many animals are strictly associated with certain plants**, *it* ==is misleading to speak of== ^^a "spruce-moose biome,"^^ { for example }, { because there is no internal cohesion to their association as in an organism }.
+> 尽管许多动物完全与某些植物有关是真实的，但是，例如这个说法误导说明“云杉驼鹿的生物群系”，因为对他们的群体，如在一个生物群体中，没有内部的凝聚力。
+
+**The spruce community** ==is not substantially affected== { by either the presence or absence of moose }.
+> 这个云杉群体基本上没有被驼鹿的存在或不存在影响。
+
+【 Indeed, ^^there^^ ==are== **vast areas of spruce forest without moose**. <font color='red'>题干相关句</font>】
+> 确实，没有驼鹿的云杉森林有广阔的区域。
+
+**The opposition to the Clementsian concept of plant ecology** ==was initiated== { by Herbert Gleason }, soon ==joined== { by various other ecologists }. 
+> 对植物生态学的C概念的反对由HC发起，很快许多其他生物学家参与进来。
+
+**Their major point** ==was== ^^that the distribution of a given species was controlled by the habitat requirements of that species^^ and ^^that therefore the vegetation types were a simple consequence of the ecologies of individual plant species^^.
+> 他们的主要观点是特定的种类的分布由这个种类的栖息地环境所支配，因此这个植物类型是一个简单的个体植物种类的生物学的后果。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+highlight 突出，强调 | spruce 云杉 | superorganism 超生物体，超个体
+moose 驼鹿 | biome 【术语】生物群系[根据气候和植被划分的地理环境] | vast 巨大的，广阔的
+miss 错过，没有注意到 | be limited to sth 局限于某处[团体，范围] | the less fortunate 穷苦人
+coexist 共存，共处 | flora [某地方或国家的]植物群 | fauna [某地方或国家的]动物群
+speak of 【文】表明，说明 | strictly 严格地，完全地 | mislead 误导
+cohesion 凝聚（力） | be associated with （sb/sth)  与（某人/某物）有关
+substantially 大量地，主要地，大体上，基本上 | presence 存在 n.
+opposition to 对……的反对 | initiate 开始，发起 | consequence of ……的后果
+a given 指定的，特定的 | think to do sth 【文】设法做某事 | 
+    
+#### 16. <font color='red'>错，可惜，受选项影响</font>
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==mention== ^^that "some of the forts {++continued++} {++in occupation++} long after Rome ceased to have any formal authority in Britain"^^ ?
+    > 为什么作者提及“在罗马停止在不列颠实行任何正式的权力很长时间后，一些堡垒持续在占领中”？
+ 
+    A. ==To emphasize== ^^the degree^^ {++to which the stability of the British northern frontier depended on firm military control++} 
+    > 用来强调不列颠边境的稳定性依靠稳固的军事控制的程度
+
+    {--B--}. ==To suggest== ^^that the Romans continued to occupy Britain^^ { even after they had formally given up the right to do so }  
+    > 用来暗示罗马人继续占领大不列颠，甚至在他们正式低放弃权利后，继续这样做。
+
+    C. ==To support== ^^the claim^^ {++that forts continued to serve an import economic function { even after they ceased to be of any military use }++}
+    > 用来支持堡垒继续用于引进经济功能，甚至在他们停止任何军事使用后的主张
+
+    {++D++}. ==To describe== ^^one of the things^^ {++that resulted from frontier garrisons' becoming part of the local community over a long period++}
+    > 用来描述一个超过一个长周期，由边境驻军的人们成为当地团体一部分的事
+    
+    !!! failure ""
+    
+        garrisons' 没看懂，驻军的什么？
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：罗马停止实行权力，很长时间后，堡垒持续占领中
+    
+    ==段落分析==
+    
+    细节：主旨句——定居过程，几代人，招募新兵，罗马末期，北部边境，稳定人口比例；细节——主旨是持续占据的原因，时间；当地人罗马化，导致军事团体成为英国的
+    
+    答案：主旨+持续占据+结果
+    
+    A没提稳定性与军事控制的关系；B持续占据+时间+结果 ==……后，没说继续这样做==；C没提引进经济功能；D{--像段落总结，跑题--} ==可能是因为开始觉得B对，就没认真权衡下==
+    
+!!! failure ""
+
+Paragraph 5: {`意群1`【==**<font color='Blue'>This 指代上一段提到的</font> process of settling in as a community over several generations, combined with local recruitment, presumably accounts for the apparent stability of the British northern frontier in the later Roman period.**==<font color='red'>主旨句</font> `顺承，细节` `观点`】 【{++**It also explains why some of the forts continued in occupation long after Rome ceased to have any formal authority in Britain, at the beginning of the fifth century A.D.**++} <font color='red'>题干句</font> `顺承，解答上一段提及的占领相关内容`】 The circumstances that had allowed natives to become Romanized also led the self-sustaining military community of the frontier area to become effectively British. `顺承，强调比例的结果` `意群1`}
+    
+----
+
+**This process of settling** { in as a community } { over several generations }, ( combined with local recruitment ), presumably ==accounts for== ^^the apparent stability of the British northern frontier { in the later Roman period }^^.
+> 这个如一个团体的定居过程覆盖几代人，同时当地招募新兵，大概在罗马周期末期，占据不列颠北部边境的明显的稳定性的一定比例。
+
+【 *It* also ==explains== ^^why some of the forts continued in occupation long after Rome ceased to have any formal authority in Britain^^,  ( at the beginning of the fifth century A.D ). <font color='red'>题干相关句</font>】
+> 同时也说明，为什么一些堡垒持续在占领中，罗马停止在不列颠实行任何正式的权力很长时间后，在公元后15世纪初。
+
+**The circumstances** {++that had allowed natives to become Romanized++} also ==led== ^^the self-sustaining military community of the frontier area^^ ==to become== effectively ^^British^^.
+> 这个允许当地人罗马化的状况同时导致自我维持的边境地区的军事团体实际上变成英国的。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+occupation [尤指军队的]占领，控制 | frontier 国界，边境 | import 进口，进口商品，引进物
+continued 连续的，反复的，频繁的 | degree 程度 the dgree to which  | firm 牢固的，稳固的
+garrisons 驻军 | recruitment 招募新兵 n. | presumably 大概，可能
+apparent 明显的 | settle 解决，定居 | account for sth 占一定比例，是……的原因，解释说明，说明……在何处
+circumstances 【正式】境况，状况[尤指经济状况] | Romanized 罗马化的 | self-sustaining 自我维持的
+British 英国的； The British 英国人 | combine with 同时做[两件完全不同的事] | 
+
 ### 2018-10-15
 
 #### 15.

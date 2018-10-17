@@ -2,6 +2,63 @@
 
 ## 解决类（用来论证solution解决方案）
 
+### 2018-10-17
+
+Sth. Should be condemned rather than condoned 某事应该被谴责而不是被宽恕
+
+4、如今**盲目（indiscriminate）抄袭传统建筑风格** ==是应该被谴责== 而 ==不是被宽恕==。
+> Nowadays, {++indiscriminately++} ^^plagiarizing^^ traditional structure style {++shoude be condemned rather than condoned++}.
+
+It is imperative/essential that … sth. Is of paramount/overriding importance
+
+5、{ 对于新来的移民者来说 }，及时(promptly) **适应当地文化** ^^至关重要^^。
+> For new settlers, {++promptly++} adapt to local culture {++is of paramount importance++}.
+> For new immigrants, {++it is imperative that++} they promptly adapt to native culture. 
+
+Sth. Requires …
+
+6、**任何一个孩子** ==都可以被教授== ^^特殊技能^^，*但是* { 要想真正擅长与某一方面比如音乐、艺术或者运动，那么就需要一些天分 }。
+> Any child could be ^^imparted^^ special skills, but if he really wants to be great at one hands such as music, artist or sport, which requires some gift.
+
+Distinguish between A and B
+
+7、**许多年轻人** ==缺乏== ^^分辨是非的能力^^。
+> Numerous youth lacked capacity that {++distinguish between++} ^^right from wrong^^.
+
+Take … into account
+
+8、**{++个体犯罪时的++}环境和犯罪动机** ==应该== { 在决定惩罚的时候 } ==被纳入考虑==。
+> When they decid to punish, they should be {++took++} the environment and criminal motivation on individual ^^committing^^ {++into accout++}.
+
+Is an important element of …
+
+9、**工作满意度** ==是== ^^个体幸福感的一个重要因素^^。
+> The degree of work satisfaction {++is an imporatnt element of++} individual happyness.
+
+Are not mutually exclusive
+
+10、**良好的训练和天分** ==并不相互排斥==。
+> The good drills and talents are not mutually exclusive.
+
+!!! failure ""
+        
+    这里有点晕，后面要用are，前面 drill and talent 对么，还有 talent 可以复数么，感觉好像不能
+
+
+PHRASE |  PHRASE
+------------ | -------------
+盲目的 indiscriminate | 抄袭，剽窃 plagiarize
+谴责 condemn  | 宽恕[大多数认为不道德的行为] condon
+及时 promptly | 移民 immigrant 
+极重要的 imperative / essential | ……很重要 it is imperative that …… / it is essential that
+最重要的 paramount / overriding | / is of paramount of importance / is of overriding of importantce
+教授，传授 impart | 分辨 distinguish
+把某事考虑进去 take sth into account / take account of sth | 犯罪的 criminal
+动机 motivation | 犯罪 commit v.
+惩罚 punish | 满意 satisfaction
+[思想和信念]相互排斥[矛盾]的 mutually exclusive | exclusive 排斥的
+天分 talent | 
+
 ### 2018-10-15
 
 Give priority to sth.	
