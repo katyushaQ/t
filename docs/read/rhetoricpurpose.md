@@ -71,10 +71,9 @@ moose 驼鹿 | biome 【术语】生物群系[根据气候和植被划分的地�
 miss 错过，没有注意到 | be limited to sth 局限于某处[团体，范围] | the less fortunate 穷苦人
 coexist 共存，共处 | flora [某地方或国家的]植物群 | fauna [某地方或国家的]动物群
 speak of 【文】表明，说明 | strictly 严格地，完全地 | mislead 误导
-cohesion 凝聚（力） | be associated with （sb/sth)  与（某人/某物）有关
-substantially 大量地，主要地，大体上，基本上 | presence 存在 n.
-opposition to 对……的反对 | initiate 开始，发起 | consequence of ……的后果
-a given 指定的，特定的 | think to do sth 【文】设法做某事 | 
+cohesion 凝聚（力） | be associated with （sb/sth)  与（某人/某物）有关 | consequence of ……的后果
+substantially 大量地，实质上 | presence 存在 n. | think to do sth 【文】设法做某事
+opposition to 对……的反对 | initiate 开始，发起 |  a given 指定的，特定的
     
 #### 16. <font color='red'>错，可惜，受选项影响</font>
 

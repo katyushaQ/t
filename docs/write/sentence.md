@@ -48,7 +48,7 @@ Are not mutually exclusive
 PHRASE |  PHRASE
 ------------ | -------------
 盲目的 indiscriminate | 抄袭，剽窃 plagiarize
-谴责 condemn  | 宽恕[大多数认为不道德的行为] condon
+指责 condemn  | 宽恕[大多数认为不道德的行为] condon
 及时 promptly | 移民 immigrant 
 极重要的 imperative / essential | ……很重要 it is imperative that …… / it is essential that
 最重要的 paramount / overriding | / is of paramount of importance / is of overriding of importantce
@@ -56,8 +56,8 @@ PHRASE |  PHRASE
 把某事考虑进去 take sth into account / take account of sth | 犯罪的 criminal
 动机 motivation | 犯罪 commit v.
 惩罚 punish | 满意 satisfaction
-[思想和信念]相互排斥[矛盾]的 mutually exclusive | exclusive 排斥的
-天分 talent | 
+[思想和信念]相互排斥[矛盾]的 mutually exclusive | 排斥的 exclusive 
+天分 talent | 相互地 mutually
 
 ### 2018-10-15
 

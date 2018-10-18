@@ -1,6 +1,23 @@
 ### 2018-10-16
 
-### Part B Approaching Themes
+#### Office Hours
+
+PHRASE |  PHRASE
+------------ | -------------
+bright 聪明的 | put effort into sth 努力做某事
+sigh 叹气 | hammer out 商定，阐明
+anyway 尽管如此 | what's done is done 木已成舟
+scold 责骂 | figure 想，认为
+hot 棘手的 | from now 从现在起
+elective course 选修课 | favorite 最喜欢的
+extracurricular 课外的 | juggle 同时应付
+whether or not 无论是否 | workload 工作量
+drop 终止，放弃 | from here on out 从现在起
+I have another year left 我还有一年 | come by 到访，来访
+to be honest 老实说 | good grade 好成绩
+uncharacteristically 异乎寻常 | absolute 绝对的，完全的
+
+### 2018-10-16
 
 #### Office Hours
 
@@ -23,6 +40,8 @@ plate 盘，碟 | inform 通知，告知
 inquire 询问，打听 | harsh 严酷地
 owe to sb 归功于谁 | poorly 拙劣地
 thesis 论文
+
+### Part B Approaching Themes 以上
 
 ### 2018-10-11
 
