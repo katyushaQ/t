@@ -1,5 +1,150 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
+### 201810-19
+
+#### 19. <font color='red'>错，难，选项模糊，不好明确甄别</font>
+
+!!! faq ""
+
+    **What** ==is== ^^the purpose of the statement^^, ( "Whereas in 1810 only a seventh of the American people lived west of the Appalachian Mountains, by 1840 more than a third lived there" )?
+    > 这个句子的目的是什么，“尽管在1810年，只有七分之一的美国人住在阿巴拉契亚山脉西边，但是在1840年之前，超过三分之一人住在那”？
+    
+    A. ==To illustrate== ^^that generally population shifts occur rapidly^^
+    > 用来说明人口转变一般迅速发生。
+    
+    {--B--}. ==To correct== ^^a mistaken impression of American agriculture from 1810 to 1840^^
+    > 用来指出一个从1810年到1840年，美国农业的错误印象。
+    
+    {++C++}. ==To emphasize== ^^the range and speed^^ {++with which the westward migration occurred++}
+    > 用来强调有向西方移民存在的范围和速度。
+    
+    D. ==To demonstrated== ^^how attractive the Appalachian Mountains were to Americans^^
+    > 用来论证阿巴拉契亚山脉对美国人多么有吸引力。
+        
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：目的
+       
+    细节：转折逻辑，2个时间点，1810 七分之一人口，1840 三分之一人口，人越来越多
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，人口向西迁移==农业扩张；细节1815年后，改善的运输系统，脱离自给自足，进入市场经济；市场经济价格高，促进向西移民；外人观察到的客观现象，老的美国人向西迁移，第一次移民浪潮；1830年代，西迁顶点；转折，强调虽然1810年少，但是到了1840年，人多了
+    
+    答案：主旨句+外人看到的客观现象+强调西迁
+    
+    A太笼统；B主旨+细节反应；C缺少主旨；D没提吸引力
+    
+    !!! failure ""
+    
+        从单句和这句的上一句单纯的看是C，但是B提到了主旨“农业”，并且全文好像除了第一句，都和农业无关，没有看出是“美国农业扩张的描述”，所以考虑到下文是不是反例，犹豫半天，感觉B的阐述更完整，不知道B错在哪儿了，难道是没提“错误印象”？又是我想多了？
+    
+!!! failure ""
+
+Paragraph 1: {`意群1`【==**The story of the westward movement of population in the United States is, in the main, the story of the expansion of American agriculture—of the development of new areas for the raising of livestock and the cultivation of wheat, corn, tobacco, and cotton.**== <font color='red'>主旨句</font> `观点`】 <font color='Blue'>After 1815 时间</font> improved transportation enabled more and more western farmers to escape a self-sufficient way of life and enter a national market economy. `顺承，细化，时间` During periods when commodity prices were high, the rate of westward migration increased spectacularly. `顺承，进一步细化，强调` `意群1`} {`意群2`"Old America seemed to be breaking up and moving westward," observed an English visitor in 1817,during the first great wave of migration. `顺承，举例` Emigration to the West reached a peak <font color='Blue'>in the 1830's 时间</font>. `顺承，强调，时间`【{++**<font color='Blue'>Whereas 句内转折</font> in 1810 only a seventh of the American people lived west of the Appalachian Mountains, <font color='Blue'>by 1840 时间</font> more than a third lived there.**++} <font color='red'>题干句</font> `顺承，{--总结--} {++进一步强调++}`】 `意群2`}
+    
+----
+
+**The story of the westward movement of population** { in the United States } ==is==, ( in the main ), ^^the story of the expansion of American agriculture—( of the development of new areas for the raising of livestock and the cultivation of wheat, corn, tobacco, and cotton ).
+> 在美国，人口向西迁移的描述，大体上是，美国农业扩张的描述——新地区的开发对于牲畜的提升和小麦，玉米，烟草和棉花的种植。
+
+{ *After* 1815 } **{++improved++} transportation** ==enabled== ^^more and more western farmers to escape a self-sufficient way of life^^ and ==enter== ^^a national market economy^^. 
+> 1815年以后，改善的运输系统让更多的西方农民脱离自给自足的生活方式，并且进入国家市场经济。
+
+{ During periods when commodity prices were high }, **the rate of westward migration** ==increased== spectacularly.
+> 在商品价格很高的期间，向西方移民的比率惊人地增加。
+
+"Old America seemed to be breaking up and moving westward," ( ==observed== ^^an English visitor in 1817^^ ), { during the first great wave of migration }.
+> “老的美国人看起来分拆并向西移动”，这个情况在1817年被一个英国来访者观察到，在移民的第一次大浪潮期间。
+
+**Emigration to the West** ==reached== ^^a peak^^ { in the 1830's }.
+> 移居到西方，在1830年代达到一个顶点。
+
+【 *Whereas* { in 1810 } **only a seventh of the American people** ==lived== ^^west of the Appalachian Mountains^^, { by 1840 } **more than a third** ==lived== ^^there^^. <font color='red'>题干相关句</font>】
+> 尽管在1810年，只有七分之一的美国人住在阿巴拉契亚山脉西边，但是在1840年之前，超过三分之一人住在那。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+Whereas 【正式】尽管 | Appalachian 阿巴拉契亚山脉 | demonstrated 论证
+purpose of ……的目的 | seventh 七分之一 | third 三分之一
+correct 指出错误，纠正 | impression 印象 | mistaken 错误的
+occur 【在特定地点或情况下】发生，存在 | attractive 有吸引力的
+expansion 扩张 | story 描述，纪事，史话 | tobacco 烟草
+self-sufficient 自己自足的 | spectacularly 惊人地 | break up 分拆，分解
+Emigration to 移居国外 | transportation 运输系统 | by 在……之前
+    
+#### 18.
+
+!!! faq ""
+
+    { In paragraph 5 }, **why** ==does== ^^the author^^ ==include== ^^the information^^ {++that the "oxygen isotope ratio of the ocean changes { as a great deal of water } is withdrawn from it by evaporation and is precipitated { as snow to form glacial ice }++}"?
+    > 在第五段，为什么作者包含信息“海洋变化的氧同位素比率，随着大量的水由蒸发和从雪形成冰川冰那样消失”？
+    
+    ==A==. ==To explain== ^^how scientists were able to calculate how frequently the continental ice sheets expanded and contracted^^ 
+    > 用来说明科学家如何能计算出大陆冰片如何频繁地延伸和收缩
+    
+    B. ==To explain== ^^how scientists have determined that there was no great change in ocean temperatures at the equator during past glaciations^^
+    > 用来说明科学家如何确定在过去的冰川作用期间赤道附近的海洋温度没有巨大的改变
+    
+    C. ==To provide== ^^evidence^^ {++that oxygen-16 has a greater tendency to evaporate { than does oxygen-18 }++}
+    > 用来提供氧16有很大可能比氧18更能蒸发的证据
+    
+    D. ==To suggest== ^^that equatorial marine organisms absorb more heavy isotopes { than do marine organisms elsewhere }^^
+    > 用来暗示赤道附近的海洋生物比其他地方的海洋生物吸收更大量的同位素
+        
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：信息，2个举例的 海洋改变的氧同位素比率
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，同位素 另一个冰川的影响；细节，大陆冰川的情况，举例赤道附近，2个水变形对氧同位素比率与的影响，冰川作用期间，2个氧的变形对比，重的氧留在海里并被吸收，形成沉淀物，沉淀物分析，结论，发现冰川循环规律
+    
+    答案：主旨句+举例赤道+2个水变形对氧同位素比率与的影响
+    
+    A主旨+举例赤道+举例的细节支持；B次要因素；C不是这个的证据；D没有吸收的比较
+    
+!!! failure ""
+
+Paragraph 5: {`意群1` 【==**Isotopic analysis of shells allowed geologists to measure another glacial effect.**== `观点` `承接上一段，另一个影响`】 They could trace the growth and shrinkage of continental glaciers, even in parts of the ocean where there may have been no great change in temperature—around the equator, for example.  `顺承，细化` 【{++**The oxygen isotope ratio of the ocean changes as a great deal of water is withdrawn from it by evaporation and is precipitated as snow to form glacial ice.**++}  <font color='red'>题干句</font> `顺承，举例`】During glaciations, the lighter oxygen-16 has a greater tendency to evaporate from the ocean surface than the heavier oxygen-18 does. `顺承，冰川举例的细节` <font color='Blue'>Thus, 因果</font> more of the heavy isotope is left behind in the ocean and absorbed by marine organisms. `顺承，因果，结果` From this analysis of marine sediments, geologists have learned that there were many shorter, more regular cycles of glaciation and deglaciation than geologists had recognized from the glacial drift of the continents alone. `顺承，结论` `意群1`}
+    
+----
+
+**Isotopic analysis of shells** ==allowed== ^^geologists^^ ==to measure== ^^another glacial effect^^.
+> 壳的同位素分析使地质学家测量另一个冰川的影响。
+
+**They** ==could trace== ^^the growth and shrinkage of continental glaciers^^, *even* in parts of the ocean {++where there may have been no great change in temperature++}—( around the equator, for example ). 
+> 他们会跟踪大陆冰川的生长和收缩情况，甚至在部分也许没有巨大温度变化的海洋跟踪——如，赤道周围。
+
+【 **The oxygen isotope ratio of the ocean changes** { as a great deal of water } ==is withdrawn from== ^^it^^ { by evaporation } *and* ==is precipitated== { as snow to form glacial ice }. <font color='red'>题干相关句</font>】
+> 海洋变化的氧同位素比率，随着大量的水由蒸发和从雪形成冰川冰的方式消失。
+
+{ During glaciations }, **the lighter oxygen-16** ==has== ^^a greater tendency to evaporate== ^^from the ocean surface { than the heavier oxygen-18 does }^^. 
+> 在冰川作用期间，更轻的氧16比更重的氧18更能蒸发掉。
+
+*Thus*, **more of the heavy isotope** ==is lef behind== ^^in the ocean^^ and ==absorbed== { by marine organisms }.
+> 因此，更多更重的同位素被留在海里，并被海洋生物吸收。
+
+{ From this analysis of marine sediments }, **geologists** ==have learned== ^^that there were many shorter, more regular cycles of glaciation and deglaciation^^ {++than geologists had recognized from the glacial drift of the continents alone++}.
+> 来自海洋沉淀物的分析，地质学家发现有许多更短的，更规则的冰川作用的和地质学家仅从大陆的冰川漂移认出的冰川消失的循环。
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+isotope 【术语】同位素 | a great deal 很多的，大量的 | withdrawn withdraw from 过去分词 使退出【活动，组织等】
+precipitate 【正式】促成，加速，使沉淀 | glacial 冰川的 | contracte 收缩
+at the equator 在赤道 | glaciations 【术语】冰蚀，冰川作用 | determine 测定，确定 v.
+a tendency to do sth 有可能做某事 | equatorial 赤道的，赤道附近的 | geologists 地质学家
+shrinkage 收缩，收缩率 | glaciers 冰川 | in parts of 部分
+leave behind 把【某人/某物】留在某处 | deglaciation 冰消，冰川消失 | learn (that) 【正式】获悉，得知，发现
+recognize 认出 | alone 单独的，单，只，仅，只有 | drift 漂移 n.
+
+
 ### 2018-10-17
 
 #### 17.
