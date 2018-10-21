@@ -16,7 +16,11 @@
     > 用来指出一个从1810年到1840年，美国农业的错误印象。
     
     {++C++}. ==To emphasize== ^^the range and speed^^ {++with which the westward migration occurred++}
-    > 用来强调有向西方移民存在的范围和速度。
+    > 用来强调有向西方移民发生的范围和速度。
+    
+    !!! failure ""
+    
+        **老师解答：with which修饰的是 the range and speed，他们是一个整体；被修饰的不一定是单一个词，也不一定就近**
     
     D. ==To demonstrated== ^^how attractive the Appalachian Mountains were to Americans^^
     > 用来论证阿巴拉契亚山脉对美国人多么有吸引力。
@@ -33,13 +37,21 @@
     
     细节：主旨句—第一句，人口向西迁移==农业扩张；细节1815年后，改善的运输系统，脱离自给自足，进入市场经济；市场经济价格高，促进向西移民；外人观察到的客观现象，老的美国人向西迁移，第一次移民浪潮；1830年代，西迁顶点；转折，强调虽然1810年少，但是到了1840年，人多了
     
+    !!! failure ""
+    
+        做错总结，段落分析中除主旨句外，还应把段内小观点列出来
+    
     答案：主旨句+外人看到的客观现象+强调西迁
     
-    A太笼统；B主旨+细节反应；C缺少主旨；D没提吸引力
+    A太笼统 ==说的只是美国，没说其他地方==；B{--主旨+细节反应--} ==没提错误印象==；C{--缺少主旨--} {++支持段落内部小的观点++}；D没提吸引力
     
     !!! failure ""
     
         从单句和这句的上一句单纯的看是C，但是B提到了主旨“农业”，并且全文好像除了第一句，都和农业无关，没有看出是“美国农业扩张的描述”，所以考虑到下文是不是反例，犹豫半天，感觉B的阐述更完整，不知道B错在哪儿了，难道是没提“错误印象”？又是我想多了？
+        
+        ----
+        
+        **老师解答：修辞目的题问例子，找例子支持的观点，它不一定是支持整个段落的主旨，它可能支持的是段落内部的一个小的观点**
     
 !!! failure ""
 
@@ -67,13 +79,13 @@ Paragraph 1: {`意群1`【==**The story of the westward movement of population i
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
-Whereas 【正式】尽管 | Appalachian 阿巴拉契亚山脉 | demonstrated 论证
+Whereas 【正式】尽管 | Appalachian 阿巴拉契亚山脉 | demonstrated 说明，论证
 purpose of ……的目的 | seventh 七分之一 | third 三分之一
 correct 指出错误，纠正 | impression 印象 | mistaken 错误的
-occur 【在特定地点或情况下】发生，存在 | attractive 有吸引力的
+occur 【在特定地点或情况下】发生，存在 | attractive 有吸引力的 | by 在……之前
 expansion 扩张 | story 描述，纪事，史话 | tobacco 烟草
 self-sufficient 自己自足的 | spectacularly 惊人地 | break up 分拆，分解
-Emigration to 移居国外 | transportation 运输系统 | by 在……之前
+Emigration to 移居国外 | transportation 运输系统 | 
     
 #### 18.
 
@@ -142,7 +154,7 @@ at the equator 在赤道 | glaciations 【术语】冰蚀，冰川作用 | deter
 a tendency to do sth 有可能做某事 | equatorial 赤道的，赤道附近的 | geologists 地质学家
 shrinkage 收缩，收缩率 | glaciers 冰川 | in parts of 部分
 leave behind 把【某人/某物】留在某处 | deglaciation 冰消，冰川消失 | learn (that) 【正式】获悉，得知，发现
-recognize 认出 | alone 单独的，单，只，仅，只有 | drift 漂移 n.
+recognize 识别出 | alone 单独的，单，只，仅，只有 | drift 漂移 n.
 
 
 ### 2018-10-17
