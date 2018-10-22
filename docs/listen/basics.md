@@ -1,3 +1,22 @@
+### 2018-10-22
+
+#### Office Hours
+
+PHRASE |  PHRASE
+------------ | -------------
+upcoming 即将到来的 | stress 强调
+get back on track 使……恢复正常 | a chunk of 一大块
+considerable 相当大的 | be solid on 完全一致
+strggle with 努力应付 | pick 挑，选
+weigh 认真考虑，权衡 | solid 固定的
+settle on 决定 | in a bind 遇到了很大的麻烦
+persecution 迫害 | Edo 埃多族
+proposal 提议，提案 | rush 匆忙
+stage 阶段 | rough 大致的
+midway through 进行到一半 | present 呈现
+plagiarism 抄袭 | specific 具体的
+intensive 加强的 | topic 【讲话或写作的】题目
+
 ### 2018-10-18
 
 #### Office Hours
