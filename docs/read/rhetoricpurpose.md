@@ -1,6 +1,90 @@
 <font color='red'>精读要求搞清楚单词、句子含义、句间关系、段落结构思路、拆分段落并总结概括，注意阅读预判和验证</font>
 
-### 201810-19
+### 2018-10-22
+
+#### 20.
+
+!!! faq ""
+
+    **Why** ==does== ^^the author^^ ==mention== ^^"seashells, stone bowls, and artifacts made of obsidian"^^?
+    > 为什么作者提及“海贝壳，石碗和黑曜岩做的手工艺品”？
+   
+    ==A==. To give examples of objects obtained through trade with other societies
+    > 用来给出通过和其他社会交易获得的物体的例子
+   
+    B. To illustrate the kinds of objects that are preserved in a cool climate
+    > 用来表明这类被保存在寒冷气候中的物体
+    
+    C. To provide evidence that the organization of work was specialized
+    > 用来提供工作的组织是专用的证据
+   
+    D. To give examples of the artistic ability of local populations
+    > 用来给出本地普及的艺术能力的例子
+    
+!!! tip ""
+
+    ==题干分析==
+    
+    类型：为什么
+       
+    细节：提及 3样东西 举例
+    
+    ==段落分析==
+    
+    细节：主旨句—第一句，花粉样本，因为冷+潮湿气候，冰河世纪末，森林覆盖极速扩张；9000 B.C. 住的地方，部分地方人口密集；更定居+更复杂的社会群体促进繁荣；人们利用环境生存；从远处买东西+举例；共通性交换促成社会复杂性
+    
+    答案：更定居+更复杂的社会群体促进繁荣+生存+从远处买东西+举例+共通性交换促成社会复杂性
+    
+    A从远处买东西+举例；B没提他们是寒冷中的物体；C没提工作的组织；D不是本地的
+    
+!!! failure ""
+    
+Paragraph 2:  【==**Pollen samples from freshwater lakes in Syria and elsewhere tell us forest cover expanded rapidly <font color='Blue'>at the end of the Ice Age 时间</font>, for the southwestern Asian climate was still cooler and considerably wetter than today.**== `观点`】Many areas were richer in animal and plant species than they are now, making them highly favorable for human occupation. `顺承，细化` <font color='red'>**||**</font> <font color='Blue'>About 9000 B.C. 时间</font>, most human settlements lay in the area along the Mediterranean coast and in the Zagros Mountains of Iran and their foothills. `顺承，细节` Some local areas, like the Jordan River valley, the middle Euphrates valley, and some Zagros valleys, were more densely populated than elsewhere. `顺承，进一步细节` Here more sedentary and more complex societies flourished. `顺承，现象` <font color='Blue'>These people 指代前面更定居和更复杂的社会群体</font> exploited the landscape intensively, foraging on hill slopes for wild cereal grasses and nuts, while hunting gazelle and other game on grassy lowlands and in river valleys.  `顺承，细节` 【{++**Their settlements contain exotic objects such as seashells, stone bowls, and artifacts made of obsidian (volcanic glass), all traded from afar.**++} <font color='red'>题干句</font> `顺承，细节，举例`】 <font color='Blue'>This 指代上一句的那些东西</font> considerable volume of intercommunity exchange brought a degree of social complexity in its wake.  `顺承，结论`
+
+----
+
+**Pollen samples** { from freshwater lakes } { in Syria and elsewhere } ==tell== ^^us^^ { forest cover expanded rapidly at the end of the Ice Age }, { for the southwestern Asian climate was still cooler and considerably wetter than today }.
+> 来自叙利亚和其他地方的淡水湖的花粉样本告诉我们，在冰河世纪末期，森林覆盖极速扩张，因为亚洲西南方的气候仍然比今天冷和非常潮湿。
+
+**Many areas** ==were== ^^richer^^ { in animal and plant species } { than they are now }, { making them highly favorable for human occupation }. 
+> 许多地区比今天更富有动物和植物品种，使他们对于人类占领非常有利。
+
+{ About 9000 B.C. }, **most human settlements** ==lay== ^^in the area along the Mediterranean coast^^ and ^^in the Zagros Mountains of Iran and their foothills^^.
+> 大约在公元前9000年，大多数的人类住所位于沿地中海海岸地区和伊朗的扎格罗斯山脉和伊朗的山麓丘陵位置。
+
+**Some local areas**, ( like the Jordan River valley, the middle Euphrates valley, and some Zagros valleys ), ==were== ^^more densely populated than elsewhere }.
+> 一些局部区域，像约旦河谷，幼发拉底河河谷中部和一些扎格罗斯山谷，比其他地方更加人口密集。
+
+**Here more sedentary and more complex societies** ==flourished==. 
+> 更定居和更复杂的社会群体在这繁荣起来了。
+
+***These* people** ==exploited== ^^the landscape intensively^^, ( foraging on hill slopes for wild cereal grasses and nuts ), *while* hunting gazelle and other game on grassy lowlands and in river valleys.
+> 这些人完全地利用这个地方，为了野生谷物草和坚果，在山坡上四处搜寻，然而在低地和河谷中狩猎瞪羚和其他猎物。
+
+【 **Their settlements** ==contain== ^^exotic objects^^ { such as seashells, stone bowls, and artifacts made of obsidian (volcanic glass) }, *all* ==traded== ^^from afar^^.  <font color='red'>题干相关句</font>】
+> 他们的住所有外来的物体，如海贝壳，石碗和黑曜岩制成的工艺品（火山玻璃），所有这些都从远处买来。
+
+***This* considerable volume of intercommunity exchange** ==brought== ^^a degree of social complexity in its wake^^.
+> 这个相当大的共通性交换量带来一定程度的紧随其后的社会复杂性。
+
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+seashells 海贝壳 | bowls 碗 | obsidian 黑曜岩
+societies 社会 | specialized 专门的，专用的 | object 实物，物体
+artistic 艺术的 | Pollen 花粉 | Syria 叙利亚
+freshwater 淡水的 | favorable 有利的 | Mediterranean 地中海
+Zagros 扎格罗斯（伊朗西南部） | Iran 伊朗 | foothills 山麓丘陵
+Jordan River valley 约旦河谷 | Euphrates valley 幼发拉底河河谷 | densely populated 人口密集
+sedentary 【人群】定居的，固定不迁移的 | flourishe 繁荣 | exploite 利用，开发
+intensively 密集地，强烈地，彻底地，集中地 | forage 四处搜寻【食物，补给等】 | cereal 谷物
+grasses 草 | nuts 坚果 | gazelle 瞪羚
+grassy 长满草的 | exotic 外来的，奇异的 | from afar 遥远地，从远处
+complexity 复杂性 | volume of 【尤指巨大的或正在增加的】量，总量 | intercommunity 共通性，共有
+in sb's / sth's wake 紧跟某人/某物后面 | 
+
+
+### 2018-10-19
 
 #### 19. <font color='red'>错，难，选项模糊，不好明确甄别</font>
 

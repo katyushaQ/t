@@ -12,10 +12,10 @@ weigh 认真考虑，权衡 | solid 固定的
 settle on 决定 | in a bind 遇到了很大的麻烦
 persecution 迫害 | Edo 埃多族
 proposal 提议，提案 | rush 匆忙
-stage 阶段 | rough 大致的
-midway through 进行到一半 | present 呈现
+stage 阶段，时期 | rough 大致的，草稿
+midway through 进行到一半 | present 呈现，表现
 plagiarism 抄袭 | specific 具体的
-intensive 加强的 | topic 【讲话或写作的】题目
+intensive 强化的，加强的 | topic 【讲话或写作的】题目
 
 ### 2018-10-18
 
