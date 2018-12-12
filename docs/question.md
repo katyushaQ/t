@@ -37,6 +37,7 @@
 
 推断题和修饰目的题，区别是什么？两个都涉及为什么和目的，我想说，都涉及思考，容易做错
 > 我能想到的，修是目的题的答案可在原文中找到，推断题必定是推出来的；但是其他方面，太像
+>> 两题型都是基于细节题，推断题是向下推一步，不问目的，并且有关键词在题干中，重逻辑；修饰题问作者为什么提出，重目的
 
 ### 2018-09-16 新学后作业 
 
@@ -50,10 +51,20 @@
     !!! failure ""
         
         as和made 不知道该怎么翻了
+        
+        ----
+        
+        as引导定语从句，相当于which/that，比which多一个，像……一样
+        结果使原因体现的更明显，对树造成严重的压力，通过畸形体现的很明显
+        
 
 !!! info "[9](read/rhetoricpurpose#9)"
 
     不知道B哪里错了，A也说的通，感觉B阐述的很模糊
+    
+    ---
+    
+    B说反了，是下面的例子用来理解稳定性，不是生态系统稳定性解释其他
 
 !!! info "[11](read/rhetoricpurpose#11)"
 
@@ -63,6 +74,10 @@
     !!! failure ""
     
         {++may afford some protection against plant-eating insects and microbial pathogens++} 是定语从句吗，为什么省略了that？因为和 the metals 是宾语么？
+        
+        ----
+        
+        **Many** {--are有语法错误--} {++found in tropical and subtropical areas of the metals++} ==may afford== ^^some protection against plant-eating insects and microbial pathogens^^.
     
     
 !!! info "[12](read/rhetoricpurpose#12)"
@@ -72,6 +87,10 @@
     第一感觉是A，看了B，结合第二段，迷惑了
     
     句子翻译有个问题，见详情
+    
+    ----
+    
+    题干问的是段1和段2的目的，段落类
 
 !!! info "[14](read/rhetoricpurpose#14)"
 
@@ -84,6 +103,12 @@
     
         成分划分是否正确，上面两部分是分别是exception和trend的定语么，一个是不定式，一个是动名词
         
+        ----
+        
+        though a protectionist movement developed in Sweden 让步是exception
+        
+        though逻辑词类型
+        
 !!! info "[15](read/rhetoricpurpose#15)"
 
     **Economic exchange** ==was== clearly ^^very important^^ { as the Roman army brought with *it* very substantial spending power }.
@@ -93,15 +118,35 @@
     
         as 没有理解，通过翻译软件才知道是 因为
         
+        ----
+        
+        as引导状语从句，具体是因为（原因），随着（时间），方式（像……一样）
+        
+        as作为，后面只能是名次
+        
+        as定语从句，从句中缺主/宾
+        
 !!! info "[16](read/rhetoricpurpose#16)"
 
     不是很明确，看了B后觉得对，就没有对D进行更多的权衡，犹豫过，觉得说都是段落总结，而不是针对这句话的解释，所以判定为跑题
     
     所以，B哪里出现明显的问题？ even after …… to do so 么？
     
+    ----
+    
+    B相当于细节题，回答题干说了什么
+    
+    本题问的是why，作者为什么提出题干的内容
+    
 !!! info "[19](read/rhetoricpurpose#19)"
 
     从单句和这句的上一句单纯的看是C，但是B提到了主旨“农业”，并且全文好像除了第一句，都和农业无关，没有看出是“美国农业扩张的描述”，所以考虑到下文是不是反例，犹豫半天，感觉B的阐述更完整，不知道B错在哪儿了，难道是没提“错误印象”？又是我想多了？
+    
+    ----
+    
+    To correct a mistaken impression of American agriculture from 1810 to 1840
+    
+    correct 纠正的意思，单词理解有误，导致句子理解有误
 
 ### 第二次做
  

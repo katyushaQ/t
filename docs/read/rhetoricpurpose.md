@@ -143,7 +143,7 @@ Paragraph 1: {`意群1`【==**The story of the westward movement of population i
     
 ----
 
-**The story of the westward movement of population** { in the United States } ==is==, ( in the main ), ^^the story of the expansion of American agriculture—( of the development of new areas for the raising of livestock and the cultivation of wheat, corn, tobacco, and cotton ).
+**The story of the westward movement of population** { in the United States } ==is==, ( in the main ), ^^the story of the expansion of American agriculture^^—( of the development of new areas for the raising of livestock and the cultivation of wheat, corn, tobacco, and cotton ).
 > 在美国，人口向西迁移的描述，大体上是，美国农业扩张的描述——新地区的开发对于牲畜的提升和小麦，玉米，烟草和棉花的种植。
 
 { *After* 1815 } **{++improved++} transportation** ==enabled== ^^more and more western farmers to escape a self-sufficient way of life^^ and ==enter== ^^a national market economy^^. 
@@ -338,6 +338,12 @@ opposition to 对……的反对 | initiate 开始，发起 |  a given 指定的
     !!! failure ""
     
         garrisons' 没看懂，驻军的什么？
+        
+        ----
+        
+        **老师解答**
+        
+        还需要再问下becoming，成为他们的一部分
     
 !!! tip ""
 
@@ -357,7 +363,17 @@ opposition to 对……的反对 | initiate 开始，发起 |  a given 指定的
     
 !!! failure ""
 
-Paragraph 5: {`意群1`【==**<font color='Blue'>This 指代上一段提到的</font> process of settling in as a community over several generations, combined with local recruitment, presumably accounts for the apparent stability of the British northern frontier in the later Roman period.**==<font color='red'>主旨句</font> `顺承，细节` `观点`】 【{++**It also explains why some of the forts continued in occupation long after Rome ceased to have any formal authority in Britain, at the beginning of the fifth century A.D.**++} <font color='red'>题干句</font> `顺承，解答上一段提及的占领相关内容`】 The circumstances that had allowed natives to become Romanized also led the self-sustaining military community of the frontier area to become effectively British. `顺承，强调比例的结果` `意群1`}
+Paragraph 5: {`意群1`【==**<font color='Blue'>This 指代上一段提到的</font> process of settling in as a community over several generations, combined with local recruitment, presumably accounts for the apparent stability of the British northern frontier in the later Roman period.**==<font color='red'>主旨句</font> `顺承，细节` `观点`】 【{++**It <font color='red'>also</font> explains why some of the forts continued in occupation long after Rome ceased to have any formal authority in Britain, at the beginning of the fifth century A.D.**++} <font color='red'>题干句</font> `顺承，解答上一段提及的占领相关内容`】 The circumstances that had allowed natives to become Romanized also led the self-sustaining military community of the frontier area to become effectively British. `顺承，强调比例的结果` `意群1`}
+
+!!! note ""
+
+    老师课堂讲解 2018-12-11
+    
+    This process of settling in as a community over several generations 因果，accounts for（原因？不是占一定比例的意思吗？）
+    
+    解释，原因。查错词意
+    
+    It also 有一个解释，培养敏感 also关键词，表达上面已经说了一个解释，这里说第二个解释
     
 ----
 
@@ -483,6 +499,12 @@ access to 使用权，接触的机会 |
     !!! failure ""
     
         成分划分是否正确，上面两部分是分别是exception和trend的定语么，一个是不定式，一个是动名词
+        
+        ----
+        
+        **老师解答**
+        
+        句子结构划分正确
     
     C. ==explain== ^^why Sweden industrialized less^^ quickly { than the other Scandinavian countries and Netherlands }
     > 说明为什么瑞典工业化片刻比其他斯堪的纳维亚的国家和荷兰少
@@ -508,7 +530,15 @@ access to 使用权，接触的机会 |
     
 !!! failure ""
 
-Paragraph 5: {`意群1`【==**The political institutions of the four countries posed no significant barriers to industrialization or economic growth.**== <font color='red'>主旨句</font>】 The nineteenth century passed relatively peacefully for <font color='Blue'> these 指代前面4个国家</font> countries, with progressive democratization taking place in all of them. `顺承，描述` <font color='Blue'>They 指代前面4个国家</font> were reasonably well governed, without notable corruption or grandiose state projects, <font color='Blue'>although 句内转折</font> in all of them the government gave some aid to railways, and in Sweden the state built the main lines. `顺承，进一步描述` `意群1`} <font color='red'>**|| 转折**</font> {`意群2` As small countries dependent on foreign markets, they followed a liberal trade policy in the main, <font color='Blue'>though 句间转折后置</font> a protectionist movement developed in Sweden. `转折，改变` In Denmark and Sweden agricultural reforms took place gradually from the late eighteenth century through the first half of the nineteenth, resulting in a new class of peasant landowners with a definite market orientation. `顺承，进一步描述` `意群2`}
+Paragraph 5: {`意群1`【==**The political institutions of the four countries posed no significant barriers to industrialization or economic growth.**== <font color='red'>主旨句</font>】 The nineteenth century passed relatively peacefully for <font color='Blue'> these 指代前面4个国家</font> countries, with progressive democratization taking place in all of them. `顺承，描述` <font color='Blue'>They 指代前面4个国家</font> were reasonably well governed, without notable corruption or grandiose state projects, <font color='Blue'>although 句内转折</font> in all of them the government gave some aid to railways, and in Sweden the state built the main lines. `顺承，进一步描述` `意群1`} <font color='red'>**|| 转折**</font> {`意群2` As small countries dependent on foreign markets, they followed a liberal trade policy in the main, <font color='Blue'>though 句内转折后置</font> a protectionist movement developed in Sweden. `转折，改变` In Denmark and Sweden agricultural reforms took place gradually from the late eighteenth century through the first half of the nineteenth, resulting in a new class of peasant landowners with a definite market orientation. `顺承，进一步描述` `意群2`}
+
+!!! note ""
+
+    老师课堂讲解 2018-12-11
+    
+    though a protectionist movement developed in Sweden 让步内容表达是一个exception，因此选B
+    
+    此题属于类型一，逻辑词
 
 ----
 
@@ -652,10 +682,17 @@ celebrated 举行 | fail to do sth 做某事没成功 |
     
     {++解题思路提到：主旨句——搞清楚段落主旨句内容，据此判断段落的内容（一般就可以选出答案了）++}
     
+    ----
+    
+    **老师解答**
+    
+    B说的是第二段的内容，题干问的是两个段落的整体的目的
+    
+    题型属于段落类
 
 Paragraph 1: {`意群1`【==**Petroleum, consisting of crude oil and natural gas, seems to originate from organic matter in marine sediment.**== <font color='red'>主旨句</font> `观点`】 Microscopic organisms settle to the seafloor and accumulate in marine mud. `顺承，细化` The organic matter may partially decompose, using up the dissolved oxygen in the sediment. `顺承，另一个角度细化` As soon as the oxygen is gone, decay stops and the remaining organic matter is preserved. `顺承，进一步确定上一句` `意群1`}
 
-Paragraph 2: {`意群2` `用沉淀顺承上一段，呼应主旨句` Continued sedimentation—the process of deposits' settling on the sea bottom—buries the organic matter and subjects it to higher temperatures and pressures, which convert the organic matter to oil and gas. As muddy sediments are pressed together, the gas and small droplets of oil may be squeezed out of the mud and may move into sandy layers nearby. `顺承，形成` Over long periods of time (millions of years), accumulations of gas and oil can collect in the sandy layers. `顺承，结果` Both oil and gas are less dense than water, so they generally tend to rise upward through water-saturated rock and sediment. `顺承，现象` `意群2`}
+Paragraph 2: {`意群2` `用沉淀顺承上一段，呼应主旨句` <font color='red'>Continued sedimentation</font>—the process of deposits' settling on the sea bottom—buries the organic matter and subjects it to higher temperatures and pressures, which convert the organic matter to oil and gas. As muddy sediments are pressed together, the gas and small droplets of oil may be squeezed out of the mud and may move into sandy layers nearby. `顺承，形成` Over long periods of time (millions of years), accumulations of gas and oil can collect in the sandy layers. `顺承，结果` Both oil and gas are less dense than water, so they generally tend to rise upward through water-saturated rock and sediment. `顺承，现象` `意群2`}
     
 ----
 
@@ -679,10 +716,14 @@ Paragraph 2:  **Continued sedimentation**— ( the process of deposits' settling
     1. deposits' 没看懂词性，应该是 n. 沉积物，但是为什么加 =='==，为什么有所有格？
     
         **老师解答：**
+        
+        所有格，沉淀物的 deposits'settling 沉淀物的沉淀在海底的过程
     
     2. 破折号，没有看出与题干相关的作用，这里只是一个插入语
     
         **老师解答：**
+        
+        修饰sedimentation
     
 { As muddy sediments are pressed together }, **the gas and small droplets of oil** ==may be squeezed out of== ^^the mud^^ and ==may move into== ^^sandy layers nearby^^.
 > 随着多泥的沉淀物被一起挤压，气体和石油的小滴可能从泥中被挤出来，并且可能进入附近多沙层中。
@@ -744,7 +785,7 @@ buries bury三单 埋 |
 !!! failure ""
 
 
-Paragraph5:  {`意群1`【==**Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal.**== <font color='red'>主旨句</font> `观点`】 A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. `顺承，细化` Hyper accumulators run the entire range of the plant world. `顺承，生存环境` `意群1`} {`意群2`【{++**They may be herbs, shrubs, or trees.**++}  <font color='red'>题干句</font>】 `顺承，范围举例` Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. `顺承，详细举例` Many are found in tropical and subtropical areas of the metals may afford some protection against plant-eating insects and microbial pathogens. `顺承，生存环境，结构与上面一致，先描述后生存环境` `意群2`}
+Paragraph5:  {`意群1`【==**Scientists have known for some time that certain plants, called hyper accumulators, can concentrate minerals at levels a hundredfold or greater than normal.**== <font color='red'>主旨句</font> `观点`】 A survey of known hyper accumulators identified that 75 percent of them amassed nickel, cobalt, copper, zinc, manganese, lead, and cadmium are other minerals of choice. `顺承，细化` Hyper accumulators run the entire range of the plant world. `顺承，生存环境` `意群1`} {`意群2`【{++**They may be herbs, shrubs, or trees.**++}  <font color='red'>题干句</font>】 `顺承，范围举例` Many members of the mustard family, spurge family, legume family, and grass family are top hyper accumulators. `顺承，详细举例` Many {--are 语法错误--} found in tropical and subtropical areas of the metals may afford some protection against plant-eating insects and microbial pathogens. `顺承，生存环境，结构与上面一致，先描述后生存环境` `意群2`}
 
 ----
 
@@ -763,12 +804,18 @@ Paragraph5:  {`意群1`【==**Scientists have known for some time that certain p
 **Many members of the mustard family, spurge family, legume family, and grass family** ==are== ^^top hyper accumulators^^. 
 > 许多数量的芥末家族，大戟家族，豆科植物家族和草家族是顶级超级蓄电池。
 
-**Many** ==are found== { in tropical and subtropical areas of the metals } {++may afford some protection against plant-eating insects and microbial pathogens++}.
+**Many** {--are 语法错误--} {++found in tropical and subtropical areas of the metals++} ==may afford== some protection against plant-eating insects and microbial pathogens++}.
 > 许多被发现在能够提供一些保护抵抗以植物为食的昆虫和微生物病原体的金属的热带和亚热带地区。
 
 !!! failure ""
 
     {++may afford some protection against plant-eating insects and microbial pathogens++} 是定语从句吗，为什么省略了that？因为和 the metals 是宾语么？
+    
+    ----
+    
+    **老师解答**
+    
+    这句有语法错误，重新划分后，重新翻译理解
 
 NEW WORDS |  NEW WORDS |  NEW WORDS
 ------------ | -------------  | -------------
@@ -897,6 +944,12 @@ indefinite 无限的，不确定的 |
     这道题，我不知道B错在哪里了，看了答案，A也勉强说的通吧，关于稳定性原理这块
     
     但是从文章段落分析，应该选A，整篇顺承递进，没有很明显的“其他情况下”，这个很迷惑，可以说B阐述的很模糊
+    
+    ---
+    
+    **老师解答**
+    
+    B说反了，是下面的例子用来理解稳定性，不是生态系统稳定性解释其他
 
 Paragraph 5: {`意群1` 【 ==**<font color='Blue'>Even 上一段落的顺承</font> the kind of stability defined as simple lack of change is not always associated with maximum diversity.**== <font color='red'>主旨句</font> `观点`】<font color='Blue'>At least 递进含义</font> in temperate zones, maximum diversity is often found in mid-successional stages, not in the climax community. `顺承，细化` <font color='Blue'>Once 时间</font> a redwood forest matures, <font color='Blue'>for example, 举例</font> the kinds of species and the number of individuals growing on the forest floor are reduced. `意群1`} <font color='red'>**||**</font> {`意群2` In general, diversity, by itself, does not ensure stability. `弱顺承，概括二者关系` Mathematical models of ecosystems likewise suggest that diversity does not guarantee ecosystem stability—just the opposite, in fact. `顺承，细化` A <font color='Salmon'>more  complicated</font> system is, in general, <font color='Salmon'>more</font> likely than a simple system to <font color='Salmon'>break down</font>. `顺承，进一步细化` 【{++**A fifteen-speed racing bicycle is <font color='Salmon'>more</font> likely to break down than a child's tricycle.**++} <font color='red'>题干句</font> `顺承，举例` 】 `意群2`}
     
@@ -1215,6 +1268,16 @@ Paragraph 4：【`意群1` {++**There is still no universally agreed-on explanat
 !!! failure ""
     
     as和made 不知道该怎么翻了
+    
+    ----
+    
+    **老师解答**    
+    
+    as引导定语从句，相当于which/that，比which多一个，像……一样
+    
+    结果使原因体现的更明显，对树造成严重的压力，通过畸形体现的很明显
+    
+    见question中as说明
 
 **Some scientists** ==have proposed== {++that the presence of increasing levels of ultraviolet light with elevation may play a role++}, *while* **{++browsing and grazing++} animals** {++like the ibex++} ==may be== ^^another contributing factor^^.
 > 一些科学家建议高海拔的紫外线光的逐渐增加的等级的存在可能扮演一个角色，然而吃草的和啃草的动物，像北山羊，可能是另一个导致因素。
