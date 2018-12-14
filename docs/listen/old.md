@@ -1,3 +1,21 @@
+### 2018-12-13
+
+NEW WORDS |  NEW WORDS |  NEW WORDS
+------------ | -------------  | -------------
+on behalf of sb 代表某人 | ballet 芭蕾舞剧 | be pleased to do sth 很荣幸做某事
+animation 动画片 | slow motion 慢动作 | stop-action freezes 静制动作
+refer to 指代 | wheel 轮子 | piece 片段（作品）
+firework 烟花 | pinwheel 风车，轮转火焰 | certainly 无疑，必定
+be full of 充满了，全是 | explore 探索，探究 | attempt to do sth 尝试做某事
+confront 【问题，困难等】使遇到，使面对 | violence 暴力 | pineapple 菠萝
+exactly 精准地 | represent 代表 | controversy 争议
+
+
+
+----
+
+## 2018-12 开始倒序
+
 ### 2018-06-05
 
 ### 2018-06-07
