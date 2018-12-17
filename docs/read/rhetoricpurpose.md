@@ -52,13 +52,13 @@ Paragraph 2:  【==**Pollen samples from freshwater lakes in Syria and elsewhere
 { About 9000 B.C. }, **most human settlements** ==lay== ^^in the area along the Mediterranean coast^^ and ^^in the Zagros Mountains of Iran and their foothills^^.
 > 大约在公元前9000年，大多数的人类住所位于沿地中海海岸地区和伊朗的扎格罗斯山脉和伊朗的山麓丘陵位置。
 
-**Some local areas**, ( like the Jordan River valley, the middle Euphrates valley, and some Zagros valleys ), ==were== ^^more densely populated than elsewhere }.
+**Some local areas**, ( like the Jordan River valley, the middle Euphrates valley, and some Zagros valleys ), ==were== ^^more densely populated than elsewhere^^.
 > 一些局部区域，像约旦河谷，幼发拉底河河谷中部和一些扎格罗斯山谷，比其他地方更加人口密集。
 
 **Here more sedentary and more complex societies** ==flourished==. 
 > 更定居和更复杂的社会群体在这繁荣起来了。
 
-***These* people** ==exploited== ^^the landscape intensively^^, ( foraging on hill slopes for wild cereal grasses and nuts ), *while* hunting gazelle and other game on grassy lowlands and in river valleys.
+***These* people** ==exploited== ^^the landscape intensively^^, { foraging on hill slopes for wild cereal grasses and nuts }, *while* hunting gazelle and other game on grassy lowlands and in river valleys.
 > 这些人完全地利用这个地方，为了野生谷物草和坚果，在山坡上四处搜寻，然而在低地和河谷中狩猎瞪羚和其他猎物。
 
 【 **Their settlements** ==contain== ^^exotic objects^^ { such as seashells, stone bowls, and artifacts made of obsidian (volcanic glass) }, *all* ==traded== ^^from afar^^.  <font color='red'>题干相关句</font>】
@@ -152,7 +152,7 @@ Paragraph 1: {`意群1`【==**The story of the westward movement of population i
 { During periods when commodity prices were high }, **the rate of westward migration** ==increased== spectacularly.
 > 在商品价格很高的期间，向西方移民的比率惊人地增加。
 
-"Old America seemed to be breaking up and moving westward," ( ==observed== ^^an English visitor in 1817^^ ), { during the first great wave of migration }.
+**"Old America seemed to be breaking up and moving westward,"** ( ==observed== an English visitor in 1817 ), { during the first great wave of migration }.
 > “老的美国人看起来分拆并向西移动”，这个情况在1817年被一个英国来访者观察到，在移民的第一次大浪潮期间。
 
 **Emigration to the West** ==reached== ^^a peak^^ { in the 1830's }.
@@ -378,7 +378,7 @@ Paragraph 5: {`意群1`【==**<font color='Blue'>This 指代上一段提到的</
 ----
 
 **This process of settling** { in as a community } { over several generations }, ( combined with local recruitment ), presumably ==accounts for== ^^the apparent stability of the British northern frontier { in the later Roman period }^^.
-> 这个如一个团体的定居过程覆盖几代人，同时当地招募新兵，大概在罗马周期末期，占据不列颠北部边境的明显的稳定性的一定比例。
+> 这个如一个团体的定居过程超过几代人，结合当地招募新兵，在罗马周期末期，{--占据不列颠北部边境的明显的稳定性的一定比例--} 大概因为不列颠北部边境明显的稳定性。
 
 【 *It* also ==explains== ^^why some of the forts continued in occupation long after Rome ceased to have any formal authority in Britain^^,  ( at the beginning of the fifth century A.D ). <font color='red'>题干相关句</font>】
 > 同时也说明，为什么一些堡垒持续在占领中，罗马停止在不列颠实行任何正式的权力很长时间后，在公元后15世纪初。
@@ -463,7 +463,7 @@ Locally **a fort** ==had== ^^two kinds of impact^^.
 【 *Hence* **a writing tablet** {++dated 25 April++} ==tells== ^^of 343 men at one fort engaged on tasks like shoemaking, building a bathhouse, operating kilns, digging clay, and working lead^^. <font color='red'>题干相关句</font>】
 > 因此，一个写着日期为4月25的便签纸说，343个男人在一个堡垒里参与任务，如修皮鞋，建造浴室，烧窑，挖土和制铅。
 
-Such **activities** ==had== ^^a major^^ {++effect on the local area++}, ( in particular with the construction of infrastructure such as roads ), {++which improved access to remote areas++}.
+Such **activities** ==had== ^^a major effect^^ { on the local area }, ( in particular with the construction of infrastructure such as roads ), {++which improved access to remote areas `就近修饰roads`++}.
 > 这些活动给当地带来一个主要的影响，特别在基础设施建造上，如公路，以上这些改善与远方接触的机会。
 
 NEW WORDS |  NEW WORDS |  NEW WORDS

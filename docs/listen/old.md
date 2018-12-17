@@ -9,7 +9,11 @@ firework 烟花 | pinwheel 风车，轮转火焰 | certainly 无疑，必定
 be full of 充满了，全是 | explore 探索，探究 | attempt to do sth 尝试做某事
 confront 【问题，困难等】使遇到，使面对 | violence 暴力 | pineapple 菠萝
 exactly 精准地 | represent 代表 | controversy 争议
-
+as your watch 正如你所看到的 | figure sb/sth out 搞清楚，弄明白；理解（某人） | rhythmic 有节奏的
+compose 作曲 | band 乐队 | head 领导
+lead dancer 领舞者 | be perfectly suited to sth 非常适应做某事 | adventurous 冒险的，大胆创新的
+choreography 舞蹈编排，舞蹈设计 | discussion 讨论 | symbolism 象征主义
+stay for that 拭目以待 | 
 
 
 ----

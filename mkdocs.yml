@@ -76,6 +76,8 @@ pages:
 
 - Word: word.md
 
+- Search: search.md
+
 # - Word:
 #     - 短语: word/phrase.md
 #     - Geology: word/geology.md 
@@ -86,7 +88,7 @@ pages:
 #     - History: word/history.md 
 #     - Art: word/art.md
 
-# - Search: search.md
+
 
 
 markdown_extensions:
