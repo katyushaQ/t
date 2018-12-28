@@ -1,5 +1,101 @@
 **主语**  || ==谓语== || ^^宾语^^ || {++定语/宾语从句++} || {状语} || {--插入语--} || *嵌套从句/形式主语* |  ~~错误删除~~
 
+### 2018-12-27
+
+**Further evidence** { for the costs of begging comes from a study of differences in the begging calls of warbler species } {++that nest on the ground versus those`代词`++} {++that nest in the relative safety of trees++}.
+> 进一步的证明，乞求的成本来自在鸣鸟种类的乞求叫中不同的学习，这个种类筑巢在对抗筑巢在相对安全的树的地面上。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    Further 进一步的 | beg 乞求 | warbler 鸣鸟
+    nest 筑巢 v. | versus 对，对抗 | evidence 证明 n.
+    ground 地面 | 
+    
+**The hypothesis** {++that begging calls++} ==have evolved== ^^properties^^ {++that reduce their potential for attracting predators yields a prediction++}: **baby birds of species** {++that experience high rates of nest predation++} ==should produce== ^^softer begging signals of higher frequency++} { than nestlings of other species less } often {++victimized by nest predators++}. 
+> 这个乞求叫的假设已经进化为减少他们吸引捕食者产量的一个预测的可能性：经历鸟巢捕食的高比率的种类的小鸟应该比其他低频率，经常被巢穴捕食者伤害的种类的鸟巢，发出高频率的轻柔的乞求信号。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    hypothesis 假设 | evolved 进化 | potential 潜力，可能性
+    prediction 预测 | victimized 使受害 | yields 产量，收益 n.
+    predation 捕食 | 
+
+TPO 12-1
+**Most engravings**, ( for example ), ==are== ^^best lit from the left^^, ( as befits the work of right-handed artists ), {++who generally prefer to have the light source on the left++} { so that the shadow of their hand does not fall on the tip of the engraving tool or brush `结果`}.
+>大多数的雕刻，例如，最好从左边照亮，像适合通常喜爱把右手的资源放在左手的右撇子艺术家的干活一样，所以他们手的影子不会落到雕刻工具或者刷子的末端上。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    engravings 雕刻 | lit light过去，照亮，点燃 | befits 适合，适宜
+    shadow 影子 | fall on 落在 | tip 末端，尖端
+    brush 刷子，画笔 | 
+
+Occasionally **one** ==can determine== ^^whether stone tools were used in the right hand or the left^^, and **it** ==is even possible to assess== **how far back this feature can be traced**.
+> 偶尔一个能够确定是否石器工具被用在右手或是左手，并且这个特性能够退回追溯到多远甚至可能评估。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    Occasionally 偶尔 | determine 确定 |
+
+**The part of the brain responsible** {++for fine control and movement++} ==is located== ^^in the left cerebral hemisphere^^, and **the findings above** ==suggest== ^^that the human brain was already asymmetrical in its structure and function not long after 2 million years ago^^.
+> 很好控制和移动的大脑响应的部分位于大脑的左半球，并且上面的发现表明，人类大脑在2亿年前后不久，在结构和功能上已经是不对称的。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    cerebral 大脑的 | hemisphere 半球 | asymmetrical 不对称的
+ 
+TPO 12-2
+{ Despite all the highly visible technological developments in theatrical and home delivery of the moving image {++that have occurred over the decades since then++} `让步`}, **no single innovation** ==has come close to being regarded as== ^^a similar kind of watershed^^.
+> 尽管所有非常可见的戏剧性的技术发展和已经超过近十年的移动图片的到家传递，不单一的创新已经靠近被认为一类相似的转折点。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    theatrical 戏剧性的 | delivery 递送，传递 | innovation 创新
+    regarded as 认为 | watershed 转折点 | 
+
+{ In many instances }, **spectators** {++in the era before recorded sound++} ==experienced== ^^elaborate aural presentations alongside movies' visual images^^, ==from== ^^the Japanese benshi (narrators) crafting multivoiced dialogue narratives to original musical compositions {++performed by symphony-size orchestras in Europe and the United States++}^^.
+> 在许多实例中，在录音之前的时代的观众，经历了复杂的听觉表现随着电影的虚拟图片，来自日本benshi (narrators)工艺多声道对话叙述到由在欧洲和美国的交响乐规模的管弦乐队演绎的原始音乐的组成。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    spectators 观众 | era 时代 | elaborate 复杂的，详尽的
+    aural 听觉的 | alongside 靠，在旁边，沿着 | orchestras 管弦乐队
+    narratives 叙述 | compositions 组成 | symphony 交响乐
+   
+{ Though it may be difficult to imagine from a later perspective }, **a strain of critical opinion** { in the 1920s } ==predicted== ^^that sound film would be a technical novelty^^ {++that would soon fade from sight++}, ( just as had many previous attempts ), { dating well back before the First World War }, { to link images with recorded sound }.
+> 尽管从一个近期的观点很难想象，但是在1920年代，一种批判的观点预测声音电影将会成为一个技术上很快会从视线中消失新奇的事物，就像许多以前的尝试，追溯到第一次世界大战以前，然后建立图像与录音的连接。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    perspective 观点，看法 | a strain of 品种，类型 | fade 逐渐消失
+    sight 视线 | imagine 想象 | date well back 日期追溯到
+
+TPO 12-3
+But **only a small fraction of groundwater** ==enters== ^^the hydrological cycle—feeding the flows of streams^^, { maintaining lake levels }, and { being recharged (or refilled) through surface flows and rainwater }.
+> 但是只有地下水的一小部分进入水文学的循环喂养的溪流，维持湖水级别，并且被再次填充至表面流和雨水。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    fraction 小部分 | groundwater 地下水 | hydrological 水文学的
+    flows 流动
+
+**Large quantities of water** ==may also be stored== ^^in limestones^^ { when joints and cracks have been enlarged to form cavities `条件`}. 
+> 大量的水可以同样被存车在石灰岩中，当连接处与裂缝已经被扩大到形成腔洞的时候。
+
+!!! quote ""
+    NEW WORDS |  NEW WORDS |  NEW WORDS
+    ------------ | -------------  | -------------
+    limestones 石灰岩 | enlarged 使扩大 | cavities 腔，洞
+
 ### 2018-06-04
 
 TPO 9-1
