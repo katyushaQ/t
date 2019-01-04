@@ -81,7 +81,15 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 
 <font color='red'>**||**</font>
 
-<span style="background:lightgreen"></span>
+
+
+段落
+
+==主旨==
+
+<span style="background: #D9FFFF">部分一</span>
+<span style="background: #DDDDFF">部分二</span>
+<span style="background: #FFECEC">部分三</span>
 
 ----
     
