@@ -81,7 +81,19 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 
 <font color='red'>**||**</font>
 
+----
 
+[TOC]
+
+----
+
+## 文章结构思路：
+## Part 1 —— 
+#### 预判：
+
+??? info "sentence"
+
+#### 预判：结尾段 N/A
 
 段落
 
@@ -90,6 +102,14 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 <span style="background: #D9FFFF">部分一</span>
 <span style="background: #DDDDFF">部分二</span>
 <span style="background: #FFECEC">部分三</span>
+
+!!! info ""
+    开篇点题：
+
+## 错题分析
+##### 14
+
+!!! faq ""
 
 ----
     
