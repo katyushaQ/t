@@ -8,3 +8,7 @@ The big city has ==numerous== benefits. ==For one thing==, It has convenient pub
 
 ==Even though== a big city ==has advantages of being== ==convenient, speedy and economical==, I believe a small town is beneficial to residence. ==For one thing==, people of city is relately cool ==because== their rhythm of live is extremely fast. But the person of the small town is ==more== simplicity and warmth ==than== the urban person. They who has slow live style usually take a smile and say hello positively, ==walking== the dog when they meet you.Actually, we are strager. And, when the festival coming, people of one street takes a party which have a lot of delicious foods that include chicken, bread, chips, vegetables, and beverages and programs which contain sing, dance, and so on, as well as many gifts for children. people is looks like a big family. ==Also==, There ==nothing can be more satisfying than== living in a small town. Most of landspace has ==numerous== plants such as pine trees, rose flowers and some kinds of shrubs. It looks like a big vivid painting, therefore I enjoy this enverinment. So the small city is ==not== really for business working. ==Rather==, it is good for living.
 
+
+**Do you agree or disagree with the following statement? “Universities should give the same amount of money to their students’ sports activities as they give to their university libraries.” Use specific reasons and examples to support your opinion.**
+
+

@@ -9,6 +9,7 @@ pages:
 # - Course: course.md
 
 - Assignment: 
+    - 2019_0114-0120 1月第三周: assignment/2019-0114-0120.md
     - 2019_0107-0113 1月第二周: assignment/2019-0107-0113.md
     - 2018_1224-1230 12月第五周: assignment/2018-1224-1230.md
     - 2018_1217-1223 12月第四周: assignment/2018-1217-1223.md
@@ -57,7 +58,6 @@ pages:
     - 4-3 Petroleum Resources: read/4-3.md
     
 - Write: 
-    - Curriculum Drill: write/drill.md
     - Section: write/section.md
     - Policy: write/policy.md
     - Sentence: write/sentence.md
@@ -79,6 +79,7 @@ pages:
     - Speak Task 56: listen/speak-task56.md
     
 - Tutoring:
+    - 20190114: tutoring/20190114.md
     - 20181214: tutoring/20181214.md
     - Old 93: tutoring/93-en-cn.md
 
@@ -87,20 +88,13 @@ pages:
 - Interview: 
     - 20181216: interview/20181226.md
 
+- Courses:
+    - 2019-01-18 Speak & Listen: courses/20190118.md
+    - 2019-01-10 Write: courses/20190110.md
+    
 - Word: word.md
 
 - Search: search.md
-
-# - Word:
-#     - 短语: word/phrase.md
-#     - Geology: word/geology.md 
-#     - Chemistry: word/chemistry.md 
-#     - Biology: word/biology.md 
-#     - Phychology: word/phychology.md 
-#     - Ecology: word/ecology.md 
-#     - History: word/history.md 
-#     - Art: word/art.md
-
 
 
 
