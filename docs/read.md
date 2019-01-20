@@ -104,7 +104,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 <span style="background: #FFECEC">部分三</span>
 
 !!! info ""
-    开篇点题：
+    段落主旨：
 
 ## 错题分析
 ##### 14
