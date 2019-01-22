@@ -9,6 +9,7 @@ pages:
 # - Course: course.md
 
 - Assignment: 
+    - 2019_0121-0127 1月第四周: assignment/2019-0121-0127.md
     - 2019_0114-0120 1月第三周: assignment/2019-0114-0120.md
     - 2019_0107-0113 1月第二周: assignment/2019-0107-0113.md
     - 2018_1224-1230 12月第五周: assignment/2018-1224-1230.md
@@ -48,7 +49,7 @@ pages:
     - Article: read/article.md
     - 34-1 Islamic Art of the Book: read/34-1.md
     - 34-2 The Development of Steam Power: read/34-2.md
-    - 34-3: read/34-3.md
+    - 34-3 Protection of Plants by Insects: read/34-3.md
     - 2-3 Early Cinema: read/2-3.md
     - 3-1 Architecture: read/3-1.md
     - 3-2 Depletion of the Ogallala Aquifer: read/3-2.md
