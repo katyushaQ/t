@@ -465,4 +465,12 @@
     </url>
     
 
+    
+    <url>
+     <loc>/read/abc/</loc>
+     <lastmod>2019-01-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>
