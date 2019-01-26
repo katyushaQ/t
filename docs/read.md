@@ -88,7 +88,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 ----
 
 ## 文章结构思路：
-## Part 1 —— 
+## Part 1 —— —— 顺承/并列Part 
 #### 预判：
 
 ??? info "sentence"
