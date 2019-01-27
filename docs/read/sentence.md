@@ -1,5 +1,106 @@
 **主语**  || ==谓语== || ^^宾语^^ || {++定语/宾语从句++} || {状语} || {--插入语--} || *嵌套从句/形式主语* |  ~~错误删除~~
 
+### 2019-01-27
+
+{ Today `时间`}, **river discharges`排出物，流量`** ==are increasingly`越来越多地` controlled== { by human intervention`干预` `方式`}, { creating a need for international river-basin`流域` agreements`协议` }.
+> 今天，河流{--排出物--}{++流量++}越来越多地被人们干预所控制，对于国际流域的协议，创建一个需要。
+
+!!! failure ""
+    creating a need 这个need看不懂，答案里的翻译也没有表达出来need的意思
+    
+    没有看出 creating 的状语是结果状语
+
+TPO 13-1
+{ When an association continues long enough for two people to become linked together by a relatively stable set of expectations`期望` `时间`}, ***it 指代前面的内容*** ==is called== ^^a relationship^^.
+> 当一个{--对于--}两个人通过一套相对稳定的期望持续够长时间的联系{--连接起大家--}时，它被称作关系。
+
+**Sociologists** ==have built on`以……为基础`== ^^the distinction^^ {++between expressive and instrumental`有帮助的，起作用的` ties++} {--==to distinguish`区分`--}== {++between two types of groups++}: primary and secondary.
+> **Sociologists** ==have built on== ^^the distinction between expressive and instrumental ties^^ { to distinguish between two types of groups `to do做目的状语，表示built on the distinction的目的`}: primary and secondary.
+
+> 社会学家曾经以表达的和起作用的尝试之间的区别为基础，去辨别两种类型的组别：主要和次要。
+
+!!! failure ""
+    to distinguish是否也是谓语，不知道如何断句
+    
+    我理解：build on ... to distinguish ... 对么？
+    
+    看了答案后，这句又是意思好像问题不大，但是结构又划错了！
+    
+    to distinguish 后面的between算什么？distinguish的宾语么？
+
+**Sociologists** ==view== ^^primary groups^^ {--{ as bridges }--} ==as `把……看作`== ^^bridges^^ {++between individuals and the larger society++} { because they transmit, mediate`调解`, *and* interpret`解释` a society's cultural patterns *and* provide the sense of oneness`一体，统一（性）` {++so`如此` critical`批判的，决定性的` for social solidarity`团结`++} `原因`}.
+> 社会学家把第一组视作在个体的和更大社会之间的桥梁，因为他们传达，调解并解释社会的文化形式，并提供对社会团结如此决定性的的统一感。
+
+!!! failure ""
+    so 后面没看懂，不知道如何断句
+    
+    so后面是oneness的定语么？介词引导的定语？
+    
+    critical在这里翻译为什么合适？
+
+TPO 13-2
+**The relations** {++between animal activity and these periods++}, ( particularly for the daily rhythms ), {--==have been== ^^of--} such interest and importance^^ {--{++that a huge amount of work has been done on them++}--} {--***and*** **the special research field of chronobiology`生物钟学`** ==has emerged==--}.
+> **The relations** {++between animal activity and these periods++}, ( particularly for the daily rhythms ), ==have been of== ^^*such*`such ... that如此以至于，因果` interest and importance `原因`^^ { *that* a huge amount of work has been done on them `结果1`} *and* { the special research field of chronobiology has emerged `结果2`}. 
+
+> 在动物活动和这些活动周期中的关系，尤其对于日常的节奏，{--已经是一些兴趣和重要性，一个非常大数量的工作被完成的，--} {++因为大量的工作被完成，以至于有兴趣和重要性++}， 并且特有的生物钟学研究领域已经浮现。
+
+!!! failure ""
+    have been of 没看懂
+    
+    such ... that 因果逻辑什么意思？
+
+{ Normally }, **{++the constantly changing++} levels of an animal's activity** —( sleeping, feeding, moving, reproducing, metabolizing`代谢`, and producing enzymes`酶` and hormones`激素`, for example )— {--==are== ^^well coordinated with`与……一致/协调`--} environmental rhythms^^, ***but*** **the key question** ==is== ^^whether`引导表语从句` the animal's schedule is driven by external cues`线索，信号，提示`^^, ( such as sunrise or sunset ), *or* {--==is instead==--} ^^dependent somehow`以某种方式` on internal timers^^ {++that themselves generate the observed biological rhythms++}. 
+> { Normally }, **{++the constantly changing++} levels of an animal's activity** —( sleeping, feeding, moving, reproducing, metabolizing`代谢`, and producing enzymes`酶` and hormones`激素`, for example )— ==are well coordinated with`与……一致/协调`== ^^environmental rhythms^^, ***but*** **the key question** ==is== ^^whether`引导表语从句` the animal's schedule is driven by external cues`线索，信号，提示`^^, ( such as sunrise or sunset ), *or* ^^is instead`并列is driven, wherther...or....` dependent somehow`以某种方式` on internal timers^^ {++that themselves generate the observed biological rhythms++}. 
+
+> 通常，动物活动的稳定地变化 —— 例如睡觉的，饮食的，行动的，繁殖的，代谢的和产生的酶和激素 —— 是与环境节奏很好地一致的，但是关键问题是动物的作息由外界信号所驱动，如日出或日落，或者依靠某种内在的他们自身产生的可观察到的生物节奏的时钟所替代。
+
+!!! failure ""
+    whether ... or ... 请老师给讲一下
+    
+    没有看出 or is instead 的并列内容，看了答案后才，厄……，最开始看着很突兀，所以划为谓语的并列了
+
+{ For instance }, **apparently`显然地，似乎` normal daily periods of biological activity** ==were maintained`保持，维持`== ^^for about a week^^ { by the fungus`真菌` Neurospora`脉孢菌` `方式`} { when it was intentionally`故意地` isolated from all geophysical`地球物理学的` timing`选好时间，把我时机` cues `时间`} {++while orbiting`沿轨道运行` in a space shuttle`航天飞机`++}.
+> 例如，显然地，当活动周期故意地从所有地球物理学的时间选择在航天飞机中沿着轨道运行的信号中隔离的时候，通常日常的生物活动的周期通过脉孢真菌维持大约一周。
+
+!!! failure ""
+    when it的it指代的是谁？我理解it指代日常的生物活动的周期，对么？
+    
+    while不知道是什么意思合适，在这里是当……的时候么？
+    
+
+TPO 13-3
+{ Because they cannot verbalize`用语言表达` or fill out`填写` questionnaires `原因`}, **indirect techniques of naturalistic`自然主义的` observation** {--==are used== { as--} {--the primary means of determining }--} {--{++what infants can see, hear, feel, and so forth`等等`++}--}.
+> { Because they cannot verbalize`用语言表达` or fill out`填写` questionnaires `原因`}, **indirect techniques of naturalistic`自然主义的` observation** ==are used as== ^^the primary means^^ {++of`引导介词短语作定语` determining++} ^^what`做determine的宾语` infants can see, hear, feel, and so forth`等等`^^.
+
+> 因为他们不能用语言表达或者填写调查问起，间接的自然主义观察技术被{--用来作为--}应用于婴儿能够看，听，感觉等等的确定的主要意思。
+
+!!! failure ""
+    be used as 不认识这个短语，被用来做？我把as划做状语了，表示作为的意思
+    
+    of 引导，这个总是看不出来是介词短语作定语，只能理解为所有格
+    
+    what引导的宾语从句，首先，determing理解为名词了，然后what就当定语看了
+
+{ Similarly }, **changes** {++in the infant's general level of motor`运动神经的` activity++} —( turning the head, blinking`眨眼` the eyes, crying, and so forth )— ==have been used== {--{ by researchers }--}  {--{ as visual`视觉的` indicators`指示物，指标` of the infant's perceptual`感知的，知觉的` abilities }--}.
+> { Similarly }, **changes** {++in the infant's general level of motor activity++} —( turning the head, blinking the eyes, crying, and so forth )— ==have been used by== ^^researcher^^ ==as== ^^visual indicators of the infant's perceptual abilities^^.
+
+> 类似地，婴儿产生运动神经的活动的级别的改变 —— 转头，眨眼，哭喊等等 —— 都被研究员用于作为婴儿感知能力的视觉指标。
+
+!!! failure ""
+    又是be used as 被用作
+    
+    be used by one 这个by我总是划为状语，不知道为什么要和谓语划在一起？
+
+{ Therefore `因果`}, { when observational assessment`评估` is used as a technique for studying infant perceptual abilities `时间`}, **care** ==must be taken not to overgeneralize`太笼统地概括` from== ^^the data^^ *or* ==to rely on== ^^one or two studies^^ {--{ as conclusive`结论性的` evidence of a particular`特定的` perceptual ability of the infant }--}.
+> { Therefore `因果`}, { when observational assessment`评估` is used as a technique for studying infant perceptual abilities `时间`}, **care** ==must be taken not to overgeneralize`太笼统地概括` from== ^^the data^^ *or* ==to rely on== ^^one or two studies^^ { as conclusive evidence } {++of a particular perceptual ability of the infant++}.
+
+> 因此，当可观察的评估被使用作为研究婴儿感知力的技术，照顾必须不能从数据中太笼统的概括，或者依靠一个或两个研究作为婴儿特定感知力的结论性证据。
+
+!!! failure ""
+    又是of 介词引导的定语，我看到的都是所有格……看不出是定语
+    
+    答案句的翻译有问题吧？应该说不能笼统概括或依靠少的研究，答案句写反了吧？
+
 ### 2018-12-27
 
 **Further evidence** { for the costs of begging comes from a study of differences in the begging calls of warbler species } {++that nest on the ground versus those`代词`++} {++that nest in the relative safety of trees++}.
@@ -12,7 +113,7 @@
     nest 筑巢 v. | versus 对，对抗 | evidence 证明 n.
     ground 地面 | 
     
-**The hypothesis** {++that begging calls++} ==have evolved== ^^properties^^ {++that reduce their potential for attracting predators yields a prediction++}: **baby birds of species** {++that experience high rates of nest predation++} ==should produce== ^^softer begging signals of higher frequency++} { than nestlings of other species less } often {++victimized by nest predators++}. 
+**The hypothesis** {++that begging calls++} ==have evolved== ^^properties^^ {++that reduce their potential for attracting predators yields a prediction++}: **baby birds of species** {++that experience high rates of nest predation++} ==should produce== ^^softer begging signals of higher frequency^^ { than nestlings of other species less } often {++victimized by nest predators++}. 
 > 这个乞求叫的假设已经进化为减少他们吸引捕食者产量的一个预测的可能性：经历鸟巢捕食的高比率的种类的小鸟应该比其他低频率，经常被巢穴捕食者伤害的种类的鸟巢，发出高频率的轻柔的乞求信号。
 
 !!! quote ""

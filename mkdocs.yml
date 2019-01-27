@@ -48,9 +48,10 @@ pages:
     - Insertion: read/insertion.md
     - Rhetoric Purpose: read/rhetoricpurpose.md
     - Article: read/article.md
-    - 34-1 Islamic Art of the Book: read/34-1.md
-    - 34-2 The Development of Steam Power: read/34-2.md
+    - 21-1 Geothermal Energy: read/21-1.md
     - 34-3 Protection of Plants by Insects: read/34-3.md
+    - 34-2 The Development of Steam Power: read/34-2.md
+    - 34-1 Islamic Art of the Book: read/34-1.md
     - 2-3 Early Cinema: read/2-3.md
     - 3-1 Architecture: read/3-1.md
     - 3-2 Depletion of the Ogallala Aquifer: read/3-2.md
@@ -96,7 +97,7 @@ pages:
     
 - Word: word.md
 
-- Search: read/abc.md
+# - Search: read/abc.md
 
 
 
