@@ -1,4 +1,4 @@
-### 20190101 作业
+### 20190110 作业
 #### 2019-01-11
 
 **Some people prefer to live in a small town. Others prefer to live in a big city. Which place would you prefer to live in?**
@@ -18,3 +18,12 @@ Because students of university always having numerous assignments ~~of~~ to each
 
 ---
 
+#### 2019-01-11
+
+Even though sports activities have advantages of helping students to be healthy, friendly and positive, I believe that the libraries ~~is~~ are better than sports activities in a mount of money for them. One things, there are numerous types of books in the libraries, such as computer science and technology, historiography and ~~philosopy~~ philosophy and various kinds of information and illustration in these books. The students usually want to browse and study professional data ~~of~~ onto their major and minor courses in the libraries, they will be used for their papers or examination. Since the professor will select some of {++the++} typical and classical theories and instances into test papers. For this reason, the libraries need much more ~~space~~ spaces to support it. Also, the libraries need to repair books and even buy new one. Since these books ~~is~~ are frequently borrowed or rented by students, they will be damaged or lost. In conclusion, the same money ~~is~~ {++are++} more important to libraries than sport ~~actitives~~ activities.
+
+#### 2019-02-02
+
+**Many people visit museums when they travel to new places. Why do you think people visit museums? Use specific reasons and examples to support your answer.**
+
+The museums have numerous kinds of exhibition no matter what you want to see. For example, when I have been the museum of Toronto, there is a huge, brown, and artistic building in front of me. As it attracted me instantly, I decided to visit it. There are four floors and ~~a~~ {++an++} ~~extracitve~~ {++extensional++} floor at ~~undergroud~~ {++underground++}, and several ~~area~~ {++areas++} of theme ~~in~~ {++from/of++} the same layer. The first floor, for instance, sector one is used to ~~intruduce~~ {++introduce++} the origin of the Niagara Falls. Sector two is shown that the original inhabitants how to live and develop. Sector three is ~~exhibit~~ {++exhibting++} the china, it surprised me because I prided as a Chinese when I was ~~heared~~ {++heart++} the ancient information ~~from~~ {++about/on++} foreigner. In addition, there is the whale heart show in the B1 floor. It exhibted the whale was endangered by environment ~~pullution~~ {++pollution++} or human's hunt, so show has shocked me. The whale looks like very kindness, ~~intellent~~ {++intelligent++}, and harmless, their heart size as big as a smart car, amount of tooth likes a series bunch of brush, and the size ~~about~~ {++of++} between fifteen and twenty meters long. All these exhibition had ~~a~~ {++an++} information signs {++of++} beside the showing subject. There are various ~~instreasting~~ {++interesting++} knowledges or tips on it. Therefore, I have gained a lot from the museums, thus I suggest everybody to visit the museum when they ~~travle~~ {++travel++}. Becase everybody has to worry about not to learn nothing, so nothing can be more satisfying than it.

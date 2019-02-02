@@ -1,5 +1,82 @@
 **主语**  || ==谓语== || ^^宾语^^ || {++定语/宾语从句++} || {状语} || {--插入语--} || *嵌套从句/形式主语* |  ~~错误删除~~
 
+### 2019-01-30
+
+**The Independent Television Commission`委员会`**, ( regulator`调节器，监管者` of television advertising in the United Kingdom ), ==has criticized== ^^advertisers for "misleadingness`误入歧途`"^^ —( creating a wrong impression either intentionally or`或者…或者…` unintentionally )— { in an effort to`努力做某事` control advertisers' use of techniques `地点`} {++that make it difficult for children to judge`判断` the true size, action, performance, or construction of a toy++}.
+> 独立电视委员会，英国电视广告的监管者，{--在努力控制广告商的使孩子很难判断一个玩具的真实的大小，行为，表现或结构的技术的使用中，已经对“误入歧途”——有目的或无目的的创造错误印象——的广告者进行了批评--}。
+
+> 独立电视委员会，英国电视广告的监管者，已经对“误入歧途”的广告进行了批评——有目的或无目的的创造错误印象——在这个影响中努力控制广告商的使孩子很难判断一个玩具的真实的大小，行为，表现或结构的技术的使用。
+
+!!! failure ""
+    in an effort to 目的状语，判定为地点状语了
+
+{ However `转折`}, **research** ==has shown== ^^that children often have difficulty understanding disclaimers`免责声明，弃权`^^: **children** ==may interpret== ^^the phrase "when part of a nutritionally`营养地` balanced breakfast"^^ ==to mean== ^^that the cereal`谷物` is required^^ { as a necessary part of a balanced breakfast `目的`}.
+> 然而，研究已经显示，孩子们常常很难理解{--弃权--}{++免责声明++}：孩子们也许会把短语“当一个{++被++}{++部分++}营养地平衡的早餐{--的部分--}时”，理解为谷物是被需要的，作为一个平衡早餐必须要的部分。
+
+!!! failure ""
+    答案：that引导的同位语从句，解释说明前面的mean
+    
+    to mean的mean不是动词吗？
+
+**The intention** ==is== ^^for the positively perceived attributes of the celebrity^^ {--==to be transferred to== ^^the advertised product^^--} ***and*** ^^for the two^^ {--==to become automatically linked== { in the audience's mind `地点`}--}. `版本1`
+> **The intention** ==is== ^^for`对…来说` the positively perceived`感知` attributes of the celebrity to be transferred`转移` to the advertised product^^ ***and*** ^^for the two to become automatically linked in the audience's mind^^.
+>> 这个目的对积极的感知名人特征来说，转移到广告产品上，同事对于将两者自动的在观众的思想中关联起来来说。
+
+!!! failure ""
+    for 对……来说，简直没法在翻译中体现，为什么不是表达：为了 的意思？
+
+> 目的是为了积极地理解名人属性，传输到广告产品，并且为了这两个在观众的思想中成为自动地建立联系。
+
+**The intention** ==is== ^^for the positively perceived`看待，理解，认为` attributes of the celebrity`名人，名誉`^^ {++to be transferred to the advertised product++} ***and*** ^^for the two^^ {++to become automatically linked++} { in the audience's mind `地点`}. `版本2`
+> 目的是为了积极地理解被传输到广告产品的名人的态度，同时为了成为在观众意识中自动的建立连接的二个。
+
+!!! failure ""
+    不知道错在哪儿了？
+    
+TPO 14-2
+
+{ To understand the ancient Mayan people `目的`} {++who lived in the area++} {++that is today southern Mexico *and* Central America++} ***and*** {--{++the ecological`生态的` difficulties they faced++}--} {the ecological`生态的` difficulties `目的，并列开头`} {++they faced++}, **one** ==must first consider== ^^their environment^^, {++which we think of as "jungle" or "tropical rainforest".++}
+> {++为了`目的`++}理解古代住在今天墨西哥和美国中部地区的玛雅人和他们面对的生态困难，一个必须首先考虑他们的，我们认为是“森林”或“热带雨林”的环境。
+
+**The ancient Maya** {--==were presumably more experienced==--} ==were== presumably ^^more experienced^^ *and* ==did== ^^better^^, {--***but nevertheless***--} ***but*** nevertheless`不过，尽管如此` **they** ==too must have faced== ^^risks of crop failures^^ { from droughts and hurricanes`旋风` `地点`}.
+> 古代玛雅人大概更有经验，并且做的更好，然而{++尽管如此++}他们{--曾太--}{++都++}必须面对由干旱和旋风带来的庄稼没收成/{++颗粒无收++}的风险。
+
+{ While that made things hard for ancient Maya living`住，生活` in the south `时间`}, ***it*** ==has also made== {--^^things hard for modern archaeologists`考古学家`^^--} ^^things hard for modern archaeologists`考古学家`^^ {++who have difficulty understanding++} ^^why ancient droughts caused bigger problems^^ { in the wet south `地点`} { than in the dry north `地点` `比较`}.
+> 当做事情对于住/{++生活++}在南方的古代玛雅人很难时，它对于现代考古学家同样很难做事情，他们很难理解为什么古代{++干旱++}在潮湿的南方比干旱的北方{--干旱--}引起更大的问题。
+
+!!! failure ""
+    老师，你这里把for划作状语，有的时候又和宾语划在一起，崩溃
+
+TPO 14-3
+
+**Archaeological`考古学的` evidence** ==suggests== ^^that by 3000 B.C., ( *and* perhaps even earlier ), there had emerged on the steppes`大草原` of Inner Eurasia`欧洲大陆` the distinctive`独特的` types of pastoralism`田园主义`^^ {++that were to dominate`控制，支配` the region's history for several millennia`千年期`++}.
+> 考古学的证据暗示了，截止到公元前3000年，也可能甚至更早，浮现出了欧洲大陆内部的大草原独特类型的田园主义，这个田园主义支配着这个地区的历史数千年。
+
+*It* ==is== ^^the use of horses for transportation *and* warfare`战争`^^ **that explains ^^why Inner Eurasian pastoralism proved the most mobile`移动的，流动的` *and* the most militaristic`军国主义的` of all major forms of pastoralism^^**.
+> *It is* **the use of horses for transportation *and* warfare** *that* ==explains== ^^why Inner Eurasian pastoralism proved the most mobile *and* the most militaristic of all major forms of pastoralism^^.
+>> {++正是`强调`++}马在运输和战争中的使用，解释了为什么内部欧洲大陆田园主义{++被++}证明田园主义的所有主要形式的最{++具++}流动{++性的++}和最{--军国主义--}{++具军事性++}的。
+
+> 解释为什么内部欧洲大陆田园主义证明田园主义的所有主要形式的最流动和最军国主义的，是为了运输和战争对马的使用。
+
+!!! failure ""
+    没有看出是强调句，没有这个意识，看成形式主语了
+    
+    然后，强调句和形式主语的区别？
+
+**The remarkable mobility`流动（性）` *and* range of pastoral`田园的，乡村的` societies** ==explain==, ( in part`在某种程度上` ), ^^why so many linguists`语言学家` have argued^^ ^^that the Indo-European`印欧语系的` languages began their astonishing`惊人的` expansionist`扩张主义的` career {--not--} {++*not*++} among farmers in Anatolia`安纳托利亚`^^ (present-day`当今的` Turkey), {--*but*--} {++*but*++} ^^among early pastoralists`牧民` from Inner Eurasia`欧洲大陆`^^. 
+> 这个显著的乡村社会的流动和范围说明，{--在一部分中--}{++在某种程度上++}，为什么非常多语言学家争论印欧语系的语言开始他们惊人的扩张主义的职业在安纳托利亚（当今的土耳其）不在农民之中，但是在早期的来自欧洲大陆内部的牧民之中。
+
+!!! failure ""
+    好难啊，词！开始传播，began …… expansionist ！
+
+TPO 15-1
+
+***It*** ==swims== ^^farther^^ ==into== ^^the cold of the northern and southern oceans^^ { than any other sea turtle `比较`}, ***and*** ***it*** ==deals with`应付`== ^^the chilly`寒冷的` waters^^ in a way`以…方式` {++unique among reptiles`爬行动物`++}.
+> 它比任何一个其他海龟游到更远的北方和南方海洋的寒冷海洋，并且它以爬行动物唯一的方式应付寒冷的水。
+
+!!! failure ""
+    unique引导的形容词短语修饰前面的名词way，这个定语没有看出来
+
 ### 2019-01-27
 
 { Today `时间`}, **river discharges`排出物，流量`** ==are increasingly`越来越多地` controlled== { by human intervention`干预` `方式`}, { creating a need for international river-basin`流域` agreements`协议` }.
@@ -11,6 +88,7 @@
     没有看出 creating 的状语是结果状语
 
 TPO 13-1
+
 { When an association continues long enough for two people to become linked together by a relatively stable set of expectations`期望` `时间`}, ***it 指代前面的内容*** ==is called== ^^a relationship^^.
 > 当一个{--对于--}两个人通过一套相对稳定的期望持续够长时间的联系{--连接起大家--}时，它被称作关系。
 
@@ -39,6 +117,7 @@ TPO 13-1
     critical在这里翻译为什么合适？
 
 TPO 13-2
+
 **The relations** {++between animal activity and these periods++}, ( particularly for the daily rhythms ), {--==have been== ^^of--} such interest and importance^^ {--{++that a huge amount of work has been done on them++}--} {--***and*** **the special research field of chronobiology`生物钟学`** ==has emerged==--}.
 > **The relations** {++between animal activity and these periods++}, ( particularly for the daily rhythms ), ==have been of== ^^*such*`such ... that如此以至于，因果` interest and importance `原因`^^ { *that* a huge amount of work has been done on them `结果1`} *and* { the special research field of chronobiology has emerged `结果2`}. 
 
@@ -69,6 +148,7 @@ TPO 13-2
     
 
 TPO 13-3
+
 { Because they cannot verbalize`用语言表达` or fill out`填写` questionnaires `原因`}, **indirect techniques of naturalistic`自然主义的` observation** {--==are used== { as--} {--the primary means of determining }--} {--{++what infants can see, hear, feel, and so forth`等等`++}--}.
 > { Because they cannot verbalize`用语言表达` or fill out`填写` questionnaires `原因`}, **indirect techniques of naturalistic`自然主义的` observation** ==are used as== ^^the primary means^^ {++of`引导介词短语作定语` determining++} ^^what`做determine的宾语` infants can see, hear, feel, and so forth`等等`^^.
 
