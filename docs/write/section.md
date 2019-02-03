@@ -18,7 +18,7 @@ Because students of university always having numerous assignments ~~of~~ to each
 
 ---
 
-#### 2019-01-11
+#### 2019-01-29
 
 Even though sports activities have advantages of helping students to be healthy, friendly and positive, I believe that the libraries ~~is~~ are better than sports activities in a mount of money for them. One things, there are numerous types of books in the libraries, such as computer science and technology, historiography and ~~philosopy~~ philosophy and various kinds of information and illustration in these books. The students usually want to browse and study professional data ~~of~~ onto their major and minor courses in the libraries, they will be used for their papers or examination. Since the professor will select some of {++the++} typical and classical theories and instances into test papers. For this reason, the libraries need much more ~~space~~ spaces to support it. Also, the libraries need to repair books and even buy new one. Since these books ~~is~~ are frequently borrowed or rented by students, they will be damaged or lost. In conclusion, the same money ~~is~~ {++are++} more important to libraries than sport ~~actitives~~ activities.
 

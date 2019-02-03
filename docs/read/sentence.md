@@ -1,5 +1,43 @@
 **主语**  || ==谓语== || ^^宾语^^ || {++定语/宾语从句++} || {状语} || {--插入语--} || *嵌套从句/形式主语* |  ~~错误删除~~
 
+### 2019-02-03
+
+**The bigger the animal** ==is==, ^^the lower its surface-to-volume ratio^^; { for every ounce`盎司` of body mass `目的`}, **there** ==is== proportionately`成比例的` ^^less surface^^ {++through which heat can escape++}.
+> 这个更大的动物是，更低的它们的表面到卷的率，就身体体积的每盎司来说，有成比例地少的表面有通过热能释放。
+
+**The problem** ==is== ^^that as blood flows through the turtle’s flippers`鳍状肢`^^, ***it 指代海龟*** ==risks`冒风险`== {++losing enough++} ^^heat^^ ==to lower== ^^the animal’s central body temperature^^ { when *it 指代海龟* returns `时间`}.
+> 这个问题是，血通过海龟的鳍状肢流过，它冒着流失足够热量的风险来降低动物中心身体的低温，当它返回的时候。
+
+TPO 15-2
+
+**Biological`生物学 ` hypotheses** ==include== ^^ecological`生态学的` changes^^ {++brought about by the evolution of cooperation++} {++between insects *and* flowering plants++} ***or*** {++of bottom-feeding predators++} {++in the oceans++}.
+> 生物学假设包含生态改变，这个改变通过合作的革命带来的，这个合作在昆虫和花植物之间，这个改变或者通过海洋中的海底喂养的捕食者带来的。
+
+**Some of the {++proposed`建议的`++} mechanisms`机制`** ==required== ^^a very brief`短暂的` period^^ {++during which all extinctions`灭绝` suddenly took place`产生，发生`++}; **other mechanisms** ==would be== more likely ==to have taken place== more gradually, ( over an extended period ), *or* { at different times `时间`} { on different continents`洲` `地点`}.
+> 一些建议的机制需要一个非常短暂的周期，在所有灭绝突然发生的周期中，其他机制更可能会更逐渐地发生，超过一个扩展周期，或者在不同时间不同的洲。
+
+**The possibility** {++that mass extinctions may recur`再次发生` periodically++} ==has given rise to`做出反应，引起`== ^^such hypotheses^^ {++as that of a companion star`伴星` with a long-period orbit++} { deflecting`偏离` other bodies from their normal orbits, making some of them fall to Earth as meteors`流星` *and* causing widespread devastation`毁灭` upon impact }.
+> 大量的灭绝可能再次周期性的发生的可能性，引起这些假设，一个有长周期轨道的伴星从他们的正常轨道偏离到其他主体，使他们的一些成为流星落到地球，并且在这个影响上导致广泛的毁灭。
+
+TPO 15-3
+
+{ With further melting`融化`, refreezing, and increased weight from newer`更新的` snowfall`降雪` above `抽象地点`}, **the snow** ==reaches== ^^a granular`颗粒状的` recrystallized`再结晶` stage intermediate`中间的`^^ {++between flakes`小薄片` and ice++} {++known as firn`积雪`++}.
+> 随着进一步的融化的，再结冰的和来自新的降雪的增长的重量，雪达到一个颗粒状的再结晶的中间阶段，这个阶段在小薄片和被称为积雪的冰之间。
+
+{ When the ice is thick enough `时间`}, ( usually over 30 meters ), **the weight of the snow and firn** ==will cause== ^^the ice crystals toward the bottom^^ ==to become== ^^plastic^^ ***and*** ==to flow ^^outward *or* downward^^ ==from== ^^the area of snow accumulation^^.
+> 当冰足够厚的时候，通常超过30米，雪和积雪的重量会导致冰晶朝着底部变成塑料状，同时从雪积累的地方朝外或者朝下。
+
+{ For a glacier`冰川` {++to grow or maintain its mass`块，质量`++} `目的`}, **there** must ==be== ^^sufficient snowfall^^ ==to match== ***or*** ==exceed== ^^the annual^^ { loss`损失，减少` through melting, evaporation`蒸发`, and calving`裂冰，崩解` `方式`}, {++which occurs++} ^^{ when the glacier loses solid`固体的` chunks as icebergs to the sea *or* to large lakes `时间`}^^.
+> 对于一个把它的质量增长或保持的冰川来说，必须有充分的降雪来匹配，或超过每年通过融化，蒸发和裂冰发生的减少，当冰川损失固态块成为冰山到海里，或成为大湖。
+
+TPO 16-1
+
+**This 指代前面的现象** ==has been== ^^so since ancient times`时代`^^, ( partly due to`由于` the geology of the area ), {++which is mostly limestone`石灰岩` and sandstone`砂岩`++}, { with few deposits of metallic`金属的` ore`矿石` *and* other useful materials `伴随`}.
+> 这个从远古时代就有，在某种程度上由于区域的地质学，这个区域几乎是石灰岩和砂岩，随着金属矿石和其他有用材料的沉淀。
+
+**{ In these shops differences of rank were blurred`模糊的` as artisans`工匠` *and* masters`大师，能手` labored`劳动` side by side`并肩地，并排地` in the same modest`适度的` establishment`企业` }**, ==were== ^^usually members of the same guild`行会，协会` *and* religious sect`派别`^^, ( lived in the same neighborhoods ), ***and*** often ==had assumed== (or real) ^^kinship`亲属/血缘关系` relationships^^.
+> 随着工匠和大师在同一个适度的企业中并排地劳动，这些商店等级的差异被模糊，通常是同样数量的协会和宗教派别，住在同一个街区，并且常常假设（或真的）有血缘关系。
+
 ### 2019-01-30
 
 **The Independent Television Commission`委员会`**, ( regulator`调节器，监管者` of television advertising in the United Kingdom ), ==has criticized== ^^advertisers for "misleadingness`误入歧途`"^^ —( creating a wrong impression either intentionally or`或者…或者…` unintentionally )— { in an effort to`努力做某事` control advertisers' use of techniques `地点`} {++that make it difficult for children to judge`判断` the true size, action, performance, or construction of a toy++}.

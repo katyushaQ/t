@@ -37,7 +37,7 @@ pages:
     - 2018_0611-0615 6月第二周: assignment/2018-0611-0615.md
     - 2018_0604-0609 6月第一周: assignment/2018-0604-0609.md
 
-- Read: 
+- Reading: 
     - Policy: read/policy.md
     - Sentence: read/sentence.md
     - Question: question.md
@@ -60,7 +60,7 @@ pages:
     - 4-2 Deer Populations of the Puget Sound: read/4-1.md
     - 4-3 Petroleum Resources: read/4-3.md
     
-- Write: 
+- Writing: 
     - Section: write/section.md
     - Policy: write/policy.md
     - Sentence: write/sentence.md
@@ -71,12 +71,13 @@ pages:
     - Environment: write/environment.md
     - 32-Integrated: write/32-Integrated.md
     
-- Speak:
+- Speaking:
+    - Golden80: speak/golden80.md
     - Task 3: speak/task3.md
     - Task 4: speak/task4.md
     - Task 5: speak/task5.md        
     
-- Listen:
+- Listening:
     - 老托: listen/old.md
     - Basics: listen/basics.md
     - Speak Task 56: listen/speak-task56.md
@@ -89,16 +90,16 @@ pages:
 - Question: question.md
 
 - Interview: 
+    - 20180501: interview/20180501.md
     - 20181216: interview/20181226.md
 
 - Courses:
     - 2019-01-18 Speak & Listen: courses/20190118.md
     - 2019-01-10 Write: courses/20190110.md
     
-- Word: word.md
+- Vocabulary: vocabulary.md
 
 # - Search: read/abc.md
-
 
 
 markdown_extensions:

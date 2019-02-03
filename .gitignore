@@ -1,3 +1,4 @@
 site/
-docs/audio/
+docs/audio/tpo/
 *.py
+!docs/audio/self/
