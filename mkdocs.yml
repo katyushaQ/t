@@ -95,8 +95,10 @@ pages:
     - 20181216: interview/20181226.md
 
 - Courses:
-    - 2019-01-18 Speak & Listen: courses/20190118.md
-    - 2019-01-10 Write: courses/20190110.md
+    - Reading: courses/reading.md
+    - Speaking: courses/speaking.md
+    - Speak & Listen: courses/speaking-listen.md
+    - Writing: courses/writing.md
     
 - Vocabulary: vocabulary.md
 

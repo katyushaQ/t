@@ -12,7 +12,7 @@ The big city has ==numerous== benefits. ==For one thing==, It has convenient pub
 
 #### 2019-01-27
 
-**Do you agree or disagree with the following statement? “Universities should give the same amount of money to their students’ sports activities as they give to their university libraries.” Use specific reasons and examples to support your opinion.**
+**11. Do you agree or disagree with the following statement? “Universities should give the same amount of money to their students’ sports activities as they give to their university libraries.” Use specific reasons and examples to support your opinion.**
 
 Because students of university always having numerous assignments ~~of~~ to each ~~caurse~~ course, they need kinds of sports activities for doing physical exercise and releasing their stress of study. Therefore, I agree that the university should provide the same amount of money for students' sports activities. For one things, the sports activities ~~needs~~ need to rent a huge space. There are over hundreds of students in every ~~colloge~~ college, it is used to supply racing areas and set a lot of seats ~~for~~ of audience. Also, several types of sports activities have various instrument which will be consumed by sporters, be cleaned and repaired by workers. Such as, whistle, starting gun, flags and so forth. The sport activities are held every week, everyone will join in it no matter what times and has to worry about not ~~droping~~ dropping the classes. There is more satisfying than other items.
 
@@ -24,6 +24,24 @@ Even though sports activities have advantages of helping students to be healthy,
 
 #### 2019-02-02
 
-**Many people visit museums when they travel to new places. Why do you think people visit museums? Use specific reasons and examples to support your answer.**
+**12. Many people visit museums when they travel to new places. Why do you think people visit museums? Use specific reasons and examples to support your answer.**
 
 The museums have numerous kinds of exhibition no matter what you want to see. For example, when I have been the museum of Toronto, there is a huge, brown, and artistic building in front of me. As it attracted me instantly, I decided to visit it. There are four floors and ~~a~~ {++an++} ~~extracitve~~ {++extensional++} floor at ~~undergroud~~ {++underground++}, and several ~~area~~ {++areas++} of theme ~~in~~ {++from/of++} the same layer. The first floor, for instance, sector one is used to ~~intruduce~~ {++introduce++} the origin of the Niagara Falls. Sector two is shown that the original inhabitants how to live and develop. Sector three is ~~exhibit~~ {++exhibting++} the china, it surprised me because I prided as a Chinese when I was ~~heared~~ {++heart++} the ancient information ~~from~~ {++about/on++} foreigner. In addition, there is the whale heart show in the B1 floor. It exhibted the whale was endangered by environment ~~pullution~~ {++pollution++} or human's hunt, so show has shocked me. The whale looks like very kindness, ~~intellent~~ {++intelligent++}, and harmless, their heart size as big as a smart car, amount of tooth likes a series bunch of brush, and the size ~~about~~ {++of++} between fifteen and twenty meters long. All these exhibition had ~~a~~ {++an++} information signs {++of++} beside the showing subject. There are various ~~instreasting~~ {++interesting++} knowledges or tips on it. Therefore, I have gained a lot from the museums, thus I suggest everybody to visit the museum when they ~~travle~~ {++travel++}. Becase everybody has to worry about not to learn nothing, so nothing can be more satisfying than it.
+
+#### 2019-02-08
+
+**13. Some people prefer to eat at food stands or restaurants. Other people prefer to prepare and eat food at home. Which do you prefer? Use specific reasons and examples to support your answer.**
+
+#### 2019-02-08
+
+**14. Some people believe that university students should be required to attend classes. Others believe that going to classes should be optional for students. Which point of view do you agree with? Use specific reasons and details to explain your answer.**
+
+
+
+
+
+#### 2019-02-08
+
+**15. Neighbors are the people who live near us. In your opinion, what are the qualities of a good neighbor? Use specific details and examples in your answer.**
+
+Nowadays, numerous young people usually ~~lives~~ {++live++} in apartment, having at least one neighbor in the same floor. They maybe lovers, or more likely single to dwell. For example, my sister attending college is alone living in this ~~accomodation~~ {++accommodation++}. I admire her very much, because there are many inconvenient situations to a girl. I think that none can help you when you are in troubles, such as sadness, having a heart-to-heart talk, and some equipment damaged. But nevertheless I am wrong and find her living with pleasure. She has three ~~neighbor~~ {++neighbors++} who are all students of adjacent two universities in the same apartment. Judy always chatting, shopping and taking party with my sister is a sunshine girl. Pual who is ~~a~~ {++an++} information technology student skills to repair any mechanical things. If you need some facility to maintain, he could help you. And Pual's girl ~~friends~~ {++friend++} is usually as ~~asistant~~ {++assistant++} when Pual is busy. Since my sister is good at cooking, So they always organize small party. Finally, there are some kindness, skillful, and helpful neighbors who always be there to support you no matter what happens. Nothing can be more satisfying than the friendly living surrounding.
