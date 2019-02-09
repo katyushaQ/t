@@ -1,1 +1,1 @@
-![neko sencei](../images/nekosencei.JPG) 
+![neko sencei](images/nekosencei.JPG) 
