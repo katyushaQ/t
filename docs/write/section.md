@@ -1,4 +1,4 @@
-### 20190110 作业
+## 2019-01-10 作业
 #### 2019-01-11
 
 **Some people prefer to live in a small town. Others prefer to live in a big city. Which place would you prefer to live in?**
@@ -28,20 +28,37 @@ Even though sports activities have advantages of helping students to be healthy,
 
 The museums have numerous kinds of exhibition no matter what you want to see. For example, when I have been the museum of Toronto, there is a huge, brown, and artistic building in front of me. As it attracted me instantly, I decided to visit it. There are four floors and ~~a~~ {++an++} ~~extracitve~~ {++extensional++} floor at ~~undergroud~~ {++underground++}, and several ~~area~~ {++areas++} of theme ~~in~~ {++from/of++} the same layer. The first floor, for instance, sector one is used to ~~intruduce~~ {++introduce++} the origin of the Niagara Falls. Sector two is shown that the original inhabitants how to live and develop. Sector three is ~~exhibit~~ {++exhibting++} the china, it surprised me because I prided as a Chinese when I was ~~heared~~ {++heart++} the ancient information ~~from~~ {++about/on++} foreigner. In addition, there is the whale heart show in the B1 floor. It exhibted the whale was endangered by environment ~~pullution~~ {++pollution++} or human's hunt, so show has shocked me. The whale looks like very kindness, ~~intellent~~ {++intelligent++}, and harmless, their heart size as big as a smart car, amount of tooth likes a series bunch of brush, and the size ~~about~~ {++of++} between fifteen and twenty meters long. All these exhibition had ~~a~~ {++an++} information signs {++of++} beside the showing subject. There are various ~~instreasting~~ {++interesting++} knowledges or tips on it. Therefore, I have gained a lot from the museums, thus I suggest everybody to visit the museum when they ~~travle~~ {++travel++}. Becase everybody has to worry about not to learn nothing, so nothing can be more satisfying than it.
 
-#### 2019-02-08
+#### 2019-02-09
 
 **13. Some people prefer to eat at food stands or restaurants. Other people prefer to prepare and eat food at home. Which do you prefer? Use specific reasons and examples to support your answer.**
 
-#### 2019-02-08
+It has numerous benefits that we prepare and eat food at home. For one thing, the materials of food are fresher and cleaner than restaurants. Since people always cautiously select it in supermarkets and clear itself muds and some ~~agricultrual~~ {++agricultural++} remains, there is enough guarantee of our food. Also, the preparing process is very interesting among the family. Everybody enjoys in it, mixing salad, roasting beef, and cooking soup. There are various alternative food for each one's taste. Finally, they are eating together with talking, joking and laughing. Nothing can be more satisfying than a big family merrily eating food at home.
+
+---
+
+Even though preparing and eating food at home has advantages of being happiness, harmonious and healthy, I believe that eat at food stand or restaurants is better than home. For example, there are numerous kinds of food to support you to choose ~~in~~ {++from++} the restaurants. The McDonald's provides hamburgers, chips and beverages for consumer. And as the special festival or the movie's relevant ~~activies~~ {++activities++}, they often introduce new kids set meal for children. Also, it is more convenient that we eat at stands. Because we always have fully schedule everyday, and then the lunch time is ~~shotter~~ {++shorter++} and tense very much, we have quickly to eat. Thereforce, the restaurants is the best choice.
+
+#### 2019-02-09
 
 **14. Some people believe that university students should be required to attend classes. Others believe that going to classes should be optional for students. Which point of view do you agree with? Use specific reasons and details to explain your answer.**
 
+I am a computer science and technology student and I supposed that the university students should must attend classes. For one thing, all students need to receive the professional theories of computer in my college. These principles are deeply explained by professors who show the slides of programming and execute some scripts to interpret in further details. These knowledges are difficult to lean by ourself. Also, there are some real computer operational classes ~~for~~ {++of++} us with theory classes. Because the ~~pinciples~~ {++principles++} are abstractive very much, the operational classes can help students precisely to understand how and why computers are designed and run in this way, not only used. So attending classes is very ~~necessery~~ {++necessary++} to us.
 
+---
 
-
+Even though attending classes has advantages of being academic, systematic and detailed, I believe it has its downside too. For example, there is no guarantee of communication. The numerous classes usually are a lecture which is ~~speeched~~ {++spoke++} one-to-many by professors, So the majority of students have no chance to discuss each other and feel boring very much. Also, there may be not practical courses for all major students. But it is very ~~impoartant~~ {++important++} to the university student that is real drill in which the students could learn how to cooperate with others, how to fix mistakes from advance suggestion and how to do the best themselves. Furthermore,  the real drill might be several forms, such as a sports competition, charity ~~activites~~ {++activities++}, or private tutoring. These ~~practice~~ {++practices++} are all ~~beneficail~~ {++beneficial++} to everybody. So going to courses should not be necessary for students.
 
 #### 2019-02-08
 
 **15. Neighbors are the people who live near us. In your opinion, what are the qualities of a good neighbor? Use specific details and examples in your answer.**
 
 Nowadays, numerous young people usually ~~lives~~ {++live++} in apartment, having at least one neighbor in the same floor. They maybe lovers, or more likely single to dwell. For example, my sister attending college is alone living in this ~~accomodation~~ {++accommodation++}. I admire her very much, because there are many inconvenient situations to a girl. I think that none can help you when you are in troubles, such as sadness, having a heart-to-heart talk, and some equipment damaged. But nevertheless I am wrong and find her living with pleasure. She has three ~~neighbor~~ {++neighbors++} who are all students of adjacent two universities in the same apartment. Judy always chatting, shopping and taking party with my sister is a sunshine girl. Pual who is ~~a~~ {++an++} information technology student skills to repair any mechanical things. If you need some facility to maintain, he could help you. And Pual's girl ~~friends~~ {++friend++} is usually as ~~asistant~~ {++assistant++} when Pual is busy. Since my sister is good at cooking, So they always organize small party. Finally, there are some kindness, skillful, and helpful neighbors who always be there to support you no matter what happens. Nothing can be more satisfying than the friendly living surrounding.
+
+
+### 2019-01-10 作业总结
+
+叙述类的感觉好写一些，顺着往下写就可以了；
+
+选择类的不太好写，可能需要必须想出N个论点，并且有充分的例证去支持，想的时候就比较难。
+
+以上感觉最难的是14题
