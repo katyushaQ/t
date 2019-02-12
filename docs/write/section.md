@@ -14,7 +14,7 @@ The big city has ==numerous== benefits. ==For one thing==, It has convenient pub
 
 **11. Do you agree or disagree with the following statement? “Universities should give the same amount of money to their students’ sports activities as they give to their university libraries.” Use specific reasons and examples to support your opinion.**
 
-Because students of university always having numerous assignments ~~of~~ to each ~~caurse~~ course, they need kinds of sports activities for doing physical exercise and releasing their stress of study. Therefore, I agree that the university should provide the same amount of money for students' sports activities. For one things, the sports activities ~~needs~~ need to rent a huge space. There are over hundreds of students in every ~~colloge~~ college, it is used to supply racing areas and set a lot of seats ~~for~~ of audience. Also, several types of sports activities have various instrument which will be consumed by sporters, be cleaned and repaired by workers. Such as, whistle, starting gun, flags and so forth. The sport activities are held every week, everyone will join in it no matter what times and has to worry about not ~~droping~~ dropping the classes. There is more satisfying than other items.
+Because students of university always having numerous assignments ~~of~~ to each ~~caurse~~ course, they need kinds of sports activities for doing physical exercise and releasing their stress of study. Therefore, I agree that the university should provide the same amount of money for students' sports activities. For one {--things--} {++thing++}, the sports activities ~~needs~~ need to rent a huge space. There are over hundreds of students in every ~~colloge~~ college, it is used to supply racing areas and set a lot of seats ~~for~~ of audience. Also, several types of sports activities have various instrument which will be consumed by sporters, be cleaned and repaired by workers. Such as, whistle, starting gun, flags and so forth. The sport activities are held every week, everyone will join in it no matter what times and has to worry about not ~~droping~~ dropping the classes. There is more satisfying than other items.
 
 ---
 
@@ -26,7 +26,16 @@ Even though sports activities have advantages of helping students to be healthy,
 
 **12. Many people visit museums when they travel to new places. Why do you think people visit museums? Use specific reasons and examples to support your answer.**
 
-The museums have numerous kinds of exhibition no matter what you want to see. For example, when I have been the museum of Toronto, there is a huge, brown, and artistic building in front of me. As it attracted me instantly, I decided to visit it. There are four floors and ~~a~~ {++an++} ~~extracitve~~ {++extensional++} floor at ~~undergroud~~ {++underground++}, and several ~~area~~ {++areas++} of theme ~~in~~ {++from/of++} the same layer. The first floor, for instance, sector one is used to ~~intruduce~~ {++introduce++} the origin of the Niagara Falls. Sector two is shown that the original inhabitants how to live and develop. Sector three is ~~exhibit~~ {++exhibting++} the china, it surprised me because I prided as a Chinese when I was ~~heared~~ {++heart++} the ancient information ~~from~~ {++about/on++} foreigner. In addition, there is the whale heart show in the B1 floor. It exhibted the whale was endangered by environment ~~pullution~~ {++pollution++} or human's hunt, so show has shocked me. The whale looks like very kindness, ~~intellent~~ {++intelligent++}, and harmless, their heart size as big as a smart car, amount of tooth likes a series bunch of brush, and the size ~~about~~ {++of++} between fifteen and twenty meters long. All these exhibition had ~~a~~ {++an++} information signs {++of++} beside the showing subject. There are various ~~instreasting~~ {++interesting++} knowledges or tips on it. Therefore, I have gained a lot from the museums, thus I suggest everybody to visit the museum when they ~~travle~~ {++travel++}. Becase everybody has to worry about not to learn nothing, so nothing can be more satisfying than it.
+The museums have numerous kinds of exhibition no matter what you want to see. For example, when I have been the museum of Toronto, there is a huge, brown, and artistic building in front of me. As it attracted me instantly, I decided to visit it. There are four floors and ~~a~~ {++an++} ~~extracitve~~ {++extensional++} floor at ~~undergroud~~ {++underground++}, and several ~~area~~ {++areas++} of theme ~~in~~ {++from/of++} the same layer. The first floor, for instance, sector one is used to ~~intruduce~~ {++introduce++} the origin of the Niagara Falls. Sector two is shown that the original inhabitants how to live and develop. Sector three is ~~exhibit~~ {++exhibting++} the china, it surprised me because I prided as a Chinese when I was ~~heared~~ {++heart++} the ancient information ~~from~~ {++about/on++} foreigner. In addition, there is the whale heart show in the B1 floor. It exhibted the whale was endangered by environment ~~pullution~~ {++pollution++} or human's hunt, so show has shocked me. The whale looks like very kindness, ~~intellent~~ {++intelligent++}, and harmless, their heart size as big as a smart car, amount of {--tooth--} {++teeth++} likes a series bunch of brush, and the size ~~about~~ {++of++} between fifteen and twenty meters long. All these exhibition had ~~a~~ {++an++} information signs {++of++} beside the showing subject. There are various ~~instreasting~~ {++interesting++} knowledges or tips on it. Therefore, I have gained a lot from the museums, {++AND++} thus I suggest everybody to visit the museum when they ~~travle~~ {++travel++}. {--Because {--every--} {++NO++}body has to worry about not to learn nothing, so nothing can be more satisfying than it--}. 
+==TO SUM UP, nothing can be more satisfying than VISITING MUSEUM WHEN TRALVING to new places==
+
+!!! info ""
+    kind 形容词
+    
+    副词放句首，通常要加逗号
+    
+    THUS 不是连词，是副词，所以要加and，只是为了连接
+
 
 #### 2019-02-09
 
@@ -34,26 +43,81 @@ The museums have numerous kinds of exhibition no matter what you want to see. Fo
 
 It has numerous benefits that we prepare and eat food at home. For one thing, the materials of food are fresher and cleaner than restaurants. Since people always cautiously select it in supermarkets and clear itself muds and some ~~agricultrual~~ {++agricultural++} remains, there is enough guarantee of our food. Also, the preparing process is very interesting among the family. Everybody enjoys in it, mixing salad, roasting beef, and cooking soup. There are various alternative food for each one's taste. Finally, they are eating together with talking, joking and laughing. Nothing can be more satisfying than a big family merrily eating food at home.
 
+!!! info ""
+    这两段写的还可以
+
 ---
 
-Even though preparing and eating food at home has advantages of being happiness, harmonious and healthy, I believe that eat at food stand or restaurants is better than home. For example, there are numerous kinds of food to support you to choose ~~in~~ {++from++} the restaurants. The McDonald's provides hamburgers, chips and beverages for consumer. And as the special festival or the movie's relevant ~~activies~~ {++activities++}, they often introduce new kids set meal for children. Also, it is more convenient that we eat at stands. Because we always have fully schedule everyday, and then the lunch time is ~~shotter~~ {++shorter++} and tense very much, we have quickly to eat. Thereforce, the restaurants is the best choice.
+Even though preparing and eating food at home has advantages of being happy{--iness--}, harmonious and healthy, I believe that eat at food stand or restaurants is better than home. For example, there are numerous kinds of food to support you to choose ~~in~~ {++from++} the restaurants. The McDonald's provides hamburgers, chips and beverages for consumer. And as the special festival or the movie's relevant ~~activies~~ {++activities++}, they often introduce new kids set meal for children. Also, it is more convenient that we eat at stands. Because we always have fully schedule everyday, and then the lunch time is ~~shotter~~ {++shorter++} and tense very much, we have quickly to eat. Thereforce, the restaurants is the best choice.
 
 #### 2019-02-09
 
 **14. Some people believe that university students should be required to attend classes. Others believe that going to classes should be optional for students. Which point of view do you agree with? Use specific reasons and details to explain your answer.**
 
-I am a computer science and technology student and I supposed that the university students should must attend classes. For one thing, all students need to receive the professional theories of computer in my college. These principles are deeply explained by professors who show the slides of programming and execute some scripts to interpret in further details. These knowledges are difficult to lean by ourself. Also, there are some real computer operational classes ~~for~~ {++of++} us with theory classes. Because the ~~pinciples~~ {++principles++} are abstractive very much, the operational classes can help students precisely to understand how and why computers are designed and run in this way, not only used. So attending classes is very ~~necessery~~ {++necessary++} to us.
+I am a computer science and technology student and I suppos{--ed 过去这样认为，现在不这样认为--} that the university students {--should must 低级语法错误--} attend classes. For one thing, all students need to receive the professional theories of computer in my college. ==These principles are deeply explained by professors who show the slides of programming and execute some scripts to interpret in further details==. {--These knowledges 不可数--} {++THIS KIND OF knowledge++} {--are--} {++IS++} difficult to {--lean--} {++BE LEANT++} by ourself. Also, there are some real computer operational classes for us with theory classes. Because the ~~pinciples~~ {++principles++} are abstractive very much, the operational classes can help students {++TO++} precisely {--to--} understand how and why computers are designed and run in this way, not only used. So attending classes is very ~~necessery~~ {++necessary++} to us.
+
+!!! info ""
+    情态动词，CAN MAY MUST WILL SHALL WOULD SHOULD MIGHT
+    
+    后面跟动词原型
+    
+    并列两个 A AND B, 三个 A, B, AND C
+    
+    练习这样写可以，意思考试不能这样写，太具象，many/some classes
+    
+    逻辑：按照层次去写
+    
+    ==继续做的：有主旨句，有层次，有详细的例子==
 
 ---
 
-Even though attending classes has advantages of being academic, systematic and detailed, I believe it has its downside too. For example, there is no guarantee of communication. The numerous classes usually are a lecture which is ~~speeched~~ {++spoke++} one-to-many by professors, So the majority of students have no chance to discuss each other and feel boring very much. Also, there may be not practical courses for all major students. But it is very ~~impoartant~~ {++important++} to the university student that is real drill in which the students could learn how to cooperate with others, how to fix mistakes from advance suggestion and how to do the best themselves. Furthermore,  the real drill might be several forms, such as a sports competition, charity ~~activites~~ {++activities++}, or private tutoring. These ~~practice~~ {++practices++} are all ~~beneficail~~ {++beneficial++} to everybody. So going to courses should not be necessary for students.
+Even though attending classes has advantages of being academic, systematic and detailed, I believe it has its downside too. For example, there is no guarantee of communication. The numerous classes usually are {++one-to-many++} lecture{++S++} {--which is ~~speeched~~ {++spoke++} one-to-many by professors--}, So the majority of students have no chance to discuss {++WITH 必须with++} each other and feel {--boring--} {++BORED++} very much. Also, there may be not practical courses for all major students. But it is very ~~impoartant~~ {++important++} {--to--} {++FOR++} the university student{++S++} {--that--} {--is--} {++ARE++} {--real drill--} {++TO DO PRACTICE++} {--in--} {++FROM++} which the students could learn how to cooperate with others, how to fix mistakes from advance suggestion and how to do the best themselves. Furthermore,  the real drill might be several forms, such as a sports competition, charity ~~activites~~ {++activities++}, or private tutoring. These ~~practice~~ {++practices++} are all ~~beneficail~~ {++beneficial++} to everybody. So going to courses should not be necessary for students.
+
+!!! info ""
+    形容词的ing和ed的用法，ing表示这个东西“使人感觉如何如何……”，ed表示自己感觉如何如何
+    
+    I'm so bored 我感觉很无聊
+    
+    I'm boring 我是个让人感觉很无聊的人
+    
+    S 复数，不能掉，掉了，别人就认为一个苹果
+    
+    DRILL 演习，THIS'S NOT DRILL 这不是演习
+    
+    REAL DRILL => PRACTICE/PRACTICAL ACTIVITES/ACSET
+    
+    EXPRESS VPN
+    
+    同意不同意类：可以直接写downside，然后罗列
+    
+    二选一的，就不是很合适
 
 #### 2019-02-08
 
 **15. Neighbors are the people who live near us. In your opinion, what are the qualities of a good neighbor? Use specific details and examples in your answer.**
 
-Nowadays, numerous young people usually ~~lives~~ {++live++} in apartment, having at least one neighbor in the same floor. They maybe lovers, or more likely single to dwell. For example, my sister attending college is alone living in this ~~accomodation~~ {++accommodation++}. I admire her very much, because there are many inconvenient situations to a girl. I think that none can help you when you are in troubles, such as sadness, having a heart-to-heart talk, and some equipment damaged. But nevertheless I am wrong and find her living with pleasure. She has three ~~neighbor~~ {++neighbors++} who are all students of adjacent two universities in the same apartment. Judy always chatting, shopping and taking party with my sister is a sunshine girl. Pual who is ~~a~~ {++an++} information technology student skills to repair any mechanical things. If you need some facility to maintain, he could help you. And Pual's girl ~~friends~~ {++friend++} is usually as ~~asistant~~ {++assistant++} when Pual is busy. Since my sister is good at cooking, So they always organize small party. Finally, there are some kindness, skillful, and helpful neighbors who always be there to support you no matter what happens. Nothing can be more satisfying than the friendly living surrounding.
+Nowadays, numerous young people usually ~~lives~~ {++live++} in apartment, ==having== at least one neighbor in the same floor. They {--maybe 副词，用错了--} {++MAY BE++} lovers, or more likely single to dwell. For example, my sister ==attending college== is alone living in this ~~accomodation~~ {++accommodation++}. I admire her very much, because there are many inconvenient situations to a girl. I think that none can help {--you 写作中不要用you，指代不明确--} when you are in troubles, such as sadness, {--having a heart-to-heart talk--}, and some equipment damage{--d--}. {--But--} nevertheless {++,++} I am wrong and find her living with pleasure. She has three ~~neighbor~~ {++neighbors++} who are all students of adjacent two universities in the same apartment. Judy always chatting, shopping and taking party with my sister is a sunshine girl. Pual who is ~~a~~ {++an++} information technology student skills to repair any mechanical things. If you need some facility to maintain, he could help you. And Pual's girl ~~friends~~ {++friend++} is usually as ~~asistant~~ {++assistant++} when Pual is busy. Since my sister is good at cooking, So they always organize small party. Finally, there are some kind{--ness--}, skillful, and helpful neighbors who {++WILL++}always be there to support you no matter what happens. Nothing can be more satisfying than the friendly living surrounding{++S++}.
 
+
+!!! info ""
+
+    针对性回答问题，整片没有回答问题
+    
+    像小散文，不是议论文
+    
+    ==明确的给出主旨句，明确的回答，不能在文中体现。总分==
+    
+    例如：主旨：我喜欢吃饺子，中间：balbal别的什么的，结尾再：我喜欢吃饺子
+    
+    我这种写法没有人往下看
+    
+    ==having加分内容==
+    
+    kind，skillful，help 三个点，可以分开三个层，分开对他们进行解释。分层
+    
+    **写作中不要用you，指代不明确** 都改成my sister/her
+   
+    having a heart-to-heart talk 特别怪，基本要求：内容要符合常识
 
 ### 2019-01-10 作业总结
 

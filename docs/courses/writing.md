@@ -1,3 +1,33 @@
+## 2019-02-10
+
+主旨句，带上原因的归纳总结。
+
+为什么吃苹果，苹果可以补充有益健康。下面细节，都在阐述如何补充水分
+
+过空和过细，倾向细
+
+all the benefits of ... 后面一般就要举例子了，那么from …… to …… / SUCH AS
+benefits 就会提到改观，所以from……to……搭配合适
+
+最后一句，动词连用
+
+生词 |  句式 
+------------ | -------------
+第一段范例 |
+recreation 休闲 = entertainment 题目中会出现 | participant in = take part in 参加
+a sense of belonging 归属感 | from …… to …… 替代 such as ，举例，而不是并列的罗列
+routine 每天重复做的事情 daily/excess routine | contribute to 因果关系，非常好的词
+even more比……更重要的 | life sessions 人生的课程
+collaborate with 分工协作 | cooperiate with 合作
+set a goal 设定目标 | put ... into action 把……付诸行动
+第二段范例 |
+healthcare 医保 | sociallize 社会主义化的
+don't make sense 不合理的，否定前面说的 | rarely 几乎不，否定，副词 与litter不同，litter形容词
+approriate 合适的 | worse yet 更糟糕的是，非常好的递进词；better yet更好的是
+examine 检查，physical examine 体检 | dentist牙医
+
+
+
 ## 2019-01-10
 
 婴幼儿百科全书，有图有
