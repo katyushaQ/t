@@ -1,4 +1,22 @@
-## 2019-01-10 作业
+## 2019-02-10 Assignments
+#### 2019-02-12
+
+**16. It has recently been announced that a new restaurant may be built in your neighborhood. Do you support or oppose this plan? Why? Use specific reasons and details to support your answer.**
+
+
+**17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
+
+**18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
+
+**19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop your essay.**
+
+**20. It is better for children to grow up in the countryside than in a big city. Do you agree or disagree? Use specific reasons and examples to develop your essay.**
+
+**21. In general, people are living longer now. Discuss the causes of this phenomenon. Use specific reasons anddetails to develop your essay.**
+
+
+
+## 2019-01-10 Assignments
 #### 2019-01-11
 
 **Some people prefer to live in a small town. Others prefer to live in a big city. Which place would you prefer to live in?**
