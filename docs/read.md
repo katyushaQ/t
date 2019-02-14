@@ -103,6 +103,8 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 <span style="background: #DDDDFF">部分二</span>
 <span style="background: #FFECEC">部分三</span>
 
+<span style="background: #D3D3D3">高亮</span>
+
 !!! info ""
     段落主旨：
     
