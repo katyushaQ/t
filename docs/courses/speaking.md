@@ -6,7 +6,7 @@
 
 人名的署名：建议信
 
-句号，信号：==句号== ==WILL== ==hope/additional==
+信号：==句号== ==WILL== ==hope/additional==
 
 第三题，reading 部分，现在容易阐述很多背景，加快阅读速度，找两个点的实意动词要紧
 

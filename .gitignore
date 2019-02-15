@@ -1,4 +1,5 @@
 site/
 docs/audio/tpo/
 *.py
+docs/read/abc.md
 !docs/audio/self/

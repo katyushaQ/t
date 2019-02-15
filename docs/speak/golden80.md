@@ -1,3 +1,9 @@
+### 2019-02-12
+
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/12.m4a">
+</audio>
+
 ### 2019-02-02
 
 <audio id="audio" controls="controls" preload="none">
