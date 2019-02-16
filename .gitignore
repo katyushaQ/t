@@ -2,4 +2,5 @@ site/
 docs/audio/tpo/
 *.py
 docs/read/abc.md
+src/
 !docs/audio/self/

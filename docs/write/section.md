@@ -1,9 +1,13 @@
 ## 2019-02-10 Assignments
-#### 2019-02-12
+#### 2019-02-16
 
 **16. It has recently been announced that a new restaurant may be built in your neighborhood. Do you support or oppose this plan? Why? Use specific reasons and details to support your answer.**
 
+It ==has numerous benefits of== the new restaurant closing to my home, because it offers a convenient place to eat or relax for us. As a student, I have to quicky eat my breakfast and buy kinds of food to my boy friend who are always late for class recently. ==Specifically==, we are generally busy writing papers at the end of semester, go eating any time ==no matter when== we feel hungry. ==Moreover==, in the spare time, the new restaurant has made it possible for people to give a party. From time to gather friends ==contributes to== promote the relationship to anyone else. ==Having a birthday party, {--congraduating--} congratulating someone's graduation, and meeting old friends== are all good life {--experence--} experiences. ==Nothing can be more satisfying than it==.
 
+---
+
+The new restaurant to be constructed in our block ==don't make sence==. ==First==, the process of building an architechture is hamful to residents of the street - ==no matter what== is wonderfully decorated. For instance, in my auntie living provience, a dining hall as same as this restaurant was builting approximately for six months. ==There were== massive building materials around the restaurant, such as cements, rebars and oil paints, which alawys emit many pungent smell that makes people headache. ==More than that==, this contruction project is disturbed. ==Often==, the construction workers were still working all day. ==Worse yet==, they made loud noise at wee hours, ==contributing to== the adjacent families could not fall sleep. According to one recent case on a student who is preparing exam during that time, he slept too short to paid attetion for the test next day.
 **17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
 
 **18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
