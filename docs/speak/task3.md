@@ -24,7 +24,83 @@
     > **Listening**
     
     > IN THE LISTENING / CONVERSATION, THE BOY / GIRL / THE MAN / WOMAN AGREES / DISAGREES WITH THIS. FIRST OF ALL, {++listening reason 1++}.{++listening detail 1++}. SECOND / WHAT'S MORE, {++listening reason 2++}.{++listening detail 2++}.
+    
+---
 
+## 2019-02-17
+
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/tpo1-task3.m4a">
+</audio>
+
+The University plans to get a new sculpture on campus. But Paul opposed it. First, he said the university has no enough money to purchase an expensive sculpture, because it's no financial position. Second, the sculpture is very large. It'll take up all the green space, and it's public space should be reserved.
+
+In the listening the woman disagreeS with this. First, she said there's a donor paying the bill for most of the sculpture instead of the university. so Paul's assumption about who's paying are wrong. Second, Pual and his friends always kick around the soccer ball on the lawn where the sculpture will be, so he needS to use another part of campus. For him, it's sculpture versus convenience.
+    
+??? quote "sentence"
+
+    **Reading**
+
+    Letter in the Centerville College News {>>Centerville 学院消息的一封信<<}
+    
+    The administration has ==plans to acquire `获得，购的`== a new sculpture for campus.{>>铺垫<<} We ==should== all {++oppose this plan++}. The university’s {++poor financial condition++} ==led it to increase== the price for campus housing and tuition by 15% this past year. Surely`当然` then it is {++no financial position`财务状况`++} to ==purchase== such an expensive sculpture. ==**Moreover**==, just look at the sculpture: several 60-foot`英尺` long steel plates`金属护板`, jutting`突出` out of the earth at odd`古怪的` angles`角`! It’s {++so large++}, it’ll take up`space 占据空间` all the green space in front of the campus center! This is public space that ==should be== {++reserved`保留` for students to use++}.   
+    > 管理方计划给校园买一个新雕塑，我们都应该反对这个计划。学校的贫穷的财政条件导致去年住宿和教学费用增长了15%。当然，就没有钱买这么贵的雕塑了。此外，看看这个雕塑：60多英尺长的金属护板，从土里突出古怪的角！它太大了，它会占据校园中心前的所有绿地！这是应该为学生使用而保留下来的公共空间。
+    
+    ---
+
+    **Listening**
+    
+    Now listen to two students discussing the opinion expressed`表达` in the letter.
+    > 另两个学生讨论对这个信表达的观点。
+
+    (man) Did you see Paul's letter in the paper about the new sculpture?
+    >你看到 Paul 的关于新雕塑的信了么？
+    
+    (woman) Yeah, ==but== it was {++totally`完全地` unconvincing`不令人信服的，讲不通`++}.
+    > 看到了，但是完全讲不通。
+
+    His reasons for opposing the plan are just {++totally off`不正确的，不对的`++}.
+    > 他反对这个计划的原因完全不对。
+
+    I am ==glad== that we'll finally {++have some nice art on campus++}.
+    > 我很高兴，我们最终会有一些很好的艺术品在校园里。
+
+    I'd like to shake`握手` the donor's`捐赠者` hand and say “thank you”.
+    > 我想和捐赠者握手，并且对他说”谢谢“。
+
+    (man) ==What== do you mean {++the donor++}?
+    > 捐赠者是什么意思？
+    
+    (woman) You ==didn't know==? {++An anonymous`匿名的` donor is paying the bill for most of the sculpture++}.
+    > 你不知道？一个匿名捐赠者正在为大多数雕塑买单。
+
+    (man) ==Not== {++the university++}?
+    > 不是学校？
+    
+    (woman) ==No!== {++His assumptions about who's paying are all wrong++}!
+    > 不是！他的关于谁付钱的假设都是错误的！
+    
+    (man) ==Still`虽然如此，尽管那样，然而`==, ==I wonder if`我不知道是否`== {++he has a point about the space it'll take up++}?
+    > 尽管那样，我不知道他是否有关于它会占用的空间的观点。
+    
+    (woman) Well, you know ==why== {++Paul is upset++}.
+    > 很好，你知道 Paul 为什么烦恼。
+
+    {++He and his friends are always out there on the lawn right where the sculpture will be, kicking around the soccer ball++}.
+    > 他和他的朋友经常在外面的草坪上，就雕像要放的地方，踢足球。
+
+    {++Now they'll just have to use another part of the campus to play++}.
+    > 现在，他们必须使用校园其他的地方玩。
+
+    (man) Oh! So he just doesn't want to have to move.
+    > 哦！使用他不想换地方。
+
+    (woman) Yeah! For him, it's sculpture versus convenience.
+    > 是的。对他来说，这是雕像与方便的比较。
+
+
+    
+---
 
 ### 2018-06-04
 
@@ -116,7 +192,7 @@
     
      `Well, the woman disagrees with the announcement for two main reasons. For one thing she believes that students will need hot food from time to time. For example on cold mornings students will need hot food like hot cereal more than cold food like yogurt. Secondly she argues that the students will go off-campus to pay more prices to get what they want due to the cutting back of meals. As a result the cost will actually add up and is therefore a worse situation for the students. All in all, the woman disagrees with the announcement for the reasons stated above.`
     
-    !!! note
+    ??? note
         add up 增加，累积
     
         Even if it's only two or three mornings a week, it can add up.（即使每周只两或三天，也增加了（开销）。）
@@ -193,7 +269,7 @@
     
 ### 2018-06-08
 
-!!! info "**TPO 5 Campus Dining Club Announced（校园餐厅俱乐部宣布）**"
+??? info "**TPO 5 Campus Dining Club Announced（校园餐厅俱乐部宣布）**"
 
     ==**Reading**==
     
@@ -253,7 +329,7 @@
     
         ![3](../images/IMG_0517.JPG)
             
-    !!! note "老师反馈"
+    ??? note "老师反馈"
         Reading：BECAUSE...AND...有问题，这里不是2个reason，应该是2个point
         
         > 不如改成：Moreover, the school claims to charge some extra fee for the ingredients.
@@ -325,7 +401,7 @@
     
     ![3](../images/IMG_3974.JPG)    
     
-    !!! note "老师反馈"   
+    ??? note "老师反馈"   
     
 ### 2018-06-11
 
@@ -389,7 +465,7 @@
     
     ![3](../images/IMG_3424.JPG)    
     
-    !!! note "老师反馈"    
+    ??? note "老师反馈"    
     
         because 第一句删掉，只表达后面的很少学生上课即可
         
@@ -455,7 +531,7 @@
     
     ![3](../images/IMG_2575.JPG)    
     
-    !!! note "老师反馈"    
+    ??? note "老师反馈"    
     
         for 后跟动名词 => for promoting
         
@@ -521,7 +597,7 @@
     
     ![3](../images/IMG_3264.JPG)    
     
-    !!! note "老师反馈"        
+    ??? note "老师反馈"        
     
         permanent 和 typically 读音有误
     
@@ -593,7 +669,7 @@
     
     ![3](../images/IMG_9159.JPG)    
     
-    !!! note "老师反馈"   
+    ??? note "老师反馈"   
         
         听力中的you，需要转化为第三人称
     
@@ -662,7 +738,7 @@
     
     ![3](../images/IMG_9359.JPG)    
     
-    !!! note "老师反馈"    
+    ??? note "老师反馈"    
 
         the dorm aren't good shape 改为 the dorm aren't ==in== good shape
         
@@ -725,7 +801,7 @@
     
     ![3](../images/IMG_0475.JPG)    
     
-    !!! note "老师反馈"
+    ??? note "老师反馈"
     
 ### 2018-06-20
 
@@ -779,7 +855,7 @@
     
     ![3](../images/IMG_2435.JPG)    
     
-    !!! note "老师反馈"
+    ??? note "老师反馈"
     
 ### 2018-06-21
 
@@ -853,7 +929,7 @@
     
     ![3](../images/IMG_4161.JPG)    
     
-    !!! note "老师反馈"
+    ??? note "老师反馈"
     
 ### 2018-06-22
 
@@ -935,4 +1011,4 @@
         
     ![3](../images/IMG_6470.JPG)    
     
-    !!! note "老师反馈"
+    ??? note "老师反馈"
