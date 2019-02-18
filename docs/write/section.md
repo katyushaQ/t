@@ -8,7 +8,15 @@ It ==has numerous benefits of== the new restaurant closing to my home, because i
 ---
 
 The new restaurant to be constructed in our block ==don't make sence==. ==First==, the process of building an architechture is hamful to residents of the street - ==no matter what== is wonderfully decorated. For instance, in my auntie living provience, a dining hall as same as this restaurant was builting approximately for six months. ==There were== massive building materials around the restaurant, such as cements, rebars and oil paints, which alawys emit many pungent smell that makes people headache. ==More than that==, this contruction project is disturbed. ==Often==, the construction workers were still working all day. ==Worse yet==, they made loud noise at wee hours, ==contributing to== the adjacent families could not fall sleep. According to one recent case on a student who is preparing exam during that time, he slept too short to paid attetion for the test next day.
+
+#### 2019-02-16
 **17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
+
+I prefer to learn better by myself than with a teacher. ==First one thing==, the tutoring is ==extremely expensive== - ==no matter which== {--lession--} lessions I want to study. ==For example==, the {--cost--} costs have occupied approximately 50 percent of budget of my hobby. ==Specifically==, in my photograph and swimming courses, I will spend six hundreds RMB on one course which is two hours. ==Morever==, nowadays I will use the highly advanced internet to access various websites for learning everything. I can get lots of information {--from--} on professional websites, and can participate in many discussing team. As a participant, I can join kinds of community and enjoy all the benefits of membership, ==from== {--comunicated--} communicated technology, exchanged opinions, and shared experiences ==to== a sense of {--archivment--} achievement. ==Better yet==, during the period, I can learn numerous practical knowledges which the teach will not convey.
+
+---
+
+
 
 **18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
 

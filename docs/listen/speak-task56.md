@@ -36,10 +36,6 @@ Listen to a conversation between a student and her geology`地质学` professor.
 
 ### Task 6
 
-<audio id="audio" controls="controls" preload="none" loop="loop">
-    <source id="mp3" src="../../audio/tpo/tpo2-speak6.mp3">
-</audio>
-
 Now listen to a part of a talk in an economics class.
 
 Professor:
@@ -123,10 +119,6 @@ So a narrower definition of money might be whatever is legal tender in a society
 
 ### Task 5
 
-<audio id="audio" controls="controls" preload="none" loop="loop">
-    <source id="mp3" src="../../audio/tpo/tpo1-speak5.mp3">
-</audio>
-
 Now listen to a conversation between two students.
 
 (man) Hey, Mary, how's your volunteer work going? You're still involved in`参与` that after-school program with the elementary kids?
@@ -172,10 +164,6 @@ Now listen to a conversation between two students.
 > 有时当他们兴奋的时候很难管。不过，这是一种选择。
 
 ### Task 6
-
-<audio id="audio" controls="controls" preload="none" loop="loop">
-    <source id="mp3" src="../../audio/tpo/tpo1-speak6.mp3">
-</audio>
 
 Now listen to part of a lecture in a psychology class. The professor is discussing the mathematical capabilities of babies.
 
