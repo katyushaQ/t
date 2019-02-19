@@ -332,13 +332,13 @@
     
         
     <url>
-     <loc>/write/section/</loc>
+     <loc>/write/policy/</loc>
      <lastmod>2019-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/write/policy/</loc>
+     <loc>/write/section/</loc>
      <lastmod>2019-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -390,7 +390,7 @@
     
         
     <url>
-     <loc>/speak/golden80/</loc>
+     <loc>/read/policy/</loc>
      <lastmod>2019-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -409,6 +409,12 @@
         
     <url>
      <loc>/speak/task5/</loc>
+     <lastmod>2019-02-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/speak/golden80/</loc>
      <lastmod>2019-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -505,6 +511,12 @@
         
     <url>
      <loc>/courses/writing/</loc>
+     <lastmod>2019-02-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/courses/tutoring/</loc>
      <lastmod>2019-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
