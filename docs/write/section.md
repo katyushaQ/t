@@ -3,11 +3,29 @@
 #### 2019-02-18
 **17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
 
-I prefer to learn better by myself than with a teacher. ==First one thing==, the tutoring is ==extremely expensive== - ==no matter which== ~~lession~~ lessions I want to study. ==For example==, the ~~cost~~ costs have occupied approximately 50 percent of {++the++} budget of my hobby. ==Specifically==, in my photograph and swimming courses, I will spend six hundreds RMB on one course which is two hours. ==Morever==, nowadays I will use the highly advanced internet to access various websites for learning everything. I can get lots of information ~~from~~ on professional websites, and can participate in many discussing team. As a participant, I can join kinds of community and enjoy all the benefits of membership, ==from== ~~comunicated~~ communicated technology, exchanged opinions, and shared experiences ==to== a sense of ~~archivment~~ achievement. ==Better yet==, during the period, I can learn numerous practical knowledge~~s~~ which the teach{++er++} will not convey.
+I prefer to learn better by myself than with a teacher. ==~~First~~ For one thing==, the tutoring is ==extremely expensive== - ==no matter which== lession I want to study. ==For example==, the ~~cost~~ costs have occupied approximately 50 percent of {++the++} budget of my hobby. ==Specifically==, in my photograph and swimming courses, I will spend six hundreds RMB on one course which is two hours. ==Morever==, nowadays I will use the highly advanced internet to access various websites for learning everything. I can get lots of information ~~from~~ on professional websites, and can participate in many discussing team. As a participant, I can join kinds of community and enjoy all the benefits of membership, ==from== ~~comunicated~~ communicated technology, exchanged opinions, and shared experiences ==to== a sense of ~~archivment~~ achievement. ==Better yet==, during the period, I can learn numerous practical knowledge~~s~~ which the teach{++er++} will not convey.
+
+尽量不要反着说，正向表达
+
+ALL KINDS OF
+
+FROM DOING STH
+
+CONMUNICATED形容词了，那么在这里有不对，因为这个词，所以都应该改成ING
 
 ---
 
-Learning with a teacher ==has numerous benefits==. ==First==, ~~the~~ students will gain more detail information from teacher than ~~themeselves~~ themsevles learning. ==For example==, we generally only get kinds of theoretical knowledge from books and need to look up additional datas from libraries if we want to understand the ~~obstract~~ abstract concept. But we can consult teachers who will use the illustration with oral ~~percise~~ precise ~~decription~~ description to explain it when we in doubt. ==More than that==, ~~the~~ teachers usually arrange some assignments after class to students, ==contributing to== check and enhance student's ability of mastering with regard to knowledge. ==Also==, students will pay attention more easily to study by the face-to-face teaching. ==Since== the teachers often instruct numerous knowledge points in the class that usually ~~fourty~~ forty five minutes, they may speak speedly very much. In this case, students have to highly concentrate to follow speech. Otherwise, they will lose some ~~impoartant~~ important ~~informations~~ information.
+Learning with a teacher ==has numerous benefits==. ==First==, ~~the~~ students will gain more detailED information from teacher than ~~themeselves~~ themsevles learning. ==For example==, we generally only get kinds of theoretical knowledge from books and need to look up additional datas from libraries if we want to understand the ~~obstract~~ abstract concept. But we can consult teachers who will use the illustration with oral ~~percise~~ precise ~~decription~~ description to explain it when we in doubt. ==More than that==, ~~the~~ teachers usually arrange some assignments after class to students, {--contributing to--} checkING and enhanceING student's ability of mastering with regard to knowledge. ==Also==, students will pay attention more easily to study by the face-to-face teaching. ==Since== the teachers often instruct numerous knowledge points in the class that usually ~~fourty~~ forty five minutes, they may speak speedly very much. In this case, students have to highly concentrate to follow speech. Otherwise, they will lose some ~~impoartant~~ important ~~informations~~ information.
+
+反的内容正向转义
+
+CONTRIBUTING TO删掉，
+
+IN A FORTY-FIVE-MINUTE CLASS
+
+CONCENTRATE ON STH
+
+FOLLOWING
 
 #### 2019-02-16
 
@@ -17,8 +35,17 @@ It ==has numerous benefits of== the new restaurant closing to my home, because i
 
 ---
 
-The new restaurant to be constructed in our block ==~~don't~~ dosen't make sence==. ==First==, the process of building an ~~architechture~~ architecture is ~~hamful~~ harmful to residents of the street - ==no matter what== is wonderfully decorated. For instance, in my auntie living provience, a dining hall as same as this restaurant was ~~builting~~ building approximately for six months. ==There were== massive building materials around the restaurant, such as ~~cements~~ cement, rebars and oil paints, which ~~alawys~~ always emit many pungent smell that makes people headache. ==More than that==, this ~~contruction~~ construction project is disturbed. ==Often==, the construction workers were still working all day. ==Worse yet==, they made loud noise at wee hours, ==contributing to== the adjacent families could not fall sleep. According to one recent case on a student who is preparing exam during that time, he slept too short to ~~paid~~ pay attetion for the test {++the++} next day.
+The new restaurant to be constructed in our block ==~~don't~~ dose not make ~~sence~~ SENSE==. ==First==, the process of building an ~~architechture~~ architecture is ~~hamful~~ harmful to residents of the street - ==no matter what== is wonderfully decorated. For instance, in my auntie‘S {--living差劲,废话--} provience, a dining hall ~~as~~ THE same as this restaurant was ~~builting~~ ~~building~~ HAD BEEN BUILT approximately for six months. ==There were== massive building materials around the restaurant, such as ~~cements~~ cement, rebars and oil paints, which ~~alawys~~ always emitTED many pungent smell that ~~~makes~~ MADE people headache. ==More than that==, this ~~contruction~~ construction project is disturbedING. ==Often==, the construction workers were still working all day. ==Worse yet==, they made loud noise at wee hours, ==contributing to== the adjacent families could not fall sleep. According to one recent case ~~on~~ OF a student who is preparing exam during that time, he slept too short to ~~paid~~ pay attetion ~~for~~ TO the test {++the++} next day.
 
+后面过去式自己改过来
+
+IN THE MIDNIGHT 午夜
+
+adjacent to
+
+contribute to 后面大多是好事，改成RESULT IN/CAUSING
+
+TOO SHORT不如精确时间，如3 hours
 **18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
 
 **19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop your essay.**

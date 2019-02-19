@@ -1,31 +1,82 @@
-### Policy
+## 2019-02-19
 
-**45s Reading 100 words {++take notes++}**
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/tpo2-task3.m4a">
+</audio>
 
-- Reading ( 1 + 2 ) 抓标题，抓观点，抓理由/优点
-    - uni: 1 policy / announcement ==**+**== 2 reasons / 1 reason + 1 point
-    - proposal : 2 points
+The university plans to eliminate free bus service for students. First of all, they find few students ride the buses. Second, Operating the buses are expensive, they will use the saved money to expand the overcrowded students parking.
 
-**2 students conversation 60s {++take notes++}  ==+==  30s {++prepare++}**
+The student disagreeS with this. He believeS the problem is the route's out-of-date. If the university change the route goes where most students live in, they will get plenty of students riding the buses. Second, cutting back bus service will encourage students to drive on campus. It will increase the noise, create more traffic, and need more parking spaces.
 
-- Listening ( M[he] / W[she] --> 主角 / 配角 )
-    - 意见: agree / disagree
-        - reason 1: detail
-        - reason 2: detail
+??? quote "sentence"
+
+    **Reading**
     
-**60s Answer ( 20s R + 40s L )**
-
-- Speaking 转述 Template
-
-    > **Reading**
+    Bus Service Elimination`消除` Planned {>>公交服务消除计划<<}
     
-    > THE UNIVERSITY ANNOUNCES / A STUDENT PROPOSES THAT {++reading policy / annoucement++}. BECAUSE {++reading reason 1++} AND  {++reading reason 2++} / MOREOVER {++reading point 1++}. 
+    The university has ==decided to== {++discontinue`中断，终止` its free bus service++} for students. The ==reason== given for this decision is that {++few students ride the buses++} **and** {++the buses are expensive to operate++}. Currently`现在`, the buses run from the center of campus past university buildings and through some of the neighborhoods surrounding the campus. {++The money saved++} by eliminating the bus service ==will== {++be used to expand the overcrowded student parking lots++}.
+    > 学校已经决定中断学生的免费公交服务。就这个决定给出的原因是几乎没有学生坐公交，并且公交的运作很昂贵。现在，公交从学习中心路过学校大楼，然后穿过校园周围的一些街区。通过消除公交服务省下来的钱，会用于扩展大量过度拥挤的学生公园。
 
-    > **Listening**
+    ---
     
-    > IN THE LISTENING / CONVERSATION, THE BOY / GIRL / THE MAN / WOMAN AGREES / DISAGREES WITH THIS. FIRST OF ALL, {++listening reason 1++}.{++listening detail 1++}. SECOND / WHAT'S MORE, {++listening reason 2++}.{++listening detail 2++}.
+    **Listening**
     
----
+    Now listen to two students discussing the article.
+    > 听两个学生讨论这个文章。
+
+    Man:I ==don't== like the university's plan.
+    > 我不喜欢学校的计划。
+
+    Woman:==Really?== I've ridden those buses, and sometimes there were <font color='hotpink'>**only 极端词**</font> {++a few people on the bus++}.
+    > 真的？我坐过那些公交，有时只有很少的人在车上。
+
+    It ==did seem== {++like kind of a waste`浪费`++}.
+    > 它看起来是一种浪费。
+
+    Man:I see your point.
+    > 我知道你的意思。
+
+    <font color='Blue'>But 句间转折</font> I think the ==problem== {++is the route's out-of-date`过时的，不正确的`++}.
+    > 但是，我认为问题在于路线不正确。
+
+    {++It <font color='hotpink'>**only 极端词**</font> goes through the neighborhoods that've gotten too expensive for students to live in.++}
+    > 它只通过太贵而学生无法居住的街区。
+
+    It's ridiculous that they ==haven't== already {++changed the route++} - you know, so {++it goes where most of campus students live now++}.
+    > 他们还没有改变路线，你知道 —— 真是荒谬，所以现在它应该走大多数校园学生居住的地方。
+
+    I ==bet== {++if they did that, they'd get plenty of students riding those buses++}.
+    > 我打赌如果他们这样做的话，他们会有大量的学生乘坐那些公交。
+
+    Woman:==Well==, {++at least they are adding <font color='hotpink'>**more 比较词**</font> parking++}.
+    > 哦，至少他们正在增加更多的停车场。
+
+    It's gotten really {++tough to find a space++}.
+    > 找一个空间真的很艰难。
+
+    Man:That's ==the other part I don't like==, actually.
+    > 实际上，我不喜欢另一个块。
+
+    {++Cutting back`消减` the bus service and adding parking's just gonna encourage <font color='hotpink'>**more 比较词**</font> students to drive on campus.++}
+    > 消减公交服务和增加停车场只会鼓励更多的学生在校园里开车。
+
+    **And** {++that'll just add to the noise around campus and create <font color='hotpink'>**more 比较词**</font> traffic`交通量`.++}
+    > 并且，那样只会在校园周围增加噪音，并制造更多的交通量。
+
+    **and** {++that'll increase the need for <font color='hotpink'>**more 比较词**</font> parking spaces++}.
+    > 还会增加对更多停车场空间的需要。
+
+    Woman:Yeah, I guess I can see your point.
+    > 是的，我想我明白你的意思。
+
+    Maybe it ==would== {++be better if <font color='hotpink'>**more 比较词**</font> students used the buses instead of driving++}.
+    > 也许如果学生使用公交而不是开车会更好。
+
+    Man:Right.
+    > 是的。
+
+    **And** {++the university should make it easier to do that, not harder++}.
+    > 并且学校应该做这件事很容易，并不难。
 
 ## 2019-02-17
 

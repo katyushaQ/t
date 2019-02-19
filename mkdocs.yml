@@ -61,8 +61,8 @@ pages:
     - Article: read/article.md
     
 - Writing: 
-    - Section: write/section.md
     - Policy: write/policy.md
+    - Section: write/section.md
     - Sentence: write/sentence.md
     - Education: write/education.md
     - Technology: write/technology.md
@@ -72,10 +72,11 @@ pages:
     - 32-Integrated: write/32-Integrated.md
     
 - Speaking:
-    - Golden80: speak/golden80.md
+    - Policy: read/policy.md
     - Task 3: speak/task3.md
     - Task 4: speak/task4.md
     - Task 5: speak/task5.md        
+    - Golden80: speak/golden80.md
     
 - Listening:
     - Speak Task 56: listen/speak-task56.md
@@ -98,6 +99,7 @@ pages:
     - Speaking: courses/speaking.md
     - Speak & Listen: courses/speaking-listen.md
     - Writing: courses/writing.md
+    - Tutoring: courses/tutoring.md
     
 - Vocabulary: vocabulary.md
 
