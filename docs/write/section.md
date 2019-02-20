@@ -1,5 +1,13 @@
 ## 2019-02-10 Assignments
 
+#### 2019-02-20
+
+**18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
+
+
+---
+
+
 #### 2019-02-18
 **17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
 
@@ -46,7 +54,7 @@ adjacent to
 contribute to 后面大多是好事，改成RESULT IN/CAUSING
 
 TOO SHORT不如精确时间，如3 hours
-**18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
+
 
 **19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop your essay.**
 

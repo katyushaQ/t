@@ -17,7 +17,7 @@ couches 沙发，有扶手的长沙发 | residents 居民，city residents 城�
 bulletin 公告（栏） bulletin board 公告栏 | take …… break 休……息
 share car rides 拼车 | cuz => because
 
-==**做一遍，敲下来答案，然后录音，再做一遍**==
+==**做一遍，敲下来答案，然后录音，再做一遍，读后，对着笔记答，然后录音**==
 
 ### task5
 
