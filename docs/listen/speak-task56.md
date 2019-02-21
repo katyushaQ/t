@@ -1,6 +1,81 @@
 ==信号词==  {++重要细节++}  ^^弱读连读^^
 
 ## TPO 2 
+### Task 6 2019-02-21
+
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/tpo2-task6-following.m4a">
+</audio>
+
+Now listen to a part of a talk in an economics class.
+
+Professor:
+
+So, let’s talk about money. What is money? ==Well==, {++typically people think of coins and paper “bills” as money...++} ==but== {++that’s using a somewhat narrow definition of the term++}. ==A broad definition is this==: [slowly] {++money is anything that people can use to make purchases with++}. ==Since== {++many things can be used to make purchases, money can have many different forms++}. ==Certainly==, {++coins and bills are one form of money++}. People exchange goods and services for coins or paper bills, and they use this money... these bills...to obtain other goods and services. For example, you might give a taxi driver five dollars to purchase a ride in his taxi. **And** he in turn gives the five dollars to a farmer to buy some vegetables. ==But==, as I said, {++coins and bills aren’t the only form of money under this broad definition++}. Some societies make use of a barter system. ==Basically==, {++in a barter system people exchange goods and services directly for other goods and services++}. The taxi driver, for example, might give a ride to a farmer in exchange for some vegetables. ==Since== {++the vegetables are used to pay for a service, by our broad definition the vegetables are used in barter as a form of money++}. Now, as I mentioned, ==there’s also a second==... {++a narrower definition of money++}. In the United States only coins and bills are legal tender - meaning that by law, a seller ==must== {++accept them as payment++}. The taxi driver must accept coins or bills as payment for a taxi ride. OK? ==But== {++in the U.S., the taxi driver is not required to accept vegetables in exchange for a ride++}. ==So== {++a narrower definition of money might be whatever is legal tender in a society, whatever has to be accepted as payment++}.
+
+??? quote "sentence"
+    Now listen to a part of a talk in an economics class.
+    > 现在听一段经济课。
+    
+    So, let’s talk about money.
+    > 那么，我们讨论下钱。
+    
+    What is money? ==Well==, {++typically people think of coins and paper “bills” as money++}.
+    > 什么是钱？好，通常人们认为硬币和纸质的“钱”，就是钱。
+    
+    ==but== that’s using a somewhat narrow definition of the term.
+    > 但是，这么说有点是术语的狭义定义。
+    
+    ==A broad`广泛的` definition is this==: [slowly] {++money is anything that people can use to make purchases with++}.
+    > 广义定义是这样：钱是人们可以用来买任何东西的东西。
+    
+    ==Since== {++many things can be used to make purchases, money can have many different forms++}.
+    > 因为许多东西能被用来购买，那么钱可以有很多种不同的形式。
+    
+    ==Certainly==, {++coins and bills are one form of money++}.
+    > 当然，硬币和钞票是钱的一种形式。
+    
+    People exchange goods and services for coins or paper bills, and they use this money... these bills...to obtain other goods and services.
+    > 人们交换物品和服务为了硬币或钞票，并且他们使用这些钱，这些钞票去获得其他物品和服务。
+    
+    ==For example==, you might give a taxi driver five dollars to purchase a ride in his taxi.
+    > 例如：有可以给出租车司机5块钱购买乘坐，在他的出租车里。
+    
+    **And** he in turn gives the five dollars to a farmer to buy some vegetables.
+    > 他同样可以反过来给农民5块钱去买一些蔬菜。
+    
+    <font color='Blue'>But 句间转折</font>, as I said, coins and bills aren’t the <font color='hotpink'>**only 极端词**</font> form of money under this broad definition.
+    > 但是，就想问说的，硬币和钞票在广义定义下，不只是钱的形式。
+    
+    Some societies make use of a barter`物物交换` system.
+    > 一些社会使用物物交换系统。
+    
+    ==Basically==, {++in a barter system people exchange goods and services directly for other goods and services++}.
+    > 基本上，物物交换中的人们直接和其他人交换物品和服务。
+    
+    The taxi driver, for example, might give a ride to a farmer in exchange for some vegetables.
+    > 例如，出租车司机可能给一个农民一段乘坐来换取一些蔬菜。
+    
+    ==Since== {++the vegetables are used to pay for a service, by our broad definition the vegetables are used in barter as a form of money++}.
+    > 因为蔬菜用来支付服务，通过我们的广义定义，蔬菜用来物物交换，作为钱的一种形式。
+    
+    Now, as I mentioned, there’s ==also a second==.
+    > 现在，就想我提及的，这是第二点。
+    
+    {++a narrower definition of money.++}
+    > 钱的狭义的定义。
+    
+    In the United States {++<font color='hotpink'>**only 极端词**</font> coins and bills are legal tender`法定货币`++} - ==meaning== {++that by law, a seller must accept them as payment++}.
+    > 在美国，只有硬币和钞票是法定货币 —— 由法律定义，一个销售必须接受他们，作为支付。
+    
+    The taxi driver ==must== {++accept coins or bills as payment for a taxi ride++}.
+    > 出租车比较接受硬币或钞票，作为对乘坐的支付。
+    
+    OK? <font color='Blue'>But 句间转折</font> in the U.S., the taxi driver is not required to accept vegetables in exchange for a ride.
+    > 明白了？但是在美国，出租车司机不需要接受蔬菜作为乘坐交换。
+    
+    ==So== {++a narrower definition of money might be whatever is legal tender in a society, whatever has to be accepted as payment++}.
+    > 因此钱的狭义定义是，什么是社会的法定货币，什么就必须被接受，作为支付的钱。
 
 ### Task 5 2019-02-15
 
@@ -34,89 +109,7 @@ Listen to a conversation between a student and her geology`地质学` professor.
 (Woman)Oh ==yeah==... {++not until Wednesday++}... so then ==yeah==... ==maybe== {++that’s possible too.++}
 > 哦是的，直到周三，那么是的，也许那样也是可能的。
 
-### Task 6
-
-Now listen to a part of a talk in an economics class.
-
-Professor:
-
-So, let’s talk about money. What is money? Well, typically people think of coins and paper “bills” as money... but that’s using a somewhat narrow definition of the term.A broad definition is this: [slowly] money is anything that people can use to make purchases with. Since many things can be used to make purchases, money can have many different forms. Certainly, coins and bills are one form of money. People exchange goods and services for coins or paper bills, and they use this money... these bills...to obtain other goods and services. For example, you might give a taxi driver five dollars to purchase a ride in his taxi. And he in turn gives the five dollars to a farmer to buy some vegetables.But, as I said, coins and bills aren’t the only form of money under this broad definition. Some societies make use of a barter system. Basically, in a barter system people exchange goods and services directly for other goods and services. The taxi driver, for example, might give a ride to a farmer in exchange for some vegetables. Since the vegetables are used to pay for a service, by our broad definition the vegetables are used in barter as a form of money.Now, as I mentioned, there’s also a second... a narrower definition of money. In the United States only coins and bills are legal tender - meaning that by law, a seller must accept them as payment. The taxi driver must accept coins or bills as payment for a taxi ride. OK? But in the U.S., the taxi driver is not required to accept vegetables in exchange for a ride. So a narrower definition of money might be whatever is legal tender in a society, whatever has to be accepted as payment.
-
-So, let’s talk about money.
-> 
-
-What is money? Well, typically people think of coins and paper “bills” as money.
-> 
-
-but that’s using a somewhat narrow definition of the term.
-> 
-
-A broad definition is this: [<font color='hotpink'>**slowly 比较词**</font>] money is anything that people can use to make purchases with.
-> 
-
-Since many things can be used to make purchases, money can have many different forms.
-> 
-
-Certainly, coins and bills are one form of money.
-> 
-
-People exchange goods and services for coins or paper bills, and they use this money.
-> 
-
-these bills.
-> 
-
-to obtain other goods and services.
-> 
-
-For example, you might give a taxi driver five dollars to purchase a ride in his taxi.
-> 
-
-And he in turn gives the five dollars to a farmer to buy some vegetables.
-> 
-
-<font color='Blue'>But 句间转折</font>, as I said, coins and bills aren’t the <font color='hotpink'>**only 极端词**</font> form of money under this broad definition.
-> 
-
-Some societies make use of a barter system.
-> 
-
-Basically, in a barter system people exchange goods and services directly for other goods and services.
-> 
-
-The taxi driver, for example, might give a ride to a farmer in exchange for some vegetables.
-> 
-
-Since the vegetables are used to pay for a service, by our broad definition the vegetables are used in barter as a form of money.
-> 
-
-Now, as I mentioned, there’s also a second.
-> 
-
-a narrower definition of money.
-> 
-
-In the United States <font color='hotpink'>**only 极端词**</font> coins and bills are legal tender - meaning that by law, a seller must accept them as payment.
-> 
-
-The taxi driver must accept coins or bills as payment for a taxi ride.
-> 
-
-OK? <font color='Blue'>But 句间转折</font> in the U.
-> 
-
-S.
-> 
-
-, the taxi driver is not required to accept vegetables in exchange for a ride.
-> 
-
-So a narrower definition of money might be whatever is legal tender in a society, whatever has to be accepted as payment.
-> 
-
-
 ## TPO 1
-
 ### Task 5
 
 Now listen to a conversation between two students.
