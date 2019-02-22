@@ -1,17 +1,23 @@
 ## 2019-02-10 Assignments
 
-#### 2019-02-20
+#### 2019-02-22
 
-**18. What are some important qualities of a good supervisor (boss)? Use specific details and examples to explain why these qualities are important.**
+**19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop`形成[观点]` your essay.**
 
+In my opinion, governments should spend more money on ~~impoving~~ improving roads and highways because they offer an opportunity to ==pass more cars, bicycles and people==. Nowaday, the roads and highways become highly tense with the urban population gradually increasing. ==More than that==, every adult having a personal car results in those cars ==parking beside roads, occupying way of bicycles, and crowding highways==. ==Worse yet==, people ~~has~~ have to get up earlier for avoiding rush hours, otherwise they will be late and even miss important contents of ~~courese~~ courses. ==Furthermore==, as more people choosing driving manner for vacation, governments should develop majority highways through every city and surrounding suburb and construct various roads in ~~villeges~~ villages.
 
 ---
 
+Public transportation has ==numerous== ==benefits of being convenient, economical and punctual==. ==First==, the convenience is very important for a cosmopolis. As a big city, ==there are== numerous people attending school, going to {++a++} tourist resort and visiting customers, generating ~~substainal~~ substantial ~~transportaion~~ transportation capacity. Building more buses or subways can reduce {++the++} interval time and can carry more people -  ==no matter where== they want to go. ==Also==, there is more economical than private car. ==Since== we just pay five dollars for trains from south to east of {++the++} city, but we will spend about twenty dollars by car and additional ten dollars for parking. Therefore, the trains are more appropriate than cars. ==More than that==, the subways {++is++} are very punctual. Since time is vitally important for {++the++} businessman, subways contribute to save their time. 
+
+**18. What are some important qualities of a good supervisor`主管` (boss)? Use specific details and examples to explain why these qualities are important.**
+
+A good supervisor should have ==numerous== necessary qualities. ==For one thing==, ~~A~~ a good supervisor should own the ability of negotiation and people skills. In the team, ==for example==, the supervisor generally has lots of jobs that must be allocated to different professional clerks and be merged everyone's results at the end of project. In such case, the supervisor ~~usurally~~ usually takes approximatelly seventy percent ~~times~~ time to assign tasks and harmonize some problems for the coordination, ==in order to== make people collaborate with others. ==In addition==, a good supervisor should master impressive professional knowledge and skills. These characters will ==contribute== supervisor ==to== decide the direction of team development and help the subordinates to solve practical problems. ==More than that==, a good supervisor should be willing to work with other team members. That can help individual to perform their very best and put work into action.
 
 #### 2019-02-18
 **17. Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Which do you prefer? Use specific reasons to develop your essay.**
 
-I prefer to learn better by myself than with a teacher. ==~~First~~ For one thing==, the tutoring is ==extremely expensive== - ==no matter which== lession I want to study. ==For example==, the ~~cost~~ costs have occupied approximately 50 percent of {++the++} budget of my hobby. ==Specifically==, in my photograph and swimming courses, I will spend six hundreds RMB on one course which is two hours. ==Morever==, nowadays I will use the highly advanced internet to access various websites for learning everything. I can get lots of information ~~from~~ on professional websites, and can participate in many discussing team. As a participant, I can join kinds of community and enjoy all the benefits of membership, ==from== ~~comunicated~~ communicated technology, exchanged opinions, and shared experiences ==to== a sense of ~~archivment~~ achievement. ==Better yet==, during the period, I can learn numerous practical knowledge~~s~~ which the teach{++er++} will not convey.
+I prefer to learn better by myself than with a teacher. ==~~First of all~~ For one thing==, the tutoring is ==extremely expensive== - ==no matter which== lession I want to study. ==For example==, the ~~cost~~ costs have occupied approximately 50 percent of {++the++} budget of my hobby. ==Specifically==, in my photograph and swimming courses, I will spend six hundreds RMB on one course which is two hours. ==Morever==, nowadays I will use the highly advanced internet to access various websites for learning everything. I can get lots of information ~~from~~ on professional websites, and can participate in many discussing team. As a participant, I can join kinds of community and enjoy all the benefits of membership, ==from== ~~comunicated~~ communicated technology, exchanged opinions, and shared experiences ==to== a sense of ~~archivment~~ achievement. ==Better yet==, during the period, I can learn numerous practical knowledge~~s~~ which the teach{++er++} will not convey.
 
 尽量不要反着说，正向表达
 
@@ -60,7 +66,7 @@ TOO SHORT不如精确时间，如3 hours
 
 **20. It is better for children to grow up in the countryside than in a big city. Do you agree or disagree? Use specific reasons and examples to develop your essay.**
 
-**21. In general, people are living longer now. Discuss the causes of this phenomenon. Use specific reasons anddetails to develop your essay.**
+**21. In general, people are living longer now. Discuss the causes of this phenomenon. Use specific reasons and details to develop your essay.**
 
 
 
