@@ -13,7 +13,12 @@
     
     there is proportionately成比例的，相称的 less surface through which heat can escape. 
     
-    不懂，介词+surface 一起理解，也无法和答案的翻译对应上   
+    不懂，介词+surface 一起理解，也无法和答案的翻译对应上
+    
+    ---
+    
+    heat can escape through surface.
+    
 
 **The problem** ==is== {--^^that as blood flows through the turtle’s flippers`鳍状肢`^^--}, {--***it 指代海龟*** ==risks`冒风险`== {++losing enough++} ^^heat^^ ==to lower== ^^the animal’s central body temperature^^--} { when *it 指代海龟* returns `时间`}.
 
@@ -38,6 +43,10 @@ TPO 15-2
 
 !!! failure ""
     答案翻译奇怪：有些在极短的时间内就会灭绝，针对 during …… 那一句
+    
+    ---
+    
+    during which = during period
 
 **The possibility** {--{++that mass extinctions may recur`再次发生` periodically++}--} ==has given rise to`做出反应，引起`== ^^such hypotheses^^ {--{++as that of a companion star`伴星`--} as that of a companion star`伴星` {++with a long-period orbit++} {--{ deflecting`偏离` other bodies from their normal orbits, { making some of them fall to Earth as meteors`流星` *and* causing widespread devastation`毁灭` upon impact }--}.
 
@@ -56,6 +65,12 @@ TPO 15-3
 !!! failure ""
     质疑答案结构划分，并且答案句翻译根本对不上本句内容
     
+    ---
+    
+    stage 名词，intermediate形容词，between和intermediate是一起的，一起形容 stage
+    
+    known as firn 也是修饰 stage 的，在 flake 和 ice 之间的阶段，成为积雪阶段。因为意思不对，所以不是修饰 ice 的
+    
 { When the ice is thick enough `时间`}, ( usually over 30 meters ), **the weight of the snow and firn** ==will cause== {--^^the ice crystals toward the bottom^^--} ==to become== ^^plastic^^ ***and*** {--==to flow ^^outward *or* downward^^ ==from==--} ^^the area of snow accumulation^^.
 
 > { When the ice is thick enough, usually over 30 meters }, **the weight of the snow and firn** ==will cause== ^^the ice crystals^^ {++toward the bottom++} ==to become== ^^plastic^^ ***and*** ==to flow outward or downward== { from the area of snow accumulation }.
@@ -66,6 +81,14 @@ TPO 15-3
     为什么 outward or downward 是谓语部分，而不是宾语
     
     from 划做谓语不对么？
+    
+    ---
+    
+    outward or downward 副词，修饰 flow，flow 是不及物动词，所以这句没有宾语
+    
+    from 是介词，介词后面的名词叫介宾，from 结合前面的动词可以划到谓语里面，它后面的名词就是宾语
+    
+    
 
 { For a glacier`冰川` {++to grow or maintain its mass`块，质量`++} `目的`}, {--**there**--} must ==be== {--^^sufficient snowfall^^--} {--==to match== ***or*** ==exceed``超出``== ^^the annual^^--} {--{ loss`损失，减少` through melting, evaporation`蒸发`, and calving`裂冰，崩解` `方式`}--}, {++which occurs++} ^^{ when the glacier loses solid`固体的` chunks as icebergs to the sea *or* to large lakes `时间`}^^.
 
@@ -104,6 +127,10 @@ TPO 16-1
 !!! failure ""
     in an effort to 目的状语，判定为地点状语了
 
+    ---
+    
+    如果做某事，表目的
+    
 { However `转折`}, **research** ==has shown== ^^that children often have difficulty understanding disclaimers`免责声明，弃权`^^: **children** ==may interpret== ^^the phrase "when part of a nutritionally`营养地` balanced breakfast"^^ ==to mean== ^^that the cereal`谷物` is required^^ { as a necessary part of a balanced breakfast `目的`}.
 > 然而，研究已经显示，孩子们常常很难理解{--弃权--}{++免责声明++}：孩子们也许会把短语“当一个{++被++}{++部分++}营养地平衡的早餐{--的部分--}时”，理解为谷物是被需要的，作为一个平衡早餐必须要的部分。
 
@@ -111,6 +138,12 @@ TPO 16-1
     答案：that引导的同位语从句，解释说明前面的mean
     
     to mean的mean不是动词吗？
+    
+    ---
+    
+    答案错误！是宾语从句
+    
+    mean 是动词
 
 **The intention** ==is== ^^for the positively perceived attributes of the celebrity^^ {--==to be transferred to== ^^the advertised product^^--} ***and*** ^^for the two^^ {--==to become automatically linked== { in the audience's mind `地点`}--}. `版本1`
 > **The intention** ==is== ^^for`对…来说` the positively perceived`感知` attributes of the celebrity to be transferred`转移` to the advertised product^^ ***and*** ^^for the two to become automatically linked in the audience's mind^^.
@@ -118,6 +151,10 @@ TPO 16-1
 
 !!! failure ""
     for 对……来说，简直没法在翻译中体现，为什么不是表达：为了 的意思？
+    
+    ---
+    
+    为了让……怎么怎么样，好理解一些
 
 > 目的是为了积极地理解名人属性，传输到广告产品，并且为了这两个在观众的思想中成为自动地建立联系。
 
@@ -126,6 +163,12 @@ TPO 16-1
 
 !!! failure ""
     不知道错在哪儿了？
+    
+    ---
+    
+    并列2个 for，目的是为了让1怎么着，让2怎么着
+    
+    2个 for 插入语，去掉 for 就是The intention to do and to do，所以 to do 表目的
     
 TPO 14-2
 
@@ -140,6 +183,10 @@ TPO 14-2
 
 !!! failure ""
     老师，你这里把for划作状语，有的时候又和宾语划在一起，崩溃
+    
+    ---
+    
+    for 对……来说，for 如果和谓语是固定搭配会划到谓语，如果是介词短语修饰前面名词，划到宾语里
 
 TPO 14-3
 
@@ -156,12 +203,22 @@ TPO 14-3
     没有看出是强调句，没有这个意识，看成形式主语了
     
     然后，强调句和形式主语的区别？
+    
+    ---
+    
+    形式主语的 that 的从句是完整的，不缺主宾。
+    
+    强调句 that 后面内容是不完整的，大多数是缺**主语**/宾语，却掉 it is ，that，句子可以连起来
 
 **The remarkable mobility`流动（性）` *and* range of pastoral`田园的，乡村的` societies** ==explain==, ( in part`在某种程度上` ), ^^why so many linguists`语言学家` have argued^^ ^^that the Indo-European`印欧语系的` languages began their astonishing`惊人的` expansionist`扩张主义的` career {--not--} {++*not*++} among farmers in Anatolia`安纳托利亚`^^ (present-day`当今的` Turkey), {--*but*--} {++*but*++} ^^among early pastoralists`牧民` from Inner Eurasia`欧洲大陆`^^. 
 > 这个显著的乡村社会的流动和范围说明，{--在一部分中--}{++在某种程度上++}，为什么非常多语言学家争论印欧语系的语言开始他们惊人的扩张主义的职业在安纳托利亚（当今的土耳其）不在农民之中，但是在早期的来自欧洲大陆内部的牧民之中。
 
 !!! failure ""
     好难啊，词！开始传播，began …… expansionist ！
+    
+    ---
+    
+    expansionist career =》 扩张 就行，所以就是开始扩张
 
 TPO 15-1
 
@@ -170,6 +227,10 @@ TPO 15-1
 
 !!! failure ""
     unique引导的形容词短语修饰前面的名词way，这个定语没有看出来
+    
+    ---
+    
+    5种定语，to do/doing/done, 介词，形容词短语做定语
 
 ### 2019-01-27
 
@@ -180,6 +241,10 @@ TPO 15-1
     creating a need 这个need看不懂，答案里的翻译也没有表达出来need的意思
     
     没有看出 creating 的状语是结果状语
+    
+    ---
+    
+    doing放结尾，且前面逗号，一般表示结果的
 
 TPO 13-1
 
@@ -199,6 +264,12 @@ TPO 13-1
     看了答案后，这句又是意思好像问题不大，但是结构又划错了！
     
     to distinguish 后面的between算什么？distinguish的宾语么？
+    
+    ---
+    
+    to do 和前面的谓语动词没有短语性质，前面的谓语+宾语做了一件事儿，然后 to do 表达做这个事儿的目的，所以大多是目的状语
+    
+    between 就和 to distinguish一起做状语，句子不能划的太碎
 
 **Sociologists** ==view== ^^primary groups^^ {--{ as bridges }--} ==as `把……看作`== ^^bridges^^ {++between individuals and the larger society++} { because they transmit, mediate`调解`, *and* interpret`解释` a society's cultural patterns *and* provide the sense of oneness`一体，统一（性）` {++so`如此` critical`批判的，决定性的` for social solidarity`团结`++} `原因`}.
 > 社会学家把第一组视作在个体的和更大社会之间的桥梁，因为他们传达，调解并解释社会的文化形式，并提供对社会团结如此决定性的的统一感。
@@ -209,6 +280,14 @@ TPO 13-1
     so后面是oneness的定语么？介词引导的定语？
     
     critical在这里翻译为什么合适？
+    
+    ---
+    
+    view A as B，如果 A 太长了，会变成 view as B A，比如 B 是个名词短语，A 是一个含有定语从句的名词，为了避免 A 太长对 B 导致的误解，所以放到后面，真题里面就会有这样的句子，将宾语放在后面
+    
+    so 副词，修饰critical，这句是形容词短语，不要受 so 的影响，用来修饰前面的the sense of oneness。所以是形容词引导的定语
+    
+    critical 这这里的意思重要的
 
 TPO 13-2
 
@@ -221,6 +300,14 @@ TPO 13-2
     have been of 没看懂
     
     such ... that 因果逻辑什么意思？
+    
+    ---
+    
+    of+名词=形容词，It's important = It's of importantance
+    
+    of interest and importance 有趣的和重要的
+    
+    such ... that ... 如此……以至于……，so……that，所以因果逻辑
 
 { Normally }, **{++the constantly changing++} levels of an animal's activity** —( sleeping, feeding, moving, reproducing, metabolizing`代谢`, and producing enzymes`酶` and hormones`激素`, for example )— {--==are== ^^well coordinated with`与……一致/协调`--} environmental rhythms^^, ***but*** **the key question** ==is== ^^whether`引导表语从句` the animal's schedule is driven by external cues`线索，信号，提示`^^, ( such as sunrise or sunset ), *or* {--==is instead==--} ^^dependent somehow`以某种方式` on internal timers^^ {++that themselves generate the observed biological rhythms++}. 
 > { Normally }, **{++the constantly changing++} levels of an animal's activity** —( sleeping, feeding, moving, reproducing, metabolizing`代谢`, and producing enzymes`酶` and hormones`激素`, for example )— ==are well coordinated with`与……一致/协调`== ^^environmental rhythms^^, ***but*** **the key question** ==is== ^^whether`引导表语从句` the animal's schedule is driven by external cues`线索，信号，提示`^^, ( such as sunrise or sunset ), *or* ^^is instead`并列is driven, wherther...or....` dependent somehow`以某种方式` on internal timers^^ {++that themselves generate the observed biological rhythms++}. 
@@ -231,6 +318,12 @@ TPO 13-2
     whether ... or ... 请老师给讲一下
     
     没有看出 or is instead 的并列内容，看了答案后才，厄……，最开始看着很突兀，所以划为谓语的并列了
+    
+    ---
+    
+    whether A or B， 是 A 还是 B
+    
+    whether or 是一起的，所以属于内部内容，不与外面的 is 并列
 
 { For instance }, **apparently`显然地，似乎` normal daily periods of biological activity** ==were maintained`保持，维持`== ^^for about a week^^ { by the fungus`真菌` Neurospora`脉孢菌` `方式`} { when it was intentionally`故意地` isolated from all geophysical`地球物理学的` timing`选好时间，把我时机` cues `时间`} {++while orbiting`沿轨道运行` in a space shuttle`航天飞机`++}.
 > 例如，显然地，当活动周期故意地从所有地球物理学的时间选择在航天飞机中沿着轨道运行的信号中隔离的时候，通常日常的生物活动的周期通过脉孢真菌维持大约一周。
@@ -240,6 +333,11 @@ TPO 13-2
     
     while不知道是什么意思合适，在这里是当……的时候么？
     
+    ---
+    
+    指代单复数一致，人称也要一致，指代the fungus Neurospora
+    
+    while这里是当……的时候
 
 TPO 13-3
 
@@ -254,6 +352,16 @@ TPO 13-3
     of 引导，这个总是看不出来是介词短语作定语，只能理解为所有格
     
     what引导的宾语从句，首先，determing理解为名词了，然后what就当定语看了
+    
+    ---
+    
+    as 作为，所以be used as被用作
+    
+    of 问题 ok
+    
+    介词引导的定语，不影响句子理解，老师意思不用化太碎
+    
+    what 就不存在引导定语从句，determining只是动词的变形，所以肯定是宾语从句
 
 { Similarly }, **changes** {++in the infant's general level of motor`运动神经的` activity++} —( turning the head, blinking`眨眼` the eyes, crying, and so forth )— ==have been used== {--{ by researchers }--}  {--{ as visual`视觉的` indicators`指示物，指标` of the infant's perceptual`感知的，知觉的` abilities }--}.
 > { Similarly }, **changes** {++in the infant's general level of motor activity++} —( turning the head, blinking the eyes, crying, and so forth )— ==have been used by== ^^researcher^^ ==as== ^^visual indicators of the infant's perceptual abilities^^.
@@ -264,6 +372,10 @@ TPO 13-3
     又是be used as 被用作
     
     be used by one 这个by我总是划为状语，不知道为什么要和谓语划在一起？
+    
+    ---
+    
+    be done by ，by 介词，也是为了把宾语划的更简洁，为了让宾语只有名词
 
 { Therefore `因果`}, { when observational assessment`评估` is used as a technique for studying infant perceptual abilities `时间`}, **care** ==must be taken not to overgeneralize`太笼统地概括` from== ^^the data^^ *or* ==to rely on== ^^one or two studies^^ {--{ as conclusive`结论性的` evidence of a particular`特定的` perceptual ability of the infant }--}.
 > { Therefore `因果`}, { when observational assessment`评估` is used as a technique for studying infant perceptual abilities `时间`}, **care** ==must be taken not to overgeneralize`太笼统地概括` from== ^^the data^^ *or* ==to rely on== ^^one or two studies^^ { as conclusive evidence } {++of a particular perceptual ability of the infant++}.
@@ -274,6 +386,17 @@ TPO 13-3
     又是of 介词引导的定语，我看到的都是所有格……看不出是定语
     
     答案句的翻译有问题吧？应该说不能笼统概括或依靠少的研究，答案句写反了吧？
+    
+    ---
+    
+    take care to do sth 注意做某事，这里用被动语态
+    
+    be taken not to do sth 注意不要做某事 = take care not to do sth
+    
+    不定式的否定，not 要放在不定式前面，非谓语的否定 not 都前置 not to do / not doing / not done
+    
+    
+    
 
 ### 2018-12-27
 

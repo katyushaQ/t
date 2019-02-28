@@ -72,7 +72,7 @@ pages:
     - 32-Integrated: write/32-Integrated.md
     
 - Speaking:
-    - Policy: read/policy.md
+    - Policy: speak/policy.md
     - Task 3: speak/task3.md
     - Task 4: speak/task4.md
     - Task 5: speak/task5.md        
@@ -97,7 +97,7 @@ pages:
 - Courses:
     - Reading: courses/reading.md
     - Speaking: courses/speaking.md
-    - Speak & Listen: courses/speaking-listen.md
+    - Listening: courses/listening.md
     - Writing: courses/writing.md
     - Tutoring: courses/tutoring.md
     
