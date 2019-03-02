@@ -94,6 +94,8 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 
 ??? info "sentence"
 
+??? attention "sentence"
+
 #### 预判：结尾段 N/A
 
 段落
