@@ -26,3 +26,12 @@
     > **Listening**
     
     > IN THE LISTENING / CONVERSATION, THE BOY / GIRL / THE MAN / WOMAN AGREES / DISAGREES WITH THIS. FIRST OF ALL, {++listening reason 1++}.{++listening detail 1++}. SECOND / WHAT'S MORE, {++listening reason 2++}.{++listening detail 2++}.
+    
+### Task5
+
+**20s准备，60s 答题**
+
+> The M/W has a problem: (S)He ... There're 2 solutions: First ... Second ... [25s]
+
+> I recommend ... if I were here, 1st ... because ... 2nd ... because ... [35s]
+
