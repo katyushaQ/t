@@ -26,7 +26,7 @@
 
 对应选项——准确理解原文答案句，注意选项中的<font color='blue'>比较级、极端词、程度副词或者修饰语</font>
 
-#### 题型五:推断题【infer/imply/suggest】
+#### 题型五:推断题【infer/imply/suggest/support】
 审题——根据题干确定考点
 
 读原文——从前往后顺着来，搞清楚句间逻辑关系，确定答案句（常见推断思路：<font color='blue'>因果、比较对比、内容总结</font>）

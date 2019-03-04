@@ -2,6 +2,35 @@
 
 样式
 
+文章
+
+<font color='LightSeaGreen'>*（主旨：）*</font>
+
+<font color='LightSeaGreen'>*（句间关系，顺承递进，观点，细节，原因，总结）*</font>
+
+<font color='Blue'>关键词</font>
+
+<font color='hotpink'>**长难句**</font>
+
+<font color='red'>（问题）</font>
+
+<font color='Salmon'>短语</font>
+
+<font color='red'>**||**</font>
+
+段落
+
+==主旨==
+
+<span style="background: #D9FFFF">部分一</span>
+<span style="background: #DDDDFF">部分二</span>
+<span style="background: #FFECEC">部分三</span>
+
+<span style="background: #D3D3D3">高亮</span>
+
+!!! failure ""
+
+
 ### 文章
 
 ### 2018-12-12
@@ -68,19 +97,7 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 
 <h3>标题 正确率</h3>
 
-<font color='LightSeaGreen'>*（主旨：）*</font>
 
-<font color='LightSeaGreen'>*（句间关系，顺承递进，观点，细节，原因，总结）*</font>
-
-<font color='Blue'>关键词</font>
-
-<font color='hotpink'>**长难句**</font>
-
-<font color='red'>（问题）</font>
-
-<font color='Salmon'>短语</font>
-
-<font color='red'>**||**</font>
 
 ----
 
@@ -98,15 +115,6 @@ NEW WORDS |  NEW WORDS |  NEW WORDS
 
 #### 预判：结尾段 N/A
 
-段落
-
-==主旨==
-
-<span style="background: #D9FFFF">部分一</span>
-<span style="background: #DDDDFF">部分二</span>
-<span style="background: #FFECEC">部分三</span>
-
-<span style="background: #D3D3D3">高亮</span>
 
 !!! info ""
     段落主旨：
