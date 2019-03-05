@@ -1,5 +1,80 @@
 ==信号词==  {++重要细节++}  ^^弱读连读^^
 
+## TPO 3
+### Task 6 2019-03-05
+
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/tpo2-task6-following.m4a">
+</audio>
+
+Now listen to part of a lecture in a Psychology class. The professor is discussing advertising strategies`广告方案`.
+> 现在听一个心理学演讲的片段。教授正在讨论广告方案。
+
+Professor (female)
+> 教授（女）
+
+In advertising various strategies are used to persuade people to buy products. ==In order to== {++sell more products++}, advertisers ==will== often {++try to make us believe++} that a product ==will== {++meet our needs or desires++} perfectly, even if it's not true. The strategies that they use ==can== {++be subtle++}, friendly {++forms of persuasion++} that are sometimes hard to recognize.In a lot of ads, {++repetition is a key strategy++}. Research ==shows== that {++repeated exposure to a message, even something meaningless or untrue, is enough to make people accept it or see it in a positive light++}. You've all seen the car commercials on TV like, uh, the one that refers to its roomy cars over and over again. You know which one I mean. This guy is driving around and keeps stopping to pick up different people. He picks up three or four people. And each time, ==the narrator says==, {++“Plenty of room for friends, plenty of room for family, plenty of room for everybody.”++} {++The same message is repeated several times++} in the course of the commercial. Now the car, the car ==actually== {++looks kind of small, it’s not a big car at all++}, ==but== {++you get the sense that it’s pretty spacious++}. You’d ==think== {++the viewer would reach the logical conclusion that the slogan miss-represents the product++}, ==instead==, {++what usually happens is that when the statement ""plenty of room"" is repeated often enough++}, {++people are actually convinced it’s true++}. Um, ==another strategy== they use is to {++get a celebrity to advertise a product++}. It ==turns out== that {++we’re more likely to accept an advertisement claim made by somebody famous, a person we admire and find appealing++}. We ==tend to== {++think they’re trustworthy++}. ==So==, uh, {++you might have a car commercial that features a well-known race car driver++}. Now, {++it may not be a very fast car, uh, it could even be an inexpensive vehicle with a low performance rating.++} ==But== {++if a popular race car driver is shown driving it and saying, “I like my cars fast!” Then people would believe the car is impressive with its speed."++}
+
+??? quote "sentence"
+
+    In advertising various strategies are used to persuade people to`说服某人做某事` buy products.
+    > 广告不同的方案中，用于说服人们购买产品。
+
+    In order to sell <font color='hotpink'>**more 比较词**</font> products, advertisers will often try to make us believe that a product will meet our needs`满足需求` or desires perfectly, even if it's not true.
+    > 为了卖掉更多的产品，广告人常常会尝试使我们相信，一个产品会完美地满足我们的需求或渴望，即使它不是真的。
+
+    The strategies that they use can be subtle`巧妙的，精细的`, friendly forms of persuasion`说服` that are sometimes hard to recognize.
+    > 他们使用的方案能是巧妙的，有时很难去意识到的友好地说服形式。
+
+    In a lot of ads, repetition`重复` is a key strategy.
+    > 在大量的广告中，重复是关键策略。
+
+    Research shows that repeated exposure`曝光，报道` to a message, even something meaningless or untrue, is enough to make people accept it or see it in a positive light`正面的角度`.
+    > 研究显示，重复的报道一个信息，甚至无意义的和不真实的事，是足够使人接受它，或在正面的角度看到它。
+
+    You've all seen the car commercials`商业广告` on TV like, uh, the one that refers to`提到` its roomy`宽敞的` cars over and over again.
+    > 你看过的所有汽车商业广告，在电视上，像，厄，一个提到它的宽敞的汽车，一遍又一遍。
+
+    You know which one I mean.
+    > 你知道我的意思是哪一个（广告）。
+
+    This guy is driving around`到处` and keeps stopping`继续做某事` to pick up different people.
+    > 这个人正在到处驾驶，然后继续开，并停下来去接不同的人。
+
+    He picks up three or four people.
+    > 他接了3或4个人。
+
+    And each time, the narrator`解说员` says, “Plenty of room for friends, plenty of room for family, plenty of room for everybody” .
+    > 并且每当这个时候，解说员说“大量空间对朋友，对家人，对每一个人”。
+
+    The same message is repeated several times in the course of`过程` the commercial.
+    > 同样的信息被重复了很多次，在商业广告的过程中。
+
+    Now the car, the car actually looks kind of`有点，有几分` small, it’s not a big car at all`完全不，一点都不`, <font color='Blue'>but 句内转折</font> you get the sense that it’s pretty spacious`宽敞的`.
+    > 现在这个汽车，汽车实际上看着有点小，它一点都不是一个大车，但是你有一个它是相当宽敞的感觉。
+
+    You’d think the viewer`电视观众` would reach`达成` the logical conclusion that the slogan`广告语` miss-represents the product, instead, what usually happens is that when the statement ""plenty of room"" is repeated often enough, people are actually convinced it’s true.
+    > 你会想，观众会达成逻辑结论，没有代表的产品，替代，什么是通常发生的，当说到“大量空间被重复常常足够，人们实际上被说服它是真的。
+
+    Um, another strategy they use is to get a celebrity to advertise a product.
+    > 恩，他们使用的另一个方案是找一个明星代言产品。
+
+    It turns out`最终的结果是` that we’re <font color='hotpink'>**more 比较词**</font> likely to accept an advertisement claim`声称` made by somebody famous, a person we admire`欣赏，喜欢` and find appealing`吸引人的`.
+    > 最终的结果是，我们更可能接受一个由某些著名的人做的广告声明，一个我们欣赏的吸引人的人。
+
+    We tend to think they’re trustworthy`值得信赖的`.
+    > 我们会认为他们是值得信赖的。
+
+    So, uh, you might have a car commercial that features`以……为特征` a well-known race car driver.
+    > 所以，厄，你也许有一个商业广告，以众所周知的跑车车手为特征。
+
+    Now, it may not be a very fast car, uh, it could even be an inexpensive vehicle with a low performance rating.
+    > 现在，它也许不是一个非常快的车，厄，它甚至会是一个不贵的低性能的车车。
+
+    <font color='Blue'>But 句间转折</font> if a popular race car driver is shown driving it and saying, “I like my cars fast!” Then people would believe the car is impressive`给人印象深刻的` with its
+     speed.".
+   > 但是如果一个受欢迎的车手展示驾驶并说，“我喜欢我的车速！”然后人们会相信，这个车给人印象深刻，随着它的车速。
+
 ## TPO 2 
 ### Task 6 2019-02-21
 
