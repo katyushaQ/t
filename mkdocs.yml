@@ -41,6 +41,7 @@ pages:
 - Reading: 
     - Policy: read/policy.md
     - Sentence: read/sentence.md
+    - 15-3 Glacier Formation: read/15-3.md
     - 16-3 Planets in Our Solar System: read/16-3.md
     - 19-3 Discovering the Ice Ages: read/19-3.md
     - 20-3 Fossil Preservation: read/20-3.md
@@ -88,6 +89,7 @@ pages:
     - Basics: listen/basics.md
     
 - Tutoring:
+    - 20190219: tutoring/20190219.md
     - 20190114: tutoring/20190114.md
     - 20181214: tutoring/20181214.md
     - Old 93: tutoring/93-en-cn.md
