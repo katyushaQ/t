@@ -18,7 +18,7 @@ recreation 休闲 = entertainment 题目中会出现 | participant in = take par
 a sense of belonging 归属感 | from …… to …… 替代 such as ，举例，而不是并列的罗列
 routine 每天重复做的事情 daily/excess routine | contribute to 因果关系，非常好的词
 even more比……更重要的 | life lessions 人生的课程
-collaborate with 分工协作 | cooperiate with 合作
+collaborate with 分工协作 | cooperate with 合作
 set a goal 设定目标 | put ... into action 把……付诸行动
 **第二段范例** |
 health care 医保 | sociallized medicine 公费医疗，社保

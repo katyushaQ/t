@@ -1,5 +1,20 @@
 ## 2019-02-10 Assignments
 
+#### 2019-03-10
+
+**21. In general, people are living longer now. Discuss the causes of this phenomenon. Use specific reasons and details to develop your essay.**
+
+
+
+#### 2019-03-09
+**20. It is better for children to grow up in the countryside than in a big city. Do you agree or disagree? Use specific reasons and examples to develop your essay.**
+
+The big city has numerous benefits for children growing up than the countryside. For one thing, there are numbers of school in the big city. Parents could choose ~~appropiate~~ appropriate university which ~~accord~~ accords to children's speciality. A girl, for example, favorites performance such as singing a song, playing the violin and acting a person. In this case, parents can select Beijing Film Academy or Shanghai Theatre Academy because of both belong to Art college. Also, there are various interesting communities in every university. It makes ~~possilbe~~ possible for children to join some diverse organization at out-of-class time. Children will be cultivated sharing and expressing abilities in a Reading Team, and will be enhanced their coorperation with other membership in a Sport community as the Basketball School Team. 
+
+---
+
+Nowadays, It is convenient that getting educated has been easier in many ways thanks to computerization. Children can use distance education to access educational resource and earn advanced degrees from the countryside, and thus they no longer move to big cities to get a good education, now they can take online courses and receive quality instruction even in rural and remote areas. Moreover, closing nature allows children to become much more sincere and simple person. It is very ~~impoartant~~ important ~~for~~ to their growing up that they are often demanded to do farm work with elders after class. And in this process, children generally leaned following command and collaborate with others harmoniously. Nothing can be more better for children growing up than getting along with people.
+
 #### 2019-02-22
 
 **19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop`形成[观点]` your essay.**
@@ -60,15 +75,6 @@ adjacent to
 contribute to 后面大多是好事，改成RESULT IN/CAUSING
 
 TOO SHORT不如精确时间，如3 hours
-
-
-**19. Should governments spend more money on improving roads and highways, or should governments spend more money on improving public transportation (buses, trains, subways)? Why? Use specific reasons and details to develop your essay.**
-
-**20. It is better for children to grow up in the countryside than in a big city. Do you agree or disagree? Use specific reasons and examples to develop your essay.**
-
-**21. In general, people are living longer now. Discuss the causes of this phenomenon. Use specific reasons and details to develop your essay.**
-
-
 
 ## 2019-01-10 Assignments
 #### 2019-01-11
