@@ -1,4 +1,108 @@
-## 2019-05-25
+## 2019-03-18
+
+procedure 流程
+
+## topic
+
+1. 转学 transfer
+2. 交换 exchange
+3. 实习 intern
+4. 赚钱 financial aid
+5. 经济资助 scholarship
+6. 贷款上学 student loan
+7. 学费 tution
+8. 课程体系 curiculum
+9. 课程体系外的 extracuriculum
+10. 课外活动 extracuriculer class
+11. 大纲 syllabus
+
+##步骤 
+ 
+申请 apply for
+
+1. 填表格 fall out a form
+2. 公告栏 bulletin board
+3. 注册 register
+4. 提交 submit
+5. 成绩单 transcript
+6. 符合要求 meet xx's requirment
+7. 合格不合格 eligible
+8. 全体教员 faculty
+9. 助教 teaching assistant / tutor
+10. 系主任 dean sb
+11. 咨询者 advisor / instructor
+12. 说明会 orientation class
+13. 说明员 coordernator
+14. 顾问 consautant / conselor
+15. 管理员 administrator
+16. 接待员 recepetionist
+
+
+march 军队里,一拨人成队形往前走 / march
+forward march 前进
+
+prominent 极端杰出的
+
+alumni 男校友 复数
+alumua 女校友
+
+alumns 单数 单数
+
+hall 大厅
+
+mailout 发邮件 v/n
+
+be impressed with ... ...留下的印象
+
+on the forefront
+
+specialize in 介词 in
+
+prominent alumni 杰出的校友
+
+advanced course 高级课程
+
+in a field 在这个领域
+
+城市词典 urben dictionary 最新新词
+
+鱼
+
+tpo21&43
+
+xx jam xx 卡住了
+
+on the side 兼职
+
+on the site 在现场,在场地
+
+unfuntranalty
+
+took one day off / took x days off 请几天假
+
+figure out 解决 figure out why 想清楚为什么,找出原因
+
+how come 怎么回事 = why 为什么
+
+got involve 参与
+
+approve 批准
+
+is a shame 不好意思
+
+run out sth ...东西没了,用完了
+
+grab 随手抄起 grab a cup of coffer 去喝杯咖啡
+
+gunrantee 保证(这件事)
+
+varranty 保修单(就单纯这张单子)
+
+the xxx being what is it 什么就是什么,如: 规则就是规则
+
+as z 的音,也会被吞掉
+
+## 2019-02-25
 
 conversation 高频词汇
 
