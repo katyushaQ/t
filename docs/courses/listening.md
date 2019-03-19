@@ -7,33 +7,33 @@ procedure 流程
 1. 转学 transfer
 2. 交换 exchange
 3. 实习 intern
-4. 赚钱 financial aid
+4. 赚钱, 助学金 financial aid
 5. 经济资助 scholarship
 6. 贷款上学 student loan
-7. 学费 tution
-8. 课程体系 curiculum
-9. 课程体系外的 extracuriculum
-10. 课外活动 extracuriculer class
+7. 学费 tuition
+8. 课程体系 curriculum
+9. 课程体系外的 extracurriculum
+10. 课外活动 extracurricular class
 11. 大纲 syllabus
 
 ##步骤 
  
 申请 apply for
 
-1. 填表格 fall out a form
+1. 填表格 fill out a form
 2. 公告栏 bulletin board
 3. 注册 register
 4. 提交 submit
 5. 成绩单 transcript
 6. 符合要求 meet xx's requirment
-7. 合格不合格 eligible
+7. 合格的 eligible
 8. 全体教员 faculty
 9. 助教 teaching assistant / tutor
 10. 系主任 dean sb
 11. 咨询者 advisor / instructor
 12. 说明会 orientation class
 13. 说明员 coordernator
-14. 顾问 consautant / conselor
+14. 顾问 consultant / counselor
 15. 管理员 administrator
 16. 接待员 recepetionist
 
@@ -43,10 +43,10 @@ forward march 前进
 
 prominent 极端杰出的
 
-alumni 男校友 复数
+alumni (男)校友[统称] 复数
 alumua 女校友
 
-alumns 单数 单数
+alumns 校友 单数 单数
 
 hall 大厅
 
@@ -54,7 +54,7 @@ mailout 发邮件 v/n
 
 be impressed with ... ...留下的印象
 
-on the forefront
+on the forefront 最前线
 
 specialize in 介词 in
 
@@ -64,7 +64,7 @@ advanced course 高级课程
 
 in a field 在这个领域
 
-城市词典 urben dictionary 最新新词
+城市词典 urban dictionary 最新新词
 
 鱼
 
@@ -76,7 +76,7 @@ on the side 兼职
 
 on the site 在现场,在场地
 
-unfuntranalty
+unfortunately 不幸地
 
 took one day off / took x days off 请几天假
 
@@ -88,15 +88,15 @@ got involve 参与
 
 approve 批准
 
-is a shame 不好意思
+It's a shame 不好意思
 
 run out sth ...东西没了,用完了
 
 grab 随手抄起 grab a cup of coffer 去喝杯咖啡
 
-gunrantee 保证(这件事)
+guarantee 保证(这件事)
 
-varranty 保修单(就单纯这张单子)
+warranty 保修单(就单纯这张单子)
 
 the xxx being what is it 什么就是什么,如: 规则就是规则
 

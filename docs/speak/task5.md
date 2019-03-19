@@ -1,4 +1,53 @@
-TPO3 2019-03-03
+### TPO4 2019-03-19
+
+<audio id="audio" controls="controls" preload="none">
+    <source id="mp3" src="../../audio/self/tpo4-task5.m4a">
+</audio>
+
+The man gets a problem: he wants to go to the Introduction to Psychology, but he can't find his classroom, because he left his class schedule back at his dorm on the first day of classes. There're two solutions. First, he may go to the Student Center to use the computer which supports to look up and check the room number, but he still can't know where other classes are. Second, he will go into the right building where only has three big lecture halls, checking every floor until he finds it. I recommend he would better go to the lecture hall, checking each hall and asking the professor. Because he doesn't want to be late, and there're elevators that can help him move fast.
+
+??? quote "sentence"
+
+    Now listen to a conversation between two students on campus.
+    > 听2个学生在校园的对话.
+    
+    (man) Hi, good morning. Could you help me with something?
+    > 嗨, 早上好. 你能帮我个忙么?
+    
+    (woman) Uh, maybe, what's up?
+    > 哦也许, 怎么了?
+    
+    (man) ==Well==, {++I'm a first-year student++}.
+    > ==重点==, 我是一个一年级学生.
+    
+    (woman) Everything going OK?
+    > 每件事都还好?
+    
+    (man) ==Actually==, {++no++} Um, this is a little embarrassing. {++I think I left my class schedule back at my dorm++}.
+    > 实际上, 不. 有点令人尴尬. 我想我把课程表落在宿舍了.
+    
+    (woman) Hmmm, ==not a good thing to do== {++on the first day of classes++}.
+    > 恩, 不是一个好事, 在上课第一天.
+    
+    (man) ==Yeah==, {++so I'm not sure where my class is++}, {++I think I remember it was supposed to be here in Smith Hall++}.
+    > 是的, 所以我不确定我的课在哪儿, 我想我记得据说在这, 在史密斯大厅.
+    
+    (woman) {++There's a computer for student use in the Student Center. You can go over there, look it up and check the room number++}. ==But== {++you'd have to hurry++}.
+    > 学生中心有一个电脑给学生用. 你可以去那, 查一下教师编号. 但是你必须快点.
+    
+    (man) Hmmm, ==that's not a bad idea==. {++I could check my schedule for the whole rest of the day at the same time. I don't know where any of my other classes are either, but I don't want to be late, make a bad impression with the professor on the first day. It's actually my very first class, Introduction to Psychology++}.
+    > 恩, 这不是个坏主意. 我可以查看我的课程, 对于在同一个时间查看我的课程表, 对于一天中的空闲. 我不知道我的其他课程也在哪儿, 但是我不想迟到, 给教授一个不好的印象, 在第一天. 实际上是第一堂课, 心理学导论.
+    
+    (woman) Psychology? Oh, ==OK==, you’re definitely in the right building. And if it’s Introduction to Psychology, {++it’s gonna be a big class++}. In which case, {++it probably meets in a big lecture hall++}. {++There are only three lecture halls in the building, one on every floor++}. {++Just check each floor till you find yours++}. {++There’s elevators so you should be able to move fast++}.
+    > 心理学? 好, 你确定在正确的楼里. 并且如果是心理学导论, 那它会是一个大教室. 在这种情况下, 可能会在一个大的讲座大厅. 那个楼里只有3个讲座大厅, 每层一个. 只需去查看每层直到找到你的教室. 有电梯, 所以你可以更快移动.
+    
+    (man) Yeah, ==but== {++I don’t know what the professor looks like or anything++}. {++How would I know it’s my class or not? It’d be sort of embarrassing, sticking my head into each lecture hall asking if I was in the right place++}.
+    > 是, 但是我不知道教授看起来像什么,或者任何. 我如何直到那是我是不是我的课? 伸头进每个讲座大厅问是否我是在正确的位置, 我觉得有点尴尬.
+    
+    (woman) ==Well==, {++you might luck out and find it the first time++}."
+    > ==重点==, 你也许走运, 并且在第一时间找到.
+
+### TPO3 2019-03-03
 
 <audio id="audio" controls="controls" preload="none">
     <source id="mp3" src="../../audio/self/tpo3-task5.m4a">
