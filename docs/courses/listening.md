@@ -135,7 +135,7 @@ conversation 高频词汇
 ------------ | -------------
 orientation meeting 说明会 不可数，比如 student... 开学介绍；方向的时候就可数了 | 
 信号词 | 
-==actually I'm wondering because, I was wondering==, that why I'm here to today 就是吧 == actually | appreciate 感激的 I really appreciate 我真的很感激；欣赏，I so appreciate我在欣赏画
+==actually I'm wondering because, I was wondering==, that why I'm here to today 就是吧 = actually | appreciate 感激的 I really appreciate 我真的很感激；欣赏，I so appreciate我在欣赏画
 major 主要的，专业 in 主修 | section 部分
 concentrate 集中 on | 借书时间 loan period
 in advance 提前 | 充电 plugin 拔出来 unplug
