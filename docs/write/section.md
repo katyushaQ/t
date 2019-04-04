@@ -4,11 +4,17 @@
 
 **Medical treatment**
 
+First of all, the big city has the advantage of providing people with numerous medical treatment. There are various types of doctors currently available, almost all patients are able to get accurately once they arrive hospitals. Some special facilities for examing bodies are even used so that the doctors are able to know what people's issues as results. On the contrary, as much as sick persons wish to have the same doctor who commonly service for them and highly know themselves, the unique doctor is unable to skill all characters of each detail department, which is result in some illness that might be delayed. For example, the classmate's grandfather who lived in a small village ran a high fever, the doctor believed him just cating a cold and gave him some simple cold medicine. However, the old man not only did not be treated but also his states of an illness are more seriously developed. The classmate immediately contacted the urban hospitals and moved him to one of the big city. There were three doctors to take an academic discusstion for this case, and consistently considered his states is SARS. More than that, doctors took isolation with them contributed to others safety. Therefore, the big city is much more influenced by medical treatment than rural clinics.
+
+
 **Infrastructure**
+
 
 **Education**
 
+
 **Entertainment**
+
 
 ## 2019-02-10 Assignments
 
