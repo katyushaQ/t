@@ -12,6 +12,12 @@
     
         
     <url>
+     <loc>/assignment/2019-0422-0428/</loc>
+     <lastmod>2019-04-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/assignment/2019-0408-0414/</loc>
      <lastmod>2019-04-24</lastmod>
      <changefreq>daily</changefreq>
@@ -101,6 +107,12 @@
         
     <url>
      <loc>/read/sentence/</loc>
+     <lastmod>2019-04-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/read/18-3/</loc>
      <lastmod>2019-04-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
