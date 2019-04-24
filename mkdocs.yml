@@ -5,6 +5,7 @@ pages:
 - Index: index.md
 
 - Assignment:
+    - 2019_0422-0428 4月第四周: assignment/2019-0422-0428.md
     - 2019_0408-0414 4月第二周: assignment/2019-0408-0414.md
     - 2019_0401-0407 4月第一周: assignment/2019-0401-0407.md
     - 2019_0325-0331 3月第四周: assignment/2019-0325-0331.md
@@ -46,6 +47,7 @@ pages:
 - Reading: 
     #- Policy: read/policy.md
     - Sentence: read/sentence.md
+    - 18-3 Lightning 闪电: read/18-3.md
     - 19-2 Succession, Climax, and Ecosystems 演替, 顶峰和生态系统: read/19-2.md
     - 23-1 Urban Climates 城市气候: read/23-1.md
     - 26-2 Survival of Plants and Animals in Desert Conditions 沙漠中的动植物的存活: read/26-2.md
