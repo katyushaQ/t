@@ -5,6 +5,7 @@ pages:
 - Index: index.md
 
 - Assignment:
+    - 2019_0429-0505 5月第一周: assignment/2019-0429-0505.md
     - 2019_0422-0428 4月第四周: assignment/2019-0422-0428.md
     - 2019_0408-0414 4月第二周: assignment/2019-0408-0414.md
     - 2019_0401-0407 4月第一周: assignment/2019-0401-0407.md
@@ -47,6 +48,7 @@ pages:
 - Reading: 
     #- Policy: read/policy.md
     - Sentence: read/sentence.md
+    - 10-2 Variations in the Climate 气候变化: read/10-2.md
     - 18-3 Lightning 闪电: read/18-3.md
     - 19-2 Succession, Climax, and Ecosystems 演替, 顶峰和生态系统: read/19-2.md
     - 23-1 Urban Climates 城市气候: read/23-1.md
