@@ -13,14 +13,14 @@ pages:
     - 2019_0318-0324 3月第三周: assignment/2019-0318-0324.md
     - 2019_0311-0317 3月第二周: assignment/2019-0311-0317.md
     - 2019_0304-0310 3月第一周: assignment/2019-0304-0310.md
-    - 2019_0225-0303 2月第五周: assignment/2019-0225-0303.md
-    - 2019_0218-0224 2月第四周: assignment/2019-0218-0224.md
-    - 2019_0211-0217 2月第三周: assignment/2019-0211-0217.md
-    - 2019_0204-0210 2月第二周: assignment/2019-0204-0210.md 
-    - 2019_0128-0203 1月第五周: assignment/2019-0128-0203.md
-    - 2019_0121-0127 1月第四周: assignment/2019-0121-0127.md
-    - 2019_0114-0120 1月第三周: assignment/2019-0114-0120.md
-    - 2019_0107-0113 1月第二周: assignment/2019-0107-0113.md
+    #- 2019_0225-0303 2月第五周: assignment/2019-0225-0303.md
+    #- 2019_0218-0224 2月第四周: assignment/2019-0218-0224.md
+    #- 2019_0211-0217 2月第三周: assignment/2019-0211-0217.md
+    #- 2019_0204-0210 2月第二周: assignment/2019-0204-0210.md 
+    #- 2019_0128-0203 1月第五周: assignment/2019-0128-0203.md
+    #- 2019_0121-0127 1月第四周: assignment/2019-0121-0127.md
+    #- 2019_0114-0120 1月第三周: assignment/2019-0114-0120.md
+    #- 2019_0107-0113 1月第二周: assignment/2019-0107-0113.md
     #- 2018_1224-1230 12月第五周: assignment/2018-1224-1230.md
     #- 2018_1217-1223 12月第四周: assignment/2018-1217-1223.md
     #- 2018_1210-1216 12月第三周: assignment/2018-1210-1216.md
@@ -48,6 +48,7 @@ pages:
 - Reading: 
     #- Policy: read/policy.md
     - Sentence: read/sentence.md
+    - 14-1 Children and Advertising 孩子与广告: read/14-1.md
     - 10-2 Variations in the Climate 气候变化: read/10-2.md
     - 18-3 Lightning 闪电: read/18-3.md
     - 19-2 Succession, Climax, and Ecosystems 演替, 顶峰和生态系统: read/19-2.md
