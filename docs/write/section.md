@@ -2,12 +2,16 @@
 
 ### The theme paragraph of some benefits of big cities.
 
+#### 2019-05-09
+**Infrastructure**
+
+First of all, big city has the advantage of serving people with numerous infrastructure. With the highway and railway engineering available for more than twenty years in Beijing, government can fully exploit these fundamental resources to realize a public transit system that spread in to all directions. There are five parallel highway loop lines with at least three lanes around the whole city alongside ten lines subway throughout the urban underground. Furthermore, some of transfer station locate several particular position, such as xidan, jianguomen, and songjiazhuang station, they support people to choose more than two lines no matter what orientation you want to go. For a great deal of commuter, it is very necessary that they are punctual for work, which could make a good impression on their director and have enough buffer to prepare their day's work. More than that, for those who favorite drive to work, according to the precise location of company, they are able to faster arrive by using the nearest highway loop line than common roads, because there is no signal lamp on it. On the contrary, there are have no these facilities. People generally only go out by car, and there is basically one lane on one road. Therefore, big city is much more convenient by infrastructure than countryside. 
+
+
+#### 2019-04-30 
 **Medical treatment**
 
 First of all, the big city has the advantage of providing people with numerous medical treatment. There are various types of doctors currently available, almost all patients are able to get accurately once they arrive hospitals. Some special facilities for examing bodies are even used so that the doctors are able to know what people's issues as results. On the contrary, as much as sick persons wish to have the same doctor who commonly service for them and highly know themselves, the unique doctor is unable to skill all characters of each detail department, which is result in some illness that might be delayed. For example, the classmate's grandfather who lived in a small village ran a high fever, the doctor believed him just cating a cold and gave him some simple cold medicine. However, the old man not only did not be treated but also his states of an illness are more seriously developed. The classmate immediately contacted the urban hospitals and moved him to one of the big city. There were three doctors to take an academic discusstion for this case, and consistently considered his states is SARS. More than that, doctors took isolation with them contributed to others safety. Therefore, the big city is much more influenced by medical treatment than rural clinics.
-
-
-**Infrastructure**
 
 
 **Education**
