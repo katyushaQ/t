@@ -2,6 +2,12 @@
 
 ### The theme paragraph of some benefits of big cities.
 
+#### 2019-05-12
+**Education**
+   
+First of all, big cities have the advantage of providing people with a good atmosphere of education. In Beijing, there are numerous kinds of universities that are located in separate districts, and a large quantity of professional teachers are widely attributed in each school. According to student's speciality such as astronomy, literature or legislation, they can choose their favorable university to obtain a great deal of detailed theory of their major. Students also acquire knowledge in a relax and interested class's setting which is teachers offer and contribute to provoke student's passion. For example, in a literature class, professors often state their own growing up experience: how do they pursue the person they admire? How do they get along with their family? And how do they cooperate with teammates to complete a game? These questions usually attract student's attention and spur their mind, in order to help them appreciate view of one literature. Furthermore, professor of major subject always has three office hours a week for answering student's question. More than that, more often various community activities are voluntarily organized by upperclassmen in each semester during the entire summer vacation. Students's practical skills will be enhanced through joining these activities. This will help them in their future internship even career. By contrast, there are only a few colleges in a town, which are broadly only offer one mainly major for students. That is unfavorable for children development. Therefore. big cities are much more influence by education than town.
+
+
 #### 2019-05-09
 **Infrastructure**
 
@@ -12,9 +18,6 @@ First of all, big city has the advantage of serving people with numerous infrast
 **Medical treatment**
 
 First of all, the big city has the advantage of providing people with numerous medical treatment. There are various types of doctors currently available, almost all patients are able to get accurately once they arrive hospitals. Some special facilities for examing bodies are even used so that the doctors are able to know what people's issues as results. On the contrary, as much as sick persons wish to have the same doctor who commonly service for them and highly know themselves, the unique doctor is unable to skill all characters of each detail department, which is result in some illness that might be delayed. For example, the classmate's grandfather who lived in a small village ran a high fever, the doctor believed him just cating a cold and gave him some simple cold medicine. However, the old man not only did not be treated but also his states of an illness are more seriously developed. The classmate immediately contacted the urban hospitals and moved him to one of the big city. There were three doctors to take an academic discusstion for this case, and consistently considered his states is SARS. More than that, doctors took isolation with them contributed to others safety. Therefore, the big city is much more influenced by medical treatment than rural clinics.
-
-
-**Education**
 
 
 **Entertainment**
